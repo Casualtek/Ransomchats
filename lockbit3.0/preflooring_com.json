@@ -1,0 +1,90 @@
+{
+    "chat_id": "Chat: *************645926",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "22.07.2022 18:14:05 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello",
+            "timestamp": "22.07.2022 18:27:56 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, our files have been encrypted.  We would like to discuss getting a decryption key",
+            "timestamp": "22.07.2022 18:29:27 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello",
+            "timestamp": "22.07.2022 18:35:56 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "To decrypt your files and prevent us of destructive actions against your company you will need to pay $200 000 . We also have all your files.",
+            "timestamp": "22.07.2022 18:38:56 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "I will inform the management",
+            "timestamp": "22.07.2022 18:43:16 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "ok",
+            "timestamp": "22.07.2022 18:44:14 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Domain controller password does not work now.  Did you change that password",
+            "timestamp": "22.07.2022 18:46:01 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Yes. We will return all of the information after the payment.",
+            "timestamp": "22.07.2022 19:20:03 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Also, you will receive recommendations on how to improve the security of your network.",
+            "timestamp": "22.07.2022 19:21:04 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Management received a direct call to cell phone.  Caller stated he was you.  Stated ransom was $500K.  Management spooked.  Can't pay that much.  Business is a small business. Is your group fragmented or something?  Management doesn't know what to believe now. ",
+            "timestamp": "22.07.2022 22:12:40 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "How did the caller introduce himself? When was the call? How did the caller suggest to contact?",
+            "timestamp": "22.07.2022 22:25:37 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "I was not part of the entire call and don't know how call introduced self.  The call was around 4PM ET. He never suggested contact because management would not agree to any price since numbers so high. Advised management that this venue showed only proof of decrypt.  ",
+            "timestamp": "22.07.2022 22:40:04 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Management cannot pay anywhere close to 6 figures.  Just not there to pay and have no insurance.",
+            "timestamp": "22.07.2022 22:40:52 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I will clarify all the information and answer you",
+            "timestamp": "22.07.2022 22:49:05 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "The price for you is 200,000$. There will not be any extra payments or charges, that's the final sum.  We always follow the said conditions, as it's crucial for our reputation. After you have paid the sum, we will provide you with a decryptor for all of your files and also delete the downloaded files from your network on our servers.  You will also be provided with a full report on vulnerabilities within your network and given recommendations on increasing the safety of it.  We guarantee that all the steps above will be fulfilled by us.",
+            "timestamp": "23.07.2022 16:58:14 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Have you made a decision?",
+            "timestamp": "26.07.2022 14:34:22 UTC"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "chat_id": "Chat: *************EDEF83",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "17.01.2023 16:11:13 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi.",
+            "timestamp": "17.01.2023 16:13:32 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, I'm wondering if anyone is available to assist? Thanks.",
+            "timestamp": "17.01.2023 21:21:03 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello",
+            "timestamp": "17.01.2023 21:44:17 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "How I can help you?",
+            "timestamp": "17.01.2023 21:51:04 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, my company's computer network was affected by a virus. There was a note that instructed we reach out to you. I was asked by my employer to find out from you if you have taken any data from our systems? And anything you can share about next steps would be helpful. Thank you.",
+            "timestamp": "18.01.2023 15:54:19 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You pay - we decrypt your network.",
+            "timestamp": "18.01.2023 17:54:55 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "\"Your data are stolen and encrypted\" -- is this not the case?",
+            "timestamp": "18.01.2023 20:27:01 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You pay - we decrypt your network and delete your data.",
+            "timestamp": "18.01.2023 20:51:50 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Do you have a list of the data?",
+            "timestamp": "18.01.2023 22:09:06 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You will receive a complete list of the stolen data only after you pay the ransom.",
+            "timestamp": "19.01.2023 08:23:23 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [07-15-22 master control - brands 1099.pdf]",
+            "timestamp": "19.01.2023 08:23:42 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [10-30-22 stat summary - gbi svc 1099.pdf]",
+            "timestamp": "19.01.2023 08:23:46 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [12-30-22c checks - jj.pdf]",
+            "timestamp": "19.01.2023 08:23:51 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [2021 K-1 - JWNII Living Tr - Nicklaus DC Invest.pdf]",
+            "timestamp": "19.01.2023 08:26:14 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [Jim Schnare with Passport.jpg]",
+            "timestamp": "19.01.2023 08:29:03 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok, thank you. What/how do we pay you?",
+            "timestamp": "19.01.2023 13:55:58 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "$7,000,000 in bitcoin, or $6,900,000 in monero",
+            "timestamp": "19.01.2023 15:10:50 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "You're asking for 7 million dollars for this?",
+            "timestamp": "19.01.2023 15:19:07 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You are a very famous brand, it is a very good price not to ruin the reputation of the Golden Bear, why your director at 82 years old hundreds of millions of dollars? he will not have time to spend them the rest of his life anyway, so 7 million dollars is a very fair price so that no one will ever know about our attack.",
+            "timestamp": "19.01.2023 15:26:50 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Good morning. I have passed on your messages to my bosses. They will be discussing with the board this weekend or early next weekend. I will get back to you then. Thanks.",
+            "timestamp": "21.01.2023 11:05:02 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ok.",
+            "timestamp": "21.01.2023 13:19:50 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello. It looks like my bosses have some meetings scheduled for today to discuss this. They are asking how many files you took from our systems?",
+            "timestamp": "23.01.2023 15:10:15 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You will receive a complete list of the stolen data only after you pay the ransom.",
+            "timestamp": "23.01.2023 15:15:47 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Do you have the total size you can share with me? I'd like to give my bosses some information that may be helpful in making their decision. Thanks.",
+            "timestamp": "23.01.2023 15:34:28 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "More than 200 gigabytes of data.",
+            "timestamp": "23.01.2023 15:40:25 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Good morning. My bosses have meetings with partners this morning. Once I have some information, I will let you know. Thanks.",
+            "timestamp": "24.01.2023 15:24:48 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ok.",
+            "timestamp": "24.01.2023 15:56:31 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, sorry for the delay. I've been following up with my bosses for some updated information. At this point, I've been told that we don't have anywhere close to 7 million dollars. My bosses are asking what you will do with the data after we pay? Thanks.",
+            "timestamp": "26.01.2023 14:01:07 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Advise your bosses not to be greedy, we know you have money, we own your documents, the richest people on the planet play in your clubs and nothing is more important than your reputation. In case you can overcome the greed of your bosses we will permanently delete all the stolen information and this chat room, no one will ever know about our attack on your company.",
+            "timestamp": "26.01.2023 16:53:54 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You need pay.",
+            "timestamp": "02.02.2023 19:32:23 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello. Sorry for the delay. I have been talking to my bosses to get to a resolution.",
+            "timestamp": "06.02.2023 16:39:10 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "My bosses wants me to communicate some things to you sir. Your ask for 7 million is much too high and we cannot pay this. Most of the reputation damage is already done to us just by the fact that you came into our network and took our data. The non-publication of the data is a very small part of the total damage. Our lawyers have forced us to notify our employees and customers of the breach and we already lost some business relationships as a result. We also do not have the funds to support the asking price anyway because we are spending a lot of money recovering from the breach.",
+            "timestamp": "06.02.2023 16:58:29 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "To honor our stakeholders, we are willing to pay you something \u2014 not 7 mil. Can you please consider a lower amount. Thanks.",
+            "timestamp": "06.02.2023 16:58:41 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Make your offer.",
+            "timestamp": "06.02.2023 17:22:04 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "I have a meeting in 1 hour with my bosses and lawyers and will get back to you right after.",
+            "timestamp": "06.02.2023 19:50:09 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "My bosses said a reporter reached out and told them that our data is already published?",
+            "timestamp": "06.02.2023 21:25:36 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion/post/sS6QQig1vV0mZa2T63e0f561ef4dc",
+            "timestamp": "07.02.2023 03:20:42 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "At the moment only your company name is published, but very soon all of your information will be published if you do not pay, you have little time left. Only 48 hours to pay.",
+            "timestamp": "07.02.2023 03:33:09 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Ah ok. Only 48 hours? I thought it said Feb 21?",
+            "timestamp": "07.02.2023 13:18:01 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "[Chat started] 17.01.2023 16:11:13 UTC",
+            "timestamp": "07.02.2023 16:21:54 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I just want to let you know that the data is ready to be published and the decryptor is ready to be deleted. You have had plenty of time to make your decision, your time is up.",
+            "timestamp": "07.02.2023 16:22:41 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Do you have any offer for me?",
+            "timestamp": "09.02.2023 12:42:51 UTC"
+        }
+    ]
+}

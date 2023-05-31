@@ -1,0 +1,435 @@
+{
+    "chat_id": "20210903",
+    "messages": [
+        {
+            "party": "Avos",
+            "content": "As you are an enterprise client of ours, we will provide you with customer support throughout the process. You may use this chat to get in contact with us.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "hello! you encrypted our files. I do not have any image files that are encrypted how can I upload a different file type? can you also tell me what files you take? can I see some samples and a list?",
+            "timestamp": "Fri, 03 Sep 2021 00:30:38 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I'll ask all that to the affiliate in question.",
+            "timestamp": "Fri, 03 Sep 2021 00:31:11 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Are we still connected?",
+            "timestamp": "Fri, 03 Sep 2021 00:32:38 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "can you increase our clock? as long as we are discussing. The clock will run out on the weekend and even if we agree, we cannot do anything on weekend because all bank are closed. this is a long weekend labor day in both usa and canada so no banks until tuesday next week. appreciate you working with us to reach agreement.",
+            "timestamp": "Fri, 03 Sep 2021 00:33:06 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "the site seems to disconnect me",
+            "timestamp": "Fri, 03 Sep 2021 00:33:21 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Disconnect you how?\nYeah, I'll set your deadline on Friday next week.",
+            "timestamp": "Fri, 03 Sep 2021 00:34:25 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I tried to enter another message and it did not work I had to reload the whole page",
+            "timestamp": "Fri, 03 Sep 2021 00:34:51 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Just give it a couple seconds, the website can be slow at times",
+            "timestamp": "Fri, 03 Sep 2021 00:36:06 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I can't reach the affiliate responsible for the attack at the moment. I did tell him to provide you with a sample or list of the files exfiltrated. They'll reply here when they're back.",
+            "timestamp": "Fri, 03 Sep 2021 00:37:02 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "ok friend I will come back tomorrow very late here too",
+            "timestamp": "Fri, 03 Sep 2021 00:37:52 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "please update the time because no way we can hit the deadline thank you",
+            "timestamp": "Fri, 03 Sep 2021 00:38:15 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Sure, good night.",
+            "timestamp": "Fri, 03 Sep 2021 00:38:15 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Yeah don't worry about that, your new deadline's set at Friday next week",
+            "timestamp": "Fri, 03 Sep 2021 00:38:39 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "appreciated. I will remain connected but may not reply.",
+            "timestamp": "Fri, 03 Sep 2021 00:39:08 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I can't contact the affiliate in question. They seem to be unavailable at the time. I won't be able to provide you information on the data taken.\n\nI, however, can provide you the decryption keys if you do pay for it.",
+            "timestamp": "Fri, 03 Sep 2021 12:45:37 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi I tried to upload an image and I am not seeing success in decryption.",
+            "timestamp": "Fri, 03 Sep 2021 15:16:40 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I cannot find image and less than 1mb to test decrypt. what to do?",
+            "timestamp": "Fri, 03 Sep 2021 15:17:26 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Are the extensions appended to the encrypted files \".avos2\"?",
+            "timestamp": "Fri, 03 Sep 2021 15:17:40 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "yes",
+            "timestamp": "Fri, 03 Sep 2021 15:18:03 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "actually the file is only 111kb",
+            "timestamp": "Fri, 03 Sep 2021 15:18:14 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "is there email I can send it to?",
+            "timestamp": "Fri, 03 Sep 2021 15:18:39 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Avos2 came out recently and we can't provide test decryptions on our website for it at the moment.",
+            "timestamp": "Fri, 03 Sep 2021 15:18:49 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "ok so what do we do here? you cannot contact affiliate, you cannot decrypt the files. What are we doing?",
+            "timestamp": "Fri, 03 Sep 2021 15:19:32 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "You can create an archive with couple files and upload them to https://share.riseup.net.",
+            "timestamp": "Fri, 03 Sep 2021 15:19:37 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "ok please wait",
+            "timestamp": "Fri, 03 Sep 2021 15:20:47 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Then I can manually decrypt the files for you.\nWe can decrypt .avos2, however the website can't at the moment.",
+            "timestamp": "Fri, 03 Sep 2021 15:20:52 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "This is because both the encryption/decryption are first built and tested in Windows, THEN this encryption algorithm is ported to our web services.",
+            "timestamp": "Fri, 03 Sep 2021 15:21:57 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "https://share.riseup.net./[redacted]",
+            "timestamp": "Fri, 03 Sep 2021 15:23:20 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "can you confirm it works?",
+            "timestamp": "Fri, 03 Sep 2021 15:23:38 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "You are supposed to copy the URL in your browser instead of copying the link from the download button.",
+            "timestamp": "Fri, 03 Sep 2021 15:24:05 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Hello? The link doesn't work",
+            "timestamp": "Fri, 03 Sep 2021 15:37:01 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "Sat, 04 Sep 2021 00:36:24 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "did you find the affiliate?",
+            "timestamp": "Sat, 04 Sep 2021 00:36:39 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "https://share.riseup.net./#[redacted]",
+            "timestamp": "Sat, 04 Sep 2021 00:37:20 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Your link doesn't work, again.",
+            "timestamp": "Sat, 04 Sep 2021 09:53:46 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Please test and verify that it works BEFORE sending it to me.",
+            "timestamp": "Sat, 04 Sep 2021 09:54:08 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "https://anonfiles.com/",
+            "timestamp": "Sat, 04 Sep 2021 09:54:28 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "https://gofile.io/d/[redacted]",
+            "timestamp": "Sat, 04 Sep 2021 18:01:11 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Please upload it to one of the websites I've told you to. We can't download from Gofile.",
+            "timestamp": "Sat, 04 Sep 2021 18:09:27 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "https://anonfiles.com/[redacted]/AVOSLOCKER_-_Sep2021_7z",
+            "timestamp": "Sun, 05 Sep 2021 16:58:31 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "We've downloaded the data. Please allow us some time to process it",
+            "timestamp": "Mon, 06 Sep 2021 14:15:08 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I decrypted the PNG files. https://share.riseup.net/#[redacted]",
+            "timestamp": "Mon, 06 Sep 2021 14:30:44 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Hello. We think it's time to finalize your negotiations. Please let us know how do you wish to proceed with payment.",
+            "timestamp": "Tue, 07 Sep 2021 08:44:55 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I would like to see what files you took",
+            "timestamp": "Tue, 07 Sep 2021 13:02:11 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "You can see the files in few days if we have to publish samples on the blog. We will not provide anything else at this stage.",
+            "timestamp": "Tue, 07 Sep 2021 13:25:04 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "well, if you prefer to simply be aggressive we would never be able to reach a level of trust. You are asking for a lot of money, we need to assess what data you took. Show me some list or indication that I can take to management. goodwill will go a long way.",
+            "timestamp": "Tue, 07 Sep 2021 13:30:37 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "if you publish we will disconnect and put the money to protect any individuals with credit monitoring. I think working together is preferred.",
+            "timestamp": "Tue, 07 Sep 2021 13:31:16 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "As staff, we can guarantee that whatever data the affiliate has taken will be erased, and the decryption keys will be delivered.",
+            "timestamp": "Tue, 07 Sep 2021 13:32:08 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Your new deadline, that we both agreed on, was set on the 10th, Friday. I'll leave the rest to the affiliate.",
+            "timestamp": "Tue, 07 Sep 2021 13:33:19 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "thank you Staff. But I am just the messenger. My management and board require to understand the extent of the data that was taken has this may have value that we would want to pay for you if you promise it will be erased. But we would like to get a sense of what data that is, a list would be great.",
+            "timestamp": "Tue, 07 Sep 2021 13:35:06 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Those are our terms and we never go against them. You know better than us what data we took. We took it from the servers we encrypted. Anyways, we are away with no access to data storage, so another scenario is not possible. Staff can help to decrypt if you reach an agreement. Data will be erased when we come back.",
+            "timestamp": "Tue, 07 Sep 2021 13:36:12 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I can confirm the data in question wasn't downloaded to our storage units but the affiliate's.",
+            "timestamp": "Tue, 07 Sep 2021 13:38:10 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "It does not give me a good sense of comfort and I need to convey the status to my management. I cannot understand what data was taken nor where it is located. If the affiliate is the only one with the data and he does not want to prove he has data, how can we possibly establish trust when you attacked us and you refuse to work with me to demonstrate your word is trustworthy. instead not only you attack but you also just threaten. It is not a good way to establish our relationship.",
+            "timestamp": "Tue, 07 Sep 2021 13:42:12 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "For now I'd suggest that perhaps your management should appraise the value of the decryption itself.",
+            "timestamp": "Tue, 07 Sep 2021 13:44:54 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand. I have met with management and we are in position to offer 50k for the decryption of the files left to decrypt. We also have an issue paying in XMR as no broker I spoke to is willing to pay XMR, the best we can do is bitcoin and would need wallet.",
+            "timestamp": "Wed, 08 Sep 2021 02:19:31 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Considering the affiliate wasn't able to provide a sample/list, I think we can settle at 150K in Bitcoin.",
+            "timestamp": "Wed, 08 Sep 2021 10:48:51 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello Staff you seem like a reasonable team. We would like to come to terms, but we are small paint distributor 150k is more than our available cash. We can increase to 75K in btc by using some credit cards.",
+            "timestamp": "Wed, 08 Sep 2021 12:27:44 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "What about 100K?",
+            "timestamp": "Wed, 08 Sep 2021 12:28:42 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "one sec let me check something with accounting",
+            "timestamp": "Wed, 08 Sep 2021 12:39:33 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I have a credit line I can increase to 85k unfortunately I cannot go any higher I am tapped on credit card and credit line at 85k",
+            "timestamp": "Wed, 08 Sep 2021 12:52:30 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Alright that's fair I suppose. Let us know when you have the money in BTC.",
+            "timestamp": "Wed, 08 Sep 2021 12:53:21 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "I am working through a broker he said as soon as I transfer the money he can buy and send but he needs to know the address or wallet to send to?",
+            "timestamp": "Wed, 08 Sep 2021 12:55:40 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I'll send that to you in a bit",
+            "timestamp": "Wed, 08 Sep 2021 13:00:37 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "[redacted]",
+            "timestamp": "Wed, 08 Sep 2021 13:01:40 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Do tell your guy to make a test transfer of 10$ and get a confirmation from me before he sends the full 85K",
+            "timestamp": "Wed, 08 Sep 2021 13:02:19 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, I will tell broker that. good idea",
+            "timestamp": "Wed, 08 Sep 2021 19:53:25 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello Staff, we are working with the broker to do the bitcoin payment by end of day today, UK time",
+            "timestamp": "Thu, 09 Sep 2021 03:19:13 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "The broker also advise us to confirm all deal terms with you.\nAfter we pay, please confirm you will:\n\n  (1.)  immediately provide working decryptor software for all our systems,\n  (2.)  provide detailed decryption process instructions and tech support if we have problems,\n  (3.)  provide detailed proof of our downloaded data - detailed file tree(s) of all data,\n  (4.)  provide confirmation of deletion of all our data - non-recoverable secure deletion with proof / shred log,\n  (5.)  confirm you will never publish any of our data, or our company name,\n  (6.)  agree to never attack us again,\n  (7.)  explain how you got into our network, and \n  (8.)  provide a security report so we can prevent future problems\n\nPlease confirm everything, all 8 items, thank you.",
+            "timestamp": "Thu, 09 Sep 2021 03:23:27 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "I can confirm all but the 3rd, as we don't have access to your data. However I can guarantee an erasure of your data.",
+            "timestamp": "Thu, 09 Sep 2021 09:28:55 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello Staff, OK, thank you",
+            "timestamp": "Thu, 09 Sep 2021 13:22:07 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "our broker just sent the test $10, please confirm you received it.",
+            "timestamp": "Thu, 09 Sep 2021 13:22:25 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Confirmed. You may continue with the transfer",
+            "timestamp": "Thu, 09 Sep 2021 13:23:41 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "Ihe broker said they sent the rest. Can you please confirm and provide the decryptor as soon as possible, thank you.",
+            "timestamp": "Thu, 09 Sep 2021 13:36:42 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "As soon as it confirms.",
+            "timestamp": "Thu, 09 Sep 2021 13:41:32 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "what does that mean?",
+            "timestamp": "Thu, 09 Sep 2021 13:43:29 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Bitcoin takes some time to receive basically",
+            "timestamp": "Thu, 09 Sep 2021 13:44:04 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "ah, ok, its a bitcoin thing. Let me know when its confirmed, thanks",
+            "timestamp": "Thu, 09 Sep 2021 13:45:07 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "The payment confirmed. Thank you for your business. The affiliate should provide the security report.",
+            "timestamp": "Thu, 09 Sep 2021 14:54:53 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Defend your credentials from mimikatz Limit administrator privileges to  the smallest group possible. Even if you have thousands of user  accounts, you should probably only have 2-5 administrator accounts.  Start with two accounts and force users to justify any additional  accounts added to the administrator group. The next thing that you  should do is upgrade the schema and functional level of your forest and  domain to at least 2012 R2. This domain functional level adds a fairly  new group called \u201cProtected Users\u201d. Along with other protections, the  members of the Protected Users group cannot authenticate by using NTLM,  Digest Authentication, or CredSSP. These changes provide powerful  protections that make Mimikatz almost worthless. Verify KB2871997 has  been installed to apply additional required security. After you install  this security update, the default setting for non-protected users on  Windows 7 and Windows 8 is to not force clear leaked logon session  credentials.",
+            "timestamp": "Thu, 09 Sep 2021 15:04:38 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "To override this default you can add the following registry  dword, TokenLeakDetectDelaySecs, and set it to a recommended value of  30 seconds. HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\  Stop storing passwords in memory by changing the \u201cUseLogonCredential\u201d  registry setting to \u20180\u2019 instead of the default value of \u201c1\u201d and  passwords are no longer available to Mimikatz .  HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\SecurityProviders\\WDigest  Start monitoring your systems for unauthorized software and malware,  which should help identify Mimikatz installation and activity. You\u2019ll  have to test these changes to see what breaks, but the idea is to  implement some fairly basic changes to protect your network. In your  specific case the critical vulnerabiliry contained Forti VPN, please  update FortiVpn and monitor for updates and Windows updates. Inform your  IT stuff to remove the posibility of storing user passwords within the  network.",
+            "timestamp": "Thu, 09 Sep 2021 15:05:24 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "Also we recommend you to use SentinelAV and dattoo backup  system. Also Veeam Tapes is good ,but pc with veeam should be in  WORKGROUP and user should be different from main domain. Every PC should  have AV. Don't let any pc without AV. Also try configure 2FA (at all  network pc) when you connect to remote desktop. Use password on AV. Also  tip for you: If you want chage Fortigate VPN to other . We dont  reccomend you to use Sonic VPN,Pulse Secure, because its under massive hack",
+            "timestamp": "Thu, 09 Sep 2021 15:05:52 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "And finally, update your Exchange Server, since it was the main entry point.",
+            "timestamp": "Thu, 09 Sep 2021 15:06:17 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "As for data, we instructed an erasure and it was confirmed all your data is erased. So you are safe. Thank you for your business.",
+            "timestamp": "Thu, 09 Sep 2021 15:06:45 GMT"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, thank you for all of these items and confirming deletion. I gave the decryptor package to our IT and I will reach out if we have any technical issues.  Thank you.",
+            "timestamp": "Thu, 09 Sep 2021 15:54:18 GMT"
+        },
+        {
+            "party": "Avos",
+            "content": "It'd be better for your IT to reach out directly if possible if anything's to occur",
+            "timestamp": "Thu, 09 Sep 2021 17:56:32 GMT"
+        }
+    ]
+}

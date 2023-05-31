@@ -1,0 +1,390 @@
+{
+    "chat_id": "20210907",
+    "messages": [
+        {
+            "party": "BlackMatter",
+            "content": "Hello and welcome to BlackMatter. How may I help you?",
+            "timestamp": "07 Sep, 00:44 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello",
+            "timestamp": "10 Sep, 04:46 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I need help with decrypt my data",
+            "timestamp": "10 Sep, 04:46 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "To decrypt your files you have to purchase the decryption software. It costs $15m for you.",
+            "timestamp": "10 Sep, 04:57 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "This is too hiigh a price. Give me proof that the price is adequate for the data you have.",
+            "timestamp": "10 Sep, 05:20 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "First of all, can you introduce yourself, state the company name and your position in it.",
+            "timestamp": "10 Sep, 07:13 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I am a spokesperson for the company and I will sell the information to my customer. Because this is not secure communication, I do not want to state the name of the company and I assume that we will delete this chat after the meeting.",
+            "timestamp": "10 Sep, 07:25 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I am authorized to communicate with you on behalf of the company and to establish conditions that will be acceptable to both parties.",
+            "timestamp": "10 Sep, 07:26 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "First of all, I would be happy if we set a price that is negotiable. Next, it would be good to submit information about the data you have in your possession so that we can consider paying the ransom and start negotiating the price.",
+            "timestamp": "10 Sep, 07:29 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We have the doubts you are from company we need the proofs that you are from there.",
+            "timestamp": "10 Sep, 07:29 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "So how can you prove it?",
+            "timestamp": "10 Sep, 07:30 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I can't prove it. We're gonna have to trust each other.",
+            "timestamp": "10 Sep, 07:33 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "If you want to pay, then this is the only way to come to an agreement. So that emotions are not used in the negotiations, I am here as an intermediary. My client doesn't want to negotiate, even though it seems to be the only option. Although they have backups, but the restoration will take some time, so I would like to negotiate an adequate price.",
+            "timestamp": "10 Sep, 07:36 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You cant prove it because you don't know it. This is just confirmed our doubts have a nice day.",
+            "timestamp": "10 Sep, 07:35 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We are a protected society and I cannot afford to openly write who it is. I only know the owner of the company who owns several companies.",
+            "timestamp": "10 Sep, 07:37 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "If you do not want to cooperate, then I will pass this information on to the customer and the media to make it obvious that BlackMatter are a group of crooks.",
+            "timestamp": "10 Sep, 07:43 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "This is ridiculous, you can prove it in hundreds different ways, without compromising so called \u201cprivacy\u201d.",
+            "timestamp": "10 Sep, 07:43 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Give an example.I only know the owners of the companies.",
+            "timestamp": "10 Sep, 07:46 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "To start a cooperation, we have to know with whom we a dealing and you failing it. So far you looks as some boring guy who got a sample from virus total and obtained the chat link.",
+            "timestamp": "10 Sep, 07:46 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "They found this file in their system and that's why I came to your page C:\\[redacted].README.txt",
+            "timestamp": "10 Sep, 07:48 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You can upload the company\u2019s letterhead, you can tell to us domain controllers name, name of backing up software it is just a few)",
+            "timestamp": "10 Sep, 07:49 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Actually I don't have much time to deal with authorization. I want to help the customer and negotiate the terms of cooperation. Just because anyone can watch this chat, I don't want to share any information and prove that I am who I am. Do you want to negotiate the price?",
+            "timestamp": "10 Sep, 07:50 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "So far it looks as your main objective is to f*ck with us)",
+            "timestamp": "10 Sep, 07:52 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "The environment is isolated and analyzed by the forensics team and the police. I can't interfere with the investigation, and all the documentation has been encrypted, as the customer told me.",
+            "timestamp": "10 Sep, 07:52 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I certainly don't feel like fucking with you. I want to talk and get this thing resolved as soon as possible.",
+            "timestamp": "10 Sep, 07:53 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Here we go again, to negotiate with whom with some random Joe?",
+            "timestamp": "10 Sep, 07:53 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Ok, this is simple prove you are from company or just go grab another sample from VT.",
+            "timestamp": "10 Sep, 07:54 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Yes, let's talk about price and what you get for our data. Then we can discuss the price of the decryptor.",
+            "timestamp": "10 Sep, 07:55 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "What is VT?",
+            "timestamp": "10 Sep, 07:56 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Oh [redacted] you so clever) virustotal.com",
+            "timestamp": "10 Sep, 07:56 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Oh, I see. So how do we do it?",
+            "timestamp": "10 Sep, 07:59 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You have the options\n1.\tInternal windows domain name.\n2.\tDomain administrators name.\n3.\tBackup software name.\nThis information aren\u2019t locked by encrypting software or police)",
+            "timestamp": "10 Sep, 07:59 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "1) [redacted]",
+            "timestamp": "10 Sep, 08:04 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "2) administrator",
+            "timestamp": "10 Sep, 08:04 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "2) administrator \nthis is too generic give us another one",
+            "timestamp": "10 Sep, 08:06 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]",
+            "timestamp": "10 Sep, 08:08 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Ok, John thank you. So you see the price, you need to pay it.",
+            "timestamp": "10 Sep, 08:12 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Are we really not? This bill was sent to me by their owner. I'm gonna look like a fool if we don't agree on a price.",
+            "timestamp": "10 Sep, 08:16 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Your English is too sophisticated for me, can you try again)",
+            "timestamp": "10 Sep, 08:19 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Are we really not? This account was sent by their owner. If we don't make a deal, I'm gonna look like an idiot.",
+            "timestamp": "10 Sep, 08:22 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I don't speak English, so I translate automatically.",
+            "timestamp": "10 Sep, 08:23 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You see the demanded price. If you\u2019ll pay it you will get.\n1.\tThe decrypting tools.\n2.\tYour data back (we took 1.5TB, PII, NDA, emails, MSSQL databases)\n3.\tA file tree.\n4.\tExplanation how the company was breached.",
+            "timestamp": "10 Sep, 08:31 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "The price is not adequate. Give me a price I can pass on to the owner of the company.",
+            "timestamp": "10 Sep, 08:40 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We have no idea what a price is adequate for you. We can make 10% discount for fast payment and remove 25% BTC transaction fee.  Make the offer. But to make it simple we will not consider the offer less than 7-figure number.",
+            "timestamp": "10 Sep, 08:46 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Our idea was $500,000, but we can negotiate a price of $1,000,000. Give us proof that there is information sensitive enough to be of such value.",
+            "timestamp": "10 Sep, 08:50 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Do you want me upload a sample with office documents? The emails and sqls are too big but we have them all.)",
+            "timestamp": "10 Sep, 08:53 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "One more detail we know the company doesn't have the backups. Rubrik is gone)",
+            "timestamp": "10 Sep, 08:55 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We have offline backups. Ok show me the office document and a screenshot of the database.",
+            "timestamp": "10 Sep, 09:03 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Do you also have the passwords of the domain users? Give me a screenshot.",
+            "timestamp": "10 Sep, 09:04 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You have tapes for [redacted] but they are useless without software.",
+            "timestamp": "10 Sep, 09:05 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "This is the screenshot for DA hashes and passwords.\nhttps://ibb.co/[redacted]",
+            "timestamp": "10 Sep, 09:09 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We have a backup created by other software and transferred to a SAN to a backup data center. Restoration will take a long time, but it is possible. What databases do you have?",
+            "timestamp": "10 Sep, 09:13 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Yo can get the sample by following link.\nhttps://privatlab.com/m/v/[redacted]\nWe will not make DB screenshots too much work.",
+            "timestamp": "10 Sep, 09:14 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We have dbs from\n[redacted]SQL\nSQL2014Test\n[redacted]SQL1\n[redacted]-SQL\n[redacted]-SQL",
+            "timestamp": "10 Sep, 09:17 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Data in databases should be encrypted. Just because you have database servers doesn't mean anything.",
+            "timestamp": "10 Sep, 09:22 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Should or is? )",
+            "timestamp": "10 Sep, 09:25 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "According to IT, it should be. Let's make a deal like this. If the data in the database is encrypted, we'll pay you $100,000 to decrypt it for us. If the data in the databases is not encrypted, then we'll pay you $700,000. $700,000 is the price we have to invest in recovery, and if the recovery with the decryptor is faster, then we'll save money on service outages.",
+            "timestamp": "10 Sep, 09:29 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "To complicated, we said what will provide if we\u2019ll agree on price. $700k is unacceptable.",
+            "timestamp": "10 Sep, 09:42 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay, then the price is $1,000,000 if the data is readable.",
+            "timestamp": "10 Sep, 09:47 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Without any conditions, you are paying for decrypting tools and fast recovery, the data is collateral. You will not recover so easily without decryptor. We can do negotiations pretty long; time is on our side. If you are want to finish this fast make the acceptable offer.",
+            "timestamp": "10 Sep, 09:54 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "The data you hold is worse for us than having to recover it. The data you hold is worth no more than $1,000,000, which is why we are offering this price. We can restore the data from offline backups (we have tested this). A higher price than $1,000,000 is not acceptable to us. If you don't accept this price, then I need to check with the owner of the company what we will do next and if we can offer more money.",
+            "timestamp": "10 Sep, 09:59 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "How you evaluate data\u2019s price can I see a formula?",
+            "timestamp": "10 Sep, 10:04 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You can do incremental and we can do decremental steps, make the offer that we can turn down. 1 is to far away from 15.",
+            "timestamp": "10 Sep, 10:12 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We evaluate it subjectively. We have already written to people about PII, so the reputational impact has already occurred. We're gonna put new passwords in Active Directory. Office documents aren't that valuable to us. The only thing of value is the databases.",
+            "timestamp": "10 Sep, 10:16 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "15 is meaningless. I thought 15 was just a number, but not the actual ransom.",
+            "timestamp": "10 Sep, 10:18 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We just checked the random db, data is fine and not encrypted. Have a look.\nhttps://ibb.co/[redacted]",
+            "timestamp": "10 Sep, 10:18 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand, but for us only the know-how and customer information in the databases is worth anything.",
+            "timestamp": "10 Sep, 10:20 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I can see it now. Then name a price that makes sense for both sides.",
+            "timestamp": "10 Sep, 10:21 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Nothing sn meaningless, we did a good pentest for your company it has to be rewarded. $1kk is not enough. Do some consultations and come with a better offer.",
+            "timestamp": "10 Sep, 10:22 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "One of your competitors was hit the same yesterday if it helps to your feelings.",
+            "timestamp": "10 Sep, 10:24 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "If you will offer the good price today we can make a decent discount for you.",
+            "timestamp": "10 Sep, 10:25 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I need to check with the management and the owners. What competitor do you think?",
+            "timestamp": "10 Sep, 10:57 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "By the way they offer much more then you.",
+            "timestamp": "10 Sep, 11:01 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "I guess they don't have backup.",
+            "timestamp": "10 Sep, 11:17 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You either, you tried to do it on Sunday but you know what has happened.",
+            "timestamp": "10 Sep, 11:19 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We are restoring. I'm gonna go talk to the management.",
+            "timestamp": "10 Sep, 11:23 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "https://ibb.co/[redacted]",
+            "timestamp": "10 Sep, 11:24 AM [NY time]"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "chat_id": "20210223",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": "23 Feb, 12:46"
+        },
+        {
+            "party": "Ranzy",
+            "content": "hi",
+            "timestamp": "23 Feb, 12:56"
+        },
+        {
+            "party": "Victim",
+            "content": "I need your help",
+            "timestamp": "23 Feb, 13:02"
+        },
+        {
+            "party": "Victim",
+            "content": "my system has been infected by your ransomware.. what's the price of decryption tool?",
+            "timestamp": "23 Feb, 13:02"
+        },
+        {
+            "party": "Ranzy",
+            "content": "price for your case is $7,000",
+            "timestamp": "23 Feb, 13:04"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok How to pay that money to you?",
+            "timestamp": "23 Feb, 13:08"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Buy bitcoins here: https://howtobuybitcoins.info/#/",
+            "timestamp": "23 Feb, 13:21"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Send to our wallet: [redacted]",
+            "timestamp": "23 Feb, 13:21"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks",
+            "timestamp": "23 Feb, 13:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Man is your bitcoin address correct? I am getting error while doing payment on your given address?",
+            "timestamp": "23 Feb, 13:52"
+        },
+        {
+            "party": "Ranzy",
+            "content": "yes correct address",
+            "timestamp": "23 Feb, 14:12"
+        },
+        {
+            "party": "Victim",
+            "content": "do you have another address where i \ncan retry to pay you bro.. please help me fast... And can you please \nprovide me some discount",
+            "timestamp": "23 Feb, 14:33"
+        },
+        {
+            "party": "Ranzy",
+            "content": "ok, without discount",
+            "timestamp": "23 Feb, 14:40"
+        },
+        {
+            "party": "Ranzy",
+            "content": "[redacted]",
+            "timestamp": "23 Feb, 14:40"
+        },
+        {
+            "party": "Victim",
+            "content": "No discount in this covid pandemic \nbro..I tried to send some money on your given address might be \nblockchain network seems to be busy and I am getting error transaction \nserver failed might be possible your addresses is new",
+            "timestamp": "23 Feb, 15:11"
+        },
+        {
+            "party": "Victim",
+            "content": "Might be your address is new",
+            "timestamp": "23 Feb, 15:12"
+        },
+        {
+            "party": "Victim",
+            "content": "If you can provide me NON-Empty address might be it will work.. I know bitcoin never works in this way",
+            "timestamp": "23 Feb, 15:13"
+        },
+        {
+            "party": "Victim",
+            "content": "this is my assumption",
+            "timestamp": "23 Feb, 15:13"
+        },
+        {
+            "party": "Ranzy",
+            "content": "no, send to wallet which i send",
+            "timestamp": "23 Feb, 15:51"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Send to [redacted]",
+            "timestamp": "23 Feb, 18:07"
+        }
+    ]
+}

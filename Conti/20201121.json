@@ -1,0 +1,35 @@
+{
+    "chat_id": "20201121",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0hello",
+            "timestamp": "11/21/2020, 10:03:56 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0how money",
+            "timestamp": "11/21/2020, 10:04:41 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The price for full decryption and safe data removal from our servers will be $14000000 (750 BTC). This initial offer was based on the details about your revenue and internal financial documents we currently have access to. If you want to make sure we can decrypt all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nBesides the encryption process we've downloaded a large pack of your internal documents, databases content and files. In case the negotiations fail - the data will be published on our news site. If we reach mutual agreement none of your internal data will be published, all the backdoors will be removed and you will be provided with security tips on how to avoid further breaches.",
+            "timestamp": "11/21/2020, 10:17:36 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0If we don't hear any reply from your side, than the press release will some part of your internal documents will be posted tomorrow on our news site.",
+            "timestamp": "11/26/2020, 9:48:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You can check out the press release on our news site : https://continews.best/[redacted]\nIf you are not going to get in touch with us - we will continue publishing all the data we have.",
+            "timestamp": "11/27/2020, 2:50:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are going to release the database content on Monday. If you want to stop it - just let me know.",
+            "timestamp": "12/11/2020, 11:02:48 AM"
+        }
+    ]
+}

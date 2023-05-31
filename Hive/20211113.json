@@ -1,0 +1,685 @@
+{
+    "chat_id": "20211113",
+    "messages": [
+        {
+            "party": "Hive",
+            "content": "Hello and welcome to Hive.\nHow may I help you?",
+            "timestamp": "13 November 2021 13:53"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, decryption key price?",
+            "timestamp": "13 November 2021 13:54"
+        },
+        {
+            "party": "Victim",
+            "content": "how many files are stolen? and can you share some file names?",
+            "timestamp": "13 November 2021 13:58"
+        },
+        {
+            "party": "Victim",
+            "content": "maybe no ones here",
+            "timestamp": "13 November 2021 13:59"
+        },
+        {
+            "party": "Hive",
+            "content": "Hello",
+            "timestamp": "13 November 2021 13:59"
+        },
+        {
+            "party": "Hive",
+            "content": "To decrypt your files you have to pay $20,000,000 in Bitcoin.",
+            "timestamp": "13 November 2021 14:00"
+        },
+        {
+            "party": "Victim",
+            "content": "thats way too much, can you please discount\n\nAnd please share the hash of the ransomware file so we can at least black list it. You have already stolen everything anyway",
+            "timestamp": "13 November 2021 14:01"
+        },
+        {
+            "party": "Hive",
+            "content": "We don't provide any hashes. Every time the software is unique. There is  no need of hashes here. It will not help anyway.",
+            "timestamp": "13 November 2021 14:03"
+        },
+        {
+            "party": "Hive",
+            "content": "If you want a discount I would like to see for how much",
+            "timestamp": "13 November 2021 14:04"
+        },
+        {
+            "party": "Victim",
+            "content": "let me talk to the management",
+            "timestamp": "13 November 2021 14:04"
+        },
+        {
+            "party": "Victim",
+            "content": "share some file names?",
+            "timestamp": "13 November 2021 14:05"
+        },
+        {
+            "party": "Hive",
+            "content": "I'll share with you later when my teammate will be online.",
+            "timestamp": "13 November 2021 14:05"
+        },
+        {
+            "party": "Victim",
+            "content": "ok\nwhen should I log back in?",
+            "timestamp": "13 November 2021 14:05"
+        },
+        {
+            "party": "Hive",
+            "content": "I don't know. Maybe today",
+            "timestamp": "13 November 2021 14:06"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "13 November 2021 14:06"
+        },
+        {
+            "party": "Victim",
+            "content": "please ask him/her to share the file names so I can have them when I login, its not easy to use TOR here",
+            "timestamp": "13 November 2021 14:07"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay, I'll do my best",
+            "timestamp": "13 November 2021 14:07"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks",
+            "timestamp": "13 November 2021 14:08"
+        },
+        {
+            "party": "Hive",
+            "content": "I have uploaded the list of exfiltrated files.",
+            "timestamp": "13 November 2021 16:16"
+        },
+        {
+            "party": "Victim",
+            "content": "where?\n\nI cant see them",
+            "timestamp": "13 November 2021 18:10"
+        },
+        {
+            "party": "Victim",
+            "content": "is it like 100G?",
+            "timestamp": "13 November 2021 18:14"
+        },
+        {
+            "party": "Hive",
+            "content": "It's at the left panel titled Uploaded files",
+            "timestamp": "13 November 2021 19:07"
+        },
+        {
+            "party": "Hive",
+            "content": "I uploaded a list of files not the files themselves",
+            "timestamp": "13 November 2021 19:27"
+        },
+        {
+            "party": "Victim",
+            "content": "yes got it, thanks",
+            "timestamp": "14 November 2021 04:38"
+        },
+        {
+            "party": "Victim",
+            "content": "you can delete it now",
+            "timestamp": "14 November 2021 04:38"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you please share the hash of the ransomware. SO we can just add it to black list and ask the management for money. They are scared that the payload will come back. If you can't I understand but this will make th eprocess easy",
+            "timestamp": "14 November 2021 04:41"
+        },
+        {
+            "party": "Hive",
+            "content": "We are well-known organization. We honor our agreements. There is no point in the blacklist right now. You need to concentrate on how to collect money.",
+            "timestamp": "14 November 2021 04:56"
+        },
+        {
+            "party": "Hive",
+            "content": "I have another option for you. You will give me your email address (protonmail is preferred) and I'll send you new credentials to login. Then I'll upload the encryptor to VirusTotal and provide you a link to it. All necessary hashes will be available there. \nBut to prevent others to login to your customer website you have to get new credentials first.",
+            "timestamp": "14 November 2021 07:19"
+        },
+        {
+            "party": "Victim",
+            "content": "Here\n[redacted]@protonmail.com",
+            "timestamp": "14 November 2021 08:58"
+        },
+        {
+            "party": "Victim",
+            "content": "just like you wanted ... protonmail",
+            "timestamp": "14 November 2021 08:58"
+        },
+        {
+            "party": "Victim",
+            "content": "please keep your word, I will login again in a bit or check my email",
+            "timestamp": "14 November 2021 08:59"
+        },
+        {
+            "party": "Victim",
+            "content": "BTW, the site you guys made is beautiful. Better support than normal companies :)",
+            "timestamp": "14 November 2021 09:38"
+        },
+        {
+            "party": "Hive",
+            "content": "Thank you",
+            "timestamp": "14 November 2021 09:38"
+        },
+        {
+            "party": "Victim",
+            "content": "did you upload the file?",
+            "timestamp": "14 November 2021 09:40"
+        },
+        {
+            "party": "Victim",
+            "content": "and why did you change my creds ... are you planing to hack me too ? :(((((",
+            "timestamp": "14 November 2021 09:40"
+        },
+        {
+            "party": "Hive",
+            "content": "The encryptor didn't uploaded yet, looking for it rn.",
+            "timestamp": "14 November 2021 09:41"
+        },
+        {
+            "party": "Hive",
+            "content": "What do you mean about creds? From what?",
+            "timestamp": "14 November 2021 09:42"
+        },
+        {
+            "party": "Victim",
+            "content": "you change the credential to login to this site",
+            "timestamp": "14 November 2021 09:43"
+        },
+        {
+            "party": "Hive",
+            "content": "It was necessary because whether I upload the encryptor other researchers will be able to login and read your conversation.",
+            "timestamp": "14 November 2021 09:45"
+        },
+        {
+            "party": "Hive",
+            "content": "It's a potential data leakage so I have prevented it",
+            "timestamp": "14 November 2021 09:45"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks",
+            "timestamp": "14 November 2021 09:46"
+        },
+        {
+            "party": "Victim",
+            "content": "would you share the link here or email?",
+            "timestamp": "14 November 2021 09:50"
+        },
+        {
+            "party": "Hive",
+            "content": "Here is safe now",
+            "timestamp": "14 November 2021 09:50"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "14 November 2021 09:51"
+        },
+        {
+            "party": "Victim",
+            "content": "why do you prefer protonmail?",
+            "timestamp": "14 November 2021 09:56"
+        },
+        {
+            "party": "Victim",
+            "content": "is it on tor?",
+            "timestamp": "14 November 2021 09:56"
+        },
+        {
+            "party": "Hive",
+            "content": "https://www.virustotal.com/gui/file/12baa6c83e6f8b059e7f14cb67bdad4e917b90bc8a139b5379a4b42a0c92a6be?nocache=1",
+            "timestamp": "14 November 2021 09:57"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks. I dont have virus total account but at least I got the hash. Really appreciat eit",
+            "timestamp": "14 November 2021 09:58"
+        },
+        {
+            "party": "Victim",
+            "content": "we have mcafee and symantec and nothing prevented this :(",
+            "timestamp": "14 November 2021 10:01"
+        },
+        {
+            "party": "Hive",
+            "content": "Actually I didn't spend too much time to hide it but I will",
+            "timestamp": "14 November 2021 10:02"
+        },
+        {
+            "party": "Hive",
+            "content": "What a recovery company are you from?",
+            "timestamp": "14 November 2021 10:02"
+        },
+        {
+            "party": "Victim",
+            "content": "not from company, directly the SOC team",
+            "timestamp": "14 November 2021 10:03"
+        },
+        {
+            "party": "Hive",
+            "content": "I got it",
+            "timestamp": "14 November 2021 10:04"
+        },
+        {
+            "party": "Victim",
+            "content": "working with the management to do something",
+            "timestamp": "14 November 2021 10:04"
+        },
+        {
+            "party": "Victim",
+            "content": "they may hire someone in hope of recovery.",
+            "timestamp": "14 November 2021 10:05"
+        },
+        {
+            "party": "Hive",
+            "content": "Unfortunately for them there are only two options: \n1) start from a scratch\n2) purchase the decryption software from us",
+            "timestamp": "14 November 2021 10:06"
+        },
+        {
+            "party": "Victim",
+            "content": "yes I have provided all the data",
+            "timestamp": "14 November 2021 10:07"
+        },
+        {
+            "party": "Hive",
+            "content": "Recovery companies no matter what they say can't decrypt.",
+            "timestamp": "14 November 2021 10:08"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand but in the demo they show us how they can do the magic and impress the management",
+            "timestamp": "14 November 2021 10:08"
+        },
+        {
+            "party": "Victim",
+            "content": "THey told us that they will recover the keys from the memory and then decrypt files? is that possible?",
+            "timestamp": "14 November 2021 10:09"
+        },
+        {
+            "party": "Hive",
+            "content": "For ESXi servers it's not possible",
+            "timestamp": "14 November 2021 10:09"
+        },
+        {
+            "party": "Victim",
+            "content": "why not? please educate me to I can understand and tell the management not to waste time. We have way too many vendors here",
+            "timestamp": "14 November 2021 10:11"
+        },
+        {
+            "party": "Hive",
+            "content": "The encryptor software rewrites the key from memory.",
+            "timestamp": "14 November 2021 10:12"
+        },
+        {
+            "party": "Victim",
+            "content": "what? :( ... liek in simple words please?",
+            "timestamp": "14 November 2021 10:13"
+        },
+        {
+            "party": "Hive",
+            "content": "Array of bytes in memory where the key resides in rewrites to prevent such operation",
+            "timestamp": "14 November 2021 10:13"
+        },
+        {
+            "party": "Victim",
+            "content": "Thats awesome. Is this for all servers or only esxi?",
+            "timestamp": "14 November 2021 17:39"
+        },
+        {
+            "party": "Hive",
+            "content": "For all of course",
+            "timestamp": "14 November 2021 17:50"
+        },
+        {
+            "party": "Victim",
+            "content": "so if we end-up hiring a company that charges us $400 an hour, its pretty much useless?",
+            "timestamp": "14 November 2021 17:53"
+        },
+        {
+            "party": "Victim",
+            "content": "BTW, the array of memory that you mentioned, these are the public keys or the private keys?",
+            "timestamp": "14 November 2021 17:54"
+        },
+        {
+            "party": "Hive",
+            "content": "Encryptor even don't know anything about private keys. It only has public keys. Public keys need to encrypt random field which uses in encryption process.",
+            "timestamp": "14 November 2021 17:57"
+        },
+        {
+            "party": "Hive",
+            "content": "In my opinion spending money to external IT companies will only waste your valuable time.",
+            "timestamp": "14 November 2021 17:59"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks, appreciate it. Its clear to me now",
+            "timestamp": "14 November 2021 18:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Hey, how much data have you stolen 100Gig?",
+            "timestamp": "16 November 2021 06:24"
+        },
+        {
+            "party": "Victim",
+            "content": "And the price you provided $20,000,000 is way too much",
+            "timestamp": "16 November 2021 06:25"
+        },
+        {
+            "party": "Victim",
+            "content": "This is 20 million $?????",
+            "timestamp": "16 November 2021 06:25"
+        },
+        {
+            "party": "Hive",
+            "content": "Yes, your company has $2B revenue. We usually rate 1% of revenue",
+            "timestamp": "16 November 2021 06:29"
+        },
+        {
+            "party": "Victim",
+            "content": ":(\nAnd the total you have stolen in GB?",
+            "timestamp": "16 November 2021 06:34"
+        },
+        {
+            "party": "Victim",
+            "content": "I am guessing you used the VPN to get on the network. Did you steal the credentials after that? SYmantec and McAfee didn't prevent stealing credentials?",
+            "timestamp": "16 November 2021 06:36"
+        },
+        {
+            "party": "Hive",
+            "content": "We have 32 Gb total. \nAlmost all AntiViruses are useless against real hackers.",
+            "timestamp": "16 November 2021 07:40"
+        },
+        {
+            "party": "Victim",
+            "content": "unfortunate but true",
+            "timestamp": "17 November 2021 05:16"
+        },
+        {
+            "party": "Victim",
+            "content": "For some reason the IT guy told us that they can see certain portion of files and they could be decrypted.",
+            "timestamp": "17 November 2021 05:17"
+        },
+        {
+            "party": "Victim",
+            "content": "I think you are only encrypting certain portion of files right? they can see the file content in bigger files",
+            "timestamp": "17 November 2021 05:17"
+        },
+        {
+            "party": "Hive",
+            "content": "There is a spotted encryption mechanism. If you are talking about ESXi files then I don't think they can. Some text files - yes",
+            "timestamp": "17 November 2021 05:31"
+        },
+        {
+            "party": "Victim",
+            "content": "I mean the big files are not fully encrypted. They are encypted at the header and then footer I think ... but in the middle one can see the text.",
+            "timestamp": "17 November 2021 05:35"
+        },
+        {
+            "party": "Hive",
+            "content": "It's true. First 4Kb, the last, and a few blocks in the middle",
+            "timestamp": "17 November 2021 07:33"
+        },
+        {
+            "party": "Victim",
+            "content": "But this is nto true for ESXi files? everything for them is encrypted?",
+            "timestamp": "17 November 2021 08:34"
+        },
+        {
+            "party": "Victim",
+            "content": "also how efficient is your encryption process? are you faster than lockbit2.0?",
+            "timestamp": "17 November 2021 08:36"
+        },
+        {
+            "party": "Victim",
+            "content": "we also got one file for lockbit but was protected that was few weeks ago",
+            "timestamp": "17 November 2021 08:37"
+        },
+        {
+            "party": "Hive",
+            "content": "I didn't compare it with lockbit but my software is quite fast, especially ESXi",
+            "timestamp": "17 November 2021 09:36"
+        },
+        {
+            "party": "Hive",
+            "content": "How is it going with decision making?",
+            "timestamp": "17 November 2021 09:38"
+        },
+        {
+            "party": "Victim",
+            "content": "its slow, we provided all the data and making sure they understand the complexity",
+            "timestamp": "17 November 2021 09:43"
+        },
+        {
+            "party": "Victim",
+            "content": "But for the esxi part, you don't use partial encryption? and everything is encrypted?",
+            "timestamp": "17 November 2021 09:44"
+        },
+        {
+            "party": "Victim",
+            "content": "not just 4kb header etc",
+            "timestamp": "17 November 2021 09:44"
+        },
+        {
+            "party": "Victim",
+            "content": "can you please explain 2 things to understand . Explain a bit more on how you re-write the keys in the memory and the efficiency of esxi encryption. That way I can explain to everyone as well, that no hope for recovery",
+            "timestamp": "17 November 2021 10:04"
+        },
+        {
+            "party": "Victim",
+            "content": "most probly I will ask for discount shirtly",
+            "timestamp": "17 November 2021 10:05"
+        },
+        {
+            "party": "Hive",
+            "content": "It's very simple. ESXi files especially virtual drives are very fragile. Even few changes make them unreadable because it has a binary structure.\nESXi was encrypted using spot method. 4 Kb of beginning of the files, 4 Kb of ending of the file and along file. Totally 100 Kb over the each file is encrypted. It's a quite enough.",
+            "timestamp": "17 November 2021 10:52"
+        },
+        {
+            "party": "Victim",
+            "content": "cool and the memory re-writing? as I understand you are not creating a new key for each file",
+            "timestamp": "17 November 2021 10:53"
+        },
+        {
+            "party": "Victim",
+            "content": "The memory overwrite is my last question. So I can make sure the SOC team understands",
+            "timestamp": "17 November 2021 11:02"
+        },
+        {
+            "party": "Hive",
+            "content": "When encryptor starts it creates a random field which will be used in encryption process. It is static. After encryption process finishes it rewrites to prevent restoration process. RSA keys private and public only use to encrypt/decrypt the random field. Only knowing the field it's possible to decrypt files. Encryptor has only public RSA keys, decryptor - private RSA keys.",
+            "timestamp": "17 November 2021 11:11"
+        },
+        {
+            "party": "Victim",
+            "content": "by random fields u mean aes?",
+            "timestamp": "17 November 2021 11:13"
+        },
+        {
+            "party": "Hive",
+            "content": "No, a truly cryptographic random field.",
+            "timestamp": "17 November 2021 11:13"
+        },
+        {
+            "party": "Victim",
+            "content": "like PRNG or truly random numbers?",
+            "timestamp": "17 November 2021 11:15"
+        },
+        {
+            "party": "Hive",
+            "content": "Of course not PRNG:)",
+            "timestamp": "17 November 2021 11:15"
+        },
+        {
+            "party": "Victim",
+            "content": ":(",
+            "timestamp": "17 November 2021 11:15"
+        },
+        {
+            "party": "Victim",
+            "content": "can you give me an example",
+            "timestamp": "17 November 2021 11:15"
+        },
+        {
+            "party": "Victim",
+            "content": "so you have the origanal private key. The ransomware generates fields that will encrypt files? are these fields used as keys? for aes?",
+            "timestamp": "17 November 2021 11:16"
+        },
+        {
+            "party": "Victim",
+            "content": "You are one smart guy",
+            "timestamp": "17 November 2021 11:17"
+        },
+        {
+            "party": "Hive",
+            "content": "Actually I already disclose you a lot of details which was never disclosed to anyone. I think it's enough to make a decision.",
+            "timestamp": "17 November 2021 11:17"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks",
+            "timestamp": "17 November 2021 11:18"
+        },
+        {
+            "party": "Hive",
+            "content": "AES is a chiper, I use a different one - some kind of Vernam's chiper. It's impossible to decrypt without knowing the keys.",
+            "timestamp": "17 November 2021 11:18"
+        },
+        {
+            "party": "Victim",
+            "content": "that means only one key will be used for all files and then re-written",
+            "timestamp": "17 November 2021 11:27"
+        },
+        {
+            "party": "Victim",
+            "content": "so no way to get back",
+            "timestamp": "17 November 2021 11:27"
+        },
+        {
+            "party": "Hive",
+            "content": "In simplified version the key used to encrypt all files. It exports to the disk using a few RSA public keys applied. Then encryption process follows. After that the key rewrites to prevent recovery from memory. \n\nDecryption software has RSA private keys to initially decrypt the exported key.",
+            "timestamp": "17 November 2021 11:31"
+        },
+        {
+            "party": "Victim",
+            "content": "Whats the BTC address or wallet?",
+            "timestamp": "17 November 2021 11:40"
+        },
+        {
+            "party": "Hive",
+            "content": "I made an offer at the right panel",
+            "timestamp": "17 November 2021 11:51"
+        },
+        {
+            "party": "Victim",
+            "content": "you came into the network via global protect. Are you still on the network?",
+            "timestamp": "17 November 2021 11:54"
+        },
+        {
+            "party": "Hive",
+            "content": "No",
+            "timestamp": "17 November 2021 11:55"
+        },
+        {
+            "party": "Victim",
+            "content": "you are very honest for a hacker",
+            "timestamp": "17 November 2021 11:55"
+        },
+        {
+            "party": "Hive",
+            "content": "We are all honest who works at Hive",
+            "timestamp": "17 November 2021 11:56"
+        },
+        {
+            "party": "Victim",
+            "content": "but they say you hacked hospitals like [redacted] etc",
+            "timestamp": "17 November 2021 11:57"
+        },
+        {
+            "party": "Hive",
+            "content": "Yes, we attack every targets, we have no limits here. It's not related with honesty",
+            "timestamp": "17 November 2021 11:58"
+        },
+        {
+            "party": "Victim",
+            "content": "Got it",
+            "timestamp": "17 November 2021 11:59"
+        },
+        {
+            "party": "Victim",
+            "content": "I think the time is up :(",
+            "timestamp": "20 November 2021 18:07"
+        },
+        {
+            "party": "Hive",
+            "content": "Don't worry you have time. Tell me how is it going with upper management please",
+            "timestamp": "20 November 2021 19:58"
+        },
+        {
+            "party": "Victim",
+            "content": "working on it, tough situation",
+            "timestamp": "24 November 2021 04:57"
+        },
+        {
+            "party": "Hive",
+            "content": "Hi, how is it going?",
+            "timestamp": "29 November 2021 07:02"
+        },
+        {
+            "party": "Victim",
+            "content": "good thanks",
+            "timestamp": "3 December 2021 15:53"
+        },
+        {
+            "party": "Victim",
+            "content": "how r u",
+            "timestamp": "3 December 2021 15:56"
+        },
+        {
+            "party": "Hive",
+            "content": "I'm good too. I just wanted to know to what direction your company inclined right now. \n\nBy the way, what about a recovery process from memory from recovery company you told earlier?",
+            "timestamp": "3 December 2021 16:17"
+        },
+        {
+            "party": "Victim",
+            "content": "They think the recovery is possible",
+            "timestamp": "5 December 2021 05:26"
+        },
+        {
+            "party": "Victim",
+            "content": "also backup etc",
+            "timestamp": "5 December 2021 05:26"
+        },
+        {
+            "party": "Hive",
+            "content": "Let's play with the price. I think both your management and our side want to resolve this as quick as possible",
+            "timestamp": "5 December 2021 06:06"
+        },
+        {
+            "party": "Victim",
+            "content": "Whats the best price?",
+            "timestamp": "6 December 2021 08:57"
+        },
+        {
+            "party": "Victim",
+            "content": "I am not sure if 333 is even remotely possible",
+            "timestamp": "6 December 2021 08:58"
+        },
+        {
+            "party": "Victim",
+            "content": "They won't even consider 80 a possibility",
+            "timestamp": "6 December 2021 08:58 Read"
+        },
+        {
+            "party": "Hive",
+            "content": "I can offer you $3,000,000 in Bitcoin.",
+            "timestamp": "6 December 2021 11:01"
+        }
+    ]
+}

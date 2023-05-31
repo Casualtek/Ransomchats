@@ -1,0 +1,180 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hello sir. how do i get my files back?",
+            "timestamp": "07:54 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to pay the amount in BTC indicated on your page. The amount at the time of payment must be exactly the same as on the page!",
+            "timestamp": "07:58 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "After payment, we will provide you with a Decryptor that will decrypt all your files on all your PCs and servers.",
+            "timestamp": "07:59 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to send 0.0276 BTC to Bitcoin address: [redacted]",
+            "timestamp": "08:00 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Can i have discount on price? i only need one pc and about 50 files",
+            "timestamp": "08:30 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We can not make a discount only for one computer.",
+            "timestamp": "08:36 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "The price is for all together. If it is too much for you, we can make a 5% discount",
+            "timestamp": "08:37 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can you make it 1200 so i can pay within 1-2 days?",
+            "timestamp": "08:43 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "It is too small, we can make $ 1300.",
+            "timestamp": "08:48 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok i will try to find money. how do i pay?",
+            "timestamp": "08:54 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to buy Bitcoin = 0.0277 BTC and then send it to the wallet [redacted]",
+            "timestamp": "08:57 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "price of bitcoin goes up and down. can we keep it 1300usd for when i do the payment in 1-2 days?",
+            "timestamp": "09:05 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "When will be ready to pay, ask and we will write you the exact amount in BTC.",
+            "timestamp": "09:18 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "ok?",
+            "timestamp": "09:18 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok bitcoin seller sais we need to keep price for 24hours stable so he can pay.",
+            "timestamp": "09:25 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Ok, 0.0277 BTC",
+            "timestamp": "09:28 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can we test your service somehow before we pay?",
+            "timestamp": "10:51 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You can test decrypt only image file, not (.pdf .xlsx .txt ...). You have the ability to decrypt 1 image file up to 2 mb each.",
+            "timestamp": "10:55 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can you please update the price to 1300$, so we can pay today?",
+            "timestamp": "11:14 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "0.0243 BTC",
+            "timestamp": "11:16 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Bitcoin address: [redacted]",
+            "timestamp": "11:16 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "we found a bitcoin seller and he sais price for 1300$ is 0.02311 can we proceed with this? i have him on the phone now.",
+            "timestamp": "11:17 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "i gave him the money and he said he can send the 0.02311 now or i have to pay him more money. please accept so we can proceed with payment.",
+            "timestamp": "11:20 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "The amount will be higher because we added 5% to the amount for protection in case of a rate jump. This is necessary so that after payment, the system will automatically give you a decryptor. If the payment amount will be lower than that required, the system will not issue decryptor.",
+            "timestamp": "11:20 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "please sir, we don't know all this stuff. its just 5% decrease in price i request. we are out of money today and banks have closed here. We kindly ask you for this small favor to proceed today.",
+            "timestamp": "11:22 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can you please update the price to deliver us the solution with this price:  0.02311 so we can move faster?",
+            "timestamp": "11:23 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "0.024 BTC is a minimum",
+            "timestamp": "11:25 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "please update price so i can beg the seller to give some small extra",
+            "timestamp": "11:26 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You can just send 0.24 BTC",
+            "timestamp": "11:28 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "he will send 0.0241 to be sure ok ?",
+            "timestamp": "11:30 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "ok",
+            "timestamp": "11:32 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "payment done. transaction ID: [redacted]",
+            "timestamp": "11:54 12.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "0.0241 bitcoin",
+            "timestamp": "11:54 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We see your transaction, now you need wait for 6 confirmations, it takes an average of 20-60 minutes. After 6 confirmations, you will receive a decryptor. On the payment page you will have a link to download the decryptor, run it on your PC according to the instructions when downloading.",
+            "timestamp": "11:55 12.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You can download the decryptor on your payment page, update it. Run the decryptor according to the instructions.",
+            "timestamp": "14:27 12.05.2021"
+        }
+    ]
+}

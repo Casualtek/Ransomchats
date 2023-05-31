@@ -1,0 +1,80 @@
+{
+    "chat_id": "20211213",
+    "messages": [
+        {
+            "party": "Hive",
+            "content": "Hello and welcome to Hive.\nHow may I help you?",
+            "timestamp": "13 December 2021 11:12"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello",
+            "timestamp": "13 December 2021 11:15"
+        },
+        {
+            "party": "Victim",
+            "content": "The company does not worth 20M",
+            "timestamp": "13 December 2021 11:16"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello,",
+            "timestamp": "13 December 2021 12:30"
+        },
+        {
+            "party": "Victim",
+            "content": "can you help me to decrypt some files?",
+            "timestamp": "13 December 2021 12:39"
+        },
+        {
+            "party": "Hive",
+            "content": "Yes, to decrypt your files you have to pay $300,000 in Bitcoin.",
+            "timestamp": "13 December 2021 12:40"
+        },
+        {
+            "party": "Victim",
+            "content": "We can pay max 3000$",
+            "timestamp": "13 December 2021 16:19"
+        },
+        {
+            "party": "Hive",
+            "content": "Unfortunately I can't accept this.",
+            "timestamp": "13 December 2021 16:21"
+        },
+        {
+            "party": "Hive",
+            "content": "The final price for you is $100,000.",
+            "timestamp": "20 December 2021 16:37"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello,",
+            "timestamp": "22 December 2021 13:01"
+        },
+        {
+            "party": "Victim",
+            "content": "We don't have the money at this moment.",
+            "timestamp": "22 December 2021 13:10"
+        },
+        {
+            "party": "Victim",
+            "content": "We need to pay you from outside of company funds or else we will have problems with Government financial authorities.",
+            "timestamp": "22 December 2021 13:12"
+        },
+        {
+            "party": "Victim",
+            "content": "For that, we have to gather some money outside the company funds so we need some days to pay.",
+            "timestamp": "22 December 2021 13:13"
+        },
+        {
+            "party": "Victim",
+            "content": "How do we pay when we have the money?",
+            "timestamp": "22 December 2021 13:13 Read"
+        },
+        {
+            "party": "Hive",
+            "content": "The offer has been created. There you can find a Bitcoin address and approximate amount in it to pay",
+            "timestamp": "22 December 2021 14:51"
+        }
+    ]
+}

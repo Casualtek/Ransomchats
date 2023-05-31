@@ -1,0 +1,25 @@
+{
+    "chat_id": "20211126",
+    "messages": [
+        {
+            "party": "Hive",
+            "content": "Hello and welcome to Hive.\nHow may I help you?",
+            "timestamp": "26 November 2021 16:25"
+        },
+        {
+            "party": "Hive",
+            "content": "To decrypt your files you have to pay $3,500,000 in Bitcoin.",
+            "timestamp": "29 November 2021 09:31"
+        },
+        {
+            "party": "Hive",
+            "content": "I have uploaded a list of exfiltrated files we have from your network.",
+            "timestamp": "29 November 2021 09:31"
+        },
+        {
+            "party": "Hive",
+            "content": "If you will not to start communicating with us your company's profile will be disclosed, and then the rest of exfiltrated data",
+            "timestamp": "29 November 2021 12:36"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "\u043f\u0440\u0438\u0432\u0435\u0442",
+            "timestamp": "15:59 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hello! Chat in English.",
+            "timestamp": "16:10 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": "16:11 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "how can i change my avatar?",
+            "timestamp": "16:11 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "how much?",
+            "timestamp": "16:12 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Where are you from?",
+            "timestamp": "16:16 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Kazakhstan",
+            "timestamp": "16:17 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "we don't have so big money you asking",
+            "timestamp": "16:17 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Wait a bit, we'll get back to you soon.",
+            "timestamp": "16:29 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "16:43 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "tell me what kind of company are you?",
+            "timestamp": "05:27 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "what do you do? do you have your own website? We do not work in the CIS countries and if we make sure that you are a company located in the CIS, then we will decrypt you for free.",
+            "timestamp": "05:28 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "we are small wellding company who has  finance problems at the moment.",
+            "timestamp": "07:26 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hey! We need proof of your identity. If you provide us with a photo of your documents and face, we will give you a decryptor free of charge.",
+            "timestamp": "08:13 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Make a photo of your passport against your face. Then make a photo of the passport on the background of the monitor with encrypted files, you can open the properties of the file. Send us a photo through the service https://www.sendspace.com/",
+            "timestamp": "08:13 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok. Thanks.",
+            "timestamp": "09:12 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": "09:12 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "here is a link to photos",
+            "timestamp": "09:13 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We apologize for this situation, this is an accident. We do not work in the CIS countries.",
+            "timestamp": "09:20 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You can download the decryptor on your payment page, update it. Run the decryptor according to the instructions.",
+            "timestamp": "09:21 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks.",
+            "timestamp": "09:49 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "i wonder how you getting access?))))",
+            "timestamp": "09:50 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "About vulnerabilities in your network. These are weak passwords and old operating systems, the operating systems that you used have vulnerabilities, with the help of them an attack was carried out on your network. Use strong passwords and hide them as best as possible and update all your OS to the latest versions.",
+            "timestamp": "10:02 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks a lot!!",
+            "timestamp": "13:49 19.05.2021"
+        }
+    ]
+}

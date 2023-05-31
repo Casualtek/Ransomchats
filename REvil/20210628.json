@@ -1,0 +1,200 @@
+{
+    "chat_id": "20210628",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "We take you seriously and we want to work something out but $50k is too\n much for us to get our computers back. COVID ruined our finances and we\n have entire lots of cars from last year sitting outside that no one is \ninterested in because no one is driving anymore. Can we work out a \nreduction in the price?",
+            "timestamp": "4 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello , my boss can offer 20% discount",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for working with us. I'm not sure if that's going to be enough \nof a discount but I will talk with my boss and see what we can do. We \nsee different names for the notes on each computer with different keys \nin them. Does the price include unlocking all of our computers?",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "for all network",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry we haven't reached out in a little while but we have been trying \nto figure all this out while keeping the business running. We want to \nmake sure you are able to decrypt more than just one system. Can you \ndecrypt these files to show you can?",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "File 1",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "File 2",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Pulling these down now. I talked to my boss and he said we can't pay in Monero do you accept Bitcoin?",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Of course , btc enabled",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok that's good to know. My boss wanted to see if you would be willing \nto let us pay $10,000 for the decryption. We know it's not what you are \nasking for but this is short notice and we are trying to do what we can \nto find available cash.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "not interested",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, my boss had someone willing to loan him some money if he needed to.\n Will you take $20,000? We could buy the Bitcoin and get you the money \nin 24 hours.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "25k and okay not lower",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "price update",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, let me talk to my boss and get back to you.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Just so I'm clear that payment would get us a decryptor for all our encrypted computers?",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "of course",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK we are working on getting the money together right now. Did you take\n any files from our computers? And how fast after we pay could we get \nthe decryption software?",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "few minutes",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK thats good to know but my boss still wanted to know about whether or not you guys took our data before we sent the money.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We took your data",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "What did you take?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "It will take more than a month to analyze the data.\nIf all you need is a data, leave this chat.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We still want to move forward with payment for the decryptor we are \njust trying to understand what data was taken because it could impact \nour customers and we care about them. If you can give us a list of files\n it would help us a lot. Can you confirm that the bitcoin wallet is \nstill [redacted]? Will you help us if something \ngoes wrong with the decryption?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We want to make payment today if you can confirm the wallet for us. We don't want to send it to the wrong place.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "[redacted] yes it is the right adress",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks for verifying.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "we are getting ready to make payment. Are you able to provide us a Dir listing of what you exfil'd?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "of course",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "It took us longer yesterday than we thought to get the money together. \nWe should be able to buy the bitcoin and send you payment today.",
+            "timestamp": "17 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "ok we wait",
+            "timestamp": "17 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, it was difficult to get everything done on the weekend since the \nbanks were closed most of the time but we should be making payment very \nsoon. I just wanted to confirm that the price is still $25,000. The site\n shows 0.77 BTC which is $25,569 and there is a reference to Bitcoin \n(+10%). As long as we pay the agreed $25,000 you will decrypt all of our\n files on all computers right?",
+            "timestamp": "9 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, it was difficult to get everything done on the weekend since the \nbanks were closed most of the time but we should be making payment very \nsoon. I just wanted to confirm that the price is still $25,000. The site\n shows 0.77 BTC which is $25,569 and there is a reference to Bitcoin \n(+10%). As long as we pay the agreed $25,000 you will decrypt all of our\n files on all computers right?",
+            "timestamp": "9 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "OK we sent the 0.77 Bitcoin, please confirm as soon as you get it.",
+            "timestamp": "8 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "confirm",
+            "timestamp": "5 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "yes for all network",
+            "timestamp": "5 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "waiting 3 confirmations",
+            "timestamp": "5 hours ago"
+        }
+    ]
+}

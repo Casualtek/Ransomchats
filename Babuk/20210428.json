@@ -1,0 +1,225 @@
+{
+    "chat_id": "20210428",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hello,\n why did you decide to run audit of our company? I know, or secure is \npoor, because of we have faced to critical situations for last 3 \nyears...",
+            "timestamp": "2021-04-28T14:55:32+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Hello.\n Do you understand it is a real attack or you do think it is just a \npenetration test? Do you understand that we have got a lot of essential \ndata from your company? Also, do you understand that this data can \ncompromise your company and CEO before the law?",
+            "timestamp": "2021-04-28T15:05:46+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "unfortunately,\n we expect, that this is attack, not penetration test. We need to \nnegotiate. But the amount of 1 MIO USD is deathfull for our company",
+            "timestamp": "2021-04-28T15:10:25+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Okay.\n We made you an offer; if it doesn't fit you, you can offer your price. \nHowever, you need to know that we won't provide you a too big discount. \nData we got is too sensible.",
+            "timestamp": "2021-04-28T15:14:21+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "you\n are right, data is sensible. But I don't know, which kind of \ninformation about our company you have? we have small company from Czech\n Republic. Not big corporation. We have poor financial results in last \nyears due to pressure to decrease of margins in industry, Covid-19, now \nwe face to Suez transport crisis... Youz can check our financial reports\n from available sources (for example - justice.cz)...",
+            "timestamp": "2021-04-28T15:20:40+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "We know about your financial situation.We have all personal data of your employees and administrative staff, including private photos.Also,\n we have a full list of your clients, and I think you understand we can \ninform them about this incident. It will be a hard strike for your \nreputation.Also, we have got all information and documentation related to your projects, including schemes and drafts.We\n are still waiting for your price. We all realize that if this info will\n be uploaded to the public sources, you will lose much more.",
+            "timestamp": "2021-04-28T15:37:59+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "All\n the customers/client has been informed about this attack on [redacted]. So \nall of them know our situation. As well as all employees. We are in \nposition of Tear 2 supplier = small supplier. All the clients data we \nhave is not critical for them, not secret development data.",
+            "timestamp": "2021-04-28T15:46:18+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Regarding our offer to start negotiate I have to contact our Board by phone to hear out their idea...",
+            "timestamp": "2021-04-28T15:47:37+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Okay. And what do you think about the GPDR?",
+            "timestamp": "2021-04-28T15:48:33+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Sure, contact anyone you need and return to us with your offer.",
+            "timestamp": "2021-04-28T15:48:59+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Do\n you mean GDPR? In case if we will not be successful with negotiation, \nwe will have to contact Police and The Office for Personal Data \nProtection. In case if we will make a deal, it will be only between \nus...",
+            "timestamp": "2021-04-28T15:52:02+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Yes,\n I am speaking exactly about it. If we make a deal, you avoid all the \nproblems and we will got our money. Also, we are ready to inform you \nabout used vulnerability to avoid such situation in future.",
+            "timestamp": "2021-04-28T15:56:15+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "If not, all your data will remain encrypted and we will upload sensible info to public.",
+            "timestamp": "2021-04-28T15:58:57+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "I'm\n back. Before we will start to negotiate I have an order to provide you \nwith company results for the last 3 years. Just to explain our \nposition...",
+            "timestamp": "2021-04-28T17:09:33+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "year/sales/result:",
+            "timestamp": "2021-04-28T17:09:53+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "2018 / [redacted] 000 USD / [redacted] 000 USD (=loss)",
+            "timestamp": "2021-04-28T17:10:49+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "2019 / [redacted] 000 USD / [redacted] 000 USD (loss)",
+            "timestamp": "2021-04-28T17:11:23+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "2020 / [redacted] 000 USD / [redacted] 000 USD (profit)",
+            "timestamp": "2021-04-28T17:12:09+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Okay, we see",
+            "timestamp": "2021-04-28T17:12:34+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "So,\n we are still waiting for your offer. I tell you about it third time \nalready. One more - and we delete the chat and upload data",
+            "timestamp": "2021-04-28T17:13:33+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Yeah.\n that is reality of our company which is available and you can check on \nofficial places... I can offer 10 000 USD (but have no any experience \nwith BTC, how it works)",
+            "timestamp": "2021-04-28T17:14:53+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Depending on your serious situation, we can offer you a 50% discount. So, your price will be 500k",
+            "timestamp": "2021-04-28T17:16:42+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "500k CZK?",
+            "timestamp": "2021-04-28T17:17:08+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "USD",
+            "timestamp": "2021-04-28T17:17:35+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "If it is too hard, you can ask your shareholders to help",
+            "timestamp": "2021-04-28T17:20:15+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "sorry, this is unrealistic... That means to sold part of company or some of unused equipment...",
+            "timestamp": "2021-04-28T17:20:39+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "Otherwise, you will try to find cash to avoid prison",
+            "timestamp": "2021-04-28T17:21:15+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "We need to talk with business owners. Speaking with middleman is not interesting for us.",
+            "timestamp": "2021-04-28T17:21:58+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "unfortunately,\n that is my company position. As a CEO I have not so much authorization.\n From my position I can offer max. 23 246 USD (=500 000 CZK - that is my\n limit)",
+            "timestamp": "2021-04-28T17:25:57+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "You can take a loan to pay this sum. Your offers is not even serious.",
+            "timestamp": "2021-04-28T17:31:18+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "You have two days to pay, after this period, data will be posted and you won't be able to contact us anymore",
+            "timestamp": "2021-04-28T17:32:01+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "not\n realistic get any loan from Bank due to company summary results from \nthe last years... In 2020 we had to sell some equipment to be able to \nsurvive... You have an experience with our IT infrastructure - you can \nsee that's very poor solution. It's becase of we have no many, no chance\n for the bank loan... We try to survive from day to day... Please, take \nour situation in consideration.",
+            "timestamp": "2021-04-28T17:38:46+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "We\n did it already. You can search for a recovery company in your country, \nthey can offer you a loan in this situation. As I said already, we can \nmake a discount, but your offer must be serious too.",
+            "timestamp": "2021-04-28T17:44:43+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "the statement of our shareholders is clear for me. My personal responsibility for the problem, my personal responsi",
+            "timestamp": "2021-04-28T19:29:24+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "...responsibility\n for the solution. Due to my knowledge about this company for me is it \nthe same \"shit situation\" to pay 0,5MIO CZK (as I have offered) or lost \nthe data and start to re-build infrastructure and data again from zero. \nAnd in case If I will realize the payment, where is any guaranty that \nyou are going to fulfill the deal? Is there any history about your BABYK\n group?",
+            "timestamp": "2021-04-28T19:33:00+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "All the customers, suppliers and employees know the situation in detail. They express their support to us.",
+            "timestamp": "2021-04-28T19:34:34+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "This\n conversation have no sense now. We also have info about your \nshareholders, and I don't think they will be glad when it will be \npublished. Anyway, you have the time to think about the situation and \nmake us a good offer.",
+            "timestamp": "2021-04-28T19:36:49+03:00"
+        },
+        {
+            "party": "Babuk",
+            "content": "About\n your question - your guarantee is our reputation. Use Google to find \ninfo. We NEVER publish info and leave data encrypted if companies pay.",
+            "timestamp": "2021-04-28T19:38:15+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "And\n as you wrote before - to avoid to prison??? You have committed the \ncrime - to steal data and you threaten to publish them. Not me - that is\n the law in CZ. No deal = I hav eto start to cooperate with Police and \nThe Office for Personal Data Protection about your attack. I know you \nare far away from here and you don\u00b4t care...",
+            "timestamp": "2021-04-28T19:38:23+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Your reputation? To attack the company using WinXP, Exchange 2007 and similar and ask 1 MIO USD? Sorry... it sounds like joke...",
+            "timestamp": "2021-04-28T19:43:24+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "On\n Google I see taht you evaluate the company basd on profile on \nzoominfo.com. Do you realy thing that company from [redacted location] in CZ \nhas sales [redacted] 000 000 USD. I wish to be...",
+            "timestamp": "2021-04-28T19:46:30+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "https://www.google.com/maps/place/[redacted]?hl=cs-CZ",
+            "timestamp": "2021-04-28T20:12:01+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "This\n conversation doesn't lead to conclusion. Your expectation from this \naction is far away to our reality. Now, we have taken a decision to \nre-build the company IT structure starting tomorrow 29/04, 10:00 CET. \nPlease, understand to your error that you have made with tip and attack \nsmall company, send to us decryptor and keep your reputation in your \nworld. Be sure, if you are ready to \"ruin our world\", we are ready to \nbuild it again. From zero to hero. Thanks for the challenge.",
+            "timestamp": "2021-04-28T21:21:54+03:00"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok tell us fast where we have to pay?",
+            "timestamp": "2021-05-01T15:44:21+03:00"
+        }
+    ]
+}

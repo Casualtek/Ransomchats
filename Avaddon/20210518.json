@@ -1,0 +1,90 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "My files are encrypted, I just found this note. What do I do next?",
+            "timestamp": "02:52 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hello! You have been infected by the Avaddon\n ransomware. Price for you is $400,000. To receive a general decryptor, \nyou need to pay the amount indicated to you in the BTC on the landing \npage. After paying the ransom, you will receive a general decryptor that\n will decrypt absolutely all PCs and servers on your network. We will \nalso provide you with a list of vulnerabilities in your network so that a\n similar situation does not happen to you in the future. We also \nguarantee the anonymity of the and attack no one will recognize this \nincident. We are ready to talk to you and discuss on this matter.",
+            "timestamp": "02:59 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "What did you take? May I have a list of files to show my boss?",
+            "timestamp": "17:23 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "wait few min",
+            "timestamp": "17:46 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We will prepare a small archive for you today and send it to you.",
+            "timestamp": "17:47 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hello guys",
+            "timestamp": "05:25 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Sorry for taking so long.",
+            "timestamp": "05:25 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": "05:26 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Password: [redacted]",
+            "timestamp": "05:26 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, we are downloading now and will reach out soon",
+            "timestamp": "23:06 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "ok",
+            "timestamp": "23:18 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Specify when you will?",
+            "timestamp": "23:19 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Any news?",
+            "timestamp": "17:55 22.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand how serious this is, but my \nboss does not. Will you send a list of the files you took so I can show \nthem how serious this is?",
+            "timestamp": "17:57 25.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We can send you some random files so that \nyou can be sure that we have the files. We will not send the tree. But \njust know that we have a lot of files and the leak is big, if you do not\n understand the severity of the situation, go and read our blog.",
+            "timestamp": "18:28 25.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Yes, please send the files.",
+            "timestamp": "15:07 27.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Didn't you download the old archive? There is data.",
+            "timestamp": "15:10 27.05.2021"
+        }
+    ]
+}

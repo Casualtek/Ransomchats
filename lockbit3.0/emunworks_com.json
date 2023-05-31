@@ -1,0 +1,45 @@
+{
+    "chat_id": "Chat: *************FD63B4",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "25.07.2022 12:48:58 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "how much?",
+            "timestamp": "25.07.2022 12:49:32 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "how much??",
+            "timestamp": "25.07.2022 12:50:00 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "All operators are busy at the moment, please wait for an answer.",
+            "timestamp": "25.07.2022 13:39:14 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "25.07.2022 13:40:33 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "??",
+            "timestamp": "25.07.2022 14:09:52 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "To decrypt your files and prevent us of destructive actions against your company you will need to pay $200 000 . We also have all your files.",
+            "timestamp": "25.07.2022 15:11:05 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "What's your decision? Are you ready to pay? You don't have much time.",
+            "timestamp": "26.07.2022 14:38:11 UTC"
+        }
+    ]
+}

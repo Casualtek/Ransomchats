@@ -1,0 +1,400 @@
+{
+    "chat_id": "20201126",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "In the ransom note, you stated that you took 500 GB of information, can you provide us examples of this information",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello.\nIf you are satisfied with the screenshots of the folders, we will provide them to you within a few minutes.\nOr we can provide you with a link to some of your data for review. But it will take about an hour.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "we will take both",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Good. 10 minutes and we will provide you with screenshots.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. we will wait for file samples as well",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "ok",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We would like to draw your attention to the fact that we did not delete\n data from your ESXI servers. The information is also encrypted there. \nIf we make a deal, we will give you a decryptor so that you can restore \nthe servers.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "But we do not guarantee recovery if you carry out any manipulations with these servers.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Understood",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Good. This also applies to other files outside of ESXI.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "please send the sample files when ready",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We have started transferring some of the data to the new server so that\n you can familiarize yourself with the data. It will take some time. In 5\n minutes you will be able to get acquainted with what we have already \ntransferred for you.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We will upload files here for review.\nThe link is available through the TOR browser.\nSome of the data is still in the process of being copied.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank You",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We've finished copying the sample data for you.\nCan you please tell me, are you only interested in data files or are you also interested in the decryptor?\nAs we already wrote before, we strongly discourage using third-party solutions.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "3rd party solutions? Is there different pricing for breaking it apart?",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "3rd party solutions - Various programs, the descriptions of which say \nthat they can recover data, but this is not the case. Typically, the use\n of such third-party programs leads to the fact that our decryptor can \nno longer recover your data.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you are ready to move on to the deal in the near future, then we can\n provide you with a discount. If you do not need a decryptor, then the \ndiscount will be slightly higher.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand now on the 3rd party solutions. thank you",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing the details. I am discussing with the board",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Good. We will be in touch.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Our board is having issues with the quantifying the 500 GB that has \nbeen taken. To help them out, is there a certain IP or something I can \nhunt for to quantify this on the exfil side. Based on this, then the \nboard should be in a position to discuss options.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Do I understand correctly that you do not need a decryptor?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "That is incorrect. We are still understanding the damage caused to the organization.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "This is just business, it makes no sense for us to lie or not fulfill \nobligations. If we do business this way, there will be no profit for us.\nIn fact, you question is very strange - we think that the provided data \nis already enough to understand the seriousness of your problem. it's \nall about your reputation and possible damage to your customers.\nWe have been in your network for more than 2 weeks and we think you \nunderstand that there was enough time to download even more information.\nYou can also read about REvil on the Internet and find out that 500 \ngigabytes is a small leak, since sometimes several terabytes of data are\n downloaded.\nAnd also you will find out that if we can't reach the agreemnt, then we will have to publish some of the data in our blog.\nYou should also know that in 5 days the amount will be doubled.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for this as providing this explanation",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We have performed the research that you requested. In addition, we have\n studied ransom payments from various third party sources. The board is \nasking for you to consider $800K for the package to gain consensus. Can \nwe agree to this amount?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Do you want us to give you a discount of more than 90%? Of course this is impossible.\nI will give you a small example. The company is close to your profile, \nthe annual turnover was 2.5 times less, as well as we had 2 times less \ndata and we have already published some of the data in the blog - as a \nresult, this company paid 4 million.\nThey also did not need a decryptor - they were able to recover from the backups that we missed.\nNext comes simple math.\nWhat you read is either small companies or information with understated \namounts. Most companies do not advertise the fact of hacking and \npayment.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Apparently you do not realize the seriousness of the situation and the consequences.\nLoss of reputation\nLoss of clients and possible litigation with them.\nFinancial losses due to downtime that can take a very long time.\nYour data will also be seen by your competitors\nThe stocks in the market will begin to fall, and this is clearly not to your investors' liking.\nAnd much more.\nYou are a big, serious company - be realistic.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you are ready to seriously discuss the deal in the near future, then we will be ready to slightly reduce the amount.\nIf your new proposal is again frivolous, we will have to prepare a blog post with the first part of the data.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We want to seriously discuss this and as you said, this is a business \ndeal so please give me something to work with and I will discuss with \nthe board and come back to you.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "if we work together I am sure we can gain consensus",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "here is one article as part of our research \nhttps://www.tripwire.com/state-of-security/security-data-protection/increase-in-ransomware-demand-amounts-driven-by-ryuk-sodinokibi",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "again we want to gain consensus",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "I recommend that you do not trust such reports.\nWe don't know what information the Coveware report was based on.\nHow many companies are using Coveware?\nWhat is the size of the company and what is their revenue?\nWas there a data leak?\nOr was the company able to recover on its own and the company was interested only in non-disclosure?\nCompany profiles?\nAnd much more.\n\nWe also recommend that you be extremely careful when contacting a company like Coveware.\nAs practice shows, the task of such companies is to make money on the client's problem. Most often they use payment per hour.\nTherefore, they usually start to play for time during negotiations and thereby pull money from the client.\nThey won't care about your data. And if the deal does not take place, \nthen the data is published and companies like Coveware will do it anyway\n for this fact - they will still make money.\nThey are often too confident that we will agree to any amount and will \nnot publish the data, but you can take a look at our blog and see how \nmany companies they faked in this way.\nIt is also a frequent case when we publish the first part of the data - \ncompanies immediately go to the deal, understanding how serious \neverything is.\n\nReturning to the topic of statistics of payments and amounts - as you \nunderstand, the companies that ignite do not want publicity, so you \nrarely see news that the company paid 5-10-15-20 million. But this \nhappens.\nHere is a public example for you, to which we have nothing to do, but I think the meaning will be clear:\nhttps://www.wired.com/story/garmin-ransomware-hack-warning/\n\nThis is a public event. The company did not want to pay, after which \npart of its data was published and as far as I know - after that the \ncompany quickly agreed to the deal.\n\nI could provide private evidence of other multi-million dollar deals, but of course I won't.\nWe do business with integrity. All the more would you like it if in the \nfuture we would tell other companies about your case? If we come to a \ndeal, no one will know about it, otherwise you will be another example \nfor our other companies.\n\nAs for the amount.\nI think you perfectly understand that you will incur large financial \nlosses. You are already losing money and I don\u2019t think you want it to \ncontinue like this. And now we are only talking about easy to work with.\n But do you understand that there will be other losses?\nClients will find out about what happened to you and find out that their\n data has been published, including confidential. Including problems \nwith their projects. I think it is not easy for them not to want to \ncontinue working with you, and they will also sue you. And probably it \nwill also go about millions of claims.\nSo what happens if competitors take advantage of the data we can publish?\nHow will investors react to this?\nBelieve me, there is enough data for the company to incur more serious losses and they will exceed the amount requested from us.\n\nWe are not the first day in this business and we can conditionally \ncalculate how much the company can and will be willing to pay. As well \nas possible losses of the company. Therefore, we offer an adequate \namount and it does not include the discount that we can offer if the \ncompany conducts a correct and serious conversation, and is also ready \nto conduct a deal up to double the amount and publish the first part of \nthe data.\n\nWe are still waiting for a serious offer from you. Keep in mind that \ntomorrow we will be preparing the first publication for our blog \nregarding your company - we are going to publish it on Friday if we do \nnot come to an agreement. The blog is followed by many media and as soon\n as a new entry appears there, after a few hours it appears on many news\n portals.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "A link to our blog where you can check out the leaks of other companies that didn\u2019t make the deal:\nhttp://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion\n\nI also recommend that you familiarize yourself with this material in order to avoid mistakes:\nhttp://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/posts/[redacted]",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing this and I will discuss with the board",
+            "timestamp": "19 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "As we are chatting in good faith, we would like to keep our \nconversations private. Can we setup a private chat as others might be \nviewing our conversation",
+            "timestamp": "16 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "The ransom note was uploaded to VT; therefore, I am concerned someone \ncould download and monitor. I am authorized to negotiate for the \ncompany.",
+            "timestamp": "15 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]@gmail.com",
+            "timestamp": "15 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We will not be able to link the gmail account with the your company.\nLinkedIn account or Facebook of an employee or company?\nPhone call?\n\nAfter you provide us with a contact for communication, we will remove it from our correspondence so that no one can see it",
+            "timestamp": "15 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We removed from the chat all the message where the name of your company\n was mentioned, as well as screenshots of the data, by which it was \npossible to determine which company could be discussed. We are waiting \nfor your contact information to switch to another chat.",
+            "timestamp": "15 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I am stepping into a board meeting and will get the information you desire for verification.",
+            "timestamp": "15 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "the phone will not work as those are down due to your encryptor",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Okay. Let us carry out verification via Facebook or LinkedIn.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We can provide you with a new private chat without verification, but if\n we are confused by the correspondence in it, we will return to the main\n chat, where we are currently communicating.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Let me know as soon as you are ready to receive a password and instructions.\nAfter that, write to us in a new chat and we will remove the password and instructions from the main chat.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Here is our proposal to link to the gmail account. we noticed that you \nused the [redacted] account to pivot in the network. Is this verification \nenough to send this to the gmail account",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Yes, that will be enough.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "did you receive instructions and password?",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "yes...",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I entered in the password",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please destroy the other chat support",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "and we will do our conversation here",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "please confirm when complete",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Why do we need this? We have removed all information that could help someone identify your company name.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "the proofs are still in the chat window",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "apologies for the extra steps as we gain consensus",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Write to me where the evidence is left and I will delete it.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "I see screenshots. I removed them.",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "kill the onion link",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "to the directory",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Ready",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you",
+            "timestamp": "13 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "I think we can start discussing the deal.",
+            "timestamp": "12 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "The board is still reviewing the information you provided and contemplating an offer back",
+            "timestamp": "12 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Good. We are in touch.",
+            "timestamp": "12 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "How are things going into the negotiation of the deal? Your time is \ncoming to an end. If by tomorrow we do not agree on a deal, we will \npublish the first post on our blog. And also discounts will cease to be \nrelevant. And we will already be discussing the next discount from the \ndoubled amount, and as you understand, the amount in the end will be \nmore than 9 million.",
+            "timestamp": "8 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "You ask for a lot in a short period as many people are discussing \noptions. Being your advocate and to gain consensus, you should realize \nthat this takes time and to post early does not help this business deal.\n As the board is considering options, do you have a new number so I can \ntake to them board.",
+            "timestamp": "8 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We all perfectly understand, but there are certain algorithms and \ndeadlines in our work, which have proven their effectiveness more than \nonce.",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "\"As the board is considering options, do you have a new number so I can\n take to them board.\" - what number are we talking about?",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "The amount for the package. You ask for $9M. I trust to gain consensus the discounts to which you speak of can be factored in",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If in the near future we come to an agreement, then I think we will be able to provide a discount of 10-15%.",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "But we will discuss the discount specifically when we receive an offer \nfrom the company. We do not recommend offering understated amounts - you\n must be realistic. Otherwise, as practice shows, negotiations are \ndelayed, which leads to publications and an increase in the amount.",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "As your advocate, I understand your position. A few questions from the board \n1) the data you have taken - how do we receive it back \n2) do you explain how you took the data and got into our company\n3) what guarantees do you provide that you will not attack us again\n4) what assurance do we receive that the data does not leak in 6 months from now (how do we know that you destroyed it)",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "5) what if the decryption key does not work - do you provide some type of support",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "1) You can recover this data using the decryptor anyway. But if required, we will provide you with a link to all your data.\n2) Yes, we will provide you with information on how we got into the company's network and how we got access to all the data.\n3) We don't do that kind of thing. This will ruin our reputation. We \nwill give you recommendations on how to avoid repeated intrusion (from \nother teams).\n4) Why will we not save them - why waste resources on this? As soon as \nwe receive payment, we will delete the data from all backup servers and \nit will remain on only one server so that you can download it if you \nneed it. Then we will remove them from there.\nThis is a business. If we leak, we will ruin our reputation and other companies will not pay us.\n5) Our software is time-tested. This will not happen if you have not tried to restore data using third-party software.",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for this. I will provide to the board. I do not know what \ntime zone you are in, but i suspect the board will provide me guidance \nin the AM. I do not know if you take a rest in your business",
+            "timestamp": "7 hours ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Good. We will be in touch.",
+            "timestamp": "7 hours ago"
+        }
+    ]
+}

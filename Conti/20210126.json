@@ -1,0 +1,50 @@
+{
+    "chat_id": "20210126",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Hi My system is encrypted I am ready to pay you tell me how much you want & where I have to pay?? Please help me fast I will do it now",
+            "timestamp": "1/26/2021, 2:27:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Hello, please introduce yourself and let me know what company do you represent.",
+            "timestamp": "1/26/2021, 2:29:21 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0[redacted] company",
+            "timestamp": "1/26/2021, 3:31:45 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So, are you trying to recover your client's network?",
+            "timestamp": "1/26/2021, 4:04:05 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0nope it's my own system",
+            "timestamp": "1/26/2021, 4:10:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So, it's a single system? If yes - I am not sure if you will be able to handle our demands, more than that - I have no idea how it could be encrypted, cause according to our records your company was not under attack by our team.",
+            "timestamp": "1/26/2021, 4:16:41 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I will handle it. I will pay it",
+            "timestamp": "1/26/2021, 4:32:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Just tell me how much & where I have to pay I will do it. You Don't have to worry about it",
+            "timestamp": "1/26/2021, 4:32:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0This exact build code was linked with [redacted]. The requested demand for this code is assigned at $1.2mil",
+            "timestamp": "1/26/2021, 4:44:53 PM"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "chat_id": "20210829",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": "29 Aug, 22:22 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Hello",
+            "timestamp": "30 Aug, 02:49 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Looks like our files encrypted by you, can you please assist?",
+            "timestamp": "30 Aug, 10:37 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Oh sure",
+            "timestamp": "30 Aug, 10:49 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "What can I help you with?",
+            "timestamp": "30 Aug, 10:50 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "we're here to negotiate, our management wants to make sure that you have our data if we are to pay, can you provide some proof of the data, sample data etc.?",
+            "timestamp": "30 Aug, 11:31 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Please let us know if we can obtain some proof data. Thanks.",
+            "timestamp": "30 Aug, 20:25 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Have you received files? Do you need more ?",
+            "timestamp": "31 Aug, 11:33 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "If so let us know, we wil prepare more data for download",
+            "timestamp": "31 Aug, 11:33 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "No we have not received the files, please send or let us know where to download the proof data. Also, we would like to see files in our buffalo backups since those systems were formatted we would like to make sure those files are available too. Thanks for working with us!",
+            "timestamp": "31 Aug, 12:01 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "All backups was securely deleted to prevent you from recovery process. Everything else was encrypted, we will prepare archive with stolen data in 30 mins, stay in touch.",
+            "timestamp": "31 Aug, 12:08 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "https://privatlab.org/s/v/[redacted]",
+            "timestamp": "31 Aug, 14:10 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "There is little sample with clients info autocad drawings and so on, check it out",
+            "timestamp": "31 Aug, 14:10 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "https://privatlab.org/s/v/[redacted]",
+            "timestamp": "31 Aug, 17:48 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Its filee tree",
+            "timestamp": "31 Aug, 17:48 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you! I will send these to our management for review.",
+            "timestamp": "01 Sep, 00:44 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "They asked if you could provide proof of some of the files below:",
+            "timestamp": "01 Sep, 00:45 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "\\\\vhost2\\data\\v[redacted]\\v[redacted]\\virtual machines\\\u00a0 \u00a0A few files from this folder.\n192.168.0.31\\data\\sqldata\\db[redacted]_eng.mdf\n192.168.0.31\\data\\sqldata\\[redacted].mdf",
+            "timestamp": "01 Sep, 00:45 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Also, while we're reviewing the files, is it possible that the timer can be stopped as we're working on the funds? Thank you so much!",
+            "timestamp": "01 Sep, 00:48 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We cannot share files like you asking for because it is database files, and one of them is database of backup software. Timer updated.",
+            "timestamp": "01 Sep, 03:31 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. Does that mean you don't obtain those .mdt requested above, and cannot provide them after payment, we would need to use the decryptor to decrypt them, correct?",
+            "timestamp": "01 Sep, 23:26 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You're right. Usually we directly download files instead of download  whole VM.",
+            "timestamp": "02 Sep, 03:13 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Hello, any news?",
+            "timestamp": "05 Sep, 12:38 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi. We checked the portal a couple of days ago and this chat portal was down, I couldn't get in to chat with you. I made a request via \"Contact Us\" button, (Request ID: [redacted] for your reference.) And we had a long holiday weekend. Can you extend the timer again due to the portal being down?",
+            "timestamp": "06 Sep, 02:30 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Also, our management wants to make sure, once the payment is make: 1) you will provide us the data back through download, 2) you will delete our data from your side and provide proof, 3) you will provide us the decryptor, with support if there is any question or issue with the decryptor), 4) you will tell us how you hacked our network, 5) you will not publish the data or the blog post / any media that you hacked our network and data. We were just able to test the decryption too now that the portal is back up. Please confirm and I will let my management know. Thank you!",
+            "timestamp": "06 Sep, 02:47 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "First of all we add 3more days in timer. 1. We will setup temporary onion website where you can download your files to understand which ones was downloaded. 2. We will provide shreder log-files with reports of deleted files so you will compare it with files ha you download. 3. Support for decryption available 24/7/365, but don't have any cases where it was needed. 4. Short penetration-test report with main killchain and recommendations how to prevent this in future. 5. Data in blog published only when we lost contact, so dont worry about it.",
+            "timestamp": "06 Sep, 03:13 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Perfect. Thank you for the confirmation!",
+            "timestamp": "06 Sep, 10:22 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Our management had a meeting today and they would like to ask if you will take $150,000. We know this amount is small compared to your initial demand, but please understand that we sell [redacted] to school and government, and as you know, since covid started, all school has closed or gone online so no one has been buying our [redacted], therefore we have been suffering as many other business. Also, looking at your main page, where you mention that you do not attack government sector, if we work with school and government like that, do we qualify for the free decryptor? Just thought we'd check. Again, thank you for working with this. Please let us know if any of these works for you.",
+            "timestamp": "06 Sep, 10:28 AM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Hello. You do not fall under our rules, it will not work for free. Maybe you mean 150k discount? We know your cash flow and amount what we're asking for is not overpriced.",
+            "timestamp": "06 Sep, 10:49 AM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for verifying that we do not fall under your rules. Please understand that we are a small company and do not have significant capital, and we are here to negotiate in good faith. Our management would like to know the amount that you can come down off the initial demand. Thank you.",
+            "timestamp": "07 Sep, 14:00 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "We can provide 20% discount and reduce 20% boost if you want to pay in bitcoin. So our best offer ~4-4.5M",
+            "timestamp": "07 Sep, 14:10 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "You're not so small how you want",
+            "timestamp": "07 Sep, 14:29 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "[picture]",
+            "timestamp": "07 Sep, 14:29 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi. the bank statement isn't actually telling much, we have expenses that the bank statement doesn't show, and a lot of those money in the statement are not ours, they're on-hold funds from other entities. If we were to pay 4M based on that bank statement, we would be out of business. Our management came back with $250,000, which is the most that they can get at this point. Please understand and help us out.",
+            "timestamp": "07 Sep, 18:50 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Its too low, take a loan or smth because your offers is awful. We better lost amount that you offers than take this. We dont care.",
+            "timestamp": "07 Sep, 18:55 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you please give us more discount? Really covid and everything have been hitting us hard. We really appreciate your help, anything we can get.",
+            "timestamp": "07 Sep, 18:57 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Sure we can but its about 250k in total.",
+            "timestamp": "07 Sep, 18:58 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry I didn't get that ...",
+            "timestamp": "07 Sep, 19:00 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Lets try to safe your and our time. We setting price for 2.5M$ for 72h. There is enough time to take decision. If you will stuck in exchange or something we will add more time.",
+            "timestamp": "07 Sep, 19:03 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Price and timer updated. Tell to you manager that he must think twice, lost encrypted data and publish whole company secrets versus 2.5M$.",
+            "timestamp": "07 Sep, 19:10 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi. Our management has gone to the board and this is a huge number for them, they can try to squeeze out $350K now, please help work with us here and see if this is acceptable. Thanks for your help!",
+            "timestamp": "08 Sep, 14:37 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "its too low. we will not accept this amount, dont try this, safe your time",
+            "timestamp": "08 Sep, 14:47 PM [NY time]"
+        },
+        {
+            "party": "Victim",
+            "content": "We've been going out to get loans from the banks and able to get $500K total. We can pay within the next 24 hours if you accept this amount. Please let us know. Thank you!",
+            "timestamp": "09 Sep, 13:33 PM [NY time]"
+        },
+        {
+            "party": "BlackMatter",
+            "content": "Its still too low. Get 1M more and we will make a deal with highest discount in history.",
+            "timestamp": "09 Sep, 15:04 PM [NY time]"
+        }
+    ]
+}

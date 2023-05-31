@@ -1,0 +1,125 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hello. My files are encrypted. Can you help?",
+            "timestamp": "1 day  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Hello",
+            "timestamp": "1 day  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Yes, we can decrypt your all files",
+            "timestamp": "1 day  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "When will you pay? You don't have much time left to pay with a discount",
+            "timestamp": "19 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. We are working as fast as we can. Can you please decrypt \nthe following files so we know that decryption is going to work?\n            \n\n[redacted]_L.jpg.[redacted]\n60.85 kB",
+            "timestamp": "18 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "File:\n            \n\n[redacted]_M.jpg.[redacted]\n14.8 kB",
+            "timestamp": "18 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "File:\n            \n\n[redacted]_T.jpg.[redacted]\n8.81 kB",
+            "timestamp": "18 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Yes. We will send the decrypted files shortly",
+            "timestamp": "15 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "First\n            \n\n[redacted].jpg\n60.71 kB",
+            "timestamp": "13 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Second\n            \n\n[redacted].jpg\n14.66 kB",
+            "timestamp": "13 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Third\n            \n\n[redacted]_T.jpg\n8.67 kB",
+            "timestamp": "13 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for decrypting the files. Our business has suffered during\n the COVID pandemic. We can pay $184,922 in Bitcoin to restore our \ncomputers.",
+            "timestamp": "13 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "If you pay within the next 24 hours we can give you $25,000 discount, but not more.",
+            "timestamp": "12 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We searched your group and people say you take data. Did you take \nany of our data? We can pay $226,000 in Bitcoin to restore our \ncomputers.",
+            "timestamp": "12 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "$250,000 and we will finish this very quickly",
+            "timestamp": "11 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. I will bring this to my management now. Are you able to tell me if your group took any data from our computers?",
+            "timestamp": "11 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "We didn't take data.",
+            "timestamp": "11 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. We accept your offer of $250,000. Can you please confirm \nthe Bitcoin wallet. We have [redacted]",
+            "timestamp": "10 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Confirmed.",
+            "timestamp": "10 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Write after sending payment.",
+            "timestamp": "9 hours  ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Payment sent, please confirm that it was received.",
+            "timestamp": "9 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "Linux decryption instruction:\n1. Upload decryptor to esxi.\n2. Set run permissions: chmod 777 decryptor\n3. Run decryptor: ./decryptor \n            \n\nlin_decryptor.out\n2.3 MB",
+            "timestamp": "9 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "The decryptor works in 2 modes:\n1. GUI\n2. Console\n\nThree functions are available in GUI mode:\n1. \"DECRYPT ALL\" - search and decrypt ALL encrypted files on the local \nPC and on network resources (Shares), where this PC has access.\n2. \"DECRYPT FOLDER\" - decrypts files in the specified folder, which you \ncan select in the \"Browse for folders\" window or drag and drop the \nfolder into the decryptor window.\n3. \"DECRYPT ONE FILE\" - decrypts a single file, which you can open in \nthe \"Open\" window or drag and drop the encrypted file into the decryptor\n window.\n\nIMPORTANT!\nExtension of encrypted files may not coincide with the extension of files, which the decryptor suggests to open!\nTo open encrypted files with other extensions, in the \"Open\" window \nselect, in the lower right corner of \"All Files (*. *)\" or just drag and\n drop the given file into the decryptor window.\nFile extension does not affect the decryption of file!\n\nConsole mode has two parameters:\n1. \"-all\" - search and decrypt ALL encrypted files on the local PC and on network resources (Shares), where this PC has access.\nYou can also use Group Policy to quickly decrypt your entire network.\n2. \"-path\" - decrypts files in the specified folder or a single file.\n3. Dragging and dropping an encrypted file or folder with encrypted files onto the decryptor file.\nIn this mode, the console window will open automatically, which will display the decryption process.\n\nCommand line examples:\n> decryptor.exe -all\n> decryptor.exe -path C:\\Folder\n> decryptor.exe -path C:\\Folder\\file.txt.[redacted]\n            \n\nwin_decryptor.exe\n76.5 kB",
+            "timestamp": "9 hours  ago"
+        },
+        {
+            "party": "Darkside",
+            "content": "You have 48 hours for support. After that, this chat will be deleted.",
+            "timestamp": "9 hours  ago"
+        }
+    ]
+}

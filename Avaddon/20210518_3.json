@@ -1,0 +1,520 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hello can you help us recover our data/",
+            "timestamp": "11:19 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can we call you to discuss how you can help us? we didn't see a telephone number or company name on the page.",
+            "timestamp": "11:20 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hello! You have been infected by the Avaddon ransomware. Price for you is $80,000. To receive a general decryptor, you need to pay the amount indicated to you in the BTC on the landing page. After paying the ransom, you will receive a general decryptor that will decrypt absolutely all PCs and servers on your network. We will also provide you with a list of vulnerabilities in your network so that a similar situation does not happen to you in the future. We also guarantee the anonymity of the and attack no one will recognize this incident. We are ready to talk to you and discuss on this matter.",
+            "timestamp": "11:25 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We are here 24/7, for all your questions, write here and we will help you.",
+            "timestamp": "11:26 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "to be honest we will not need all your services, we just need 2 files to be restored from you. hopefully we have most data but there are some recent backups that cannot be restored to a recent point. So can you restore these with 5.000$? we are ready to cooperate with you to get recent data.",
+            "timestamp": "11:37 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You must understand that the amount is indicated for everything together. We cannot provide you with a decryptor for only part of the files. The decryptor will decrypt all files.",
+            "timestamp": "12:48 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "so can you please give me a price that i can pay, so that i can purchase your service? mention that i live in greece and cannot find the money you said, not even close to it. So i want to work with you if you can help me recover my files. If you cannot i have to recreate about 30 days of entries in the database and it will take me probably 20 days to do so. I am now checking if you can help me skip the manual entries.",
+            "timestamp": "13:04 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We understand your situation and are ready to offer you a 15% discount on the total amount.",
+            "timestamp": "13:08 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "unfortunately cannot pay for your service. Can you find a solution i can pay so we can work together? The amounts you ask is for US corporation. I own office in greece and i just need part of your service. i have my data, but need to skip manual work for now. Do you believe you can give me a price i can pay?",
+            "timestamp": "13:35 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "How much can you offer us, but please note that we cannot agree on $ 5,000.",
+            "timestamp": "14:10 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "6000 $ ? How fast we can have the data back? we have already started the manual entries of invoices so until tomorrow i will have clear picture of what we have. also we are moving all our restored data to microsoft 365, eveyrhting seems to be ok apart from our 2 databases with missing data. I will know tomorrow how much work we need of manual entries.",
+            "timestamp": "15:04 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "$ 6,000 is still not enough. We cannot work with this amount. You need to offer more.",
+            "timestamp": "15:11 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "as i understand we cannot work together. So we will see what we can recover with manual work in the following days. Your service would help me a lot save time if it is fast but you are very expensive for me.",
+            "timestamp": "15:20 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "After payment we will give you our Avaddon Decryptor, which will decrypt all your files on all your PCs and servers in a few hours. You can get back to work very quickly.",
+            "timestamp": "15:25 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "that is vey good news. but we cannot meet your price needs.",
+            "timestamp": "15:52 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We want to help you and have made a big discount, but we cannot accept such a small amount.",
+            "timestamp": "15:56 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to offer more so that we can work.",
+            "timestamp": "15:57 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "what about 8.5k ?",
+            "timestamp": "18:30 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "you give us amounts that we are not interested in at all, if you want to get a decryptor you need to offer a much higher amount",
+            "timestamp": "20:01 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "please give us a price we can pay so we can decide if we can move further. Mention that we are not US, our office is in greece and we just opened after 3 lockdowns. If you cannot give us an amount we can pay we will just move forward. I really don't want to waste your time.",
+            "timestamp": "20:31 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "we understand the current situation and are ready to make concessions to you and charge a new price of $ 60,000",
+            "timestamp": "20:43 18.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "the price range you give is unfortunately out of reach, i guess we will proceed without your service. thank you for your support.",
+            "timestamp": "21:03 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "what is the maximum amount you are willing to offer us?",
+            "timestamp": "21:11 18.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Guys ?",
+            "timestamp": "05:20 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok we are ready to pay 55k$ is it ok with you?",
+            "timestamp": "08:06 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you there?",
+            "timestamp": "08:12 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Ok",
+            "timestamp": "08:17 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to send 1.44 BTC to Bitcoin address: [redacted]",
+            "timestamp": "08:18 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "I am unable to pay you ? is your bitcoin address correct?",
+            "timestamp": "09:22 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "[redacted]",
+            "timestamp": "09:24 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "This address is correct.",
+            "timestamp": "09:24 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "It's segwit address and due to that I believe I am getting the error",
+            "timestamp": "10:01 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Have you already figured out the problem? Because the address is correct, the problem is on your part.",
+            "timestamp": "10:04 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Still facing issue",
+            "timestamp": "10:13 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "If you yourself cannot buy, then seek help from a specialist. Because everything works from our side.",
+            "timestamp": "10:44 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "hi there, i want to know if you can give us a price we can pay so we can pay you. If we delay a lot discussing and chatting there is no interest from our side to buy your service. We already have setup most things in Microsoft. Our emails are ok, oru files were recovered from offline backups but we are missing 2 databases. These contain important data but we have hardcopies of invoices. Our accountants started inputting theses invoices in the old database. We have two ways here. We can work manually and in a few weeks people will put all the invoices to our offline backups and this is 100% certain. It costs man hours but will work 100%. On the other hand we have you through a chat asking insane amounts of money and we are not certain 100% that you will help us since you don't give us your company name. We told you that we will not allocate a lot of money to that. One way is certain with delay but your way is uncertain and you are asking unrealistic amounts.",
+            "timestamp": "13:15 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Guys, what nonsense are you starting to say, you just tried to put $ 55k into our account and work with us, and now you start telling us tales that this is a lot of money, a lot of money is millions of dollars, and you work with us for only 55k despite the fact that we gave you a huge discount !? Did you lie to us that you tried to send money? We are a serious organization we are \"Avaddon Ransomware\". If you have doubts about data decryption, then on your landing page there is a \"Test Decryption\" section, upload an image file weighing up to 2MB and after a while you will receive a decrypted file.",
+            "timestamp": "13:37 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Guys, do you want us to give you the motivation to pay us?",
+            "timestamp": "13:40 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": ":D",
+            "timestamp": "13:40 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Take it. We've stolen over 25GB of data from your network. What if I tell you the exact number of files? These are 50382 files!",
+            "timestamp": "13:42 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "If payment is not made within 24 hours, we will publish a post about the leakage of your data, make mass spam by emails of your competitors, clients, partners and tell them that all confidential data that they had associated with you was leaked through your fault. Believe me, we know how much money will be spent on investigations and lawsuits. It will be much more than 55k.",
+            "timestamp": "13:47 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Do you need confirmation that we have the data? This is not a problem, we will provide them to you. Just tell us to do it.",
+            "timestamp": "13:48 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "I hope you pay and I don\u2019t have to tell you what else we will do with your network in case of non-payment...",
+            "timestamp": "13:49 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Cooperating with us, we guarantee you complete confidentiality on our part, General decryptor with which you can restore absolutely all files on your PCs / Servers, a complete tree of the files we have taken from you and confirmation of their deletion after payment. We will also point out to you the vulnerabilities in your network and give recommendations on what to do to eliminate these vulnerabilities, following our security recommendations, you will be practically invisible to hacker attacks.",
+            "timestamp": "13:51 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "I think the choice is obvious. I changed the time for you to 24 hours, the time has gone. Tick tock tick tock",
+            "timestamp": "13:57 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "Sir we are not interested in your whole services. We cannot pay for it. Can you recover for us 2 files? Also we never told you that we can pay so high. We were willing to buy your service for 8.5k. Please lets find a way to work in this range so it has some value to us. The amount you ask is unfortunately out of reach by far.",
+            "timestamp": "14:07 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "these are your words \"Ok we are ready to pay 55k$ is it ok with you? \"",
+            "timestamp": "14:15 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "no sir. I didn't say that. we cannot find that money, not even close. Although we could give you money for your service, because it will help us save time. this is 5 times more than we can afford. don't forget i told you that our office is in greece. not in the united states of america or germany. So we cannot afford your services. So if you don't help us pay, we cannot pay.",
+            "timestamp": "14:32 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "In the Meaning, you didn't say that? Check out our communication history above, you wrote it.",
+            "timestamp": "14:45 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "sir we cannot pay 55k. 5k yes we can pay instantly for your work.",
+            "timestamp": "15:06 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We are not interested in this price.",
+            "timestamp": "16:03 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok",
+            "timestamp": "17:39 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "do you believe that 11000$ will work for you? i just want to see if we can help each other come to an amount that 1) can be paid 2) can be found quickly by our side, because we could be able to find some money more but we need extra time, probably a 1-2 weeks to apply for some loan. But if we delay there is no meaning for us. just let me know because we need to decide during the weekend cause i need to inform our boss to take a decision.",
+            "timestamp": "21:35 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "11,000 $ are not enough.",
+            "timestamp": "21:47 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You need to offer more if you do not want us to publish your files.",
+            "timestamp": "21:48 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "the only thing we want from your service is to have our recent files back. if we agree on that and to the amount we can pay in 3-4 days because we need some days to gather 11.000$",
+            "timestamp": "22:50 19.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "its late here. i need to go to sleep. please decide soon if you accept so we can start finding the money. every day of manual work costs about 250$, we estimated that we need about 2 months to finish manual work with invoices and update our lost data. so if you give us good price, our boss will decide to pay you for faster results.",
+            "timestamp": "22:57 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Guys, you do not understand, you have a lot of problems. To restore the normal mode of operation, you need a lot of time and money. If you do not pay, then you are waiting for news in our blog, we will publish a lot of your files that you will not like. You will get damage to much more than $ 55,000. We offer you a solution to all these issues for an adequate price.",
+            "timestamp": "23:13 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We have already made a big discount for you and are ready to work with you, but we are not satisfied with $ 11,000.",
+            "timestamp": "23:15 19.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We are ready to make a small discount for you.",
+            "timestamp": "01:25 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "you constantly say other things. not interested. we just need 2 files and an amount we can pay. small discount cannot be paid. big discount from your side will be paid. just need those files faster. why you always say not satisfied? right now we can pay you 8000$, we can find another 3000-8000$ by next week. but we cannot make money appear out of nothing. clients need to pay us for us to find the money. if you cannot work with this unfortunately we cannot afford your service. please help us pay you.",
+            "timestamp": "06:08 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Perhaps we can go down a little lower, but the price you offer absolutely does not suit us, we have already made you a big discount, if you do not go up then there will be no deal.",
+            "timestamp": "07:05 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "can we pay in installments like 5000$ for 3 weeks? please help us purchase the service. we cannot pay with money we don't have. i am trying to figure out a way to work with you, but your demands still are 3 times more than we can afford to pay.",
+            "timestamp": "09:11 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "take a loan or find money in some other way, if your files are important to you, then you will find money.",
+            "timestamp": "09:17 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "our boss visited the bank this morning, loan will take about a week to reply to us. They cannot tell us yet if they can loan to us money. I will keep you updated. But we will need time. In the meantime let me know if we can find a way with less money so we can purchase part of your services.",
+            "timestamp": "11:10 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You cannot pay for only 1 decrypted file, you either buy the General Decryptor which will decrypt absolutely all your files or there will be no deal.",
+            "timestamp": "11:12 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We will give you additional time to search for money, and we will not publish a publication about your data leak while you are looking for money.",
+            "timestamp": "11:12 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "i would like to know if we can reach an amount of 20k in 2 weeks so i can see if we can reach something like this after some time. Because everyday we pay people to input old invoices. So if we find an amount we can meet your demands or there is no chance we can reach each other demands and convenience.",
+            "timestamp": "11:18 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Guys, look, we will give you the last price, $ 30k, this price is no longer discussed, either you pay exactly 30k or there will be no deal and we can say goodbye to you.",
+            "timestamp": "11:32 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "allow us 1 week to see if we can find the funds and when.",
+            "timestamp": "12:30 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Ok",
+            "timestamp": "13:28 20.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "done",
+            "timestamp": "13:29 20.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": "07:19 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "hello",
+            "timestamp": "07:21 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Hello, how can i help you?",
+            "timestamp": "07:30 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "we have found an employee that has monero. we will buy from him today and we can pay him in installments so we will pay today to save time.",
+            "timestamp": "07:51 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "please promise that when we pay you you will recover all our files and you will stop any bad actions to our network. Also you will tell us how we will secure our network in the future.",
+            "timestamp": "07:54 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "After you make a payment, we guarantee the anonymity of the attack. We will not disseminate information about hacking your network, no one will know that your company was attacked. We will provide global decryption that will decipher all your files throughout your network. We also delete all your data and send you evidence of deletion. In addition, we guarantee you immunity from attacks on your company in the future.",
+            "timestamp": "07:56 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "When will you pay?",
+            "timestamp": "08:48 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "probably today.",
+            "timestamp": "09:45 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "probably today",
+            "timestamp": "09:45 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "We tried to decrypt this file in test decryption: [redacted].jpg.[redacted].[redacted] but it rejects it",
+            "timestamp": "09:47 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "i tried to decrypt this file in test: [redacted].jpg.[redacted].[redacted]. It doesn't decrypt it.",
+            "timestamp": "09:48 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "i tried to decrypt this file in test: [redacted].jpg.[redacted].[redacted]. It doesn't decrypt it.",
+            "timestamp": "09:48 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "your chat has problems today. i submit my chat 10 times before it accepts it.",
+            "timestamp": "09:50 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Try another image with extension .jpg",
+            "timestamp": "10:12 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "ok sir ?",
+            "timestamp": "20:06 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "why try another image? What will happen to these files that have double extention? Will they be decrypted?",
+            "timestamp": "20:12 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "my most important files have 2 additional extensions and they are not accepted by test decryption. I am starting to worry about your service to be honest",
+            "timestamp": "20:15 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "This extension is not decrypt in test decryption. In test decryption, how can you see only files with certain extensions can be decrypted. Do not worry, General Decryptor will decrypt absolutely all files on your PCs and servers.",
+            "timestamp": "20:27 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "so you guarantee that all files, even files with double extention will be decrypted right?",
+            "timestamp": "20:43 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Of course, Sir absolutely all files will be decrypted, there will be no problems with it, we promise you.",
+            "timestamp": "20:55 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "check the test decryption. i uploaded a file and it doesn't work. it doesn't open.",
+            "timestamp": "21:02 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Wait a bit",
+            "timestamp": "21:06 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "u can download your file [redacted].png",
+            "timestamp": "21:29 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "file cannot open/ try to open it and send me screenshot.",
+            "timestamp": "22:58 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Send us 1 image file and we will decrypt. Use https://www.sendspace.com/",
+            "timestamp": "23:15 21.05.2021"
+        },
+        {
+            "party": "Victim",
+            "content": "ok. this is the file: https://www.sendspace.com/file/[redacted]",
+            "timestamp": "23:39 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Ok, we'll decrypt and send it to you.",
+            "timestamp": "23:49 21.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Archive: https://www.sendspace.com/file/[redacted] Password: [redacted]",
+            "timestamp": "07:06 22.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "Here is the decrypted file",
+            "timestamp": "07:09 22.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "We received $ 100 from you. You can send the rest.",
+            "timestamp": "11:30 22.05.2021"
+        },
+        {
+            "party": "Avaddon",
+            "content": "You can download the decryptor on your payment page, update it. Run the decryptor according to the instructions.",
+            "timestamp": "20:42 22.05.2021"
+        }
+    ]
+}

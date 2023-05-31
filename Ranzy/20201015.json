@@ -1,0 +1,185 @@
+{
+    "chat_id": "20201015",
+    "messages": [
+        {
+            "party": "Ranzy",
+            "content": "Hello, you heed help?",
+            "timestamp": "15 Oct, 16:27"
+        },
+        {
+            "party": "Victim",
+            "content": "how much",
+            "timestamp": "16 Oct, 16:04"
+        },
+        {
+            "party": "Victim",
+            "content": "how much",
+            "timestamp": "16 Oct, 16:05"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hi, please wait 5 min.",
+            "timestamp": "16 Oct, 16:06"
+        },
+        {
+            "party": "Victim",
+            "content": "hello ?",
+            "timestamp": "16 Oct, 16:06"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hello.",
+            "timestamp": "16 Oct, 16:06"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Price for your case is $7,000. If you can pay this amount we send you all instructions",
+            "timestamp": "16 Oct, 16:09"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hello?",
+            "timestamp": "16 Oct, 16:33"
+        },
+        {
+            "party": "Victim",
+            "content": "Your note says all of our sensitive \ndata was downloaded to your servers. Does that mean you took our data? \nWe read an article that says you like to take data. We want our data \ndecrypted. So, if we pay we get a decryptor and all of our files back? \nIs that how this works?",
+            "timestamp": "17 Oct, 03:29"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Yes.",
+            "timestamp": "17 Oct, 03:33"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok. We are going to have a meeting to discuss this situation. Can you send us a file or two from the data you took?",
+            "timestamp": "17 Oct, 21:48"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok. We had our meeting and agree that we need the decryption program. Can you fix a file to prove your ability to decrypt?",
+            "timestamp": "19 Oct, 14:35"
+        },
+        {
+            "party": "Ranzy",
+            "content": "yes, upload file on https://ufile.io < 3mb",
+            "timestamp": "19 Oct, 16:05"
+        },
+        {
+            "party": "Victim",
+            "content": "Here is the link it gave me. https://ufile.io/[redacted]",
+            "timestamp": "19 Oct, 16:24"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hello, can you send me teamviewer access on your infected server?",
+            "timestamp": "19 Oct, 17:40"
+        },
+        {
+            "party": "Victim",
+            "content": "We can't provide you access, but if \nyou tell us what you need to look at, we can provide information to you.\n Do you need more sample files, or something else?",
+            "timestamp": "19 Oct, 19:29"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Yes, more sample files (from any \nservers and in share folders and local folders). Also tell me this \ninformation: Your OS, how to you shutdown our ransomware, and how much \nshare folders in your local network. Thanks.",
+            "timestamp": "19 Oct, 19:31"
+        },
+        {
+            "party": "Victim",
+            "content": "Win Server 2008 R2 The Anti Virus caught the malware We only have 1 server.",
+            "timestamp": "20 Oct, 02:41"
+        },
+        {
+            "party": "Victim",
+            "content": "https://ufile.io/[redacted]",
+            "timestamp": "20 Oct, 02:42"
+        },
+        {
+            "party": "Victim",
+            "content": "Any update on our encrypted file?",
+            "timestamp": "20 Oct, 21:25"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello. Have you decrypted our file?",
+            "timestamp": "21 Oct, 14:00"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hello",
+            "timestamp": "21 Oct, 14:23"
+        },
+        {
+            "party": "Ranzy",
+            "content": "We have another messages from recovery company",
+            "timestamp": "21 Oct, 14:24"
+        },
+        {
+            "party": "Victim",
+            "content": "What do you mean?",
+            "timestamp": "21 Oct, 15:57"
+        },
+        {
+            "party": "Victim",
+            "content": "In the beginning we asked another \nrecovery company to help us. Do you know the name of the recovery \ncompany that is communicating with you still? Their website said they \ncould decrypt our files, but it was a lie and I think they contacted you\n instead. Did they pay you? Please ignore them and communicate here with\n us and we will get this sorted out.",
+            "timestamp": "21 Oct, 22:10"
+        },
+        {
+            "party": "Ranzy",
+            "content": "All recovery company is scam and just write us for buy decrypt.",
+            "timestamp": "21 Oct, 22:13"
+        },
+        {
+            "party": "Victim",
+            "content": "Have you made any progress on decrypting our test file?",
+            "timestamp": "22 Oct, 15:58"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Hello yes we have progress but we dont\n understand which version our software you are encrypted, can you send \nme time when you encrypted?",
+            "timestamp": "22 Oct, 16:05"
+        },
+        {
+            "party": "Victim",
+            "content": "It looks like it happened on 10/11/2020.",
+            "timestamp": "22 Oct, 18:26"
+        },
+        {
+            "party": "Ranzy",
+            "content": "So, your files encrypted tested \nversion our software and we must scan all your system for find keys for \ndecrypt, and also my boss up price for you so final amount is 30,000$",
+            "timestamp": "22 Oct, 19:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you give us the scan tool?",
+            "timestamp": "22 Oct, 22:08"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Scan with private global decryption \nkey and when scanned collect all keys and decrypted it in real time, we \ncan connect to teamviewer and scan it or send it you after payment",
+            "timestamp": "22 Oct, 22:10"
+        },
+        {
+            "party": "Victim",
+            "content": "There is no way we are letting you \nback into the server. We also can't afford anywhere close to the amount \nyou are asking at $30,000. We could barely even afford $7,000. We are \njust a few person company. If you can't prove you can decrypt, we can't \npay you anything. The price needs to go back to $7,000 because I don't \nknow if we can even afford that. How can you decrypt the data without \ngetting into our server?",
+            "timestamp": "23 Oct, 01:49"
+        },
+        {
+            "party": "Ranzy",
+            "content": "In any case need teamviewer.",
+            "timestamp": "23 Oct, 01:53"
+        },
+        {
+            "party": "Victim",
+            "content": "Why can\u2019t we just run whatever key \nfind program you need us to run for you? We will not give you Teamviewer\n access, especially not if you want a price that we can\u2019t possibly \nafford. Can you send us the program that you need to run to find the \nkeys, then decrypt a sample file, then we can pay $7000 for decryption?",
+            "timestamp": "23 Oct, 14:02"
+        },
+        {
+            "party": "Ranzy",
+            "content": "Im already repeat you - your network \nencrypted with tested versions our software so for finding keys need \nscan your system, our scanner with private key and we do not provide it \njust like \"download this and run\". If you cant provide teamviewer and \npay $30,000 - goodbye",
+            "timestamp": "23 Oct, 14:03"
+        }
+    ]
+}

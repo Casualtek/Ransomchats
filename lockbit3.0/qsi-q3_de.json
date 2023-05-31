@@ -1,0 +1,105 @@
+{
+    "chat_id": "Chat: *************D81BF2",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "25.01.2023 09:57:20 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Good morning, you encrypted some of our machines. ",
+            "timestamp": "25.01.2023 10:02:39 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello, you pay - we give you decryptor.",
+            "timestamp": "25.01.2023 11:52:59 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "What about our data?",
+            "timestamp": "25.01.2023 11:53:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "after payment you will receive a decryptor and all copies of the data will be deleted from our servers",
+            "timestamp": "25.01.2023 12:07:39 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "what did you steal? and what amount of money are you looking for?",
+            "timestamp": "25.01.2023 13:04:45 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "we copy 30Gb data. file listing only after payment. Price for yoour company is 400k USD in Bitcoin or 380k USD in Monero",
+            "timestamp": "25.01.2023 13:14:13 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Why would we believe you without any proof? At first you only mentioned teh decryptor.",
+            "timestamp": "25.01.2023 13:15:02 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You think I didn't take anything from your network? Why do you need proof if your files are encrypted? Obviously, I took the files when I was a guest at your place.",
+            "timestamp": "25.01.2023 13:21:50 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [1.png]",
+            "timestamp": "25.01.2023 13:22:30 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [2.png]",
+            "timestamp": "25.01.2023 13:22:36 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [3.png]",
+            "timestamp": "25.01.2023 13:22:49 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [4.png]",
+            "timestamp": "25.01.2023 13:22:55 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok we checked with the people who know that data. That is not critical. And I saw, that you deleted the decryptor, so you can't decrypt anymore?",
+            "timestamp": "26.01.2023 15:37:32 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Decryptor will delete at - 2023-03-16 22:04:06",
+            "timestamp": "26.01.2023 16:23:28 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Decryptor not deleted.",
+            "timestamp": "26.01.2023 20:20:04 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Now it shows correctly. Thanks. So to be frank. The encryption is not really an issue. The lost data might be. However, as I said, the data above is not critical. Management will need something better.",
+            "timestamp": "27.01.2023 16:05:53 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ok, we will  be prepare your database for public",
+            "timestamp": "27.01.2023 17:27:36 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "your data is huge. the screenshots above are examples of random files. but what will be critical for you - may be in the total volume of data. Are we going to negotiate further?",
+            "timestamp": "29.01.2023 13:49:33 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion/post/pBI4qxYrgfRwnYPN63d679e4254be",
+            "timestamp": "29.01.2023 13:50:26 UTC"
+        }
+    ]
+}

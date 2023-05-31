@@ -1,0 +1,335 @@
+{
+    "chat_id": "Chat: *************6061AC",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "28.02.2023 10:28:36 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi tell me how much!",
+            "timestamp": "28.02.2023 10:29:25 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello. Thanks for fast answer. I think you already understood what happened. All your infrastructure was encrypted, also we extracted all your sensitive information about company/employees/billings and etc. After inspecting your docs we setted up our price - 500.000$. This price include few things: 1. Decryption tool; 2. Proofs of deletion files; 3. Full attack chain to fix your vulnerabilities in network.",
+            "timestamp": "28.02.2023 11:07:08 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "We accept just cryptocurrencies, you can choice, usual Bitcoin or more confidential for both - Monero.",
+            "timestamp": "28.02.2023 11:09:47 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You can google our name and im sure you will not find incidents where we didn't complete our promise. Because we care about our reputation. So you can be calm.",
+            "timestamp": "28.02.2023 11:12:41 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Otherwise everyone will can to download all your data from our blog, and you will need to restore your network from 0.",
+            "timestamp": "28.02.2023 11:14:48 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "guys...I try to decrypt one  single file and it fails....mhmmmmm",
+            "timestamp": "28.02.2023 13:46:13 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [Immagine 2023-02-28 145352.png]",
+            "timestamp": "28.02.2023 13:46:21 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "What file you trying?",
+            "timestamp": "28.02.2023 13:54:13 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [index.php.lockbit]",
+            "timestamp": "28.02.2023 14:44:38 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "50kb is a ridicolous size",
+            "timestamp": "28.02.2023 14:45:11 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I'll find out what the problem is, wait please. You will get answer soon as possible.",
+            "timestamp": "28.02.2023 15:28:39 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "I'm waiting....",
+            "timestamp": "01.03.2023 09:53:50 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Yeah, it's our fault, there's problem with trial decrypt's and we trying to repair this. While you are waiting you can view at listing of stolen files. For your calm you can choice any few files and i will send it here. Im so sorry for this problem, we doing all to fix this asap.",
+            "timestamp": "01.03.2023 12:56:43 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "https://file.io/uMrIbA0ktsDx  Password: !_OSM_!",
+            "timestamp": "01.03.2023 13:04:13 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello, have you read the list of stolen files?   As for the test decrypt, send us 10-20 small encrypted files and we'll see what's wrong.   If you have contacted recovery specialists, it's a waste of time, they usually only make the overall situation worse and make it harder to communicate.  We are waiting for the files.",
+            "timestamp": "03.03.2023 17:56:50 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello. We still have not received an archive of files from you to check. We are running out of time, we are ready to help if you cooperate. We also want to let you know that in 24 hours all the stolen information will be uploaded to the servers, and in another 48 hours,  it will be published on our blog. We need 20-30 files up to 50kb for verification, please prepare an archive and give it to us if you plan to solve the problem.",
+            "timestamp": "06.03.2023 21:59:34 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, anyone speaks in Italian? It would be much easier for us.",
+            "timestamp": "07.03.2023 08:28:33 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We are trying to find 20-30 little files up to 50 kb but all the file are bigger. Can you help us on finding such little file?",
+            "timestamp": "07.03.2023 08:28:55 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We are trying to find 20-30 little files up to 50 kb but all files are bigger. Can you help us on finding such little file?",
+            "timestamp": "07.03.2023 08:29:19 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ciao. Puoi prendere meno di 30 file, abbiamo bisogno di alcuni file fino a 50kb, anche se sono meno di quelli richiesti. Questi possono essere assolutamente qualsiasi file.",
+            "timestamp": "07.03.2023 10:35:01 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "In italiano va molto meglio grazie. Ho cercato file piccoli ma non ne trovo, anzi vedo solo file molto grandi  che corrispondono alle macchine virtuali criptate. Ti mando uno di quelli?",
+            "timestamp": "07.03.2023 12:03:46 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Osservare attentamente. Potrebbero esserci file di icone, file di configurazione, script, file ausiliari. Cercateli, \u00e8 nel vostro interesse.  Non \u00e8 necessario inviare una macchina virtuale). Avete provato a ripristinare i file? Siate consapevoli che potreste romperli se li mettete nel decriptatore di qualcun altro.",
+            "timestamp": "07.03.2023 13:39:19 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Accedere al NAS utilizzando SFTP e cercare l\u00ec, saranno anche adatti per i test.",
+            "timestamp": "07.03.2023 13:42:26 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Se non riuscite a trovare nulla, potete inviare i file di log delle macchine virtuali, anche se pesano un po' di pi\u00f9 - comprimeteli in un archivio e inviateli a noi.",
+            "timestamp": "07.03.2023 14:48:09 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [Screenshot_nas1.png]",
+            "timestamp": "08.03.2023 11:05:30 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "negli screenshot del nas puoi vedere che non ci sono file fino a 50kb",
+            "timestamp": "08.03.2023 11:06:34 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [Screenshot_nas2.png]",
+            "timestamp": "08.03.2023 11:07:34 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [Screenshot_nas3.png]",
+            "timestamp": "08.03.2023 11:09:46 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [Screenshot_nas4.png]",
+            "timestamp": "08.03.2023 11:13:03 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "\"BACKUP STORICO OMSSBS1.vbm\" - 9.99kb Si pu\u00f2 provare a decifrarlo con un test, se non funziona, inviatemelo",
+            "timestamp": "08.03.2023 14:00:02 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "File: [BACKUP STORICO OMSSBS1.vbm.lockbit]",
+            "timestamp": "09.03.2023 21:36:03 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "potete decriptare il file? da errore se lo carico nella finestra del trial decrypt",
+            "timestamp": "10.03.2023 13:56:14 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "OK dar\u00f2 un'occhiata, allora facciamo in un altro modo. Mettere questi file in un archivio: Tutti i file della cartella \"VeeamConfigBackup> VEEAM-SRV\", che hanno una dimensione di ~5MB e sono chiamati \"VEEAM_SRV_2023-02-24_10-00-14.bco.lockbit\". Anche il file \"BACKUP STORICO OMSSBS1.vbm.lockbit\", e il file \"BACKUP DATACENTER.vbm.lockbit\". Caricateli qui ( http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/ )e datemi il link",
+            "timestamp": "10.03.2023 14:17:06 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "ok file caricati, psw: 0z&mVMq(FClne(MI&R%4uRpWX",
+            "timestamp": "10.03.2023 14:56:05 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Download Link: http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/r/AS3PCL2tDt#99rokOeWix3P08t/W0tbSSMGM66XhTj+6qZ18e2kTbs=",
+            "timestamp": "10.03.2023 15:01:03 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "la psw \u00e8 questa: 0z&mVMq(FClne(MI&R%4uRpWX non quella mandata in precedenza",
+            "timestamp": "10.03.2023 15:03:18 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Avete inviato password identiche. Entrambi non si adattano",
+            "timestamp": "10.03.2023 15:42:58 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Quest\u00e0 \u00e8 la psw Ab5obO%#eaMpymVnyT%vfV*bX",
+            "timestamp": "10.03.2023 15:43:59 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ok. Vedr\u00f2 qual \u00e8 il problema e riferir\u00f2 in merito",
+            "timestamp": "10.03.2023 16:08:08 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "give me please uname -a command in cmd",
+            "timestamp": "12.03.2023 13:25:44 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Salve. Abbiamo bisogno della sua risposta e della sua collaborazione, perch\u00e9 ci sta mettendo cos\u00ec tanto a rispondere?",
+            "timestamp": "14.03.2023 14:31:49 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Non vogliamo farvi pressione, chiamarvi e ricattarvi, non \u00e8 professionale.  Se volete risolvere il problema, siete pregati di collaborare con noi, altrimenti potete lasciare la chat e farvi gli affari vostri, mentre noi ci occupiamo dei nostri: pubblicare e distribuire informazioni rubate.",
+            "timestamp": "14.03.2023 14:36:34 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "[~] # uname -a Linux NAS-SRV 3.4.6 #1 Tue Oct 6 10:10:48 CST 2020 armv5tel unknown",
+            "timestamp": "14.03.2023 15:47:47 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Abbiamo bisogno di sapere con certezza che potete decriptare i file. Siamo pronti per disporre il pagamento. Forniteci la prova del decrypt rapidamente per piacere!",
+            "timestamp": "14.03.2023 15:49:03 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Wait please",
+            "timestamp": "14.03.2023 18:26:28 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Salve. Abbiamo controllato i vostri file, la decriptazione \u00e8 completamente possibile. Abbiamo esaminato tutti i file forniti e siamo certi che tutto funziona. Il nostro capo fornir\u00e0 i file decriptati a breve, si prega di attendere.",
+            "timestamp": "15.03.2023 19:30:38 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion/r/8KpBTcau0o#XrIRVvoamGTfr2ahKA8dkAenJLqhLOi5LCaA0CU2u88=",
+            "timestamp": "16.03.2023 21:32:59 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Decrypt done",
+            "timestamp": "16.03.2023 21:33:02 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ciao. Abbiamo soddisfatto la vostra richiesta e mostrato la possibilit\u00e0 di decriptare i file, come potete vedere qui sopra.  Attendiamo la sua risposta.",
+            "timestamp": "17.03.2023 15:50:40 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "ma ci state prendendo in giro???? inviate un file protetto da password senza la password? Forse non avete capito che per noi \u00e8 fondamentale avere la prova che potete decriptare i file!! Ad oggi non avete fornito alcuna prova convincente.",
+            "timestamp": "19.03.2023 21:40:51 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "password 8Zo6#^4@GOn@JpKC*ghH",
+            "timestamp": "19.03.2023 22:04:30 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Mantenere la calma. Non \u00e8 un errore, non abbiamo volutamente dato subito la password per testare il vostro interesse per l'archivio e per vedere quando lo visualizzerete.  Noi siamo online e vediamo tutto e siamo pronti ad aiutarvi non appena ne avrete bisogno. La password \u00e8 qui sopra, controllate i vostri file.",
+            "timestamp": "19.03.2023 22:08:13 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Siete riusciti a controllare i vostri file?",
+            "timestamp": "19.03.2023 23:00:45 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "aspettiamo di sentirvi in questo momento.",
+            "timestamp": "20.03.2023 18:44:40 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "La vostra scelta di rimanere in silenzio \u00e8 sbagliata. Stiamo iniziando a preparare le informazioni rubate per la pubblicazione sul blog, avete sempre meno tempo per risolvere i vostri problemi.",
+            "timestamp": "21.03.2023 15:31:31 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "abbiamo letto il file ma non troviamo modo per essere sicuri che sia un documento aziendale, ne possiamo avere la certezza che il file inviatoci sia effettivamente quello criptato. Vi chiediamo di fare la prova su un documento come un disegno o altro che sia effettivamente patrimonio aziendale. Abbiamo bisogno di essere sicuri, prima di pagare, che potete veramente decriptare i nostri file.",
+            "timestamp": "21.03.2023 21:19:09 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Il nostro capo ha accettato di eseguire un altro recupero di prova. Vi preghiamo di fornire al pi\u00f9 presto alcuni piccoli file.",
+            "timestamp": "21.03.2023 22:54:51 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "non troviamo file piccoli rappresentativi di disegni o documenti riconoscibili. Ci potete aiutare?",
+            "timestamp": "22.03.2023 17:49:05 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Abbiamo gi\u00e0 decifrato i vostri file VBM, sono unici e non possono essere presi da un altro sistema. ( https://helpcenter.veeam.com/docs/agentforwindows/userguide/backup_files.html?ver=60 )  Abbiamo crittografato NAS ed ESXI. Tutto ci\u00f2 che potete fare in aggiunta \u00e8 cercare di trovare alcuni file di registro della macchina virtuale o del NAS unici e inviarceli.  In ogni caso avete 36 ore di tempo per pensarci, poi inizieremo a pubblicare i dati della vostra azienda sul nostro blog.",
+            "timestamp": "22.03.2023 21:10:17 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Il tempo sta per scadere, avete un'offerta da farci?  Sappiate che temporeggiare nella speranza di ottenere un prezzo inferiore non funzioner\u00e0. Se non collaborate con noi, rimuoveremo il decrittore e pubblicheremo gratuitamente i vostri dati sul nostro blog.  Abbiamo bisogno di una risposta forte da parte vostra, affrettatevi.",
+            "timestamp": "24.03.2023 16:18:05 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Ci chiedete un\u2019offerta ma noi non abbiamo alcuna certezza sia che voi abbiate il decrypt dei nostri dati sia che abbiate  nostri dati da pubblicare. Avete dato un timeout di 36 che non avete rispettato a riprova che non siete professionali come dite. Abbiamo salvato la chat in cui riconoscete di avere problemi con il decrypt dei nostri dati e quella in cui ci avete date un timeout che non avete rispettato. Possiamo decidere se pubblicare queste informazioni in tutti i siti specializzati e farvi perdere credibilit\u00e0 oppure tenere questa informazione riservata. A voi la scelta: ci date il decrypt e i dati che dite di aver esfiltrato e noi manteniamo la riservatezza, oppure non lo fate e noi pubblichiamo tutto e nessuno creder\u00e0 mai pi\u00f9 alle vostre promesse di decriptare. A voi la scelta. Avete 24 ore.",
+            "timestamp": "28.03.2023 12:45:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "\"Don't mistake my kindness for weakness. I am kind to everyone, but when someone is unkind to me, weak is not what you are going to remember about me.\"  Nice, cheeky try, that's how companies die.  Okay, let's play this game together. Be prepared to embarrass yourself in front of the whole world, be sure to include the First and Last Name of your system administrator, everyone will be interested to know who could not tell the difference between decrypted file or not, after that he is waiting for a brilliant career advancement.  Before you embarrass yourself, you should study who we are. And think about whether you can shake our reputation, or will you have to find a new job?  Good luck. Keep an eye on the blog.",
+            "timestamp": "28.03.2023 13:14:35 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You'll see your company on our blog soon.",
+            "timestamp": "02.04.2023 12:42:09 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Benvenuti a LockBit",
+            "timestamp": "04.04.2023 17:33:32 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion/post/m4XcsEUi7pPQBn7k642c604d8d970",
+            "timestamp": "04.04.2023 17:33:51 UTC"
+        }
+    ]
+}

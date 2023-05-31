@@ -1,0 +1,235 @@
+{
+    "chat_id": "20211026",
+    "messages": [
+        {
+            "party": "Hive",
+            "content": "Hello and welcome to Hive.\nHow may I help you?",
+            "timestamp": "2021-10-26 13:36"
+        },
+        {
+            "party": "Victim",
+            "content": "we have some files crypted and we want to decrypt them",
+            "timestamp": "2021-10-26 13:38"
+        },
+        {
+            "party": "Victim",
+            "content": "anybody there?",
+            "timestamp": "2021-10-26 14:20"
+        },
+        {
+            "party": "Hive",
+            "content": "To decrypt your files you have to pay $3,500,000 in Bitcoin. The price is not a subject to discuss.",
+            "timestamp": "2021-10-26 17:15"
+        },
+        {
+            "party": "Victim",
+            "content": "sorry, are we talking about 3,5K or 3,5M $",
+            "timestamp": "2021-10-26 18:03"
+        },
+        {
+            "party": "Victim",
+            "content": "in the first case, how should we do the payment and when will we be able to decrypt files?",
+            "timestamp": "2021-10-26 18:04"
+        },
+        {
+            "party": "Hive",
+            "content": "It's clearly the price is $3.5M",
+            "timestamp": "2021-10-26 18:06"
+        },
+        {
+            "party": "Hive",
+            "content": "We also have exfiltrated files which will be disclosed in case of refusing to pay.",
+            "timestamp": "2021-10-26 18:07"
+        },
+        {
+            "party": "Hive",
+            "content": "To convince you to pay we can make calls to your partners to notify them about the incident.",
+            "timestamp": "2021-10-27 18:38"
+        },
+        {
+            "party": "Victim",
+            "content": "No need for it. We've been checking with Finance your figures and despite willing to pay, we cannot afford the requested amount. We are a roughly over 77M $ yearly revenue company as you can check at official business directory (https://www.dnb.com/business-directory/company-profiles.[redacted].html). That amount is far away from our ability to comply with your demands.",
+            "timestamp": "2021-10-27 18:46"
+        },
+        {
+            "party": "Hive",
+            "content": "The price is not a subject to discuss.",
+            "timestamp": "2021-10-27 19:11"
+        },
+        {
+            "party": "Hive",
+            "content": "We performed files analysis. The impact of disclosure and undecryptable files will cost you few times more then $3.5M.\nTo prove that we have exfiltrated files I give you a sample archive.\n\nhttps://privatlab.com/s/v/NQqR2jo2B7SyQeBnp5y4",
+            "timestamp": "2021-10-27 19:16"
+        },
+        {
+            "party": "Victim",
+            "content": "I'm not trying to negotiate. It's just you are considering we are about 500% bigger than we are. It's just a matter of being realistic.",
+            "timestamp": "2021-10-27 19:17"
+        },
+        {
+            "party": "Hive",
+            "content": "I'll fix the number at the company's profile but it will not change anything.",
+            "timestamp": "2021-10-27 19:18"
+        },
+        {
+            "party": "Hive",
+            "content": "We will not wait forever. You have to decide.",
+            "timestamp": "2021-11-01 11:15"
+        },
+        {
+            "party": "Hive",
+            "content": "Let me explain to you something.\nThere is no other way to decrypt files other then to purchase the decryption software. The attempts to use something different then original software MAY cause irreversible damage. Your files will be unable to decrypt!",
+            "timestamp": "2021-11-02 14:40"
+        },
+        {
+            "party": "Victim",
+            "content": "We perfectly understand you but, as told before, we have a significantly lower size than you have considered. Your demands are far from feasible for us (no such cash available).\nAs I told you, we are not trying to negotiate but if we want to reach something feasible for both parties, we need to get close to realistic capabilities.\nAre you open to discuss?",
+            "timestamp": "2021-11-04 11:22"
+        },
+        {
+            "party": "Hive",
+            "content": "I offer you $2,500,000 and it's valid until the end of the weekend.",
+            "timestamp": "2021-11-04 20:02"
+        },
+        {
+            "party": "Victim",
+            "content": "Still high, but anyway I'll pass your offer to management. Anyway, is there any proof of trust that the decryption software will fully solve the issue?",
+            "timestamp": "2021-11-05 14:35"
+        },
+        {
+            "party": "Victim",
+            "content": "By the way, we don't have Bitcoin. How shall we proceed?",
+            "timestamp": "2021-11-05 14:47"
+        },
+        {
+            "party": "Hive",
+            "content": "To prove the decryption software works you may upload few encrypted files and a key related to them. It usually locates at C:\\*.key.* or at root of a shared folder",
+            "timestamp": "2021-11-05 16:29"
+        },
+        {
+            "party": "Hive",
+            "content": "You may purchase Bitcoin here -  https://www.kraken.com/\n\nJust create a new business account and make SEPA-payment.\nAfter registration and SEPA-payment you should immediately contact to Kraken Support and raise the withdrawal limit to $2.5M per 1 BTC transaction.",
+            "timestamp": "2021-11-05 16:35"
+        },
+        {
+            "party": "Victim",
+            "content": "there are several files like this one",
+            "timestamp": "2021-11-05 16:57"
+        },
+        {
+            "party": "Hive",
+            "content": "Yes, and then upload encrypted files which contain 4igKANBkvldLbBKaHpLIOSo-[redacted]*.[redacted]",
+            "timestamp": "2021-11-05 19:03"
+        },
+        {
+            "party": "Victim",
+            "content": "OK OK, now I undertand",
+            "timestamp": "2021-11-05 20:51"
+        },
+        {
+            "party": "Victim",
+            "content": "I will upload a single folder with different file types. Is it OK?",
+            "timestamp": "2021-11-05 21:00"
+        },
+        {
+            "party": "Victim",
+            "content": "my colleagues are warning me about some sort of verifications asked by Kraken registration. I will be updating status.",
+            "timestamp": "2021-11-05 21:02"
+        },
+        {
+            "party": "Hive",
+            "content": "Upload few encrypted files with a key. You don't have to upload full folder.",
+            "timestamp": "2021-11-05 21:03"
+        },
+        {
+            "party": "Victim",
+            "content": "there you go",
+            "timestamp": "2021-11-05 21:29"
+        },
+        {
+            "party": "Hive",
+            "content": "I have uploaded one file and others, I see they contain important info. I can mask some data in it^\n\nPassphrase : XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\nVault      : Serverdom\nMachine    : SERVERDOM",
+            "timestamp": "2021-11-05 21:35"
+        },
+        {
+            "party": "Hive",
+            "content": "Name\tType\tData\tTimestamp\n_msdcs\t\t\t\n_sites\t\t\t\n_tcp\t\t\t\n_udp\t\t\t\nDomainDnsZones\t\t\t\nForestDnsZones\t\t\t\n(same as parent folder)\tHost (A)\t192.168.YYY.XXX\t03/07/2019 19:00:00\n(same as parent folder)\tHost (A)\t192.168.YYY.XXX\t01/09/2019 16:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t20/06/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t25/08/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t25/06/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t25/06/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t25/06/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t13/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 10:00:00\nBackups\tHost (A)\t192.168.YYY.XXX\tstatic\nBackups2\tHost (A)\t192.168.YYY.XXX\t29/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t12/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t12/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t18/06/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 19:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t29/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 0:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t23/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 0:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t22/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t29/08/2019 3:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/09/2019 3:00:00\nGestion\tHost (A)\t192.168.YYY.XXX\t28/08/2019 8:00:00\n[redacted]\tHost (A)\t10.0.0.11\tstatic\n[redacted]\tHost (A)\t10.0.0.12\tstatic\n[redacted]\tHost (A)\t10.0.0.13\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t23/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\nLAPTOP-[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 13:00:00\nLAPTOP-[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 3:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 16:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 19:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 17:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t07/09/2019 22:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t13/08/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/08/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/07/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t24/07/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 17:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/08/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t07/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t16/07/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t16/07/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t07/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t24/07/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/07/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t17/07/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t22/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t29/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 17:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 10:00:00\n[redacted]SRV\tHost (A)\t192.168.YYY.XXX\t31/08/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 16:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 20:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 0:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t29/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 22:00:00\n[redacted]SRV\tHost (A)\t192.168.YYY.XXX\t08/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/08/2019 14:00:00\nNAS-2\tHost (A)\t192.168.YYY.XXX\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/07/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 0:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t27/08/2019 3:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 2:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 11:00:00\nPRESTA[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 19:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 7:00:00\n[redacted]-HP\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t30/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/09/2019 5:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 12:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\nSERVER[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 13:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t31/08/2019 8:00:00\nSERVER[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 11:00:00\nserverdom\tHost (A)\t192.168.YYY.XXX\tstatic\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t25/08/2019 8:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 8:00:00\nServerEditorial\tHost (A)\t192.168.YYY.XXX\t05/09/2019 13:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 8:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\nservergit\tHost (A)\t192.168.YYY.XXX\tstatic\nServerHCM\tHost (A)\t192.168.YYY.XXX\t02/09/2019 8:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t11/08/2019 8:00:00\nserverjava\tHost (A)\t192.168.YYY.XXX\tstatic\nSERVERMD\tHost (A)\t192.168.YYY.XXX\t08/09/2019 8:00:00\nServerMonPrint\tHost (A)\t192.168.YYY.XXX\t03/09/2019 8:00:00\nserverpc\tHost (A)\t192.168.YYY.XXX\tstatic\nserverphp\tHost (A)\t192.168.YYY.XXX\tstatic\nserverrails\tHost (A)\t192.168.YYY.XXX\tstatic\nServerRDP\tHost (A)\t192.168.YYY.XXX\t25/08/2019 8:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t25/08/2019 9:00:00\nSERVERSAP\tHost (A)\t192.168.YYY.XXX\t03/09/2019 8:00:00\nSERVER[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 11:00:00\nSERVER[redacted]\tHost (A)\t192.168.YYY.XXX\t30/06/2019 6:00:00\nServer[redacted]\tHost (A)\t192.168.YYY.XXX\t01/09/2019 8:00:00\nSERV[redacted]\tHost (A)\t192.168.YYY.XXX\t28/08/2019 10:00:00\nServervpn\tHost (A)\t192.168.YYY.XXX\t25/08/2019 15:00:00\nserverweb\tHost (A)\t192.168.YYY.XXX\tstatic\nServerWebW1Apps\tHost (A)\t192.168.YYY.XXX\tstatic\nSERVERWSUS\tHost (A)\t192.168.YYY.XXX\t26/08/2019 8:00:00\nSrv[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 8:00:00\nSRV[redacted]\tHost (A)\t192.168.YYY.XXX\t07/09/2019 15:00:00\nSRV[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 9:00:00\nSRV[redacted]\tHost (A)\t192.168.YYY.XXX\t25/08/2019 15:00:00\nSRV[redacted]\tHost (A)\t192.168.YYY.XXX\t26/08/2019 8:00:00\nSRV[redacted]\tHost (A)\t192.168.YYY.XXX\t07/09/2019 11:00:00\nsrv[redacted]\tHost (A)\t192.168.YYY.XXX\tstatic\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 11:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t03/09/2019 8:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t29/08/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 3:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t08/09/2019 22:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t04/09/2019 14:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t05/09/2019 15:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t02/09/2019 16:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 12:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t06/09/2019 13:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 9:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 10:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 7:00:00\n[redacted]\tHost (A)\t192.168.YYY.XXX\t09/09/2019 7:00:00\n[redacted]ADMIN01\tHost (A)\t192.168.YYY.XXX\t21/06/2019 9:00:00\nWIN-[redacted]\tIPv6 Host (AAAA)\t2002:1400:0122:0000:0000:0000:1400:0122\tstatic\n(same as parent folder)\tName Server (NS)\tserverdom02.[redacted].local.\tstatic\n(same as parent folder)\tName Server (NS)\tserverdom.[redacted].local.\tstatic\n(same as parent folder)\tStart of Authority (SOA)\t[222783], serverdom.[redacted].local., hostmaster.[redacted].net.\tstatic",
+            "timestamp": "2021-11-05 21:38"
+        },
+        {
+            "party": "Victim",
+            "content": "too much masking, isn'tit?",
+            "timestamp": "2021-11-05 21:40"
+        },
+        {
+            "party": "Victim",
+            "content": "i cannot use them for checking validity",
+            "timestamp": "2021-11-05 21:41"
+        },
+        {
+            "party": "Hive",
+            "content": "All you need is to see that I have decrypted it. There is nothing to validate more",
+            "timestamp": "2021-11-05 21:44"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand",
+            "timestamp": "2021-11-05 21:44"
+        },
+        {
+            "party": "Victim",
+            "content": "well, I'll pass the outcome to management but it doesn't appear to be complete",
+            "timestamp": "2021-11-05 21:45"
+        },
+        {
+            "party": "Victim",
+            "content": "I'll be back to you",
+            "timestamp": "2021-11-05 21:45"
+        },
+        {
+            "party": "Victim",
+            "content": "those where config files",
+            "timestamp": "2021-11-05 21:46"
+        },
+        {
+            "party": "Victim",
+            "content": "the more trivial info available",
+            "timestamp": "2021-11-05 21:47"
+        },
+        {
+            "party": "Hive",
+            "content": "I will not to disclose you any sensitive files until payment will be made. Select other files if you still do not believe that the decryption software works.",
+            "timestamp": "2021-11-05 21:55"
+        },
+        {
+            "party": "Victim",
+            "content": "no, it's OK. I'll give that to management and if they trust it I'll keep you posted",
+            "timestamp": "2021-11-05 22:02"
+        },
+        {
+            "party": "Hive",
+            "content": "I need to hear an update from you today",
+            "timestamp": "2021-11-08 17:43"
+        },
+        {
+            "party": "Victim",
+            "content": "guys, we finally give up with this shit",
+            "timestamp": "2021-11-14 18:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Kraken has blocked our registration and funds cannot be moved",
+            "timestamp": "2021-11-14 18:53"
+        },
+        {
+            "party": "Victim",
+            "content": "it seems to be an impossible process",
+            "timestamp": "2021-11-14 18:53"
+        },
+        {
+            "party": "Hive",
+            "content": "I'm sure this situation will be resolved",
+            "timestamp": "2021-11-14 20:48"
+        }
+    ]
+}

@@ -1,0 +1,535 @@
+{
+    "chat_id": "20210203",
+    "messages": [
+        {
+            "party": "Babuk",
+            "content": "Hello! Technical support is ready to answer you",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, I'm writing on behalf of [redacted]. Is this the right place to ask for information?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Hello!\n That's right, to start a dialogue, I ask you to answer 2 questions 1) \nAre you a recovery company 2) Do you have insurance against ransomware \nprograms?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "1)\nI'm not part of a recovery company. We are an IT company working with \nthem in other fields. We just decided to give them a hand in handling \ncontacts with you, since they do not have the required technical \nknowledge. 2) I have no information regarding that matter unfortunately,\n i do not know if they have insurance or not (though I'd bet they don't)",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Before\n we move on to discussing the price, upload 4-5 files of encrypted files\n no more than 10MB using any file exchanger, we will decrypt these files\n as a test",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok,\n I'll come back as soon as I have them, just need a moment to collect \nthem. is something like a link shared via Google drive OK for you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Ok, write to me as you are ready to provide files",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Also\n send us the ecdh_pub_k.bin file from those computers from which you \nwill download files, this ecdh_pub_k.bin will be placed in% appdata%",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok,\n I'll be back in some minutes to tell you how much time we'll have to \nwait (i can't recover the data myself unfortunately)",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "independent attempts without our help to decrypt files may lead to their loss, I would not advise you to do this",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "don't worry, we know how this type of issues work, we prevented them from attempting anything rush",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok,\n i should be able to recover 4-5 files and the related public key in a \ncouple of hours. I'll text you back then. for now, thanks for the \ninformation",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "You\n can find a simple archive with three files and your public key at the \nfollowing link: https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "The content is a 7z archive password-protected. The password is \"[redacted]\" (without quotes)",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Be careful because I fear the link will expire after one download",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "I downloaded your files, please wait",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "link will be available for 1st download https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Downloaded, received and correctly visualized the plaintext, thanks for the proof of work",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Can I move on to ask you about your demands?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Ok, now we can continue the dialogue",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "yes, 1 minets please",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "We\n know that [redacted] is a large company with an annual turnover of $ [more than two dozens] \nmillion a year, a price of $ 400,000 for a complete expansion of all \nsystems",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I'll \nrefrain from reacting to it: I'll just tell you that such an amount is \nsimply impossible to move for an Italian company. There is no way a \ncompany would be able to purchase that amount of coins (bitcoins or \nwhatever else) in a whole year. It *might* be doable if they were like \n20, 30 thousands, but more than that seems totally impossible to me.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Anyway, I'll relay your demands to the company, I'll forward your feedback to you as soon as they answer me",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Anyway, I'll relay your demands to the company, I'll forward your feedback to you as soon as they answer me",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for your cooperation, for now",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "\"I'll forward THEIR feedback to you\" (typo)",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "BTW,\n I'll probably be back in some hours, since it's late evening in Italy \nand I don't think they'll answer me now. I'll be back as soon as \npossible",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "We can make a \ndiscount, but it must be reasonable, we will wait for comments from the \ncompany and we are waiting for you in this cha",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Ok, we are in touch and ready for a dialogue, and ask them about insurance",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hi\n we talked with the company. For them the damage is 1 month of work of 4\n people and is worth 40k because have an offline backup. For you can be \nok?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "We understand \nperfectly well that if you had backups, if you didn\u2019t have a dialogue \nwith us, we can accept. from you 100 000 usd, it will be a big discount,\n if you agree then we will move on to the deal, if you need time to \nthink it over, this is your time in any case you need the decryptor, not\n me",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "they have\n ready 55k usd to close the deal and for Wednesday you'll have the money\n in your wallet. Can you agree with it?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "We understand that the company can afford to pay 100 00, we went to you for the purchase and made a big discount",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "100 000",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I'll talk with them",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Ok, also if they have insurance, this will not incur financial losses for them at all, the insurance will pay everything",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "they don't have an insurance",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Well then, I advise you to buy it in the future.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "in italy with the italian law it's hard to cash out this amount. With difficulties we can arrive to 65k.",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "We had clients from italy who could easily pay 350,000, let's stop at 85k, it will be optimal for you and us!",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I'm talking with them. Please 5 minutes",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "BTW\n just genuinely asking: how did they pay you such an amount? i can't \nimagine a way to move 350k from Italy in few days, it's just really \ndifficult unless it happens via bank wire",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "They\n worked with the bank, we cannot tell you the company, for the reason: \nthey paid, we keep secret information about our clients who made the \ntransaction",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "sure,\n as I said I was just asking out of curiosity. Anyway, we convinced  \nthem to make an effort for 85k usd, since it's in the interest of their \nbusiness.",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Okay, do you need instructions on how to buy bitcoin? Or will you do everything yourself?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I'll speak with them to understand how they want buy it",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "can you give us your instruction to pay you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "There\n are bitcoin ATMs in italy, you can use it or buy bitcoins on the \nexchange https://www.finder.com/it/how-to-buy-bitcoins, or find a \nprivate bitcoin broker in italy (this is the safest option) as soon as \nyou are ready to transfer I will give you a wallet",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok do you know i can do with an atm and where i can find it and use it to give the money",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "https://coinatmradar.com/country/105/bitcoin-atm-italy/",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "we have some questions",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "1)\n is it ok for you if they proceed via coin ATM? Do you know if they can \ndirectly transfer funds to your wallet via the ATM, or do they need to \npurchase coins and them separately transfer them?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "2)\n once the decryption process begins, they obviously need some form of \nwarranty that everything is working. As for what we could see, your \nsoftware encrypted files, destroyed filesystem shadow copies and \ncompromised backups.  What kind of technical warranty can you provide \nthat everything will work smoothly even for big files (full VM disks) \nand LAN backup?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "and\n 3) given that we have an agreement, could you delete the post you \npublished [redacted]? this would prevent the company from having to \nmove on with legal procedures, which they are legally compelled to \nfollow if they have notice of a data breach. if you delete that post, \nthere will no longer be any evidence, and they will be able to avoid \nthis.",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "1) For ATM, you'd \nbetter top up your wallet and then send us 2) File size doesn't matter, \nwe made all required tests before encrypt your network",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "3) post will be removed today",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "The decryptor works the same as the encryptor only in the other direction",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok thanks, we'll start with the work",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "During\n the day, the moderator of [redacted] will delete the topic, I wrote \nhim a private message and also wrote in the topic, you can check it",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "thank you, we will get back to you soon",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "threads [redacted] -deleted, please cheked",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Cheked, thanks! we are buying the btc. I'll ping you asap",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Hello, when you will have required amount of bitcoin's write here",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "yes",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "You ready to pay?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "not yet, we are buying",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Okay, what date should I expect to be paid?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Wednesday please",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Okey",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Any dialogues with us only in this chat, any other email and etc contacts are invalid",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, sure!",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, sure!",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Hello, how your progress?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We will have a call at 2 pm to understand the progress",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "i'll update you",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "okey",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "sorry only a question",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "we can decrypt file by file too?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "with your tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "our tool decrypt full pc",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Unlocker decrypt full network",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "FYi we did a revolut account and tomorrow we will have the btc",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "so in the afternoom we can do it",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Well,\n as soon as you are ready to transfer money, write to us, you will give \nyou a new link to the chat, where we will conduct the transaction, it \nwill be better for your safety and anonymity",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "ok thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "sorry\n do you have an account revolut? because who bought the btc didn't know \nthat you can not move it to an external wallet ( out the revolut \nplatform )",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "No, but I do \nnot think that you will have any problems with the transfer, you should \nbe able to transfer to any bitcoin wallet",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "i check now, because maybe with revolut you can send only to an revolut account",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "You will need to somehow solve this problem, and be able to transfer to any bitcoin wallet",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "yes we do",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "admin:https://www.reddit.com/r/BitcoinUK/comments/7gv9ia/revolut_will_not_allow_you_to_send_purchased/",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "yes we saw, we are finding a solution",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "please send us another link by mail",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "to chat",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "Please\n give your email address in the company's domain @ [redacted].com there we \nwill send a new link to the chat, you will need to restart your browser \nand follow the link",
+            "timestamp": ""
+        },
+        {
+            "party": "Babuk",
+            "content": "so we can verify that you are indeed on behalf of [redacted] and the correspondence is confidential",
+            "timestamp": ""
+        }
+    ]
+}

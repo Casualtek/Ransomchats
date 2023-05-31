@@ -1,0 +1,355 @@
+{
+    "chat_id": "20211004",
+    "messages": [
+        {
+            "party": "Hive",
+            "content": "Hello and welcome to Hive.\nHow may I help you?",
+            "timestamp": "4 October 05:53"
+        },
+        {
+            "party": "Victim",
+            "content": "i saw a text file and it had login info to come here.",
+            "timestamp": "6 October 22:30"
+        },
+        {
+            "party": "Hive",
+            "content": "To decrypt your files you will need to pay $500,000.",
+            "timestamp": "6 October 22:33"
+        },
+        {
+            "party": "Hive",
+            "content": "The price is not a subject to discuss.",
+            "timestamp": "6 October 22:33"
+        },
+        {
+            "party": "Victim",
+            "content": "i think theres a mix up or something. i am apr supply like it says here, but weve never had that much revenue. could there be a mixup? $500,000 would be impossible for me to pay",
+            "timestamp": "6 October 22:40"
+        },
+        {
+            "party": "Victim",
+            "content": "is anyone here?",
+            "timestamp": "7 October 14:03"
+        },
+        {
+            "party": "Hive",
+            "content": "The price isn't negotiable.",
+            "timestamp": "7 October 20:11"
+        },
+        {
+            "party": "Victim",
+            "content": "What happens if I can't pay?",
+            "timestamp": "7 October 22:05"
+        },
+        {
+            "party": "Hive",
+            "content": "Nothing. You will not be able to decrypt. Your exfiltrated files will be disclosed. We will make calls to your partners and customers to notify them about the incident.",
+            "timestamp": "7 October 22:25"
+        },
+        {
+            "party": "Victim",
+            "content": "does exfiltrated files mean you took files from me?",
+            "timestamp": "7 October 23:02"
+        },
+        {
+            "party": "Hive",
+            "content": "yes, not so much, but it will be enough to confirm the incedent",
+            "timestamp": "7 October 23:03"
+        },
+        {
+            "party": "Victim",
+            "content": "what files did you take?",
+            "timestamp": "7 October 23:05"
+        },
+        {
+            "party": "Victim",
+            "content": "can you show me what files you have?",
+            "timestamp": "8 October 20:05"
+        },
+        {
+            "party": "Victim",
+            "content": "how can i know you can fix my files?",
+            "timestamp": "9 October 00:03"
+        },
+        {
+            "party": "Victim",
+            "content": "did you take any files?",
+            "timestamp": "9 October 00:03"
+        },
+        {
+            "party": "Victim",
+            "content": "is anyone here",
+            "timestamp": "9 October 00:03"
+        },
+        {
+            "party": "Hive",
+            "content": "You are able to upload encrypted files and a key file locates at C:\\*.key.*\nEncrypted files must not contain important info in it.",
+            "timestamp": "9 October 00:29"
+        },
+        {
+            "party": "Victim",
+            "content": "k Ill upload them",
+            "timestamp": "9 October 00:30"
+        },
+        {
+            "party": "Victim",
+            "content": "there",
+            "timestamp": "9 October 00:33"
+        },
+        {
+            "party": "Victim",
+            "content": "can u open these",
+            "timestamp": "9 October 00:46"
+        },
+        {
+            "party": "Hive",
+            "content": "I have uploaded decrypted file",
+            "timestamp": "9 October 12:23"
+        },
+        {
+            "party": "Victim",
+            "content": "ok that file worked",
+            "timestamp": "9 October 15:45"
+        },
+        {
+            "party": "Victim",
+            "content": "how do i know which files you took from me?",
+            "timestamp": "9 October 15:45"
+        },
+        {
+            "party": "Hive",
+            "content": "You will get an access to your exfiltrated files storage",
+            "timestamp": "9 October 15:47"
+        },
+        {
+            "party": "Victim",
+            "content": "can you prove that you took any files?",
+            "timestamp": "9 October 16:46"
+        },
+        {
+            "party": "Hive",
+            "content": "Yes, we will do that in few hours.",
+            "timestamp": "9 October 17:41"
+        },
+        {
+            "party": "Hive",
+            "content": "Done, you can check it.",
+            "timestamp": "9 October 19:25"
+        },
+        {
+            "party": "Victim",
+            "content": "this is a list of files from my computer. are you saying you have these? how can i know this for sure?",
+            "timestamp": "9 October 20:41"
+        },
+        {
+            "party": "Hive",
+            "content": "Select any without important info in it and we will upload it for you",
+            "timestamp": "9 October 20:42"
+        },
+        {
+            "party": "Victim",
+            "content": "2021 show discounts.xlsx\n\n[redacted] VENDOR NOTES.docx\n\n[redacted] customer sales April \u2013 June 2019.xlsx",
+            "timestamp": "9 October 22:53"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay, few min",
+            "timestamp": "9 October 22:53"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks",
+            "timestamp": "9 October 22:59"
+        },
+        {
+            "party": "Hive",
+            "content": "Done",
+            "timestamp": "9 October 23:07"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks",
+            "timestamp": "9 October 23:34"
+        },
+        {
+            "party": "Hive",
+            "content": "Hello, the timer is almost gone.\nWe will publish your data soon.",
+            "timestamp": "15 October 15:00"
+        },
+        {
+            "party": "Victim",
+            "content": "alright. im gathering up all my funds and will let you know how much i can pay",
+            "timestamp": "15 October 15:57"
+        },
+        {
+            "party": "Victim",
+            "content": "i can pay you $84,600.",
+            "timestamp": "15 October 17:02"
+        },
+        {
+            "party": "Victim",
+            "content": "i dont need a program to fix my files, but id like to keep my files from being published on the net if possible",
+            "timestamp": "15 October 17:02"
+        },
+        {
+            "party": "Hive",
+            "content": "To convince you to pay we can make calls to your partners and customers to notify them about the incident.",
+            "timestamp": "15 October 17:53"
+        },
+        {
+            "party": "Victim",
+            "content": "i can pay. i said i have 84,600",
+            "timestamp": "15 October 18:21"
+        },
+        {
+            "party": "Hive",
+            "content": "The price is $500,000.",
+            "timestamp": "15 October 18:24"
+        },
+        {
+            "party": "Victim",
+            "content": "ill need time to find more money.",
+            "timestamp": "15 October 18:47"
+        },
+        {
+            "party": "Hive",
+            "content": "I'll wait",
+            "timestamp": "15 October 18:48"
+        },
+        {
+            "party": "Victim",
+            "content": "okay. if my files or name is posted before i pay, i wont pay. i don't know what this timer is counting down to",
+            "timestamp": "15 October 18:50"
+        },
+        {
+            "party": "Hive",
+            "content": "I have extended it",
+            "timestamp": "15 October 18:52"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks",
+            "timestamp": "15 October 19:01"
+        },
+        {
+            "party": "Hive",
+            "content": "You have to make a decision.",
+            "timestamp": "20 October 23:00"
+        },
+        {
+            "party": "Victim",
+            "content": "okay. i got a SBA 7(a) loan and put up all my assets as collateral so i can pay you. it hasn't funded yet, but should in the morning. when it does, i'll have a total of $112,838 that i can pay you. i know the price if $500k, but i just dont have that much money.",
+            "timestamp": "21 October 02:20"
+        },
+        {
+            "party": "Victim",
+            "content": "if this is enough, please explain how i get the money to you. thanks",
+            "timestamp": "21 October 02:22"
+        },
+        {
+            "party": "Victim",
+            "content": "hello? is $112,838 enough? if so, how do i pay?",
+            "timestamp": "21 October 16:24"
+        },
+        {
+            "party": "Hive",
+            "content": "To decrypt your files and to prevent them to be disclosed you will need to pay $500,000.",
+            "timestamp": "21 October 16:43"
+        },
+        {
+            "party": "Hive",
+            "content": "The price is not a subject to discuss.",
+            "timestamp": "21 October 16:43"
+        },
+        {
+            "party": "Victim",
+            "content": "im trying to get as much money as possible and as fast as possible. im going to need more time. ill keep working on this through the weekend and see how much more i can get. i wont be able to find over 300k and pay in an hour",
+            "timestamp": "21 October 16:50"
+        },
+        {
+            "party": "Victim",
+            "content": "thanks. the timer expires on Sunday. Even i can find all the money by then, i won't be able to pay until monday. it would be helpful to not have to worry about the timer until tuesday to give me time to figure out the bitcoin",
+            "timestamp": "21 October 17:01"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay",
+            "timestamp": "21 October 17:07"
+        },
+        {
+            "party": "Victim",
+            "content": "thank you",
+            "timestamp": "21 October 17:18"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay, I'll give you time",
+            "timestamp": "21 October 16:51"
+        },
+        {
+            "party": "Hive",
+            "content": "Hello?",
+            "timestamp": "29 October 02:06"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi! I'm here. I was able to get more money. Waiting for confirmation of the amount. I'll let ya know asap",
+            "timestamp": "29 October 02:08"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay.",
+            "timestamp": "29 October 02:09"
+        },
+        {
+            "party": "Victim",
+            "content": "hi. i have confirmation from my team that we have $275,800 available. i contacted a couple of bitcoin sellers so should be able to figure that part out as well. is this enough that we could pay?",
+            "timestamp": "29 October 15:11"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay, I agree",
+            "timestamp": "29 October 18:56"
+        },
+        {
+            "party": "Hive",
+            "content": "At the time of transfer, the amount have to be equal $275,800 in BTC.",
+            "timestamp": "30 October 02:57"
+        },
+        {
+            "party": "Victim",
+            "content": "I will transfer the funds to bitcoin company on monday.",
+            "timestamp": "30 October 03:28"
+        },
+        {
+            "party": "Victim",
+            "content": "The timer will run out before then, but I'm guessing that it shouldn't be a problem. Thank you for your help",
+            "timestamp": "30 October 03:34 Read"
+        }
+        {
+            "party": "Hive",
+            "content": "Okay.",
+            "timestamp": "30 October 03:51"
+        },
+        {
+            "party": "Hive",
+            "content": "What is ETA on the payment?",
+            "timestamp": "2 November 17:05"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi there! My bank is scrutinizing the wire transfer from me to coinbase. They are asking a lot of questions because they say these types of transfers are related to fraud. I'm telling them that I'm investing in bitcoin, so it should be okay. I'll let you know.",
+            "timestamp": "2 November 17:16"
+        },
+        {
+            "party": "Hive",
+            "content": "Okay.",
+            "timestamp": "2 November 17:18"
+        },
+        {
+            "party": "Hive",
+            "content": "It's time to pay",
+            "timestamp": "12 November 22:31"
+        }
+    ]
+}

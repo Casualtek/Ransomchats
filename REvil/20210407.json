@@ -1,0 +1,80 @@
+{
+    "chat_id": "20210407",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "You have our files?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello , yes.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please show this proof. Then we discuss price.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait for answer.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Yes",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "This is a random group of files from our huge collection.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "This is not special files. We do not care about this. Show us something more you have. This is SHIT!",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "What kind of files do you call \"special\"? Can you be a bit more \nspecific. We've got plenty of your files, but we can't know what exactly\n to pick to satisfy you. We've got your financial files, personal \ninformation of all of your employees and clients, engineering and etc. \nIf all this data will be published, believe us, it will cause a way more\n damage than the price we want.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "By concluding a deal with us, you receive a decryptor file for all your\n data, we completely delete all your data from our servers, and \nguarantee you complete confidentiality about the incident. Your \nreputation will not be affected. You also get a brief audit of an attack\n on your network, which will allow you to further reduce the risk of \nsuch incidents recurring.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for that information. But please understand that our business\n has been impacted severely by Covid and revenue is down over the last \nyear and we cannot afford anywhere near your demand. We need only one \nmachine to recover and ask if you can please reconsider to give us a \nmuch better price?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "My boss is ready to listen to your suggestion.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "The price is set after a financial audit of your company. We understand\n the situation with COVID, so we are ready to hear your proposal for a \nprice. But please note that we do not expect a low price from you. Don't\n forget that we have your financial statements when you make your bid.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "we remind you that in case of non-payment the timer will double the payment amount.",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hey! Do you have any news for us, guys?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello! You data is ready to be published. You can press the link and \nsee what we've got. It's just an example of what we have. The full blog \nwill be published after three days.\nhttp://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion/posts/[redacted]?s=[redacted]",
+            "timestamp": "21 hours ago"
+        }
+    ]
+}

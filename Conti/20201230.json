@@ -1,0 +1,735 @@
+{
+    "chat_id": "20201230",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Help?",
+            "timestamp": "12/30/2020, 2:34:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Hello",
+            "timestamp": "12/30/2020, 2:56:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Are you ready to negotiate?",
+            "timestamp": "12/30/2020, 2:57:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.best/ (TOR mirror: http://fylszpcqfel7joif.onion).\nThe recovery price is $8500000 (302.5 BTC). This initial offer is based on the details about your revenue and internal financial documents we currently have access to. If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published, all the backdoors will be removed from your network and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner to avoid additional expenses from your side on security software and on building the new network from scratch.",
+            "timestamp": "12/30/2020, 3:07:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0That's a crazy price. How do we even know if this will work?",
+            "timestamp": "12/30/2020, 3:14:33 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You can send 2 files for decrypt. Its free.",
+            "timestamp": "12/30/2020, 3:15:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0In addition, we have stolen more than 1 terabyte of information from your network.",
+            "timestamp": "12/30/2020, 3:17:52 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have a lot of questions. Maybe you've got the wrong price because we have no idea what internal financial documents show that we can pay $8,500,000.",
+            "timestamp": "12/30/2020, 3:21:06 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  Hours and Revenue analysis November 2020 YTD (2).xlsx [ 52kB ]",
+            "timestamp": "12/30/2020, 3:31:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'm not in finance but those look like revenue numbers, not profits. Can you share the files you've taken so that our team can verify?",
+            "timestamp": "12/30/2020, 3:35:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes. Please wait.",
+            "timestamp": "12/30/2020, 3:37:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. I should have 2 files for you shortly.",
+            "timestamp": "12/30/2020, 3:38:06 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  list_firstpart.zip [ 5MB ]",
+            "timestamp": "12/30/2020, 3:44:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0What's this?",
+            "timestamp": "12/30/2020, 3:51:40 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Listing of the first part of the stolen information",
+            "timestamp": "12/30/2020, 3:52:15 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Will we get more parts later?",
+            "timestamp": "12/30/2020, 3:58:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes, we are unpacking a terabyte. It will take a lot of time.\nYou can select any file from the listing and we will discard it as proof that we have these files.",
+            "timestamp": "12/30/2020, 4:00:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok please let us know once it has been unpacked. It will be important to get the full listing",
+            "timestamp": "12/30/2020, 4:06:27 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0  [redacted]-EMEA.xml.[redacted] [ 3kB ]",
+            "timestamp": "12/30/2020, 4:06:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you decrypt this?",
+            "timestamp": "12/30/2020, 4:07:10 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I have sent your file to the technical department. Wait.",
+            "timestamp": "12/30/2020, 4:08:50 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted]-EMEA.xml [ 2kB ]",
+            "timestamp": "12/30/2020, 6:00:58 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're going to review all these files.Any update on the 1 TB?",
+            "timestamp": "12/30/2020, 11:20:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Will upload the file listing as soon as it's ready.",
+            "timestamp": "12/31/2020, 1:33:54 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok we'll be here. Thanks",
+            "timestamp": "12/31/2020, 2:01:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a025 % ready.\nThis is a very slow process. Wait.",
+            "timestamp": "12/31/2020, 2:29:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It will take a few days",
+            "timestamp": "12/31/2020, 2:30:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You can choose ANY file from the listing above and we will discard it as proof",
+            "timestamp": "12/31/2020, 2:31:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We'll work on that. Offices are closed the next few days but we'll be in touch. Ok?",
+            "timestamp": "12/31/2020, 9:23:03 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This is our priority",
+            "timestamp": "12/31/2020, 9:23:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok, just keep us updated on your progress.",
+            "timestamp": "12/31/2020, 9:30:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a050% Ready",
+            "timestamp": "1/1/2021, 2:20:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a070% Ready",
+            "timestamp": "1/2/2021, 10:40:13 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. We're still here",
+            "timestamp": "1/2/2021, 1:36:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0While you're pulling the file tree, can you send us this file? 05/07/2020  02:55 PM           106,393 [redacted] - Draft 2020 05 06 v2.docx",
+            "timestamp": "1/2/2021, 4:06:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes, will upload soon",
+            "timestamp": "1/2/2021, 5:08:27 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted]---draft-2020-05-06-v2.docx [ 104kB ]",
+            "timestamp": "1/2/2021, 6:43:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0%90 ready",
+            "timestamp": "1/3/2021, 6:25:38 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks, still here and checking in.",
+            "timestamp": "1/3/2021, 4:38:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0100% ready.\nWait listing",
+            "timestamp": "1/3/2021, 5:18:45 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  listing_1tb.zip [ 9.2MB ]",
+            "timestamp": "1/3/2021, 5:24:33 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You can choose ANY file from the listing above and we will discard it as proof",
+            "timestamp": "1/3/2021, 5:25:13 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. So this is a directory of every single file you've taken from our network?",
+            "timestamp": "1/4/2021, 1:36:29 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0yes",
+            "timestamp": "1/4/2021, 2:21:52 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0total of data more 1tb",
+            "timestamp": "1/4/2021, 2:22:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0so, what other questions do you have?",
+            "timestamp": "1/4/2021, 2:29:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. We are looking now",
+            "timestamp": "1/4/2021, 4:21:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0so ?",
+            "timestamp": "1/4/2021, 7:25:14 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This is a lot of data to review. How did you get these files off our network?",
+            "timestamp": "1/4/2021, 10:12:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Packing data into an archive provides compression up to 95%",
+            "timestamp": "1/4/2021, 10:16:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0After the deal is concluded, we will give recommendations on how to prevent this.",
+            "timestamp": "1/4/2021, 10:18:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I propose to return to the discussion of the agreement",
+            "timestamp": "1/4/2021, 10:19:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0After the conclusion of the agreement, we overwrite the data",
+            "timestamp": "1/4/2021, 10:27:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we want to discuss the agreement. $8,500,000 is a lot of money. We're just trying to see all the details because that is still an unexpected amount.",
+            "timestamp": "1/4/2021, 10:46:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Even if we had that much money, how do we know you won't just take the money and resell the data?",
+            "timestamp": "1/4/2021, 10:47:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will show the cleaning logs",
+            "timestamp": "1/4/2021, 10:49:20 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0This price is indicated for restoring ALL data in your network and deleting data on our servers",
+            "timestamp": "1/4/2021, 10:53:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will give a decryptor and you will restore all the work",
+            "timestamp": "1/4/2021, 10:54:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We value our reputation and never leak any data after the deal is closed",
+            "timestamp": "1/5/2021, 6:39:28 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Alright, so we are thinking this through now. I will get back to you soon, alright?",
+            "timestamp": "1/5/2021, 7:45:42 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok, waiting.",
+            "timestamp": "1/5/2021, 7:46:25 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're trying to get answers on our end. Thanks for waiting",
+            "timestamp": "1/5/2021, 7:06:47 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok\nwaiting",
+            "timestamp": "1/5/2021, 7:10:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0If you have any questions - we can help you\nBut the sooner you conclude an agreement, the sooner you will resume work and will no longer suffer losses due to this situation.",
+            "timestamp": "1/5/2021, 7:11:51 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you send this file?\n08/03/2020  05:14 PM            13,697 [redacted]_v4 CL.docx",
+            "timestamp": "1/5/2021, 7:40:18 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes\nWait",
+            "timestamp": "1/5/2021, 7:41:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted]_v4-cl.docx [ 13kB ]",
+            "timestamp": "1/5/2021, 7:42:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks for the quick response",
+            "timestamp": "1/5/2021, 7:47:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Are you convinced? There is really a lot of your data here",
+            "timestamp": "1/5/2021, 7:48:00 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We certainly see that you have our data. Nothing to hide there",
+            "timestamp": "1/5/2021, 7:53:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0It's the price that's causing us heartburn...",
+            "timestamp": "1/5/2021, 7:54:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Publishing data will cause customer churn and you will lose much more. It is more profitable to work with us",
+            "timestamp": "1/5/2021, 7:57:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, but how do we pay if we don't have the cash?",
+            "timestamp": "1/5/2021, 10:02:26 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0There are plenty of ways to get the cash, like insurance or a corporate loan.",
+            "timestamp": "1/6/2021, 7:48:31 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0If those were option we would have pulled those levers already!",
+            "timestamp": "1/6/2021, 7:53:21 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are ready to hear your proposal which is based on your abilities, but it should be relevant to the initial offer.",
+            "timestamp": "1/6/2021, 7:58:29 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We are treating this as a data leak, no matter what. However, there is some upside to getting the files deleted (even though there are no assurances). Millions of dollars is excessive for this type of data and we don't have much need for a decryptor. Our proposal is $250,000.",
+            "timestamp": "1/6/2021, 7:22:39 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is way lower than your abilities and not as relevant to our expectations as we thought. Although I will pas your offer to my boss and get back to you.",
+            "timestamp": "1/6/2021, 7:48:08 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Sounds good. Thanks.",
+            "timestamp": "1/7/2021, 7:46:05 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We've discussed internally, and taking in consideration the facts that you are trying to work this through and the fact that you don't need the decryption tool I've managed to convince my boss to provide you the huge discount by going down to $2125000 (70% discount). If we close the deal this way we have to intention to sell or publish your data of course.",
+            "timestamp": "1/7/2021, 8:55:46 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We are still far apart but we view this is a positive step. Thank you.",
+            "timestamp": "1/7/2021, 7:41:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can we discuss with our team?",
+            "timestamp": "1/7/2021, 7:41:34 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0yes",
+            "timestamp": "1/7/2021, 7:41:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This reduction is interesting. It's almost end of week here and some of our management wants to discuss. Can we reach out next week?",
+            "timestamp": "1/8/2021, 1:41:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes, sure, let's get back to this on Monday. Just keep us updated on the progress.",
+            "timestamp": "1/8/2021, 1:46:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok",
+            "timestamp": "1/8/2021, 7:53:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're connecting on this topic later today and tomorrow morning. We may be able to increase the dollar amount.",
+            "timestamp": "1/11/2021, 6:15:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok, will be waiting for further details",
+            "timestamp": "1/12/2021, 8:45:38 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have reviewed the data and while the files contain company information, they will not cause millions in damage. Even if they did, we'd have to live with that because we are on a tight budget in 2021. However, we think there is some value with your cooperation and we're prepared to pay $400,000 immediately. We can work out the details if you want to make a profit. Otherwise, we may be out of opportunities.",
+            "timestamp": "1/12/2021, 10:32:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will discuss internally and get back to you soon.",
+            "timestamp": "1/12/2021, 11:38:56 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0great, ok thank you.",
+            "timestamp": "1/13/2021, 8:13:13 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We've discussed, despite the fact that my boss considers our last offer reasonable I managed to convince him to review it. He agreed to go down to $600k if the deal will be closed by the end of this week. Once the transfer is made you will be provided with security recommendations on network improvement, breach details, all you files will be completely wiped from our servers once and for all. \nAlso we can upload your files to mega.nz secure share and provide you with full access to it. That's a fair offer and I did everything possible to make it work. Hope you appreciate.",
+            "timestamp": "1/13/2021, 10:58:09 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We do appreciate that but we'll need to discuss since it's more money than what we have at the moment. Before we discuss, can you also confirm that we would receive a decryption tool in addition to the above deliverables?",
+            "timestamp": "1/13/2021, 6:24:56 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0As I remember you do not need a decryption tool. Am I mistaken? Most of the discount was provided based on the fact that you do not need the decryption.",
+            "timestamp": "1/13/2021, 8:08:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0There are some files that would save us time. $400,000 is not a small amount.",
+            "timestamp": "1/13/2021, 8:16:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is way below our offer. Yes, surely the decryptor would save you some time, and time means money. The $600k offer was for the data we hold. As you must understand we have some experience in negotiations, and you are trying to put us in the position that you think we accept, based on the basic information that is in the the press about usual sum we get. Relying on the press or public opinion is a mistake. About 75% of our deals are never leaked to the public or revealed. We will be waiting for your decision by tomorrow. $600k for the files or something better for full pack.",
+            "timestamp": "1/13/2021, 8:27:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we know you are very experienced. We can sense it. All we're doing is seeing how much money we can spend, and $400,000 is an large sum. If we go down this path, then we certainly want all of the items that are available.",
+            "timestamp": "1/13/2021, 10:28:14 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We've read about you in the press but we have no idea about the usual sum that you get. No one here wants to play games, and that's why we're trying to finalize the deliverables in advance. We want a solution and we assume you want to get paid. But $400,000 is only available if we can get everything. How else can we afford to pay that much?",
+            "timestamp": "1/13/2021, 10:30:33 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The $400k is too low anyways. I will talk to my boss and try to get an offer for $600k that will contain the decryptor. Give me few hours.",
+            "timestamp": "1/14/2021, 5:24:58 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Alright - your best offer that includes the decryptor will be taken under very serious consideration. Thank you.",
+            "timestamp": "1/14/2021, 7:58:23 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Talked to my boss. When he heard about the decryption tool being needed, at first he was ready to move back to the previous offer or at least move to 1.2mil (x2 from the data offer), but we've decided not too be hard on you and are ready to stay at $750k. Take this to the management and let me know what they decide.",
+            "timestamp": "1/14/2021, 1:57:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I appreciate you trying. We have a lot of money set aside for this but $750,000 just won't be possible. If the price was $600,000 then we may have been able to push closer to that. But at $750,000, it is just so far...",
+            "timestamp": "1/14/2021, 3:02:47 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We can leave it $600k if the transfer will be done today or tomorrow.\nThe BTC wallet is : [redacted]",
+            "timestamp": "1/14/2021, 3:05:00 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Let me discuss with the team. This is still above our budget but we can try to work towards it quickly. Thanks.",
+            "timestamp": "1/14/2021, 3:10:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We took this management and discussed. They were certainly appreciative of you being able to include the decryptor in the $600,000 price. While the price itself is still high for us, we feel more confident in being able to move past this with you. We may be paying more than the value, but want to keep the positivity in our discussions. As a result, we can increase our offer to $450,000 and can begin the transfer soon if you are with us. Thank you.",
+            "timestamp": "1/14/2021, 10:51:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0$600k.\ntake it back.",
+            "timestamp": "1/15/2021, 12:23:42 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0And the sum will be increased if we will not receive the funds within mentioned time frames.",
+            "timestamp": "1/15/2021, 12:24:47 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Well, increasing the sum is not going to get us any closer. I will get back to you in a bit.",
+            "timestamp": "1/15/2021, 7:44:07 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We had an early morning call. $450,000 is our limit and this is more than what we anticipated paying. We can start the payment process soon if you can agree. Otherwise, this may not be the ending we had hoped for.",
+            "timestamp": "1/15/2021, 1:06:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We know you worked hard to make this work and we appreciate it. It's just that we're at our limit.",
+            "timestamp": "1/15/2021, 1:11:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You still have a little time to conclude an agreement on the terms above. Then the price will increase.",
+            "timestamp": "1/15/2021, 5:48:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have worked day and night to make this work and we understand you're doing the same. If the price goes up then there is no way we can pay. All we ask is for a little help so that we can get the cash in your hands. $450,000 is not a small amount for us.",
+            "timestamp": "1/15/2021, 5:51:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I'm sorry. I'll talk to the boss today, but I'm afraid he'll stand his ground.",
+            "timestamp": "1/15/2021, 5:53:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. That would be helpful",
+            "timestamp": "1/15/2021, 6:16:59 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Did you talk to your boss today?",
+            "timestamp": "1/16/2021, 8:28:15 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Not yet, will update you as soon as he replies.",
+            "timestamp": "1/16/2021, 12:32:26 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok. $450k. BTC wallet : [redacted]",
+            "timestamp": "1/16/2021, 3:28:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. Can you confirm what we will receive in return of a $450,000 payment?",
+            "timestamp": "1/16/2021, 3:59:08 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0- Decryption tool.\n- Your data will be wiped from our servers\n- Security improvement tips",
+            "timestamp": "1/16/2021, 4:11:58 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0And the files will be uploaded to mega.nz for us to review?",
+            "timestamp": "1/16/2021, 4:25:54 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0we can upload on mega. yes.",
+            "timestamp": "1/16/2021, 4:41:15 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok, we'll be in touch. It may be hard since this is a holiday weekend but we'll send an update",
+            "timestamp": "1/16/2021, 4:45:20 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're hoping to pay by tomorrow, since today is a holiday. Ok?",
+            "timestamp": "1/18/2021, 1:59:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes. Let me know as soon as the transfer is made.",
+            "timestamp": "1/18/2021, 3:06:36 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Still here? Can you confirm the wallet for $450,000?",
+            "timestamp": "1/19/2021, 2:04:16 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes, just a minute.",
+            "timestamp": "1/19/2021, 2:14:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The BTC wallet is the same : [redacted]",
+            "timestamp": "1/19/2021, 2:14:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have paid. Please confirm",
+            "timestamp": "1/19/2021, 7:17:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The payment is pending. As soon as it's confirmed you will be provided with decryption software with the instructions on how to use it.",
+            "timestamp": "1/19/2021, 7:19:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok. And when will get access to the files that you took?",
+            "timestamp": "1/19/2021, 7:32:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will upload them to the mega.nz share the soonest possible.",
+            "timestamp": "1/19/2021, 7:33:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Do you have our tool yet?",
+            "timestamp": "1/20/2021, 8:26:11 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Will be ready within next 4-5 hours.",
+            "timestamp": "1/20/2021, 10:24:45 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted]_decryptor.exe [ 102kB ]",
+            "timestamp": "1/20/2021, 3:12:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're taking a look now. Any update on mega.nz?",
+            "timestamp": "1/20/2021, 3:22:04 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It's pretty much data so it keeps being uploaded. Will update you as soon as it's ready.",
+            "timestamp": "1/20/2021, 3:22:59 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. Please keep us updated",
+            "timestamp": "1/20/2021, 4:24:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Will it be available today?",
+            "timestamp": "1/21/2021, 1:21:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0please wait. about 1 tb",
+            "timestamp": "1/21/2021, 2:21:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0%50 ready\nwait",
+            "timestamp": "1/22/2021, 3:04:28 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0%90 ready",
+            "timestamp": "1/22/2021, 7:50:03 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok. Please keep us updated",
+            "timestamp": "1/22/2021, 7:51:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Is there any update on when mega.nz will be ready?",
+            "timestamp": "1/23/2021, 2:00:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0i check now\nwait",
+            "timestamp": "1/23/2021, 2:26:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://mega.nz/folder/[redacted]\ncheck please\ndownload all and open first archive \nunzip and see\nwrite please and we will delete from mega",
+            "timestamp": "1/23/2021, 2:27:37 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. I will let you know.",
+            "timestamp": "1/23/2021, 8:48:20 PM"
+        }
+    ]
+}
