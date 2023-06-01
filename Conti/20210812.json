@@ -1,0 +1,235 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hello we found the read me note which brought us here.",
+            "timestamp": "12/08/2021, 19:03:07"
+        },
+        {
+            "party": "Conti",
+            "content": "This is ContiLocker Team.\nPlease, introduce yourself (Company name and your position) and we'll provide all necessary information.\nSometimes our staff is busy, but we will reply as soon as possible.\nBe in touch, thank you",
+            "timestamp": "13/08/2021, 04:26:43"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, I'm with [redacted], one of the IT Engineers. Please do get back to us as soon as possible with the necessary information.",
+            "timestamp": "13/08/2021, 14:25:51"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know, we penetrated your network and were in it for over 2 weeks (enough to study all your documentation), encrypted your file servers, sql-servers, downloaded all important information weighing over 100 GB: personal data of customers, employees (home addresses, scans of personal documents, phone numbers), consolidated financial reports, studies, payrolls, bank statements.\nThe good news is, we're businessmen. We want a ransom for anything that needs to be kept secret, and we don't want to ruin your business.\nThe amount at which we are willing to go out on a limb for you and leave everything as collateral is $300,650. After payment, we will give you a tool to decrypt all your machines, a security report on how you were hacked, a file tree of what we downloaded from your network, and a log of the erasure of that information.",
+            "timestamp": "13/08/2021, 15:22:28"
+        },
+        {
+            "party": "Victim",
+            "content": "How do we know that you can decrypt our machines? Can you decrypt a few files first?",
+            "timestamp": "13/08/2021, 16:30:55"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, send 2-3 files to the chat room",
+            "timestamp": "13/08/2021, 17:26:13"
+        },
+        {
+            "party": "Victim",
+            "content": "IOS Mitel mobile.docx.[redacted] [ 3.8MB ]",
+            "timestamp": "13/08/2021, 17:31:41"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Logo.png.[redacted] [ 27kB ]",
+            "timestamp": "13/08/2021, 17:31:53"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Prompts.docx.[redacted] [ 17kB ]",
+            "timestamp": "13/08/2021, 17:32:03"
+        },
+        {
+            "party": "Conti",
+            "content": "IOS Mitel mobile.docx [ 3.8MB ]",
+            "timestamp": "13/08/2021, 20:39:48"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted] Logo.png [ 26kB ]",
+            "timestamp": "13/08/2021, 20:39:55"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted] Prompts.docx [ 17kB ]",
+            "timestamp": "13/08/2021, 20:40:03"
+        },
+        {
+            "party": "Conti",
+            "content": "On Tuesday, we will begin publishing and selling your data. You are only a small loss of profit for us.",
+            "timestamp": "15/08/2021, 01:11:13"
+        },
+        {
+            "party": "Conti",
+            "content": "50%.txt [ 5.7MB ]",
+            "timestamp": "15/08/2021, 01:13:39"
+        },
+        {
+            "party": "Conti",
+            "content": "You can look at the list, it has half the data we took.",
+            "timestamp": "15/08/2021, 01:15:41"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing this. We will be back in touch on Monday",
+            "timestamp": "16/08/2021, 02:10:11"
+        },
+        {
+            "party": "Conti",
+            "content": "It is Monday already. We're waiting for your decision.",
+            "timestamp": "16/08/2021, 16:17:59"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, I am sorry we are a small school we are still discussing internally. Please give us some more time we want to continue a dialogue with you. We just need some more time to talk with our management team. Thank you",
+            "timestamp": "16/08/2021, 18:13:32"
+        },
+        {
+            "party": "Conti",
+            "content": "24 hours.",
+            "timestamp": "16/08/2021, 18:56:25"
+        },
+        {
+            "party": "Victim",
+            "content": "Please work with us here we are a small college who serves the under privileged. The amount you're asking is something we cannot pay.",
+            "timestamp": "16/08/2021, 21:27:59"
+        },
+        {
+            "party": "Conti",
+            "content": "We are here. Your offer?",
+            "timestamp": "16/08/2021, 21:49:57"
+        },
+        {
+            "party": "Victim",
+            "content": "We have $75,000 on hand that we could pay as soon as possible. Will you accept that?",
+            "timestamp": "17/08/2021, 01:28:12"
+        },
+        {
+            "party": "Conti",
+            "content": "$75,000?\nDon't try to cheat us.\nWe have got a lot of your data and encrypted your system.\nWe have got a serious amount of your contracts and documentation.\nWe have the personal data of your employees.\nWe got a lot of information about your company from our pentest and OSINT departments.\nAnd you are trying to offer us a bit more than the yearly salary of a regular manager?\nThis sum can cover only a part of the total amount we can get by selling your data and vulnerabilities on auctions.\nMoreover, because we are now aware of your network structure, the next attack can be implemented in a short time.\nIt looks like you think we are stupid. Just a simple pentest on your company will cost about $40-50 thousand. And this is a price without stolen data.\nYou have one more chance to give us an adequate offer. Otherwise, we will raise the ransom amount.\nWe can only give you a small discount, if you decide to pay in 24 hours. Let your price be $250,000.",
+            "timestamp": "17/08/2021, 16:01:17"
+        },
+        {
+            "party": "Victim",
+            "content": "$250,000 is too much for us. We are talking internally to see if we can borrow or loan an additional amount which would give us $135,000. We are working to get this done as quickly as possible. Will you accept $135,000. We want to work with you, but please work with us.",
+            "timestamp": "17/08/2021, 17:39:39"
+        },
+        {
+            "party": "Conti",
+            "content": "Okay, this is closer to a good offer. We can accept $175,000 if payment will be provided in 2 days.",
+            "timestamp": "17/08/2021, 18:10:45"
+        },
+        {
+            "party": "Victim",
+            "content": "With the loan we are able to get a bit more and can pay $150,000. We can do this in 2 days or less. Please work with us here.",
+            "timestamp": "17/08/2021, 20:57:15"
+        },
+        {
+            "party": "Conti",
+            "content": "Okay. Here is Bitcoin address:\n [redacted]",
+            "timestamp": "17/08/2021, 21:09:46"
+        },
+        {
+            "party": "Conti",
+            "content": "Contact us immediately as the payment of $150,000 will be sent.",
+            "timestamp": "17/08/2021, 21:10:22"
+        },
+        {
+            "party": "Conti",
+            "content": "After this you will receive the decryption software and recommendations to avoid such an accidents in future.",
+            "timestamp": "17/08/2021, 21:24:51"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok thank you I will let my management know and will keep you updated",
+            "timestamp": "17/08/2021, 21:34:43"
+        },
+        {
+            "party": "Victim",
+            "content": "Just to confirm that after payment we will receive the decryption tool that will work to decrypt all of the impacted files from your malware and we will also receive a full file tree and proof of deletion of our data?",
+            "timestamp": "17/08/2021, 21:35:47"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes",
+            "timestamp": "17/08/2021, 21:36:16"
+        },
+        {
+            "party": "Victim",
+            "content": "We are working on the payment. Still waiting on the wire. We will still have it with in the two days. Thank you for your patience.",
+            "timestamp": "18/08/2021, 21:49:56"
+        },
+        {
+            "party": "Conti",
+            "content": "okay, we are waiting. Bitcoin address is actual; please be attentive, the address is case-sensitive.",
+            "timestamp": "18/08/2021, 21:51:45"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you and just to be clear this is the address we are to pay\n[redacted]",
+            "timestamp": "18/08/2021, 23:59:06"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok we made the payment. Can you please provide the tool, the full file listing and proof of deletion of files.",
+            "timestamp": "19/08/2021, 01:01:56"
+        },
+        {
+            "party": "Conti",
+            "content": "We will work on confirming your payment and after this will make sure that you get everything",
+            "timestamp": "19/08/2021, 04:18:03"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello just checking in again. Please provide everything. Here is confirmation\nhttps://blockstream.info/address/[redacted]",
+            "timestamp": "19/08/2021, 14:04:21"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_decryptor.exe [ 103kB ]",
+            "timestamp": "19/08/2021, 15:40:35"
+        },
+        {
+            "party": "Conti",
+            "content": "Decryptor:  \n1) Launch the decryptor under Administrative rights  \n2) Wait till the decryptor window is closed  \n3) if any of the files haven't changed the extension back to the original - repeat 1 and 2",
+            "timestamp": "19/08/2021, 15:41:04"
+        },
+        {
+            "party": "Conti",
+            "content": "Our advice to you. Put a server in the domain that will download daily updates from Microsoft. And once a week or twice a week, distribute updates from this server to all computers and servers on your network. Thus, in the future you will protect your network from known public vulnerabilities. Also install Black Carbon or Sentinel antivirus. Make it a rule to change all important passwords once a month.\nYou got a malware virus somewhere on the Internet. We used that tool and accessed your terminal. We received all necessary passwords from over there. The rest was easy.",
+            "timestamp": "19/08/2021, 19:24:37"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. When will you provide the full file listing of data as well as the proof of deletion?",
+            "timestamp": "19/08/2021, 20:41:10"
+        },
+        {
+            "party": "Conti",
+            "content": "We are preparing your data for you. It's okay, we keep our word.",
+            "timestamp": "20/08/2021, 04:06:33"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you",
+            "timestamp": "20/08/2021, 14:18:18"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, just checking in on the data again",
+            "timestamp": "22/08/2021, 17:00:43"
+        },
+        {
+            "party": "Conti",
+            "content": "Mega.nz\n[redacted]@protonmail.com\n[redacted]",
+            "timestamp": "23/08/2021, 13:50:44"
+        }
+    ]
+}
