@@ -1,0 +1,1280 @@
+{
+    "chat_id": "20201109",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Anyone there? What do we need to do here?",
+            "timestamp": "11/9/2020, 2:38:19 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Here are some files for you to decrypt, as mentioned in your note",
+            "timestamp": "11/9/2020, 2:40:09 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0  decryption files.zip [ 256kB ]",
+            "timestamp": "11/9/2020, 2:41:17 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Greetings! We are ready to help you!\nPlease, introduce yourself.",
+            "timestamp": "11/9/2020, 8:02:49 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Test decrypt\nDownload: https://qaz.im/load/[redacted] \nDelete: https://qaz.im/index.php?a=delete&q=[redacted] \npassword - [redacted]",
+            "timestamp": "11/9/2020, 10:21:56 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. We are interested in learning about this process. How does all of this work?",
+            "timestamp": "11/9/2020, 1:36:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Please, introduce yourself.",
+            "timestamp": "11/9/2020, 1:41:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Your network was ATTACKED, your computers and servers were LOCKED.\nTake into consideration that we have also downloaded data from your network that in case of not making payment will be published on our news website. After the payment you will get decryptor to all your systems, full file tree of downloaded data, non-recoverable deletion with proof log and security report on how you were hacked.\nWe downloaded all employees private info, company's financial documents and etc. In case of not making payment will be also published.\nMore than 300GB of private information has been downloaded from your servers. Including financial data of your company, personal data of your employees and their family members, company agreements, and most importantly, PERSONAL data of patients with their SSN, DOB, addresses and diagnoses of diseases.",
+            "timestamp": "11/9/2020, 1:45:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0My name is [redacted] and I work in IT. Yes, I assumed you took some data. How much will all of this cost?",
+            "timestamp": "11/9/2020, 1:46:40 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0How do I know you really have our files?",
+            "timestamp": "11/9/2020, 1:46:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Overall price is $15,000,000. For this price you will get everything mentioned above. Please pass this information on to your management. In the future, we are ready to communicate only with the representative who can make such decisions. We are ready to provide you with a small set of files from different servers of your company.\nYou can download here https://www.sendspace.com/file/[redacted]",
+            "timestamp": "11/9/2020, 1:56:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0WOW. $15,000,000? How?",
+            "timestamp": "11/9/2020, 2:36:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We have studied your company and your services, as well as your financial situation and the price taken by us not at random, but calculated in relation to your turnover and potential losses of the company.",
+            "timestamp": "11/9/2020, 2:41:18 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Once again, we ask you to pass this information on to your management. We are also aware that you have insurance against these cases. \nIf your management does not contact us within 3 days, we will begin to publish your private data.",
+            "timestamp": "11/9/2020, 3:10:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Management is aware but they don't see this as a real option if the price is $15,000,000. What files do you have that are worth so much?",
+            "timestamp": "11/9/2020, 3:33:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You will have incur losses much bigger than we ask, because of government fines and lawsuits from your clients and patients. Do you have insurance for lawsuits costs? However, you have a chance to save millions of dollars. \nWe are ready to listen to your proposal and, if it is acceptable, then think about it.",
+            "timestamp": "11/9/2020, 3:46:51 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We don't even know what we're paying for at this point. Can you share some of the files that will cause the government to fine us?",
+            "timestamp": "11/9/2020, 3:54:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We've already sent you proofs. Private data (like SSN, DOB) of your staff, data of clients, their diagnoses and your top-management data are not enough?\nWe perfectly understand, that you are following the tutorial, no offence by that. Staff data doesn't worth anything for you? \nBut if we will just say for a moment, that there is an announcement on our news site (and the rest of the cartel news sites), that your company had lost private data of your customers,patient ... US part of the revenue will go to zero, just as number of possible new contracts. We've already done such things before, and our \"customers\" were forced to face the grim consequences. We think, that there is no point in efforts to display more proofs. Situation is perfectly clear and we're already in the middle of negotiations.\nOf course, we just want to make money, and not to destroy business of our clients. We hope, that your board have enough commerce sense to make right choices.",
+            "timestamp": "11/9/2020, 4:07:35 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're not denying that the information that you have is not sensitive. But we just don't see how it adds up to $15,000,000. We're incapable of paying an amount of that size and we can't begin to fathom how this price was calculated. We can certainly have discussions if you give us an appropriate amount.",
+            "timestamp": "11/9/2020, 4:32:09 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Millions of dollars just isn't feasible for us. That's all we're saying.",
+            "timestamp": "11/9/2020, 4:32:34 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0How can we start negotiating a price if you do not offer a specific amount? We do not divide the price by the cost of the downloaded information, the cost of the decryptor. We have examined your insurance, your bank statements and other financial documents and we estimate it at this amount.",
+            "timestamp": "11/9/2020, 4:40:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We'd have to see what is available but it would be a few hundred thousand at the most. That's why we're shocked at such a high price here. We don't have insurance that would cover anywhere near this amount.",
+            "timestamp": "11/9/2020, 5:33:08 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Are you serious that you don't have insurance? What is it then https://qaz.im/load/[redacted]? Invite a person to chat who really solves such issues. We are not ready to negotiate with an incompetent person.",
+            "timestamp": "11/9/2020, 6:02:36 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We don't have $15,000,000 worth of insurance. Even if we had a policy worth that much, it's not as simple as having them write a blank check for us.",
+            "timestamp": "11/9/2020, 8:36:10 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Of course, the price is high, but it is much, much more cheaper, than pay to all the lawsuits, that your clients will send to you, because you have lost so much of their data. Companies of your size can lost tens of millions in such cases.\nhttps://www.zdnet.com/article/easyjet-faces-18-billion-class-action-lawsuit-over-data-breach/\nthis is one of the examples.",
+            "timestamp": "11/9/2020, 8:45:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0That's a massive airline. We're a healthcare center in [redacted].",
+            "timestamp": "11/9/2020, 11:34:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0If you can decrypt our files, then we see value in that. But as time goes on, the value of that significantly decreases. We're here to listen and we will be ready to make an agreement with you for the right price. We just can't put effort into this if you will only accept tens of millions of dollars.",
+            "timestamp": "11/9/2020, 11:38:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will provide the decrypt tool to you as soon as we receive payment. It uses very easy. Also we could decrypt several files more as samples.",
+            "timestamp": "11/10/2020, 1:10:02 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We have not yet heard from you an adequate price. The longer you drag out, the more you incur losses. We have a lot of experience in this area and we are perfectly aware of how much a company like you can pay. Let's not waste time and move on to specific steps. We are waiting for an adequate offer from you.",
+            "timestamp": "11/10/2020, 6:45:19 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning, please transfer these files to Albert Maury and Ann Mary Pardo https://www.sendspace.com/file/[redacted]",
+            "timestamp": "11/10/2020, 2:43:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. Leadership is constantly monitoring the situation and they are fully aware. Can you communicate to us only via this site so that there is no confusion?",
+            "timestamp": "11/10/2020, 3:21:14 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We will have an update for you within the next hour and we think you will view it as a positive sign as well. We'll be in touch.",
+            "timestamp": "11/10/2020, 3:22:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok we will keep all in secret while you are negotiating with us.",
+            "timestamp": "11/10/2020, 3:29:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The team met this morning and they reviewed all potential options. The insurance policy doesnt provide free money and there are already many costs that are being applied to the policy. Expenses add up quick. Even with that, we are interested in coming to terms at an amount that is both realistic and worth your efforts. To that end, we are ready to send $1,200,000 in return for decryption and deletion of the files that you have.",
+            "timestamp": "11/10/2020, 3:49:00 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Thank you for your offer. But unfortunately we must reject it. We have studied your bank statements and you have sufficient funds in your accounts to find the required amount. We are ready to meet you and reduce the price to $12,500,000.",
+            "timestamp": "11/10/2020, 4:00:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We received your phone call. I am authorized to negotiate with you and leadership is fully aware of this situation. Please communicate with me here as distractions will only slow this process down.",
+            "timestamp": "11/10/2020, 4:34:57 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We are offering a significant amount of cash. If you know everything about our company, then you know that $12,500,000 is not possible. We are on the front lines of caring for patients and we wouldnt let this amount get in our way if we actually had the balance available.",
+            "timestamp": "11/10/2020, 4:39:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0If youre here for the money, then lets make realistic goals. If youre here to see patients suffer, then we will solve this on our own.",
+            "timestamp": "11/10/2020, 4:41:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0As I told you before you offer ($1,200,000) is unacceptable. We appreciate your desire to resolve this situation quickly and are waiting for your specific proposals?",
+            "timestamp": "11/10/2020, 4:48:48 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0$1,200,000 is not a small proposal. Coming to us with arbitrary numbers will not solve anything because we cant afford those amounts. How are we supposed to pay when we dont have the money?",
+            "timestamp": "11/10/2020, 4:58:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I think you are being disingenuous when you say that there is no money. We've seen your bank statements. At the same time, the insurance company will fully reimburse you for losses from the incident. We reviewed the insurance and consulted with experts. If you want to get more discounts, give more worthwhile arguments. We are waiting for an adequate offer.",
+            "timestamp": "11/10/2020, 5:02:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Where in the insurance does it say that we have coverage for $12,500,000?",
+            "timestamp": "11/10/2020, 5:06:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We do have an insurance policy and we are not denying that. But there are many aspects of our business that need to be reimbursed by this claim and a payment to you is only a portion of it. If we had insurance money then we would easily pay this amount since it wouldnt impact us. But thats not the case.",
+            "timestamp": "11/10/2020, 5:07:27 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So you want to reach an agreement and get the desired result? Or will we just exchange unnecessary remarks? We are waiting for a new price offer from you.",
+            "timestamp": "11/10/2020, 5:11:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we want to reach a desired result. You seem like a business focused group and we appreciate that. We are certainly open to making a payment and that is why we offered a large amount. We just dont have the capacity to quickly add a few million dollars to our offer. Other expenses are mounting and the value of your tool decreases over time.",
+            "timestamp": "11/10/2020, 5:20:33 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you give us a price that leadership wont walk away from?",
+            "timestamp": "11/10/2020, 5:20:57 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Amount of money we want is just a small piece of your possible losses including but not limiting direct expenses such as payments for data recovery, dramatic cash flow drop, legal & government fines, attorneys & lawyers interests, but also reputation impact resulting in long-term customer abandonment.",
+            "timestamp": "11/10/2020, 5:24:08 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are ready to take one more step towards you and make a discount of $ 2,500,000. Your price now is $10M",
+            "timestamp": "11/10/2020, 5:26:00 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. We agree that paying you will allow us to recover a few days earlier.",
+            "timestamp": "11/10/2020, 5:35:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0But outside of that, we still have to pay IT and attorney costs no matter what. And even if you delete the data, we still have to face legal and government fines. Our entire conversation is simply to save a few days, and we are offering $1,200,000 for this. Were just trying to have a conversation with you so that we can put the best price on the table for leadership. Otherwise, theyre just going to walk away since they cant manage to pay millions and millions of dollars.",
+            "timestamp": "11/10/2020, 5:35:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You are cunning again. You won't bear any legal and government fines if we reach an agreement. We have already gave you a huge discount. And now we are waiting for your offer. You can go to your leadership and tell him that the price now is $10M.We have great experience.And we know what losses you will incur if your private information is published.",
+            "timestamp": "11/10/2020, 5:41:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0You say that we won't bear any legal and government fines if we reach an agreement. We still have yet to see any health data that would require such notifications. What info do you have that is so valuable and worth $10,000,000?",
+            "timestamp": "11/10/2020, 11:30:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0That is an honest question. We hope you can help clarify.",
+            "timestamp": "11/10/2020, 11:30:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Why are you asking questions that have already been answered? The full file tree will be provided to you only after payment. Unfortunately, we already had a sad experience when we gave a complete list of downloaded data before paying. In our opinion, we have provided you with a fairly complete picture that we have ALL sensitive information that was stored on your file servers, SQL databases, as well as in your medical programs. If you want to take the risk and not negotiate with us, then this is your right. But trust our experience that in this case your expenses will far exceed the cost of $ 10 million.",
+            "timestamp": "11/11/2020, 10:43:34 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we see how some companies would disappear after receiving a full file tree. All we want to see is some files from our SQL database as well as medical programs. The information that we've seen thus far does not justify a $10,000,000 payment. It's hard to discuss payment when the value is much lower than the price.",
+            "timestamp": "11/11/2020, 1:28:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0If you think that your personal data is cheaper, offer a price. $1,200,000 is unacceptable.",
+            "timestamp": "11/11/2020, 1:32:06 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Also you can see a full file tree for free when we will published it on our cartel's news site.",
+            "timestamp": "11/11/2020, 1:34:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We will see what we can do. There is value in the decryptor but that is diminishing as time goes on. Leadership can't pay much, especially if we're not seeing the medical files.",
+            "timestamp": "11/11/2020, 2:37:04 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It's up to you. If your leadership wants to destroy the business for $1.2m it his choice.",
+            "timestamp": "11/11/2020, 2:41:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We dont want to destroy the business and we understand that it is not your intention to either. We have said from the beginning that we can pay for your services, but we cant spend millions and millions, especially without having evidence of the medical files that you have.",
+            "timestamp": "11/11/2020, 3:58:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Leadership is taking you seriously and for now, they have approved a payment of $1,700,000 in an effort to move past this. We just dont know how long this money can stay on the table before we spend it elsewhere.",
+            "timestamp": "11/11/2020, 3:59:45 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0According to your financial reports your situation is much better than you say. As a group with an estimated yearly revenue ~$0.5billion you have enough money to pay us. We are giving you one more discount and the price now is $8,000,000",
+            "timestamp": "11/11/2020, 4:02:51 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Revenue isn't money that we keep in our pockets. That's simply a top line number before we account for all expenses. If we had $0.5nillion sitting in our account, then we wouldn't waste time over a few million dollars.",
+            "timestamp": "11/11/2020, 4:21:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0More importantly, we have yet to see any information related to our medical records and databases. We're trying to move this along and we assume that you don't have time to waste. If you can provide some of those files, then it would be beneficial to both of us.",
+            "timestamp": "11/11/2020, 4:22:19 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0SQL databases are very large. To download them, we compressed them. All your data is archived on servers. You are not the only company with which we are negotiating and we have neither time nor free disk space to unzip the data of each locked client.",
+            "timestamp": "11/11/2020, 4:29:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We can unzip all your downloaded databases, analyze information from them and provide you with data. But it will take a long time and most importantly, we will return to the original price. I don't think it will suit you.",
+            "timestamp": "11/11/2020, 4:36:48 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have $1,700,000 that we can pay now. Our expenses are mounting and we don't know how long this money will be on the table. If you can't provide samples of the sensitive files, then where do we go from here?",
+            "timestamp": "11/11/2020, 4:57:50 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We don't think, that our estimates are incorrect. Your financial reports are somewhat more reliable, than your word here and now. And your proposal here is just from the textbooks - five times less, than our initial demand. It seems, that you do not understand, how works our group. We don't ask $150 millions, to receive our demand of $15 millions. So you should understand, that our team have plenty of projects running, and yours - just one from many. If we don't reach an agreement, we'll just shorten our profit. And on other hand, you would be ruined. We have already gave you a HUGE discount. We'll wait for your serious proposal.",
+            "timestamp": "11/11/2020, 5:14:20 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We already need to treat this as a data leak, regardless of whether we pay you or not. Your decryptor has some value (but the value decreases daily) and you still have yet to provide us with the sensitive medical records.",
+            "timestamp": "11/11/2020, 5:25:34 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Even without the evidence, we are offering a large sum. It cannot be compared to an arbitrary demand of $15,000,000 as that was not possible from the beginning. We know youre a sophisticated group but we have limits as our business cant handle a payment of $8,000,000. Were here to work out a solution with you, and all we ask is that we pay an amount that is actually attainable.",
+            "timestamp": "11/11/2020, 5:26:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Of course, we understand, that your work here is not easy and requires efforts to convince your board members. But we are still far from agreement. Our estimates are still much higher, than your proposal.\nWe hope, that you will give us better price. And since it is our mutual interest to speed up our negotiations as much, as we can - take more serious steps toward us. It would be much easier than for us to make steps to you in response.",
+            "timestamp": "11/11/2020, 5:29:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you provide any other files to help us convince our board members?",
+            "timestamp": "11/11/2020, 5:32:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Not today. As I told you before we need to unzip the archives.",
+            "timestamp": "11/11/2020, 5:33:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0If you can wait we will try to speed up the process. But I really don't know how long does it takes us.",
+            "timestamp": "11/11/2020, 5:34:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok thank you",
+            "timestamp": "11/11/2020, 5:41:29 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This could help convince the board to increase the amount so let us know once you have an estimate.",
+            "timestamp": "11/11/2020, 5:42:08 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0My tech just told me that it could take us up to 3 days.",
+            "timestamp": "11/11/2020, 5:43:48 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, the board would like to see those files",
+            "timestamp": "11/11/2020, 5:58:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Here some proof for the board  https://dropfiles.org/[redacted]",
+            "timestamp": "11/11/2020, 6:10:19 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0More coming... But I think above archive is enough to make a right decision. Am I correct?",
+            "timestamp": "11/11/2020, 6:45:37 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0These seem to be additional files from the same folders that you've already provided to us. It helps but we're interested in the rest of the archive that supposedly contains the medical files.",
+            "timestamp": "11/11/2020, 6:49:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are now sure that you are just trying to drag out time. Before that, you said that our decryptors are losing value every day. Now you say that you are ready to wait for some files for 3 days. You are a bad poker player and a bad negotiator. We will, of course, provide you with another randomly selected SQL base,just to confirm that we are not bluffing you (it takes some time). We suggest that you have to decide whether you give us a serious proposal now or we begin to publish your data and notify your patients, clients, etc.",
+            "timestamp": "11/11/2020, 7:08:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, the decryptors lose value everyday. If the price was close to $1,700,000, then we wouldve already had a deal by now. However, if the price is $8,000,000 then we see no quick solution to this problem because that price isnt justified. We have no other option but to wait because we would never be able to pay close to $8,000,000. If we see some more files then we may be able to pay slightly more. And if any of the data is published, then our price goes to $0 instantly.",
+            "timestamp": "11/12/2020, 12:58:29 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Were not here to play games and we know youre not interested in that either. We're both business minded. It would be a shame to leave $1,700,000 on the table and walk away.",
+            "timestamp": "11/12/2020, 12:59:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. As I promised earlier I will send you one SQL base from server [internal IP address] . It's still preparing. But I won't give you any more files. If we do not come to an agreement, then you will see all your databases for free on the cartel's news servers. There will be many surprises for you.",
+            "timestamp": "11/12/2020, 1:35:15 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Download: https://qaz.im/load/[redacted]\nDelete: https://qaz.im/index.php?a=delete&q=[redacted]  \npasswod - [redacted]",
+            "timestamp": "11/12/2020, 1:42:40 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://mega.nz/file/[redacted]",
+            "timestamp": "11/12/2020, 1:49:34 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So we are waiting for final offer from you and will decide with our team what to do. $1,700,000 is not acceptable anyway.",
+            "timestamp": "11/12/2020, 1:52:33 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're checking the files and will let you know once the board discusses",
+            "timestamp": "11/12/2020, 3:37:33 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Thanks.",
+            "timestamp": "11/12/2020, 3:46:44 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The board just wrapped up their meeting. They saw from the start that you had our data and agree that there is some sensitive information. They also know that well need to go public with this regardless of whether we pay or not. The people will find out about this no matter what.",
+            "timestamp": "11/12/2020, 9:25:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Our insurance funds are slowly decreasing and there is less upside to paying. They do feel that youve made an effort to be transparent and there is still interest in bringing this to a close if it can occur soon. $2,350,000 can be delivered to you under the right terms. We dont know how much longer theyll want to discuss this but for now, the money is there. Well wait for you.",
+            "timestamp": "11/12/2020, 9:26:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. We've discussed your proposal with team, and we are ready to make another discount. Your price is now $6'250'000. Of course, we are ready to move on further, depending on your offers. Time is crucial here, so the more serious steps you will take in our direction, the faster we will get an agreement.\nWe understand, that any downtime of your business is not in your interests, it is quite costly. Possible losses, however, are much more expensive. But in fact, your downtime is not in our interests too, I can assure you. We know, that you have insurance, reserves, and possibility of loans. Your overall reserve is quite better, than your proposal. Make better offer, and we will move on.",
+            "timestamp": "11/13/2020, 10:06:06 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Our insurance reserves are dwindling as there are many other costs that have been incurred. New machines and tech labor are not cheap and we dont have a different cash lifeline to tap. Weve practically reached our limit and the board took great measures to offer $2,350,000.",
+            "timestamp": "11/13/2020, 3:33:34 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Were not viewing this as a negotiation. We have offered all available funds and it seems silly to pay when we still have to deal with the consequences of a leak.  Paying millions for a temporary band aid doesnt make financial sense...",
+            "timestamp": "11/13/2020, 3:33:54 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So this is your final proposal?",
+            "timestamp": "11/13/2020, 3:38:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Right now we have no room for additional funds",
+            "timestamp": "11/13/2020, 4:03:08 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Also our tech team can't access the SQL file you passed over. We can't even assess what information is on that file. It may be corrupt.",
+            "timestamp": "11/13/2020, 4:04:18 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I will convey your decision to my management. If it is rejected, then we start publishing your data. You have an hour to change your mind.",
+            "timestamp": "11/13/2020, 4:13:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Regarding SQL, you already had worthless admins. And now they can't even attach a working file. I think this attack will be a good lesson for you and I will recommend the management not to conclude an agreement with you on the current terms.",
+            "timestamp": "11/13/2020, 4:15:54 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0If the data is published then all the money is gone. We can't pay a dime. We need time to discuss and can't make decisions in an hour.",
+            "timestamp": "11/13/2020, 5:16:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The management rejected your offer. But today is Friday the 13th and this is a bad date for making a decision. You have until Monday to submit a new price.",
+            "timestamp": "11/13/2020, 5:22:39 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0No private information will be released until Monday. But we ask you not to abuse our favor to you anymore.",
+            "timestamp": "11/13/2020, 5:24:52 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're not trying to abuse your favors. This is a lot of money and we simply don't have enough. Covid has cause major strains on our business and we were in the midst of bracing for a lethal winter before we lost our files. We're juggling too much and we don't know how far the board will be able to take this.",
+            "timestamp": "11/13/2020, 8:30:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. We are waiting for your decision.Thank you.",
+            "timestamp": "11/16/2020, 1:15:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we're discussing this morning.",
+            "timestamp": "11/16/2020, 1:39:46 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The board just finished their discussion. Our expenses are increasing quicker than expected and our balance sheet has been impacted drastically. The board thinks there is benefit to paying but we still are in no position to increase the amount. They mentioned that contacting the banks is still an option, but we wont get an answer today because its a complex issue.",
+            "timestamp": "11/16/2020, 4:26:34 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We know youre busy and have other priorities, but our discussion has progressed over the past week and we still have $2,350,000 available. Can we get a few days to work out potential financing with the bank?",
+            "timestamp": "11/16/2020, 4:27:16 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We have just discussed your situation with the management, and we are ready to give you more time to find funds.",
+            "timestamp": "11/16/2020, 4:42:09 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. We will keep you updated.",
+            "timestamp": "11/16/2020, 5:06:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0While the board works on the financing side, can you provide screenshots of the database file that you shared? We still can't access the file and we're not sure what the issue is.",
+            "timestamp": "11/16/2020, 10:52:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Hello, As I already told you the database we sent you  from SQL base from server [internal IP address] May be it wouldn't work cause you need to decrypt other SQL files from this server.",
+            "timestamp": "11/17/2020, 6:04:09 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Oh. So is there a way for you just to send us screenshots from the database file since we can view it?",
+            "timestamp": "11/17/2020, 8:06:26 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Nope cause all files are zipped. Why are you asking this question again? Your admins don't know what files they have on server  [internal IP address]?",
+            "timestamp": "11/17/2020, 11:09:49 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0They just want to verify what specific data is on that file. A lot of money is on the line so we're trying to double check everything while we wait for the board. Please let us know if there is anything else you can provide. Thank you.",
+            "timestamp": "11/17/2020, 1:54:47 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0This is not what we agreed on. We gave you time to search for funds and not to fish out new information from us. We are waiting for a new proposal from you and we will give you a few more files.",
+            "timestamp": "11/17/2020, 2:09:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We agree. The board is working with the bank. We're just having issues with the database file you sent so we figured we'd ask while we wait.",
+            "timestamp": "11/17/2020, 2:45:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://www.sendspace.com/file/[redacted]\nIs this critical data for the board?",
+            "timestamp": "11/17/2020, 4:35:53 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We'll take a look",
+            "timestamp": "11/17/2020, 6:38:20 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The longer we study your files, the more important information we find in them. Credit card information will be one of the most expensive in the event of a defect.",
+            "timestamp": "11/17/2020, 6:43:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We wouldn't put $2,350,000 on the table if we weren't serious about this. I'm sure you understand that millions of dollars isn't easy to come by these days.",
+            "timestamp": "11/17/2020, 10:28:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We hope to have an update soon but we'll be here in case you provide further files.",
+            "timestamp": "11/17/2020, 10:29:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are ready to listen to your proposal and after it we will give you more files. Time is running out please don't delay. We have to close the deal this week.",
+            "timestamp": "11/18/2020, 5:00:38 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, the board is working with the bank. We will keep pushing the urgency",
+            "timestamp": "11/18/2020, 2:06:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0How long will it take? Let's arrange deadlines.",
+            "timestamp": "11/18/2020, 2:14:36 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0For now, the board has told us this week. There's a lot to review since we have other lenders and the bank doesn't want to be on the hook if those other lenders are paid first if there is an issue.",
+            "timestamp": "11/18/2020, 3:20:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Separately, our tech team is still having issues with the database file that you sent to us. Can you send us a different database file? Or at least a screenshot of the information in that database?",
+            "timestamp": "11/18/2020, 3:21:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0As I told you before we will share more files with you after your proposal. Sorry my management told me not to make any exceptions. We already told you that we found a lot of credit card with cardholders info.",
+            "timestamp": "11/18/2020, 4:40:17 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We understand. We're just trying to see if any of this may help the board",
+            "timestamp": "11/18/2020, 7:11:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Tell the board we have credit card details. They are not hundreds, but tens of thousands.",
+            "timestamp": "11/18/2020, 7:33:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I know you've said you can't give more proof, but a few files will only help right now. Especially if you can give us more insight into the database",
+            "timestamp": "11/18/2020, 8:49:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Sorry my management told me not to make any exceptions.",
+            "timestamp": "11/18/2020, 8:51:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The board is meeting with the bank this afternoon. They need to present an in-depth analysis of our finances because the bank needs to do a understand the business thoroughly. There are concerns about our financial strength due to Covid, so they requested a lot of files from us. The bank review may take another day or two but we are feeling optimistic on a loan. Your patience is appreciated and we feel confident in an agreement.",
+            "timestamp": "11/19/2020, 3:37:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Thank you for an update. Please keep us updating on each step from your board. We have to be sure that you are in touch and willing to close the deal.",
+            "timestamp": "11/19/2020, 3:43:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we certainly will. We're at the bank's mercy but they told us they will have an update by Monday at the latest.",
+            "timestamp": "11/19/2020, 8:37:05 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We got in touch with the bank again and we stressed that we need their decision by Monday. They've agreed so can we get back to you with our proposal after the weekend?",
+            "timestamp": "11/20/2020, 3:30:45 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Hmmm. I'll need to check it with my management.",
+            "timestamp": "11/20/2020, 4:05:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0My management has consulted and gives you a reprieve until Monday until 2-00 pm",
+            "timestamp": "11/20/2020, 6:09:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. We appreciate your patience. Have a good weekend.",
+            "timestamp": "11/20/2020, 6:40:29 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Have a good weekend also.",
+            "timestamp": "11/20/2020, 6:42:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We'll be in touch today. Ok?",
+            "timestamp": "11/23/2020, 2:34:56 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok",
+            "timestamp": "11/23/2020, 2:35:59 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We have good news. The bank normally doesnt expedite such requests but they prioritized our submission. Weve had many hardships over the last few months and our financials have become unstable, but the bank still approved a small loan which was a surprise to us. We can now increase our offer to $2,800,000. The bank may be able to provide more funding, but theyll need to review further since this was a preliminary approval done on short notice. We know you are here to simply make a deal, so please let us know.",
+            "timestamp": "11/23/2020, 9:35:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Considering the steps you are taking, we are ready to make you a very good offer only if you quickly enter the deal. New price for you $ 5.000.000",
+            "timestamp": "11/24/2020, 1:59:36 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We were really hoping we could close this out but we understand that you have minimums that you need to reach. It's just that we're out of money and waiting on the bank at this point. We'll need to talk to the board.",
+            "timestamp": "11/24/2020, 3:30:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0How much time do you need?",
+            "timestamp": "11/24/2020, 3:55:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're getting in touch with the board and they'll need to reach out to the bank. The only issue is that it's a holiday week so we may not hear back until next week. We're going to try and expedite though because we can't keep wasting time.",
+            "timestamp": "11/24/2020, 4:51:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Let's define the amount of the deal. We are ready to divide this amount into 2 payments. For example, you pay  $2,800,000 this week and receive decryptors. Pay the rest in 2 weeks and get the rest. Unfortunately, we do not have time to wait for you endlessly.",
+            "timestamp": "11/25/2020, 12:54:57 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I understand your frustration with waiting for us, but we can't control how our board members spend their holidays. If you can give us until Monday to figure this out we will greatly appreciate it.",
+            "timestamp": "11/25/2020, 10:06:34 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We understand that your board is more puzzled by its holidays than by this problem. In our opinion, if people want to solve a problem quickly and not against the interests of other people, then they gather and make efforts for this.Of course, we will give you time until Monday only because we do not want ordinary employees and patients of your company to suffer from the leakage of their personal data. We also ask you to transfer to the board so that they speed up and do not delay solutions to this situation.",
+            "timestamp": "11/25/2020, 10:15:42 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We appreciate that. The issue isn't entirely on the board members as we're working with the bank for more funding and they're simply not available during holidays. We don't want this hanging over our heads over the next few days but we don't have another option. Your patience is appreciated. We will have an update for you on Monday.",
+            "timestamp": "11/25/2020, 1:24:15 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Just letting you know that we're still working on this. Banks are a pain to deal with during holidays but we're trying to pressure them.",
+            "timestamp": "11/27/2020, 1:20:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Thanks for an update. We can give you a good discount again if you are ready to make a deal on the price today.We are ready to divide the amount into 2 payments.",
+            "timestamp": "11/27/2020, 1:37:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0May be you can take an advice here... If you are serious about coming to an agreement, you should say something like... \"Well, we don't have money now, but we can 100% find (for example) $4'800'000 in one week\". And we can then figure something out from that position (and wait for you to get things done for all that week). But if you are going to offer us $3'000'000 on Monday, that will be viewed as an insult. We are trying to get to an strategic agreement here, and not approving +$200'000 every day, what is a waste of time really. We are business people, after all, and we prefer to think, that you are business people too. We know, that you will receive compensation for any financial losses from your insurance. So the question is not in that point, that you can't afford to pay us $5'000'000, but in point, that you don't have enough funds *right now*. I think, we should talk about that.",
+            "timestamp": "11/27/2020, 1:41:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The board is working diligently with the bank. It's just that the holiday has slowed things down since the bank is not fully staffed. Trust us, if we knew there was a guarantee that we'd have certain funds available in a few days, then we would tell you. But there's just not much clarity right now. I can't get you any real answers today but the board will update us on Monday.",
+            "timestamp": "11/27/2020, 4:05:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The bank is still trying to work with us. They provided some initial insight on their analysis and we want to try and get more information to them before they make a decision on a loan, which will happen very soon. Basically, we just want to get every detail in front of them to show how critical this payment really is.",
+            "timestamp": "11/30/2020, 3:32:13 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Do you have any additional files that you can share with us? Anything else that could convince the bank to lend us more money?",
+            "timestamp": "11/30/2020, 3:32:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The bank is our only remaining option and we just don't want to ruin our chances if we by not giving them all of the details.",
+            "timestamp": "11/30/2020, 3:33:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. So you are not going to give us any offer now?",
+            "timestamp": "11/30/2020, 3:38:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://www.sendspace.com/file/[redacted]",
+            "timestamp": "11/30/2020, 3:41:57 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're waiting on the bank but they should have an update soon. We just want to send additional details to make sure we get every last dollar from them",
+            "timestamp": "11/30/2020, 4:04:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. We still did not get any offer from you. If we don't hear it today, we will start publishing your private data.",
+            "timestamp": "12/1/2020, 2:01:07 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we are waiting on the bank to review some of the files you provided. Should have more information today. Please do not leak any data as it will erase all of our work thus far",
+            "timestamp": "12/1/2020, 2:50:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you also clarify what we will receive if we agree on a payment amount?",
+            "timestamp": "12/1/2020, 2:53:06 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0After the payment you will get decryptor to all your systems, full file tree of downloaded data, non-recoverable deletion with proof log and security report on how you were hacked.",
+            "timestamp": "12/1/2020, 2:54:50 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Alright, thanks. We may not hear back until later today but we'll send you an update before end of day.",
+            "timestamp": "12/1/2020, 4:03:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok we will wait. But please don't delay anymore.",
+            "timestamp": "12/1/2020, 4:07:05 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Were certainly moving much quicker than wed like but its difficult to get the bank to make rapid decisions. Based on a discussion with them, we have preliminary approval for $3,100,000. They are still viewing this as a major risk but we continue to pressure them for assistance. We wanted to give you an update immediately even though they are still completing their review. We will wait for you.",
+            "timestamp": "12/1/2020, 11:10:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are trying to get to an strategic agreement here, and not approving +$200,000-$300,000 every time, what is a waste of time really. We are business people, after all, and we prefer to think, that you are business people too. We know, that you will receive compensation for any financial losses from your insurance. So the question is not in that point, that you can't afford to pay us $5'000'000, but in point, that you don't have enough funds *right now*. I think, we should talk about that.Please give us your final proposal and we will decide to accept it or not. As I told you before we can split the amount into 2-3 parts. But we need to make a STRATEGIC agreement on the amount.Please decide and don't delay. Time is over.",
+            "timestamp": "12/2/2020, 1:10:54 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Our issue is that the insurance policy has already been used for all of the other expenses we incurred. Only a portion of those funds remain and that's why we're working with the bank. Otherwise, we would've gladly used the insurance policy to pay and move on. The payment plan would work if we knew how much money we'd be able to gather, but we have no guarantees. What are we supposed to do if we're at the mercy of the bank?",
+            "timestamp": "12/2/2020, 1:34:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You are not our first target who has insurance against such cases. And we know how much, what and how the insurance payments are spent. We are ready to give you the last discount. Our conditions are as follows. You pay us $3.1M and we give you decryptor tool. Until December 30th, you pay another $1M and we give you file tree of downloaded data, non-recoverable deletion with proof log and security report on how you were hacked. We guarantee you that no data will be released until December 30th.",
+            "timestamp": "12/2/2020, 1:46:37 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Please update us with your decision.",
+            "timestamp": "12/2/2020, 4:47:03 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We certainly see that you are trying to make a deal with us and we understand your business approach. A payment plan would be great if we knew we could get an extra $1M, but only the bank can give us that excess cash. The insurance policy has been tapped and all of the remaining money has already been added to the $3.1M. We'll need to see what the bank is able to do but we can't agree to that right now. This is still $1M over budget.",
+            "timestamp": "12/2/2020, 5:49:03 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We can get you an answer by tomorrow or Friday since the bank should be able to wrap up their review. But nothing can be leaked while we try to get an extra $1M. Ok?",
+            "timestamp": "12/2/2020, 5:50:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Our final price for you is $4,100,000. We expect your decision no later than Friday 10-00AM EST. Until that time, we guarantee that nothing will be made public.",
+            "timestamp": "12/2/2020, 6:03:14 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Ok we understand. We will let you know",
+            "timestamp": "12/2/2020, 7:27:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good day. Do you have a decision?",
+            "timestamp": "12/3/2020, 6:37:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Hello - We should by tomorrow morning.",
+            "timestamp": "12/3/2020, 9:27:10 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Good morning. Weve been pressuring the bank over the past few days and we have received preliminary approval for $4,100,000. They will now seek internal approvals since this amount is higher than what they are usually comfortable lending out but it should be quick. Even on our end, this will put our organization in a highly leveraged position, which is beyond our normal risk appetite. As you can see, this has been a learning experience like no other.",
+            "timestamp": "12/4/2020, 1:23:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you confirm what we will receive in return?",
+            "timestamp": "12/4/2020, 1:23:28 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. This is a serious approach to business.Y\nou will get decryptor to all your systems, full file tree of downloaded data, non-recoverable deletion with proof log and security report on how you were hacked.",
+            "timestamp": "12/4/2020, 1:28:54 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Also we will give you our advice on how to make your network more secure.",
+            "timestamp": "12/4/2020, 1:30:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Our BTC wallet [redacted]",
+            "timestamp": "12/4/2020, 1:41:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. The bank should be able to give us the final approval by Monday.",
+            "timestamp": "12/4/2020, 2:28:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0How much can you transfer today as the seriousness of your intentions? It's just that all the deadlines for your company have come out and my management requires this from me.",
+            "timestamp": "12/4/2020, 2:45:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we completely understand. We've been focusing solely on the loan since we used our cash for all of the other expenses. We don't have the money right now and need to wait on the bank to approve and wire it to us. They said today is not realistic but next week should be fine.",
+            "timestamp": "12/4/2020, 3:25:16 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I have to report something to the management today. What is your specific suggestion? When are you ready to pay?",
+            "timestamp": "12/4/2020, 3:40:40 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0It will be next week. This has been an extraordinary challenge for us and we certainly want to get past it as quickly as possible.",
+            "timestamp": "12/4/2020, 3:51:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Ok. Please update us on Monday. I'll also tell you what time frame my leadership gives you.",
+            "timestamp": "12/4/2020, 4:00:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks",
+            "timestamp": "12/4/2020, 4:10:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Please update us with payment time frame.",
+            "timestamp": "12/7/2020, 3:35:13 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, the bank should give us an approval later today for the loan and then we can get the process started in terms of moving the cash to our account from the bank. We're getting very close!",
+            "timestamp": "12/7/2020, 4:43:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Please be more specific with exact day.",
+            "timestamp": "12/7/2020, 8:33:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The loan is all set so the bank is working on the cash transfer now. They say it usually takes 2 days to transfer to the borrower, but obviously we're looking to expedite this. We don't have an exact date, but it'll be this week",
+            "timestamp": "12/7/2020, 9:34:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The bank is still processing the payment. It takes them time to finalize the loan and then move the cash. It'll be this week though.",
+            "timestamp": "12/8/2020, 4:55:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0What is the loan amount?",
+            "timestamp": "12/8/2020, 4:57:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0$4,100,000. we had to rely on the bank for the full amount",
+            "timestamp": "12/8/2020, 9:25:20 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Our management asks you to explain why you are raising borrowed funds to pay off with us if you have enough own funds in your accounts?",
+            "timestamp": "12/9/2020, 11:56:17 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted] 10 15 2020.xlsx [ 375kB ]",
+            "timestamp": "12/9/2020, 11:56:27 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0That file is showing a negative balance. Regardless, the balance that we do have is restricted by other lenders so we had to reach out to the bank for a new loan. The policy cant cover an amount this large so the bank is our only option. A lot of this is just out of our control.",
+            "timestamp": "12/9/2020, 3:55:10 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0My management wants to hear the answer today to the question: When will you transfer bitcoins to us?",
+            "timestamp": "12/9/2020, 4:28:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We are aiming to transfer the bitcoin on Friday. Just waiting for the bank to send us the money",
+            "timestamp": "12/9/2020, 7:15:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Thank you for an update. We always keep the terms of the contract. Your information will not be published or any other way disclosed.",
+            "timestamp": "12/9/2020, 7:19:45 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. Do I understand correctly? The bank transfers money to your account today. Tomorrow you transfer this amount to the broker and the broker will transfer it to us tomorrow?",
+            "timestamp": "12/10/2020, 3:04:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0That is the plan but this morning we received word that the bank has some concerns with OFAC and the legality of paying. We know the government frowns upon these types of payments but our bank seems to be taking a more strict stance. It's frustrating because they didn't do this research during the loan phase, but now their compliance department has some questions. We're trying to see what the issue is.",
+            "timestamp": "12/10/2020, 9:18:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK but if we do not receive the payment on Friday we will start publishing your private data. That's our final decision.",
+            "timestamp": "12/10/2020, 9:39:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Now we start to collect all patient's emails from data we have collected from your servers. All patients will be notified about the leakage of their personal data from your servers.",
+            "timestamp": "12/10/2020, 9:45:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We have trusted you for a long time and now time is playing against you.",
+            "timestamp": "12/10/2020, 9:46:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You have our BTC wallet [redacted].",
+            "timestamp": "12/10/2020, 9:47:48 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Trust us, we would've liked to finish this a long time ago too. There are just so many factors out of our control but we're trying to get to the bottom of this. Weve done a lot of work up until this point, but we simply cant send $4,100,000 if you start reaching out to patients.",
+            "timestamp": "12/10/2020, 10:59:56 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You are constantly pushing dates back. We have a strong opinion that you are just playing for time. If you really want to close the case, then you need to transfer any amount on Friday to our BTC wallet. Otherwise, we will be forced to start the procedure for publishing your data.",
+            "timestamp": "12/11/2020, 6:51:17 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This whole process took much longer than expected because we didn't have any extra cash to make a payment. We hate waiting for the bank but they're the ones in control now and they can be extremely slow. We're trying to hurry them but there seems to be a compliance issue since their money is going to be paid directly to you. This is extremely frustrating, especially since it's happening at the last second. You've been very patient and understanding, but we would hate to see all of this work go down the drain if the data is posted.",
+            "timestamp": "12/11/2020, 1:56:01 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Sorry, but we do not believe you that a company of your size does not have 200-300k on the account to make an advance payment as confirmation of your intentions. Sorry, but you had enough time to solve your problems with the bank.",
+            "timestamp": "12/11/2020, 1:58:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0While you were solving your problems of finding money, we downloaded another 40GB of data with the diagnoses of your patients.",
+            "timestamp": "12/11/2020, 2:02:27 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0One more question. How can the bank pay us directly?",
+            "timestamp": "12/11/2020, 2:08:49 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The bank is paying us but they nee to know exactly where the money is going since it's a loan. They put a pause on the process once compliance heard about the details. Now we're trying to reason with them.",
+            "timestamp": "12/11/2020, 2:55:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We cannot wait forever. Therefore, we have set time X for you. If your intentions are serious, you will find a small amount for us.",
+            "timestamp": "12/11/2020, 3:01:47 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0If there is no money, then there is no agreement. I think when we start spreading your information it will spur you on and you will find money to save yourself from even larger losses. We consulted with lawyers and calculated that only the fines for the leakage of personal data will exceed the amount we ask for several times. I am not even mentioning what losses you will incur in the future because of a damaged business reputation. You have no more time. Please make a decision on which path you are going.",
+            "timestamp": "12/11/2020, 3:11:12 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're trying to get more information from the bank. There's a lot of money on the line.",
+            "timestamp": "12/11/2020, 5:20:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We have voiced our position to you. If you do not name a specific date today, then publication cannot be avoided.",
+            "timestamp": "12/11/2020, 5:33:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You no longer need to write here that the bank is slowing down payment, etc. Specifically, you must give the date of payment. The games are over.",
+            "timestamp": "12/11/2020, 5:35:37 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Tuesday the 15th. Ok?",
+            "timestamp": "12/11/2020, 7:31:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Please confirm all conditions from your side for Tuesday the 15th.",
+            "timestamp": "12/11/2020, 7:40:10 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We will pay $4,100,000 once we receive approval from the bank. Agreed?",
+            "timestamp": "12/11/2020, 8:47:12 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Our management is not happy with this answer. We need a specific date when you will pay and not an answer when maybe you will pay if .....",
+            "timestamp": "12/12/2020, 5:17:49 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0As we understand, you do not want to resolve this issue peacefully. It's your right.",
+            "timestamp": "12/13/2020, 12:42:49 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We certainly want to resolve this. We've worked days and nights to get this far. We're still aiming for tomorrow, the 15th.",
+            "timestamp": "12/14/2020, 1:54:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Can you clarify to us. We have just examined your main bank account [redacted] at [redacted] bank. You simply can pay the broker today from that account. There is enough money.",
+            "timestamp": "12/14/2020, 2:11:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We can't use any of our own funds in this instance due to debt obligations. What information did you use to verify that account?",
+            "timestamp": "12/14/2020, 3:35:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It seems to us that you are misleading us. What is the difference between the funds in the account now and those that will be credited tomorrow?",
+            "timestamp": "12/14/2020, 3:40:11 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We physically cannot touch that money for this use. There are strict rules from a debt perspective and we can only use the money from the bank for this payment. Right now, we're waiting on news from the bank regarding their compliance process.",
+            "timestamp": "12/14/2020, 4:36:41 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0There are a lot of inconsistencies. You yourself are already confused about what you wrote earlier in the chat. Make a decision. You pay or not. We don't intend to wait any longer.",
+            "timestamp": "12/14/2020, 4:49:15 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Remember how much cash you said is on your table?",
+            "timestamp": "12/14/2020, 4:51:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0So you should understand, that our team have plenty of projects running, and yours - just one from many. If we don't reach an agreement, we'll just shorten our profit. And on other hand, you would be ruined. That is much more serious threat, than none making payment to us.",
+            "timestamp": "12/14/2020, 4:55:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes, we were referring to the cash with the bank. We had other issues arise and it left us with no flexibility. We understand your terms and are rushing to finish this off. There's only so much we can do when the bank is in control.",
+            "timestamp": "12/14/2020, 6:08:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Could you give some proof that the bank is slowing down the loan payment? Forward the emails from bank to [redacted]@outlook.com",
+            "timestamp": "12/14/2020, 6:17:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Unfortunately, the bank would not be comfortable with us sharing any information. This is a private debt facilitation and their compliance team wouldn't approve. We don't want to risk anything at this stage.",
+            "timestamp": "12/14/2020, 6:28:26 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0My leadership is going to a meeting now. In an hour, a final decision will be made on you.",
+            "timestamp": "12/14/2020, 6:31:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I have a final decision on [redacted]. The negotiations are over. You have 48 hour left to make a payment to our bitcoin wallet. Before transferring bitcoins, you need to confirm the wallet. The countdown went from 3:00PM EST. Our management has developed a special plan in case the funds are not received on time. And for you it really will be a \"surprise\".",
+            "timestamp": "12/14/2020, 8:19:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This is unfortunate but we understand. We're sending this language to the bank to see if it will make them move faster. We just have no control right now.",
+            "timestamp": "12/15/2020, 12:39:34 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The bank has acknowledged the deadline but we're still waiting on clarification from them regarding the status.",
+            "timestamp": "12/15/2020, 10:56:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You must declare a personal data breach yourself or we will do it ourselves.",
+            "timestamp": "12/16/2020, 10:16:41 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0More than 1 million personal data will be published soon.",
+            "timestamp": "12/16/2020, 10:18:13 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Parse the Internet and you will find a lot of interesting things about your company.",
+            "timestamp": "12/16/2020, 10:19:15 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good morning. And why are we silent?",
+            "timestamp": "12/17/2020, 3:49:41 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Good day. Do not think that we have forgotten about you. Just busy at the end of the year with more important things. We have already agreed with partners to publish your patient's private data. Also next week we will send out a press release for companies involved in the field of computer security. But you still have time.......",
+            "timestamp": "12/18/2020, 4:13:10 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://continews.best/[redacted]",
+            "timestamp": "12/21/2020, 1:18:13 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0...this is just the beginning...",
+            "timestamp": "12/21/2020, 1:18:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Did everyone in [redacted] receive email from us toady?",
+            "timestamp": "12/22/2020, 8:57:00 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We gave you 3 days to respond. Tomorrow is the last day.",
+            "timestamp": "12/22/2020, 8:58:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Can you give us your valid email address? We are going to close this chat and we need to put you in a copy when we send out a press release about [redacted].",
+            "timestamp": "12/24/2020, 5:30:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://continews.best/[redacted]",
+            "timestamp": "12/28/2020, 4:25:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0https://www.databreaches.net/[redacted]/",
+            "timestamp": "12/30/2020, 3:18:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are going to post the log of this chat. Do you agree?",
+            "timestamp": "12/30/2020, 3:28:50 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0updated https://continews.best/[redacted]",
+            "timestamp": "1/13/2021, 10:44:47 AM"
+        }
+    ]
+}
