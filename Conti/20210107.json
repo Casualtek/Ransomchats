@@ -1,0 +1,700 @@
+{
+    "chat_id": "20210107",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Please contact me as soon as possible. [redacted]@gmail.com",
+            "timestamp": "1/7/2021, 9:58:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0  readme.txt [ 866B ]",
+            "timestamp": "1/7/2021, 10:17:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Hi. Could you introduce yourself?",
+            "timestamp": "1/7/2021, 10:20:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0My name is [redacted] and I got a message to contact you in regards to an encryption on my computer.",
+            "timestamp": "1/7/2021, 10:20:44 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0are you the person I need to contact to help me? I sent my email and name to you as you asked.",
+            "timestamp": "1/7/2021, 10:28:29 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Your network was ATTACKED, your computers and servers were LOCKED.\nTake into consideration that we have also downloaded data from your network that in case of not making payment will be published on our news website. After the payment you will get decryptor to all your systems, full file tree of downloaded data, non-recoverable deletion with proof log and security report on how you were hacked.\nWe downloaded all employees private info, company's financial documents and etc. In case of not making payment will be also published.\nMore than terabyte of private information has been downloaded from your servers. Including financial data of your company, personal data of your employees and their family members, company agreements, and most importantly.",
+            "timestamp": "1/7/2021, 10:37:50 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0What do I need to do?",
+            "timestamp": "1/7/2021, 10:40:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Overall price is $900,000. For this price you will get everything mentioned above. Please pass this information on to your management. In the future, we are ready to communicate only with the representative who can make such decisions. We are ready to provide you with a small set of files from different servers of your company.",
+            "timestamp": "1/7/2021, 10:43:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I am authorized to speak on behalf of the company. Are you the person who sets this price for regaining access to everything?",
+            "timestamp": "1/7/2021, 11:03:50 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0hello, are you still there?",
+            "timestamp": "1/7/2021, 11:46:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Is there anyone there? Please at least email me at [redacted]@gmail.com so I can continue to work through this with you.",
+            "timestamp": "1/8/2021, 1:50:15 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are here.",
+            "timestamp": "1/8/2021, 2:41:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Are you ready to transfer money?",
+            "timestamp": "1/8/2021, 2:41:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes. I would like to fix the problem but I don't have this amount of money. Please tell me how we can resolve.",
+            "timestamp": "1/8/2021, 5:27:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0According to the public records your revenue is [more than 30],000,000$, so this price is reasonable. \nhttps://www.dnb.com/business-directory/company-profiles.[redacted].html\nAlso you should remember that the price is much cheaper then you will pay lawsuits, that your clients will send you and government fines, because you have lost so much of their data.",
+            "timestamp": "1/8/2021, 5:37:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We would like to fix this problem but we have been out of service during Covid and do not have this amount of money.  I am trying to fix and please let me know what we can do.",
+            "timestamp": "1/8/2021, 7:09:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0What is your best proposal?",
+            "timestamp": "1/8/2021, 7:12:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I have the ability to send 20,000 as soon as I can transfer money.  I would like to get this fixed and please let me know if we can get this fixed.",
+            "timestamp": "1/8/2021, 7:40:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0How can we test to see if this can be fixed?",
+            "timestamp": "1/8/2021, 7:41:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We could not accept that offer, but we could reduce the price and give you the new one 800,000$. \nWe could decrypt 1-2 files as samples.",
+            "timestamp": "1/8/2021, 8:04:33 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0  [redacted].docx.[redacted] [ 15kB ]",
+            "timestamp": "1/9/2021, 6:56:50 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0  [redacted].docx.[redacted] [ 13kB ]",
+            "timestamp": "1/9/2021, 6:57:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Here are two samples. Can you open them?",
+            "timestamp": "1/9/2021, 6:57:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes. But today is weekend and we will decrypt them tomorrow.",
+            "timestamp": "1/10/2021, 2:58:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We we are not comfortable paying until you are able to decrypt these samples. Did you take data from us as well?  We have a small window of time where buying your keys is useful as we are working on a rebuild. We have a meeting early tomorrow morning, so I will ask you send us: 1) your nest offer, 2 proof that you can decrypt, 3 proof of whatever you claim you stole.\n$800,000 is still an insane price for us, so if you want us to even consider this, please be realistic. Please send us #1, #2 and #3 as soon as you can. Thank you.",
+            "timestamp": "1/10/2021, 5:50:21 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Are you there? Can you decrypt my files? What files did you take? I'm willing to pay you very quickly to unlock my files, but $800k is impossible. If you can prove these things and offer a realistic price, I'll pay you right away. Thank you.",
+            "timestamp": "1/11/2021, 5:07:22 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes. We are here and provide samples very shortly.",
+            "timestamp": "1/11/2021, 3:54:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The price is more then realistic for company with so revenue. What is your best proposal?",
+            "timestamp": "1/11/2021, 3:55:13 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted].docx [ 12kB ]",
+            "timestamp": "1/11/2021, 4:07:33 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0  [redacted].docx [ 15kB ]",
+            "timestamp": "1/11/2021, 4:07:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. I'm waiting for information about what files you took. Regarding our revenue, if this happened last year at this time, paying this much wouldn't have been a problem. But with the pandemic and financial crisis, people just aren't buying cars. We have a large inventory that isn't selling and by holding onto this inventory like we are, we're actually losing more money than making money. It will take us months to crawl out of this problem to start making a profit. Revenue is not profit, as you know.",
+            "timestamp": "1/11/2021, 4:08:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0The static shows opposite. A lot of sources say that people start to buy cars more, because of pandemic. Anyway what is your best proposal?",
+            "timestamp": "1/11/2021, 4:14:15 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0The boss is meeting his financial advisor to find out how much we can afford to pay. I'll let you know. In the meantime, since you say you took files from us, are you able to show us?",
+            "timestamp": "1/11/2021, 4:18:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Yes. We could forward you several samples.",
+            "timestamp": "1/11/2021, 4:26:30 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. If the price is something we can afford and we can pay, what do we get?",
+            "timestamp": "1/11/2021, 4:28:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We wrote you previously. \nWe will give you decrypt tool for all your machines, security report on how you were hacked, file tree on what we have downloaded from your network and wiping log of that information.",
+            "timestamp": "1/11/2021, 4:41:00 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Here is several samples:\nhttps://www.sendspace.com/file/[redacted]\nhttps://www.sendspace.com/delete/[redacted]\npass [redacted]",
+            "timestamp": "1/11/2021, 5:38:17 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks. Is this all you took?",
+            "timestamp": "1/11/2021, 5:46:39 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0NO. We took much more, around 1 terabyte. We wrote that previously too, including the data of clients and employees.",
+            "timestamp": "1/11/2021, 5:51:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0What computers did you take files from? 1 tb is a lot of files. Why only 7 files as proof?",
+            "timestamp": "1/11/2021, 6:57:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It is more then enough. You should understand that downloading data is very easy process when you have an access to the whole system.",
+            "timestamp": "1/11/2021, 7:07:31 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Can you let me know what computers files came from? Or provide a list of files?",
+            "timestamp": "1/11/2021, 7:10:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It is impossible to make so big list. We will try to make a list of servers and desktops.",
+            "timestamp": "1/11/2021, 7:32:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0[redacted].[redacted].local\n[redacted]ToyDC01.[redacted].local\n[redacted]GMCDC01.[redacted].local\n[redacted]oloDC01.[redacted].local\n[redacted]HonDC01.[redacted].local\n[redacted]ingDC01.[redacted].local\n[redacted]MazDC01.[redacted].local\n[redacted]aprdc01.[redacted].local\n[redacted]lbqDC01.[redacted].local\n[redacted]IFP.[redacted].local\n[redacted]oloHV01.[redacted].local\n[redacted]oloAPP01.[redacted].local\n[redacted]oloEX02.[redacted].local\n[redacted]ways.[redacted].local",
+            "timestamp": "1/11/2021, 7:42:10 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Are these the computers you took files from?",
+            "timestamp": "1/11/2021, 7:51:27 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0NO. That is just a list of servers. We did not make a list of desktops, we usually took from all.",
+            "timestamp": "1/11/2021, 7:56:15 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Okay. Of all these 1 TB of files you took, you can only show me 7 files?",
+            "timestamp": "1/11/2021, 7:58:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We're working on how much we can afford to pay you, but my boss is asking for some more information. Are you able to send some more files? 7 files is a tiny amount when you say you took 1 TB.",
+            "timestamp": "1/12/2021, 4:05:08 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Here is several more files:\nDownload: https://qaz.im/load/[redacted]\nDelete: https://qaz.im/index.php?a=delete&q=[redacted]\npass [redacted]",
+            "timestamp": "1/12/2021, 5:43:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We reviewed the financials and we can pay you $72,380, but only if you promise to make all our files open and usable again and give back all the files you took.",
+            "timestamp": "1/13/2021, 4:28:44 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is not enough. We could reduce the price and give you a new offer 700,000$. You should remember that the price is much cheaper then you will pay lawsuits, that your clients will send you and government fines, because you have lost so much of their data(Ids, ssn, credit cards).",
+            "timestamp": "1/13/2021, 9:35:25 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I can see why you would think that. In reality, regardless if the files you took end up on your news site or not, I still have the same legal requirements and exposure. This was the case the second the files were taken, not if the files get posted or not. I have already begun the notifications to everyone whose data was affected, so it doesn't matter if the files are posted or not. Now, would I prefer the files not be posted, of course I would. Only because I care about my employees and my customers.",
+            "timestamp": "1/13/2021, 1:54:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0You need to understand that the reason I'm here is to get my files unlocked. I'm already taking a huge financial hit taking care of the legal notifications and the fees associated with that. I just want my files back and unlocked.",
+            "timestamp": "1/13/2021, 1:54:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I spent all weekend with my finance guy reviewing the accounts and savings and were able to pull together $72,380. Business has not been good during the past year and what you're asking for is impossible. With COVID and the financial crisis, many people are out of work and aren't making large purchases. The people who are lucky enough to still have jobs are working from home and aren't buying new cars. I know you are the only person who can unlock the files, so this is why I'm willing to pay you the $72,380 that I have left. You can understand my situation, right?",
+            "timestamp": "1/13/2021, 1:55:58 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We don't think, that our estimates are incorrect. Your financial reports are somewhat more reliable, than your word here and now. And your proposal here is just from the textbooks - ten times less, than our initial demand. It seems, that you do not understand, how works our group. We don't ask $20 millions, to receive our demand of $750,000.So you should understand, that our team have plenty of projects running, and yours - just one from many. If we don't reach an agreement, we'll just shorten our profit.",
+            "timestamp": "1/13/2021, 2:04:37 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Also, your notifications will not save private data of your employees and customers, it will be used long time in many bad purposes. Think about your reputation, which will be damaged in so hard times for business.",
+            "timestamp": "1/13/2021, 2:06:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I understand what you're saying and know you are a famous group. I have Googled you and know you are professionals. I know you do this all the time, but please put yourself in my shoes for a moment. There is nothing textbook about this. Nobody saw this pandemic and financial crisis coming. I had no idea that 2020 was going to be as bad as it was. I still have inventory on my lot from 13 months ago. That's unheard of in my business! I'm hoping 2021 turns around and is better, but until then, I'm just trying to survive. Car dealerships are very low margin, meaning that if I'm able to sell a few cars, the revenue doesn't necessarily cover my bills or employee salaries. I need to sell a certain level of inventory to make a profit and most months I didn't. I've had to furlough employees just to try to keep the dealership open. I'm willing to do whatever it takes and to work with you for as long as it takes, but I only have $72,380 that I can pay you to unlock my files.",
+            "timestamp": "1/13/2021, 2:28:53 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Of course, we understand, that your work here is not easy and requires efforts to convince your board members. But we are still far from agreement. Our estimates are still much higher, than your proposal. We hope, that you will give us better price. And since it is our mutual interest to speed up our negotiations as much, as we can - take more serious steps toward us. It would be much easier than for us to make steps to you in response.",
+            "timestamp": "1/13/2021, 2:32:27 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I want to get you your money to get my files back. I know you put time and effort into this and want to get paid. We both want the same thing here. You see this, right? The only obstacle that I have that I need your help with is the high price. I just don't have that much.  I worked to get $72,380 from my accounts to pay you.",
+            "timestamp": "1/13/2021, 5:10:40 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is not enough. There is many ways how you could get additional funds. You could apply on the loan in the bank or take out your savings or cut expenses or sell something and etc. You are just wasting time now.",
+            "timestamp": "1/13/2021, 5:45:36 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I don't understand why the price is so high. You obviously know what my financial situation is and know that I can't possibly afford to pay you this much. For a bank to give me a loan, they'll examine my current situation, look at my debt to income ratio and see if I'm actually profitable. I already know what they're going to tell me. I'm too risky. Can't we skip all of this time wasting and let me pay you?",
+            "timestamp": "1/13/2021, 6:10:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. We could reduce the price and offer the new amount 500,000$. The price is more then reasonable for that data and your reputation.",
+            "timestamp": "1/13/2021, 6:12:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0How is asking for over $400k more than what I can afford to pay you help our situation?",
+            "timestamp": "1/14/2021, 2:33:42 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We told you above that there is several ways to find additional funds.",
+            "timestamp": "1/14/2021, 9:40:32 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'm meeting with a loan officer at the bank today.",
+            "timestamp": "1/14/2021, 2:50:34 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Keep updating us please.",
+            "timestamp": "1/14/2021, 4:49:44 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Good news. We were approved for a loan for the amount of $45,500. This makes the total amount that I can pay you $117,880. I requested $400k, but due to my debt-to-income ratio and current liabilities, $45,500 is the most they could approve for me. I have contact other lending firms and they all tell me that's the most I can be approved for, based on my credit and current financials.",
+            "timestamp": "1/14/2021, 7:39:42 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0We've been at this over a week now. We both want the same thing, a payment to get data back. I've done all I can at this point. Please, can we agree so I can pay you? This is why you did this, right?",
+            "timestamp": "1/14/2021, 7:40:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We need some time to discuss this offer.",
+            "timestamp": "1/14/2021, 8:53:19 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0This is a long holiday weekend and if I can't pay soon, I won't be able to until mid-next week.",
+            "timestamp": "1/14/2021, 8:57:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We could the offer today but it should be more profitable. We could give you some more discount and offer new price 400,000$.",
+            "timestamp": "1/14/2021, 9:52:12 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I don't understand. I've pulled all the cash from out of the business and I put my neck out on the line for a loan to come up with $117,880. I don't have any other options. $400k is impossible for me. I can pay you $117,880 right away. It will take weeks or months before I can pay anything close to $400k.",
+            "timestamp": "1/14/2021, 10:03:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Are you there? Please let me know if I can pay you $117,880. I understand that you want to make good money for your work, but this is as much as I can possible pay. I can't get another loan.",
+            "timestamp": "1/14/2021, 10:34:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We looked throw your finance records, bank accounts and know that you have more available funds. We are ready to give you some discount, but that price is not reasonable. We own a lot of private data which cost much more.",
+            "timestamp": "1/15/2021, 2:21:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I had to meet with a loan advisor to get more funds to pay you. I want to fix this problem and work with you but I can't afford anymore then $117,880. This is all I have. We have been out of service during Covid and I can't come up with anymore money.",
+            "timestamp": "1/15/2021, 4:03:24 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You have more funds on your accounts.",
+            "timestamp": "1/15/2021, 4:37:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are ready to accept 200,000$.",
+            "timestamp": "1/15/2021, 5:11:18 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Are you ready to pay?",
+            "timestamp": "1/15/2021, 8:54:27 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I need to meet with the bank to see what my options are and how much more I can borrow. Monday is a federal holiday and the bank is closed. I'll meet with them first thing in the morning on Tuesday and I'll let you know.",
+            "timestamp": "1/16/2021, 8:56:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0How do I pay you? Would the bank pay you?",
+            "timestamp": "1/16/2021, 8:56:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We accept only bitcoins.",
+            "timestamp": "1/18/2021, 8:39:35 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Okay I'll start looking into bitcoin as well. I'll have an update tomorrow",
+            "timestamp": "1/18/2021, 3:44:26 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0There is several ways how you could exchange funds. You should check google and choose the most convenient for you.",
+            "timestamp": "1/18/2021, 4:13:13 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I found a good bitcoin site. I have a call with the bank in a little bit and I'll let you know how it goes.",
+            "timestamp": "1/19/2021, 3:09:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. Keep updating us please.",
+            "timestamp": "1/19/2021, 3:13:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0It took some convincing, but I was able to get a $27,000 addendum to my previous loan. With the total loan amount of $72,500 and everything from my accounts, I can pay you $144,880. I have a bitcoin wallet account all set up and ready to use.",
+            "timestamp": "1/19/2021, 4:05:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We reduce price as much as we can. We totally sure that you had sales during this time, so you have sources from where you could add funds.",
+            "timestamp": "1/19/2021, 4:16:58 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0There have been no sales since this attack. You have locked up all the computers, leaving me not able to operate at all. This is why I've been working on getting a loan and begging and borrowing money from anyone I can.",
+            "timestamp": "1/19/2021, 4:20:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We went as low as we could. The price is little more then 20% from starting amount. It is very huge discount, especially if we remind that we own a lot of valued documents, credit cards and etc. We could not cut our profit anymore.",
+            "timestamp": "1/19/2021, 4:29:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0I made a request to my managers about additional discount anyway.",
+            "timestamp": "1/19/2021, 4:37:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. I really want to pay you to get my computers unlocked.",
+            "timestamp": "1/19/2021, 4:41:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We understand that and that's why we gave you so huge discount. We do not have purpose to ruin your business.",
+            "timestamp": "1/19/2021, 4:51:53 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I understand. We both want the same thing. We both want a payment so I can get my files back. I'm short $55k and have no other options.",
+            "timestamp": "1/19/2021, 5:00:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We are ready to reduce a little more a price. The new offer is $185,00.",
+            "timestamp": "1/19/2021, 5:28:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Okay, thank you. I'll need more time to find the funds. In addition to getting my files unlocked, what else does a payment get me?",
+            "timestamp": "1/19/2021, 5:50:16 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will return all your data and provide security report.",
+            "timestamp": "1/19/2021, 7:05:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0What about the files you took? You will give that back as well? How does that work? Will you be able to provide proof that you deleted all the files?",
+            "timestamp": "1/19/2021, 10:52:26 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We will give you all files and delete them from the cloud. It is not a problem. We never treat clients who paid us, we play only fear games.",
+            "timestamp": "1/20/2021, 2:11:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'm trying today to collect more money for you.",
+            "timestamp": "1/20/2021, 5:55:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. Keep updating us please",
+            "timestamp": "1/20/2021, 7:14:51 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'm sorry to say this, but I still only have $144,880. I'm short a little more than $55k. The bank refuses to lend me more. I tried a couple special financing companies, but after running my credit, refuse to lend me any funds. I've asked friends and family and all are hurting more than me and can't help. I just don't know what to do now.",
+            "timestamp": "1/20/2021, 11:43:15 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. So we could split the payback. You pay us what you have now and we provide you the decrypt tool. After you pay the rest, we provide your data back.",
+            "timestamp": "1/21/2021, 10:42:26 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I don't feel comfortable splitting up the payments. I rather pay you once and be done forever.",
+            "timestamp": "1/21/2021, 3:32:34 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I know you must do this all day, but I just don't see how $144,880 isn't enough to unlock my files.",
+            "timestamp": "1/21/2021, 3:34:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0It is not enough compare to your revenue and data which we got from you. So you could use this option and pay in two steps. You could start to work properly even today and find the rest very fast.",
+            "timestamp": "1/21/2021, 3:50:03 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'll need more time to collect more money. I don't have a lot of options left. The business is closed down because of this attack. I'll see what I can do. If I can't pay, can I come back here in a couple of month when I have the money? Will you still be here?",
+            "timestamp": "1/21/2021, 3:57:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We could not wait also. Why could you just split the payback and start  to work today?",
+            "timestamp": "1/21/2021, 4:08:56 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Because I'm scarred to death about paying all I have today and this still going on. No offense to you at all when I say this, but this has been the worst experience of my life. All I want is for this to be over. The stress and anxiety has been unbearable.",
+            "timestamp": "1/21/2021, 4:15:41 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We understand that and this is a reason why we gave so huge discount and offer you to split the payment. It is good option for you. The company will start to work today and you could earn the little rest very fast.",
+            "timestamp": "1/21/2021, 4:27:53 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0I'm working on collecting more money for you today.",
+            "timestamp": "1/21/2021, 4:33:10 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Okay, I got $162,792. This is from an extra $17,912. $9,500 was from a personal loan, $3,655 is from personal savings and $4,757 is from a collection the workers did. This puts me at $162,792 that I can pay you. I literally have nothing else to give. I owe a huge debt of gratitude to my workers for their help and need to pay them back ASAP. I have a bitcoin wallet account ready, all I need to do is transfer the funds from the bank. Please let me know.",
+            "timestamp": "1/21/2021, 7:58:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. We could accept that price. Here is the wallet:\n[redacted]",
+            "timestamp": "1/21/2021, 8:06:45 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you. I'm working on getting the money transferred from my bank to the bitcoin account.",
+            "timestamp": "1/21/2021, 9:10:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0After I pay, you will give me a tool to unlock all my files, right? You will also give back all the files you took, prove you deleted them and give me information about how you got in so I can make sure this doesn't happen again?",
+            "timestamp": "1/21/2021, 9:12:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is correct. As soon as we receive payment we provide required info.",
+            "timestamp": "1/21/2021, 9:14:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0How is it going so far?",
+            "timestamp": "1/22/2021, 2:23:32 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0When do you expect to proceed with the payment?",
+            "timestamp": "1/22/2021, 5:47:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0You should confirm the wallet before transfer.",
+            "timestamp": "1/22/2021, 10:09:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Hi. I had trouble with my bank. They didn't allow me to transfer the funds to a my bitcoin wallet because they suspected fraud. I got it cleared up and the wire has started, but it hasn't arrived yet. Because it didn't arrive today, it won't arrive until Monday morning. Is this okay??? Before I transfer the money to you, I will reconfirm your wallet.",
+            "timestamp": "1/23/2021, 1:16:17 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0OK. Keep updating us please.",
+            "timestamp": "1/24/2021, 6:12:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0All ready to send you $162,792. Is your BTC wallet still [redacted]? If it changed, please let me know.",
+            "timestamp": "1/25/2021, 3:38:51 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Here is the new wallet:\n[redacted]",
+            "timestamp": "1/25/2021, 4:16:23 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Okay, sending $162,792 to [redacted]",
+            "timestamp": "1/25/2021, 4:18:47 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Just confirming, [redacted]. You said it's new, but it's the same one you provided last week. It's still the correct wallet?",
+            "timestamp": "1/25/2021, 4:22:19 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0That is correct.",
+            "timestamp": "1/25/2021, 4:30:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Did you make a transfer?",
+            "timestamp": "1/25/2021, 5:50:09 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Yes",
+            "timestamp": "1/25/2021, 6:24:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0https://www.blockchain.com/btc/tx/[redacted]",
+            "timestamp": "1/25/2021, 6:29:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Do you see the payment?",
+            "timestamp": "1/25/2021, 6:55:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0We received payment and provide required info shortly.",
+            "timestamp": "1/25/2021, 6:57:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thanks",
+            "timestamp": "1/25/2021, 6:57:56 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a01. The decryption tool uploaded to the cloud. You should launch it with administrator rights and wait until it finishes decryption process. \nDownload: https://qaz.im/load/[redacted]\nDelete: https://qaz.im/index.php?a=delete&q=[redacted]",
+            "timestamp": "1/25/2021, 7:34:37 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a02. Here is the web links on your data: \npass: [redacted]\nDownload: https://qaz.im/load/[redacted]\nDelete: https://qaz.im/index.php?a=delete&q=[redacted]\nhttps://www.sendspace.com/file/[redacted]\nhttps://www.sendspace.com/delete/[redacted]\nDownload: https://qaz.im/load/[redacted]\nDelete: https://qaz.im/index.php?a=delete&q=[redacted]\nhttps://www.sendspace.com/file/[redacted]\nhttps://www.sendspace.com/delete/[redacted]\nhttps://www.sendspace.com/file/[redacted]\nhttps://www.sendspace.com/delete/[redacted]",
+            "timestamp": "1/25/2021, 7:37:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a01.rar, [redacted].rar and [redacted]2.rar are empty. Can you send via sendspace?",
+            "timestamp": "1/25/2021, 8:01:17 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a01.rar has the decryption tool in it. It's not opening. Please resend via sendspace. Thank you!",
+            "timestamp": "1/25/2021, 8:02:10 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0What is the password for 1.rar? (the decryption tool)",
+            "timestamp": "1/25/2021, 8:37:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Support:\u00a0Here is password:\n[redacted]",
+            "timestamp": "1/25/2021, 8:56:33 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Thank you! [redacted].rar and [redacted]2.rar are empty. Can you send via sendspace?",
+            "timestamp": "1/25/2021, 8:58:46 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]:\u00a0Hello? Two of the .rar files you sent via qaz.com were ZERO bytes. Please resend [redacted].rar and [redacted]2.rar via sendspace. Thank you",
+            "timestamp": "1/26/2021, 3:38:07 AM"
+        }
+    ]
+}
