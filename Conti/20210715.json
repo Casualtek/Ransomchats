@@ -1,0 +1,55 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hello",
+            "timestamp": "15/07/2021, 07:13:12"
+        },
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "15/07/2021, 07:52:24"
+        },
+        {
+            "party": "Conti",
+            "content": "Upon conclusion of the agreement, our price includes\n1) Universal decryptor for your network\n2) Permanently delete all stolen information + logs of removing\n3) Security advisories and report how we infiltrated your system",
+            "timestamp": "15/07/2021, 12:45:06"
+        },
+        {
+            "party": "Conti",
+            "content": "You can choose any 2 files from the listing, we will discard them as proof that the files were really stolen\nYou can also send 2 files for a free decrypt",
+            "timestamp": "15/07/2021, 12:45:16"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website\nThe recovery price is $720.000. If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner.",
+            "timestamp": "15/07/2021, 14:52:16"
+        },
+        {
+            "party": "Conti",
+            "content": "We have over 1 million files stolen from your network\nTotal weight over 400 gigabytes",
+            "timestamp": "15/07/2021, 18:28:39"
+        },
+        {
+            "party": "Conti",
+            "content": "30perclist.txt [ 34kB ]",
+            "timestamp": "27/07/2021, 19:56:19"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_data.7z [ 4.6MB ]",
+            "timestamp": "27/07/2021, 19:57:13"
+        },
+        {
+            "party": "Conti",
+            "content": "we are ready to publish first data\nSilence will kill your business\nIt is much more profitable to conclude an agreement with us",
+            "timestamp": "29/07/2021, 13:27:29"
+        },
+        {
+            "party": "Conti",
+            "content": "You can still conclude an agreement with us.",
+            "timestamp": "20/09/2021, 08:15:42"
+        }
+    ]
+}
