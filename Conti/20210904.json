@@ -1,0 +1,90 @@
+{
+    "chat_id": "20210904",
+    "messages": [
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "4/9/2021, 8:58:53 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "please help, my files are encrypted!!!",
+            "timestamp": "4/25/2021, 9:10:41 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Please introduce yourself. You title and company name.",
+            "timestamp": "4/25/2021, 10:49:00 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "company - [redacted]",
+            "timestamp": "5/6/2021, 11:34:38 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "did you download any data from our system ?",
+            "timestamp": "5/6/2021, 12:38:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "what is the next step ?",
+            "timestamp": "5/6/2021, 12:38:48 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, we did. I will upload the 30% of the files we currently hold as a list. You will be able to choose any 2 random files of your choice from the list and we will upload them as a proof.",
+            "timestamp": "5/6/2021, 1:02:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.icu\nThe recovery price is $980000 (17 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner and contact your insurance provider to avoid additional expenses from your side on security software and on building the new network from scratch.",
+            "timestamp": "5/6/2021, 1:05:37 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "30 % listing.txt [ 1.3MB ]",
+            "timestamp": "5/6/2021, 1:05:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Data Pack [redacted].zip [ 38.9MB ]",
+            "timestamp": "5/6/2021, 1:08:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "you can send two random files for free test decrypt",
+            "timestamp": "5/8/2021, 9:29:23 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "NTUSER.DAT_[redacted]_.TM.blf.[redacted] [ 65kB ]",
+            "timestamp": "5/8/2021, 11:23:48 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "here is the encrypted file please help us fast.",
+            "timestamp": "5/8/2021, 11:24:03 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you there?\nPlease reply us fast??",
+            "timestamp": "5/8/2021, 11:24:57 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "yes. We're processing.",
+            "timestamp": "5/8/2021, 3:54:19 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We are ready to provide a 25% discount if the payment will be made within next 24 hours.\nThe btc wallet for the payment is : [redacted]\nThe decrypted file will be uploaded within 2 hours.",
+            "timestamp": "5/8/2021, 3:57:42 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "NTUSER.DAT_[redacted]_.TM.blf [ 64kB ]",
+            "timestamp": "5/8/2021, 7:30:59 PM"
+        }
+    ]
+}
