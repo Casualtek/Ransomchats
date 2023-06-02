@@ -1,0 +1,70 @@
+{
+    "chat_id": "20210428",
+    "messages": [
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "4/28/2021, 2:17:12 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "negotiate, really?",
+            "timestamp": "5/21/2021, 8:14:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "That is totally real.",
+            "timestamp": "5/22/2021, 11:26:03 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "If we will not receive the reply from your side we will start contacting all of your clients and employees to notify them about the breach and on how you mantain privacy and information security and on how you value their data.",
+            "timestamp": "5/24/2021, 7:09:43 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "please don't. lets talk what you got and what you need, shall we?",
+            "timestamp": "5/25/2021, 12:54:05 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "The demand for the decryption tool and removing the stolen data from our servers is $4mil. If you do not need the tool and are already recovered - let me know and we will provide a solid discount. The datapack example and parts of the file listing will be provided later today.",
+            "timestamp": "5/25/2021, 1:23:01 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_full_listing.txt [ 5.3MB ]",
+            "timestamp": "5/25/2021, 2:11:00 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "example_datapack.rar [ 689kB ]",
+            "timestamp": "5/25/2021, 2:11:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "You can choose any 2 files from the listing, we will discard them as proof that the files were really stolen.\nYou can also send 2 files for a free decrypt.",
+            "timestamp": "5/25/2021, 5:14:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "And you better do it. Asap.",
+            "timestamp": "5/25/2021, 10:43:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Any update?",
+            "timestamp": "5/26/2021, 2:15:20 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We need your reply tomorrow, otherwise we shall start actions.",
+            "timestamp": "5/27/2021, 8:58:09 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Ok, you've made your choice. Now we will have to make sure that we have your attention.",
+            "timestamp": "5/31/2021, 9:57:35 AM"
+        }
+    ]
+}
