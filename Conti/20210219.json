@@ -1,0 +1,65 @@
+{
+    "chat_id": "20210219",
+    "messages": [
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "2/19/2021, 11:59:49 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi. We're still struggling here. How much data did you take from us?",
+            "timestamp": "2/22/2021, 8:16:33 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "I will provide the data pack example later today.",
+            "timestamp": "2/22/2021, 10:43:32 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "The whole amount of data is about 250gb",
+            "timestamp": "2/22/2021, 10:51:20 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "All right. We'll be waiting for the data pack example.",
+            "timestamp": "2/22/2021, 2:42:43 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "It is currently unpacking, but as soon as it's ready you will be provided with the file listing that will contain 30% of all the data and some files examples. You will be able to choose two random files from the listing and we will upload them as a proof.",
+            "timestamp": "2/22/2021, 2:46:19 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok",
+            "timestamp": "2/23/2021, 7:05:48 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "30%listing.txt [ 3.8MB ]",
+            "timestamp": "2/23/2021, 9:44:07 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "datapack.zip [ 480kB ]",
+            "timestamp": "2/23/2021, 10:12:40 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "The preview of the press-release : https://continews.pro",
+            "timestamp": "3/4/2021, 1:55:21 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "We have finally gathered all the necessary documents and files regarding your COMPANYs DATA. At the moment we are transmitting your information to our partners in MASS MEDIA SOURCES around the Europe.\nBut you can still avoid your data being disclosed and finally stop it. You know what to do. You have been provided with the instructions already. \nJust to let you know - we dont care who PAYS for the DATA. Your company or our Partners. The only thing you should care is YOUR REPUTATION being at HIGH RISK at the moment. Once your data is transmitted in full - you wont be able to abort this operation. You will have to deal with consequences of your disregard.",
+            "timestamp": "3/31/2021, 2:04:21 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "The payment amount is 1 500 000 $ and if you pay by tomorrow evening (European Time) lets arrange April 2nd by midnight - you will get extra discount of 30% - SO the total amount will be 1 050 000$ It is quite generous from our side.  After successful transfer - we forget about this small incident and disappear with all data shredded !!!",
+            "timestamp": "4/1/2021, 3:49:58 PM"
+        }
+    ]
+}
