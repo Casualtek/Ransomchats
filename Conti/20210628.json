@@ -1,0 +1,175 @@
+{
+    "chat_id": "20210628",
+    "messages": [
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "28/06/2021, 18:01:05"
+        },
+        {
+            "party": "Victim",
+            "content": "Yes tell me how much I have to pay. We are ready to pay you for our data. I have some questions also. after payment will you provide support service? And where I have to pay?",
+            "timestamp": "03/07/2021, 13:32:04"
+        },
+        {
+            "party": "Conti",
+            "content": "We will provide all the relevant information the soonest possible.",
+            "timestamp": "04/07/2021, 19:52:51"
+        },
+        {
+            "party": "Conti",
+            "content": "Please provide your company name",
+            "timestamp": "05/07/2021, 15:10:30"
+        },
+        {
+            "party": "Conti",
+            "content": "Let me know if you need the decryption tool. The price will be based on this fact.",
+            "timestamp": "06/07/2021, 14:26:54"
+        },
+        {
+            "party": "Victim",
+            "content": "company name is [redacted] now help us fast please",
+            "timestamp": "09/07/2021, 11:43:33"
+        },
+        {
+            "party": "Victim",
+            "content": "please keep the price low it's a request",
+            "timestamp": "09/07/2021, 11:43:50"
+        },
+        {
+            "party": "Conti",
+            "content": "We will discuss and let you know within few minutes.",
+            "timestamp": "09/07/2021, 11:45:19"
+        },
+        {
+            "party": "Victim",
+            "content": "okay please stay online",
+            "timestamp": "09/07/2021, 11:45:42"
+        },
+        {
+            "party": "Conti",
+            "content": "Are you acting on behalf of [redacted] ?",
+            "timestamp": "09/07/2021, 11:47:37"
+        },
+        {
+            "party": "Conti",
+            "content": "Please provide us two files for the test decryption.",
+            "timestamp": "09/07/2021, 11:52:04"
+        },
+        {
+            "party": "Victim",
+            "content": "ok wait",
+            "timestamp": "09/07/2021, 12:07:03"
+        },
+        {
+            "party": "Victim",
+            "content": "desktop.ini.[redacted] [ 708B ]",
+            "timestamp": "09/07/2021, 12:14:03"
+        },
+        {
+            "party": "Victim",
+            "content": "ntuser.ini.[redacted] [ 554B ]",
+            "timestamp": "09/07/2021, 12:14:09"
+        },
+        {
+            "party": "Victim",
+            "content": "now help us fast please with your price and address. One question after payment in how much time we will get the decryptor??",
+            "timestamp": "09/07/2021, 12:14:58"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you there?? We are waiting for your reply?? How long we have to wait for it?",
+            "timestamp": "09/07/2021, 12:55:28"
+        },
+        {
+            "party": "Conti",
+            "content": "we will provide the decrypted copies soon. Right now we are trying to figure out what of your resources were attacked, cause for now as we can see this particular strain of Conti was used in [redacted] network, so I ask you again, are you talking to us on their behalf?",
+            "timestamp": "09/07/2021, 13:02:00"
+        },
+        {
+            "party": "Conti",
+            "content": "As soon as the payment is made the decryption tool will be provided within 20-30 minutes.",
+            "timestamp": "09/07/2021, 13:02:20"
+        },
+        {
+            "party": "Victim",
+            "content": "Yes we are talking on behalf of them",
+            "timestamp": "09/07/2021, 13:03:20"
+        },
+        {
+            "party": "Conti",
+            "content": "Do you need the list of the data that was taken from their network?",
+            "timestamp": "09/07/2021, 13:03:52"
+        },
+        {
+            "party": "Conti",
+            "content": "The price for the decryption tool and the data for lounsburys.com is $1.25mil",
+            "timestamp": "09/07/2021, 13:04:49"
+        },
+        {
+            "party": "Victim",
+            "content": "if you can provide it will be good",
+            "timestamp": "09/07/2021, 13:05:01"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you please provide some discount??",
+            "timestamp": "09/07/2021, 13:05:11"
+        },
+        {
+            "party": "Conti",
+            "content": "We can make 25% discount if the payment will be made within 24 hours.",
+            "timestamp": "09/07/2021, 13:06:26"
+        },
+        {
+            "party": "Conti",
+            "content": "desktop.ini [ 174B ]",
+            "timestamp": "09/07/2021, 13:08:17"
+        },
+        {
+            "party": "Conti",
+            "content": "I've processed the request for the file tree list and example data pack to the tech dept. Will upload as soon as they reply",
+            "timestamp": "09/07/2021, 13:08:22"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok and where we have to pay??",
+            "timestamp": "09/07/2021, 13:08:31"
+        },
+        {
+            "party": "Conti",
+            "content": "ntuser.ini [ 20B ]",
+            "timestamp": "09/07/2021, 13:08:32"
+        },
+        {
+            "party": "Conti",
+            "content": "The btc wallet for the payment is : [redacted]",
+            "timestamp": "09/07/2021, 13:09:03"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you please provide non-segwit address if you don't have any problem",
+            "timestamp": "09/07/2021, 13:13:41"
+        },
+        {
+            "party": "Victim",
+            "content": "Can we request one more thing please?? Amount is very huge.. can you accept the money into multiple addresses, if you don't have any problem. We will try to pay with diff-diff wallets. I hope you understand our situation. It's a humble request",
+            "timestamp": "09/07/2021, 13:15:20"
+        },
+        {
+            "party": "Conti",
+            "content": "Here's the list of addresses for the payment, all are non-segwit :\n[redacted]\n[redacted]\n[redacted]\n[redacted]\n[redacted]",
+            "timestamp": "09/07/2021, 13:18:13"
+        },
+        {
+            "party": "Conti",
+            "content": "Let me know if you've received the addresses. I will have to go offline for a couple of hours but I will be able to get back to you later today.",
+            "timestamp": "09/07/2021, 13:26:27"
+        },
+        {
+            "party": "Victim",
+            "content": "ok we are talking to higher management with all the details and I will update you by EOD otherwise tomorrow. We will try to pay you by today if higher mangement approves everything",
+            "timestamp": "09/07/2021, 13:31:59"
+        }
+    ]
+}
