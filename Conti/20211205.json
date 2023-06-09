@@ -1,0 +1,320 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "I need to recover my files",
+            "timestamp": "5/12/2021, 10:13:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "hello?",
+            "timestamp": "5/13/2021, 12:03:30 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "hello",
+            "timestamp": "5/13/2021, 4:01:33 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Hello, please identify your company",
+            "timestamp": "5/13/2021, 10:43:08 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Well? Are you ready to negotiate or we should start notifying your staff and partners?",
+            "timestamp": "5/17/2021, 10:25:21 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "What do you guys want?",
+            "timestamp": "5/17/2021, 10:22:55 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files (more than 500gb) that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.icu\nThe recovery price is $950000 (21 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner.",
+            "timestamp": "5/18/2021, 6:11:12 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_30_percent_listing.rar [ 1MB ]",
+            "timestamp": "5/18/2021, 3:04:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "What is this file? WHy is this costing 21 coins? We don't have this!!",
+            "timestamp": "5/20/2021, 12:23:08 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "This file contains the 30% list of all the data we took from your network. It totally costs what we ask.",
+            "timestamp": "5/20/2021, 8:48:46 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "You said earlier that you are ready to negotiate. What range will you actually negotiate to?",
+            "timestamp": "5/20/2021, 2:32:57 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We are ready to provide a 25% discount if the payment will be made by Monday.",
+            "timestamp": "5/20/2021, 3:47:16 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We don't have that type of money. Do you know what we do? Do you know how small our margins are?",
+            "timestamp": "5/20/2021, 6:35:14 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "What is your offer?",
+            "timestamp": "5/20/2021, 10:29:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We really need to think this through. We can't sustain such a large payment. Can we let you know early next week?",
+            "timestamp": "5/21/2021, 3:21:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, we will be waiting for your offer by Monday evening.",
+            "timestamp": "5/21/2021, 5:27:22 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay",
+            "timestamp": "5/21/2021, 10:07:57 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Well?",
+            "timestamp": "5/24/2021, 10:04:55 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Soon. Still ironing out a few things.",
+            "timestamp": "5/24/2021, 10:30:19 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for waiting. Given our margins and our type of business, it was difficult to come up with a large amount, but we're ready to offer you $125,000",
+            "timestamp": "5/25/2021, 12:20:14 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "That is surely way lower our usual demands, but taking in consideration your type of business we are ready to go down to $580k",
+            "timestamp": "5/25/2021, 9:06:39 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "We're not viewing this as a negotiation. The decrease helps but all we have is $125,000. We collect debt on behalf of other companies and this is a low margin industry. This seems like a dead end at this rate.",
+            "timestamp": "5/25/2021, 3:51:30 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Well, we are going to ruin your business if you are not ready to meet about $500k. That's the lowest our group gets. We will be waiting a reply within 24 hours. If we will not receive it - we will show you what we can do.",
+            "timestamp": "5/25/2021, 10:24:24 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We've spoken to several brokers who work with you and know you have gone below $500k before, so please reconsider my proposal. I've offered you a substantial amount of money for my industry and want to reach a compromise with you. Please let me know if you have a better rate for me",
+            "timestamp": "5/26/2021, 1:56:09 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, we had such cases in a private manner, we've discussed internally and the last offer we can make is to meet  inbetween at the point of 352.5k let me know if you accept. Otherwise we shall start actions.",
+            "timestamp": "5/26/2021, 6:59:00 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "This is still way off our mark. What could you possibly have that is worth so much?",
+            "timestamp": "5/26/2021, 12:43:22 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Can we see some more files?",
+            "timestamp": "5/26/2021, 12:43:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We see you're trying to work with us which we appreciate. It just feels a little hopeless right now.",
+            "timestamp": "5/26/2021, 12:43:54 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "That's as low as we can get. And it's not only about the files that we've shown. I will upload the full listing soon, but if we won't be able to reach the agreement by tomorrow - we shall start notifying your employees and partners about the breach and on how you value their data.",
+            "timestamp": "5/26/2021, 2:47:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Getting the full listing will help us. Can we atleast get until the end of the week to review the listing?",
+            "timestamp": "5/26/2021, 4:05:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]-full-listing.rar [ 3MB ]",
+            "timestamp": "5/26/2021, 4:38:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "This contains everything that you extracted from us?",
+            "timestamp": "5/26/2021, 9:40:31 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, correct.",
+            "timestamp": "5/27/2021, 9:14:21 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "We should have our review done by tomorrow. Thank you.",
+            "timestamp": "5/27/2021, 9:40:23 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We are waiting for details from your side today.",
+            "timestamp": "5/28/2021, 4:04:29 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We've spoken about this. The file listing hasn't changed much because we had an idea of what was taken anyway. Money is still the biggest issue as we don't have the resources for excess payments. You're bringing us to the edge but we've gathered some more cash. $170,000 is our max.",
+            "timestamp": "5/28/2021, 4:54:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We are ready to accept. The wallet for the payment is : [redacted]",
+            "timestamp": "5/28/2021, 5:03:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We need time to move money and Monday is a bank holiday. Can we pay next week?",
+            "timestamp": "5/28/2021, 8:23:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "And what will you provide to us after we pay $170,000?",
+            "timestamp": "5/28/2021, 8:23:57 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "You will be provided with the decryption tool, data removal logs and security recommendations.",
+            "timestamp": "5/28/2021, 8:26:01 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "This is a long weekend. Can we pay by the end of next week?",
+            "timestamp": "5/28/2021, 9:31:20 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Let's make it Wednesday? That's more than enough time I suppose.",
+            "timestamp": "5/28/2021, 10:18:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay, we just won't be able to move money until Tuesday, so it may be Wednesday or Thursday. I will keep you updated. I appreciate it!",
+            "timestamp": "5/29/2021, 2:53:23 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Ok, we will be waiting.",
+            "timestamp": "5/29/2021, 2:54:07 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you",
+            "timestamp": "5/29/2021, 3:00:16 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "We should be able to pay by tomorrow or Thursday. Thanks.",
+            "timestamp": "6/1/2021, 9:23:34 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Ok, let me know as soon as the transfer is made.",
+            "timestamp": "6/1/2021, 10:01:44 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We have the $170,000. Please confirm the address again.",
+            "timestamp": "6/2/2021, 8:47:04 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "The btc wallet remains the same : [redacted]",
+            "timestamp": "6/2/2021, 9:56:17 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "You should have it. Please confirm.",
+            "timestamp": "6/2/2021, 10:10:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Received. Will provide all the deliverables the soonest possible.",
+            "timestamp": "6/2/2021, 10:11:28 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_decryptor.exe [ 103kB ]",
+            "timestamp": "6/2/2021, 11:05:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Decryptor:  \n1) Launch the decryptor under Administrative rights  \n2) Wait till the decryptor window is closed  \n3) if any of the files haven't changed the extension back to the original - repeat 1 and 2",
+            "timestamp": "6/2/2021, 11:07:27 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay thank you, please send the other deliverables when you have them",
+            "timestamp": "6/3/2021, 3:03:34 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Is it ready?",
+            "timestamp": "6/3/2021, 10:16:01 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "You have been breached through the email phishing campaign. The overall security score is 2 out of 5. \nOur recommendations will be :\n1. Implement better email filtering policies\n2. Implement tape-based backup hardware\n3. Audit account access policies network wide\n4. Rebuild the network using segmentation procedures\n5. Implement better password policies\n6. Block pass-the-hash and kerberoast attacks\n7. Notify all your employees and security policies inside the company (opening email attachments, changing passwords, etc)\n8. Buying better AV/EDR software",
+            "timestamp": "6/4/2021, 2:03:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you give us specific details on which account was breached? Also, how will you prove that the data has been deleted?",
+            "timestamp": "6/4/2021, 8:23:17 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Did you see the previous message?",
+            "timestamp": "6/8/2021, 12:36:46 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We will provide the data deletion log soon. Unfortunately we have no records on what account was the initially infected. Sorry.",
+            "timestamp": "6/8/2021, 12:40:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Please let us know when it is ready",
+            "timestamp": "6/9/2021, 3:19:26 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you give us an update?",
+            "timestamp": "6/11/2021, 12:48:36 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "https://www.sendspace.com/file/[redacted]\nhttps://www.sendspace.com/delete/[redacted]/[redacted]\nArchive password: [redacted]",
+            "timestamp": "6/17/2021, 6:49:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Here's the deletion log.",
+            "timestamp": "6/17/2021, 6:49:52 PM"
+        }
+    ]
+}
