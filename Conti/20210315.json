@@ -1,0 +1,250 @@
+{
+    "chat_id": "20210315",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hello - We are here to discuss the situation as a smaller company we are trying to understand what you are asking in this case to get us our files back?",
+            "timestamp": "3/15/2021, 4:54:28 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "hello\nplease wait answer",
+            "timestamp": "3/15/2021, 5:02:49 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.icu\nThe recovery price is $1100000 (20 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner to avoid additional expenses from your side on security software and on building the new network from scratch.\nThe example data pack will be provided, which will include part of the file list and some actual data you can review.",
+            "timestamp": "3/15/2021, 5:14:44 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "The total amount of data downloaded from your network is 835 GB.\nThe 30% of the whole file listing is attached. You can choose any 2 files from the list and we will upload them as a proof.",
+            "timestamp": "3/15/2021, 5:16:17 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "30percentlisting.txt [ 5.9MB ]",
+            "timestamp": "3/15/2021, 5:16:59 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]_ENCRYPTED.zip [ 675kB ]",
+            "timestamp": "3/16/2021, 5:16:39 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]-Finances.zip [ 211kB ]",
+            "timestamp": "3/16/2021, 5:16:50 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted]-Dev.zip [ 128kB ]",
+            "timestamp": "3/16/2021, 5:16:58 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "can you demonstrate decryption?",
+            "timestamp": "3/16/2021, 5:17:02 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_ENCRYPTED.zip [ 651kB ]",
+            "timestamp": "3/16/2021, 5:39:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Of course.",
+            "timestamp": "3/16/2021, 5:39:58 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "appreciated.",
+            "timestamp": "3/17/2021, 2:27:57 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "could you give us these files: \n~$Budget 2020-2021 COVID19-2 [redacted]-HSBC v1.1 FINAL FINAL.xlsx                       [165 Bytes]\n~$[redacted] 2021-2022.xlsx                                                          [165 Bytes]\n~$[redacted] 21-01-2021.xlsx                            [165 Bytes]",
+            "timestamp": "3/17/2021, 2:28:14 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes. Wlll upload soon.",
+            "timestamp": "3/17/2021, 4:51:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "https://www.sendspace.com/file/[redacted]\n[redacted]\nhttps://www.sendspace.com/delete/[redacted]/[redacted]",
+            "timestamp": "3/17/2021, 5:35:48 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "appreciate. We will download and review.",
+            "timestamp": "3/17/2021, 5:50:08 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We understand you are asking for 1.1Mil. This is not an amount we can consider as it is more than our annual revenue. You will find if you search us, that we went bankrupt 2 years ago and have been on the losing side since. We would like to discuss how to proceed, but we do not know where to start with this amount.",
+            "timestamp": "3/18/2021, 1:56:59 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We can provide you with 25% discount as a step forward.",
+            "timestamp": "3/18/2021, 4:32:53 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi - We are trying to see what we can do but meanwhile can you send me any files from: 1. E:\\mssql\\data folder on a server called [redacted]-db? log files or something like that. Also on a server called [redacted] can you get me a file from c:\\users\\[redacted]\\documents\\[redacted]\\exports please? thank you.",
+            "timestamp": "3/19/2021, 2:00:25 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We are looking for those files. Will upload soon.",
+            "timestamp": "3/20/2021, 8:01:14 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "We can't find the files you requested by path. We need the exact file names to look for.",
+            "timestamp": "3/20/2021, 1:14:04 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "can you find a table in a database if we give you the table name?",
+            "timestamp": "3/20/2021, 6:56:09 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Well, yes, I suppose. But please specify the database name too.",
+            "timestamp": "3/21/2021, 12:23:34 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "can you see if you have these files: A) [redacted] server - \"TransfertsWeb7DerniersJours_20201220\" and \"TransfertsWeb7DerniersJours_20201213\"; and B)  vRaym-DB - \"templog.ldf\"",
+            "timestamp": "3/21/2021, 12:37:01 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes. We have them. Although we have already provided two files of your choice that you have requested I can provide only parts of those files as a confirmation.\nStoreName_FromSomme de TotalQtySomme de TotalRetail\n[redacted]54717956.87\nStoreName_FromSomme de TotalQtySomme de TotalRetail\n[redacted]862923.85",
+            "timestamp": "3/22/2021, 12:16:37 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "We have provided everything you asked by now. Now we are waiting for your decision. It's been a week already and we are almost past the deadline to we need your decision by tomorrow.",
+            "timestamp": "3/22/2021, 8:20:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "You have provided everything we asked.",
+            "timestamp": "3/22/2021, 10:16:28 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "It is appreciated. It is also used to build some trust in a situation like this.",
+            "timestamp": "3/22/2021, 10:16:59 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We also used the time to see what we can raise in funds because even 800k is not an amount anything will give us.",
+            "timestamp": "3/22/2021, 10:17:32 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "I will respond tomorrow we are trying one other thing and then I will be able to say if and what we can offer.",
+            "timestamp": "3/22/2021, 10:18:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Ok, we are waiting for the news by tomorrow.",
+            "timestamp": "3/23/2021, 5:58:47 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi - we reviewed all the files. The data is not worth much. We are recovered so we do not need decryptors. We cannot pay what you are asking. We are on the verge of insolvency and this certainly does not help. I can pay you 50K to make this go away if you promise and provide assurance that you deleted all the data. This is as much as I am able to do without triggering law enforcement and the banks after me.",
+            "timestamp": "3/23/2021, 2:10:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "50K is totally impossible. As you can find our from the open sources our \"average\" is more than a mil. Although we are ready to make a step forward towards you and go down to $450k (if the decryptor is not required, only for the data deletion). My team will not let me go even a dollar lower than $450k.",
+            "timestamp": "3/23/2021, 2:29:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "We cannot do that, we do not have that kind of funds available to give. I guess we cannot proceed because I cannot give you what you want and I do not have.",
+            "timestamp": "3/24/2021, 12:43:40 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Understandable. Too bad though. We will start auctioning your data to your competitors within next 48 hours.",
+            "timestamp": "3/24/2021, 9:29:51 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Let me know who is interested in buying this information, might be a potential buyer :) Like I said the price is far too high that I cannot budge more than +10k. Of course if you decide to access I promise not to tell the media that the amount but sounds like we are not even in the ball-park.",
+            "timestamp": "3/24/2021, 12:10:28 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "That's just impossible in our enterprise.",
+            "timestamp": "3/24/2021, 5:34:22 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Let me discuss with the team to reevaluate your abilities and I will get back to you.",
+            "timestamp": "3/24/2021, 5:40:58 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Well. Ok, we can make it 100k and finish this one on a private terms from both sides.",
+            "timestamp": "3/24/2021, 8:15:20 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi - Ok, all agreed; 100k. Please send wallet",
+            "timestamp": "3/25/2021, 5:50:25 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - OK, we confirm 100k to resolve this.\nWe have a bitcoin broker ready to do transfer today.\nPlease confirm on payment you will provide:\n1.  complete file tree of the data downloaded from our network and a deletion log of all of the data,\n2.  confirmation that you deleted and will never publish any of our data, including our chat, now or in the future, and\n3.  a security report on how we got hacked, and how we can prevent future problems \nPlease confirm 1 to 3 and send us the bitcoin wallet address.",
+            "timestamp": "3/26/2021, 1:51:38 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "All of those is confirmed\nThe wallet is : [redacted]",
+            "timestamp": "3/26/2021, 4:20:06 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "OK standby",
+            "timestamp": "3/26/2021, 6:34:18 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "OK, the broker sent $100K / 1.8650 bitcoins. Please confirm receipt and provide to us the deal items as soon as possible, thank you.",
+            "timestamp": "3/26/2021, 7:53:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "The payment is received. We will provide the decryption tool the soonest possible.",
+            "timestamp": "3/27/2021, 6:57:03 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_decryptor.exe [ 103kB ]",
+            "timestamp": "3/27/2021, 10:41:54 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Decryptor:\n1) Launch the decryptor under Administrative rights\n2) Wait till the decryptor window is closed\n3) if any of the files haven't changed the extension back to the original - repeat 1 and 2",
+            "timestamp": "3/27/2021, 10:42:16 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "OK - thanks. Regarding our data and files, can you please provide the full 100% file-tree list and proof of shred/deletion. Also, the security report of what happen so we can improve our network. thank you.",
+            "timestamp": "3/27/2021, 4:18:40 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, we will keep you updated on this one.",
+            "timestamp": "3/29/2021, 7:18:54 AM"
+        }
+    ]
+}
