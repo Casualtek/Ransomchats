@@ -1,0 +1,245 @@
+{
+    "chat_id": "20210611",
+    "messages": [
+        {
+            "party": "Conti",
+            "content": "Hello, are you ready to negotiate?",
+            "timestamp": "11/06/2021, 20:51:20"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, did you take any data from us ?",
+            "timestamp": "13/06/2021, 11:43:05"
+        },
+        {
+            "party": "Victim",
+            "content": "what are the next steps to get our systems decrypted ?",
+            "timestamp": "13/06/2021, 11:43:27"
+        },
+        {
+            "party": "Conti",
+            "content": "30percentlisting.txt [ 4.1MB ]",
+            "timestamp": "13/06/2021, 14:06:49"
+        },
+        {
+            "party": "Conti",
+            "content": "datapack-example.zip [ 1.9MB ]",
+            "timestamp": "13/06/2021, 14:07:02"
+        },
+        {
+            "party": "Conti",
+            "content": "We have 450Gb of your data. You can choose any two files from this listing, we will upload them to you, this is proof that we have them.\nWait, soon we will write you the terms of cooperation.",
+            "timestamp": "13/06/2021, 14:10:51"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website.\nThe recovery price is $600000 (15 BTC). If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge.\nIf we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches.\nWe strongly recommend to review our offer in a timely manner to avoid additional expenses from your side on security software and on building the new network from scratch.",
+            "timestamp": "14/06/2021, 13:29:23"
+        },
+        {
+            "party": "Victim",
+            "content": "How do I know you can decrypt my data?",
+            "timestamp": "15/06/2021, 11:44:47"
+        },
+        {
+            "party": "Conti",
+            "content": "Send us your two encrypted files, and we'll decrypt them for you as proof.",
+            "timestamp": "15/06/2021, 14:56:40"
+        },
+        {
+            "party": "Victim",
+            "content": "nopdf.csv.[redacted] [ 76kB ]",
+            "timestamp": "15/06/2021, 21:08:08"
+        },
+        {
+            "party": "Victim",
+            "content": "esign_scripts-withTransID.sql.[redacted] [ 2kB ]",
+            "timestamp": "15/06/2021, 21:08:15"
+        },
+        {
+            "party": "Conti",
+            "content": "Will decrypt and upload asap.",
+            "timestamp": "15/06/2021, 21:16:53"
+        },
+        {
+            "party": "Conti",
+            "content": "esign_scripts-withTransID.sql [ 1kB ]",
+            "timestamp": "15/06/2021, 23:24:19"
+        },
+        {
+            "party": "Conti",
+            "content": "nopdf.csv [ 76kB ]",
+            "timestamp": "15/06/2021, 23:24:26"
+        },
+        {
+            "party": "Victim",
+            "content": "Powerpoint-france-[redacted]-destination.jpg.[redacted] [ 4.4MB ]",
+            "timestamp": "16/06/2021, 06:15:01"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, can you decrypt this sample file as well please?",
+            "timestamp": "16/06/2021, 06:15:33"
+        },
+        {
+            "party": "Victim",
+            "content": "are you here ?",
+            "timestamp": "16/06/2021, 09:41:42"
+        },
+        {
+            "party": "Conti",
+            "content": "Powerpoint-france-[redacted]-destination.jpg [ 4.4MB ]",
+            "timestamp": "16/06/2021, 10:25:21"
+        },
+        {
+            "party": "Victim",
+            "content": "What will be the discount if we pay quickly to you today, we are working with banks and still struggling to get approvals as our financial records says we are already in loss because as you already know that we are an educational cultural exchange program that send student abroad to study, since start of covid till now we have not been able to sent applicants out of US in over a year which is same for other countries applicants",
+            "timestamp": "16/06/2021, 13:49:34"
+        },
+        {
+            "party": "Conti",
+            "content": "$500 000. If you pay today",
+            "timestamp": "16/06/2021, 14:33:44"
+        },
+        {
+            "party": "Victim",
+            "content": "We really can afford what you are asking",
+            "timestamp": "16/06/2021, 16:06:53"
+        },
+        {
+            "party": "Conti",
+            "content": "Soon we will give you the bitcoin wallet address where you will need to send the coins. Please wait",
+            "timestamp": "16/06/2021, 16:10:07"
+        },
+        {
+            "party": "Victim",
+            "content": "We have collected around 100k from our partners and emergency funds and if the bank approves our loan ( which we are in constantly followup ) we will get additional 100K, so we will at position to pay you around 200k$ if all went as planned, but above that we are having no options to collect more funds.",
+            "timestamp": "16/06/2021, 16:12:28"
+        },
+        {
+            "party": "Conti",
+            "content": "Is this a joke? Do you understand that your business is in our hands? Do you understand the consequences for you if you do not agree with us?\nWe can't accept 200k.",
+            "timestamp": "16/06/2021, 16:22:54"
+        },
+        {
+            "party": "Victim",
+            "content": "We are not joking and know that you are a serious organization, as stated before the global pandemic effected our ability to operate for an entire year causing us to lose most of our business that keeps us floating. We are still working with the bank to try and convince them that their financial aid will not be wasted but they know about our current situation. We are pursuing additional means to finding more fundsand will update you on any progress we have made if any.",
+            "timestamp": "16/06/2021, 17:02:05"
+        },
+        {
+            "party": "Victim",
+            "content": "If you can give us another offer that might be more possible for us, it may help us convince the banks to approve a loan, we are still working on getting their assistance.",
+            "timestamp": "16/06/2021, 17:25:34"
+        },
+        {
+            "party": "Conti",
+            "content": "We are ready to go down to $480k from our side. That's a huge step forward keeping in mind that our initial claim was already pretty low comparing to our usual demands.",
+            "timestamp": "16/06/2021, 17:56:23"
+        },
+        {
+            "party": "Victim",
+            "content": "We should be able to secure the loan approval today which would give us the 200k once its put together, we are also currently working on an additional source that could potentially give us around $256,000 that we would then convert into BTC if the the process does not fall through. We know this is lower than what you are demanding but we just really do not have the type of financial ability to come up with that much.",
+            "timestamp": "16/06/2021, 18:37:42"
+        },
+        {
+            "party": "Conti",
+            "content": "We are ready to accept $256k. I will provide the wallet for the payment a bit later today.",
+            "timestamp": "16/06/2021, 18:41:02"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok, we will continue to work on getting those funds in our possession and converted into BTC. We will send it once we have your BTC wallet.",
+            "timestamp": "16/06/2021, 19:55:52"
+        },
+        {
+            "party": "Conti",
+            "content": "The wallet for the payment is : [redacted]\nlet me know once the transfer is made.",
+            "timestamp": "16/06/2021, 20:22:15"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, we should have the funds soon hopefully. Once the payment is sent will you provide us with a list of the files that were taken, proof that they have been deleted as well as the decryption tool to restore all of our devices?",
+            "timestamp": "16/06/2021, 21:12:30"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, of course, you will be provide with all mentioned deliverables.",
+            "timestamp": "16/06/2021, 21:13:22"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, could you also provide us with some details on how you got into our network after the payment is sent?",
+            "timestamp": "16/06/2021, 21:43:52"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, of course.",
+            "timestamp": "16/06/2021, 21:47:27"
+        },
+        {
+            "party": "Conti",
+            "content": "$256,000 amount is only valid if you pay today. You're running out of time",
+            "timestamp": "17/06/2021, 00:53:43"
+        },
+        {
+            "party": "Victim",
+            "content": "Did you received the payment ? we are still waiting for the keys",
+            "timestamp": "17/06/2021, 08:43:24"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes. The payment is received. The decryption tool will be provided soon. Already processed the request to tech dept.",
+            "timestamp": "17/06/2021, 08:56:10"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_decryptor.exe [ 103kB ]",
+            "timestamp": "17/06/2021, 09:06:11"
+        },
+        {
+            "party": "Conti",
+            "content": "Decryptor:\n1) Launch the decryptor under Administrative rights\n2) Wait till the decryptor window is closed\n3) if any of the files haven't changed the extension back to the original - repeat 1 and 2",
+            "timestamp": "17/06/2021, 09:07:49"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello can you please share with us the rest of deliverables 1) file tree of the data you took 2) proof that it has been deleted 3)Security report",
+            "timestamp": "17/06/2021, 14:49:50"
+        },
+        {
+            "party": "Conti",
+            "content": "You have been breached through the email phishing campaign. The overall security score is 2 out of 5. \nOur recommendations will be :\n1. Implement better email filtering policies\n2. Implement tape-based backup hardware\n3. Audit account access policies network wide\n4. Rebuild the network using segmentation procedures\n5. Implement better password policies\n6. Block pass-the-hash and kerberoast attacks\n7. Notify all your employees and security policies inside the company (opening email attachments, changing passwords, etc)\n8. Buying better AV/EDR software",
+            "timestamp": "18/06/2021, 01:29:16"
+        },
+        {
+            "party": "Conti",
+            "content": "The other deliverables will be provided soon.",
+            "timestamp": "18/06/2021, 01:29:31"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]-full-listing.7z [ 695kB ]",
+            "timestamp": "18/06/2021, 01:31:04"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you also send us the wipe proof ?",
+            "timestamp": "18/06/2021, 12:31:46"
+        },
+        {
+            "party": "Victim",
+            "content": "Also can you share which user was phished/compromised initially?",
+            "timestamp": "18/06/2021, 16:44:59"
+        },
+        {
+            "party": "Conti",
+            "content": "Will do, but I am not sure if I will be able to find the initial compromised user right now, it's been pretty long time ago.",
+            "timestamp": "18/06/2021, 17:03:14"
+        },
+        {
+            "party": "Conti",
+            "content": "log_remove.7z [ 1.1MB ]",
+            "timestamp": "18/06/2021, 18:19:19"
+        }
+    ]
+}
