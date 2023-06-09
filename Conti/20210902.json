@@ -1,0 +1,220 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hi\nAre you there? I need your help urgently kindly reply me. My system is behaving abnormally after infected by your ransomware.",
+            "timestamp": "2/9/2021, 9:38:39 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, we are here. Will provide further details within next few minutes.",
+            "timestamp": "2/9/2021, 9:48:37 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "As you already know - your network and all of your data were encrypted by CONTI team. Besides the encryption process we've downloaded a large pack of your internal documents and files that will be published in case our negotiations fail. How it happens can be seen on our website https://continews.best/ (TOR mirror: http://fylszpcqfel7joif.onion). The recovery price is $850000 in bitcoin. If you want to make sure we can recover all of your data - you can send us the two files of your choice and we will decrypt them free of charge. If we reach mutual agreement your will be provided with decryption tool, none of your internal data will be published and you will be provided with security tips on how to avoid further breaches. We strongly recommend to review our offer in a timely manner, you've waited too long to contact us and the press-release is already ready for publication.",
+            "timestamp": "2/9/2021, 9:52:32 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Please don't publish our data anywhere",
+            "timestamp": "2/9/2021, 10:01:20 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Tell me your demand how we can fix this thing?",
+            "timestamp": "2/9/2021, 10:01:58 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Please read the previous message once again. The recovery price is $850000 in bitcoin.",
+            "timestamp": "2/9/2021, 10:13:15 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "It's so much? No Discount?",
+            "timestamp": "2/9/2021, 10:19:00 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "You have been waiting to contact us for about three weeks while ignoring our emails and still ask for a discount? It's a luck that you data isn't published yet. It's way past the deadline.",
+            "timestamp": "2/9/2021, 10:21:54 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "I know that I wasted so much time in thinking whether to pay or not but now I am ready to do payment atleast provide some discount please",
+            "timestamp": "2/9/2021, 10:27:03 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "We can provide a 25% discount by going down to $635k if the payment will be made by the end of this week.",
+            "timestamp": "2/9/2021, 10:29:57 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok I am ready with this price tell me where I have to pay?",
+            "timestamp": "2/9/2021, 10:37:06 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "The btc wallet for the payment is : [redacted]\nLet me know as soon as the payment is made.",
+            "timestamp": "2/9/2021, 10:40:54 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for the discount. Just want to ask one thing. Is your bitcoin address correct? I am getting issue while doing payment on your given address",
+            "timestamp": "2/9/2021, 10:58:53 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes, it is correct, but it's a segwit address. I will provide a new one within few minutes.",
+            "timestamp": "2/9/2021, 11:00:23 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "You can use this one : [redacted]",
+            "timestamp": "2/9/2021, 11:01:23 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks but it's not working is it segwit address or what? both the address are throwing same error. Might be because your address is new or created on blockchain and due to that I am getting the error.",
+            "timestamp": "2/9/2021, 11:07:11 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "It is a new address, but that should not be an issue. What's the error code?",
+            "timestamp": "2/9/2021, 11:10:41 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Error code is \"Transaction Server Failed\" Might be because your address is new and empty. If you can provide me another address that have some balance probably it will work sometimes it happened due to zero or null value in blockchain if I am not wrong",
+            "timestamp": "2/9/2021, 11:15:17 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Try this one : [redacted]",
+            "timestamp": "2/9/2021, 11:18:14 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks for your kind support but I think segwit it creating some issue can your provide non-segwit & non-empty address.",
+            "timestamp": "2/9/2021, 11:21:52 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Give me few minutes, I will try to find one.",
+            "timestamp": "2/9/2021, 11:28:50 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok no issue & Thanks once again for the discount",
+            "timestamp": "2/9/2021, 11:29:41 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "That's not a common issue, have you tried to increase the fee? The blockchain network seems pretty busy today.",
+            "timestamp": "2/9/2021, 11:30:53 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "I tried but it doesn't work for me. I know sometimes it happens in blockchain due to network issue so, I am not blaming you",
+            "timestamp": "2/9/2021, 11:33:48 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Btw Thanks for your amazing support service I thought that ransomware guys never respond properly but after talking to you I was wrong",
+            "timestamp": "2/9/2021, 11:34:50 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "Glad to hear it. I am trying to find a suitable legacy wallet, but the fact is that we almost never use them, so it might take some time. Anyways, if you will be able to transfer the funds to any of the above wallets we will accept the deposit and provide you with a decryptor. Those three wallets are static and under our control.",
+            "timestamp": "2/9/2021, 11:37:05 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Meanwhile I will try no issue I understand your situation. If you have some more addresses and don't have any problem I will try on others if it works I will let you know",
+            "timestamp": "2/9/2021, 11:38:57 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] kindly check the payment on this address I just tried again I think funds has been transferred",
+            "timestamp": "2/9/2021, 11:43:32 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "No need to check on that address again I got the error message",
+            "timestamp": "2/9/2021, 11:47:22 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted] - try this.",
+            "timestamp": "2/9/2021, 11:54:15 AM"
+        },
+        {
+            "party": "Victim",
+            "content": "Same thing happening...  you don't have legacy address with some balance. Blockchain network facing load issue I believe",
+            "timestamp": "2/9/2021, 11:57:36 AM"
+        },
+        {
+            "party": "Conti",
+            "content": "They are accumulated, so it basically has the parent balance. Nevermind, it seems to be a network issue due to high load, so let's just wait abit and keep trying within some interval.",
+            "timestamp": "2/9/2021, 12:01:02 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "No Issue, I was also thinking the same I will try it like this only",
+            "timestamp": "2/9/2021, 12:03:37 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Can I ask few questions if you don't have any problem to answer? I am very curious to know about few things",
+            "timestamp": "2/9/2021, 12:04:11 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Sure, go ahead.",
+            "timestamp": "2/9/2021, 12:07:14 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Like why you started this ransomware business? How much you earned in this business?",
+            "timestamp": "2/9/2021, 12:09:03 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Oh, \"those\" questions. Unfortunately we have no interest in giving interviews, although the answers for both questions are pretty obvious, right?",
+            "timestamp": "2/9/2021, 12:11:38 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "I know that everyone wants money whether it's you or me or anyone else this life runs on money. Without money no one can survive",
+            "timestamp": "2/9/2021, 12:13:36 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "But do you think is this good business anyone can do it very easily because I talk to other people's they always said that ransomware guys earns lots of money. After wannacry cyber industry is changed",
+            "timestamp": "2/9/2021, 12:15:16 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "I cannot provide any non-speculative answer to this question cause it's connected to an ongoing business enterprise. For now it seems to me like I am giving a public interview and as I have already told - we have no interest in spreading our position or opinion. Although I can provide you with some personal view of the situation after the payment is received and I become confident on whom I am speaking to.",
+            "timestamp": "2/9/2021, 12:27:44 PM"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok no worries I understand",
+            "timestamp": "2/9/2021, 12:37:35 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "I have to go offline for a while, let me know if you succeed with the payment. Seems like the bitcoin pools are feeling better based on the fact that we've managed to make several transactions today. All the provided wallets will be valid for the next 24 hours so you can choose any of them.",
+            "timestamp": "2/9/2021, 5:02:10 PM"
+        },
+        {
+            "party": "Conti",
+            "content": "Any success with the payment?",
+            "timestamp": "2/10/2021, 10:11:21 AM"
+        }
+    ]
+}
