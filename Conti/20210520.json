@@ -1,0 +1,510 @@
+{
+    "chat_id": "20210520",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hi, we got a note to go to this website. Please help!",
+            "timestamp": "20/05/2021, 01:33:51"
+        },
+        {
+            "party": "Victim",
+            "content": "hello?",
+            "timestamp": "20/05/2021, 02:06:32"
+        },
+        {
+            "party": "Conti",
+            "content": "Welcome! We are ready to help you.",
+            "timestamp": "20/05/2021, 10:18:45"
+        },
+        {
+            "party": "Conti",
+            "content": "Welcome! [redacted]",
+            "timestamp": "20/05/2021, 12:40:52"
+        },
+        {
+            "party": "Conti",
+            "content": "You need pay for decrypt your files. Your price is 900.000$",
+            "timestamp": "20/05/2021, 12:41:53"
+        },
+        {
+            "party": "Conti",
+            "content": "Your network was hacked, workstations encrypted and we downloaded many private information from your servers. \nNote that we have also downloaded a lot of data from your network that in case of not making payment will be published on our website.\nYou need to pay this amount and we will give you decryptor for all your network, \nfile tree on what we have downloaded from your network and wiping log of that information.\nIf you will spend 3 days in silence we will start publushing the information.",
+            "timestamp": "20/05/2021, 12:44:07"
+        },
+        {
+            "party": "Conti",
+            "content": "We will also try to find a buyer for your data and access to your network if you refuse to pay.",
+            "timestamp": "20/05/2021, 12:44:27"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, thank you for the message I will tell leadership.",
+            "timestamp": "20/05/2021, 15:22:33"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, I spoke with leadership and they told me that they can't afford that amount, and they are still trying to find bitcoin. They said they would pay $55,000 if you would take that, they have someone with that much bitcoin now.",
+            "timestamp": "20/05/2021, 16:43:31"
+        },
+        {
+            "party": "Conti",
+            "content": "While you continue to communicate with scripts and offer such ridiculous amounts, do not expect in response an adequate price reduction.\nReputation is expensive.",
+            "timestamp": "20/05/2021, 18:09:56"
+        },
+        {
+            "party": "Victim",
+            "content": "I have no idea what that's supposed to mean. I'm just relaying what they can pay now. If you can't take that then say so and I'll tell them.",
+            "timestamp": "20/05/2021, 18:38:09"
+        },
+        {
+            "party": "Conti",
+            "content": "Your offer has been rejected. Make a realistic offer based on our offer.",
+            "timestamp": "20/05/2021, 20:08:47"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok I've let them know. Leadership would like to know what data you stole from us, can you show us proof?",
+            "timestamp": "21/05/2021, 15:00:02"
+        },
+        {
+            "party": "Conti",
+            "content": "Expect a lot of evidence.",
+            "timestamp": "21/05/2021, 20:41:09"
+        },
+        {
+            "party": "Victim",
+            "content": "Will you please stop with the sarcastic responses? I will be as blunt as you are, although more to the point: do you want to get paid? \nIf so, then let's treat each other with respect and work a deal out. Otherwise you are wasting both of our time, this will go nowhere, and you can trust that I will let everyone know how unprofessional Conti is. \nThis will have severe impact on your ability to be trusted, collect any future ransoms, etc. Maybe you don't care, but I promise it will be known if you continue to act in bad faith.\nI would like some evidence that you have our data, our leadership team and I think this is a reasonable request. Please respond with something useful to the conversation. Thanks.",
+            "timestamp": "21/05/2021, 23:08:44"
+        },
+        {
+            "party": "Conti",
+            "content": "You'll get them, wait. That's all we said. Everything will be OK. We'll get you a package of evidence. Wait.",
+            "timestamp": "22/05/2021, 03:03:57"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_PROOF.7z [ 1.2MB ]",
+            "timestamp": "22/05/2021, 14:49:49"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_NTLM [ 58kB ]",
+            "timestamp": "22/05/2021, 14:50:10"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_HOSTS.csv [ 61kB ]",
+            "timestamp": "22/05/2021, 14:50:15"
+        },
+        {
+            "party": "Conti",
+            "content": "30%_tree_[redacted].txt.7z [ 146kB ]",
+            "timestamp": "22/05/2021, 14:50:20"
+        },
+        {
+            "party": "Conti",
+            "content": "We will send you 30% of the file tree, you will select any 3 pcs of non-sensitive information and we will provide them to you as evidence.",
+            "timestamp": "22/05/2021, 14:51:29"
+        },
+        {
+            "party": "Conti",
+            "content": "IT'S YOUR TURN TO PROPOSE. Your information has not been sold to anyone. Until we communicate with you, this will not happen. Let us have a more active and substantive conversation. About the money!",
+            "timestamp": "22/05/2021, 14:52:08"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you provide the password that we need to open the .7z files?",
+            "timestamp": "22/05/2021, 20:10:04"
+        },
+        {
+            "party": "Conti",
+            "content": "Pass: 123123",
+            "timestamp": "22/05/2021, 20:18:28"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, we've reviewed the files. The leadership team has found another $10k to pay you, will you accept $65k for the decryptor and to destroy our files?",
+            "timestamp": "23/05/2021, 14:49:27"
+        },
+        {
+            "party": "Conti",
+            "content": "Your offer has been rejected. Make a realistic offer based on our offer.",
+            "timestamp": "23/05/2021, 19:48:44"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, thank you for the response, I will let the leadership team know.",
+            "timestamp": "24/05/2021, 13:12:20"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, I relayed your message to our leadership. They responded that your offer is not realistic, there is no way for them to get that much money to pay you, that you should consider they are a small business and you should ask a small business size ransom. They may be able to get more money to pay you but nothing like what you are asking. It is just a fact. They ask if we could discuss something more realistic?",
+            "timestamp": "24/05/2021, 16:13:26"
+        },
+        {
+            "party": "Victim",
+            "content": "We do not have cybersecurity insurance, we are having to scrape together money that was budgeted for other projects. You've already hurt the business enough with the disruption, but to ask more for ransom means you hurt us a second time. Please consider that and let us pay you the $65k that we have available so we can all get back to normal.",
+            "timestamp": "24/05/2021, 16:15:50"
+        },
+        {
+            "party": "Conti",
+            "content": "65.000 and 900.000 why do you think we should agree to 1\\14? Your proposal is not even close to what you can talk about and think about.",
+            "timestamp": "24/05/2021, 21:17:36"
+        },
+        {
+            "party": "Conti",
+            "content": "Your offer has been rejected. Your offer should be reasonable and based on our offer!",
+            "timestamp": "24/05/2021, 21:18:54"
+        },
+        {
+            "party": "Victim",
+            "content": "We would like to purchase 1 computer. Using your math above, we can pay you 1/500 of $900,000 for each computer, which is $1,800. We will also pay $55,000 if you provide deletion and file tree.\nCan you sell us 1 computer unlocked? If this works maybe we buy more. Also you must provide evidence of deletion and file tree. This for $56,800.",
+            "timestamp": "25/05/2021, 16:00:37"
+        },
+        {
+            "party": "Conti",
+            "content": "The decryptor works for the entire network. We have no offer for one computer. We expect a reasonable offer from you before the end of the week, if the offer does not come from you, we are forced to start publishing. But we are ready to take steps to meet. Our offer given your offer is $800,000",
+            "timestamp": "25/05/2021, 17:07:44"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, we would appreciate you removing the deadline you just set. In our opinion, deadlines are a bad idea. We have nothing to negotiate with you until the deadline is removed. We simply want to be able to discuss options and think through the best course of action without the added stress of a countdown. We would appreciate the professional courtesy.",
+            "timestamp": "25/05/2021, 23:37:50"
+        },
+        {
+            "party": "Conti",
+            "content": "And we would appreciate it if you stopped making funny suggestions. In our view, this is a bad one and leads you to publish. We have nothing to negotiate with you until a reasonable amount is offered based on ours offer. We do not want to discuss funny values. will be professional and understand what we wrote to you. Read several times if you do not understand the reason for such actions on our part.",
+            "timestamp": "26/05/2021, 15:17:27"
+        },
+        {
+            "party": "Victim",
+            "content": "We have confirmed that all of our data has been restored. I can provide you with screenshots to prove this if you need me to. We don't need your decryptor. That said, we are interested in your promise not to disclose our data, and a deletion log, if you are still interested in selling.  We offer $127,500 for your promise not to disclose and if you provide us with a file tree/deletion log. This is the maximum amount of cash that we can dedicate to this. We spent the last 4 days finding the extra cash. Awaiting your response.",
+            "timestamp": "26/05/2021, 19:54:55"
+        },
+        {
+            "party": "Conti",
+            "content": "We see a constructive dialogue and take a step towards a meeting. our new proposal 700.000$",
+            "timestamp": "27/05/2021, 16:59:16"
+        },
+        {
+            "party": "Conti",
+            "content": "Evaluate our steps. You can negotiate with us. But offering funny amounts is not the best way for you. It leads to publication.",
+            "timestamp": "27/05/2021, 17:03:31"
+        },
+        {
+            "party": "Victim",
+            "content": "Let me help you understand something: the only thing of value you possess is your promise not to disclose our data. If you \"publish\" \"publication\" or anything else related to this, you will get nothing.",
+            "timestamp": "27/05/2021, 21:10:40"
+        },
+        {
+            "party": "Victim",
+            "content": "That is why I suggested that you remove your deadline; it does neither you nor us any good. If you publish because of a self-inflicted \"deadline\", you will get nothing.",
+            "timestamp": "27/05/2021, 21:10:53"
+        },
+        {
+            "party": "Victim",
+            "content": "Now on to the price. Please stop trying to sell me the decryptor. Please let your boss know that we will pay $127,500 for your promise not to disclose/publish and proof of what you took and proof of the deletion of what you took. Standing by.",
+            "timestamp": "27/05/2021, 21:11:50"
+        },
+        {
+            "party": "Victim",
+            "content": "Also, it took 22 hours to get a response earlier. This is also another reason why a deadline is a bad idea. Please rescind the deadline so that we may reach an accord, otherwise this will end with zero payment if you disclose.",
+            "timestamp": "27/05/2021, 21:57:26"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Confidential Server.jpg [ 32kB ]",
+            "timestamp": "27/05/2021, 22:01:30"
+        },
+        {
+            "party": "Victim",
+            "content": "Proof of our data restored/systems operational:",
+            "timestamp": "27/05/2021, 22:01:36"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Desktop Screenshot.JPG [ 239kB ]",
+            "timestamp": "27/05/2021, 22:01:47"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Development Tools.jpg [ 202kB ]",
+            "timestamp": "27/05/2021, 22:01:56"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] Domain Controller.JPG [ 70kB ]",
+            "timestamp": "27/05/2021, 22:02:03"
+        },
+        {
+            "party": "Victim",
+            "content": "[redacted] VM Console.JPG [ 75kB ]",
+            "timestamp": "27/05/2021, 22:02:10"
+        },
+        {
+            "party": "Conti",
+            "content": "You want to show me your steel eggs? We have stronger ones. Look we're not interested in your funny offer and if you don't offer you better, you will be published and this is not communication. You're not the first and we know what smart dialogues look like.",
+            "timestamp": "28/05/2021, 15:24:50"
+        },
+        {
+            "party": "Victim",
+            "content": "How much for just deletion of the data? We just need that, your promise and proof that you deleted the data. Can we do business? $155k for that?",
+            "timestamp": "28/05/2021, 17:04:00"
+        },
+        {
+            "party": "Conti",
+            "content": "We see a constructive dialogue and take a step towards a meeting. our new proposal 672.500$",
+            "timestamp": "29/05/2021, 02:07:24"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, I understand you are trying to get the most money you can from this negotiation. Here's your dilemma: if you publish, you get nothing, and we only want your promised and proof that you destroyed everything. You are negotiating as if we are still trying to buy the decryptor so we can get our data back.",
+            "timestamp": "29/05/2021, 16:57:46"
+        },
+        {
+            "party": "Victim",
+            "content": "we already have our data back",
+            "timestamp": "29/05/2021, 16:57:54"
+        },
+        {
+            "party": "Victim",
+            "content": "We only want to buy your promise not to disclose the data you stole, and proof that you destroyed it. You've already threatened us with disclosing it. This is not \"smart dialogues\" I'm just stating facts here.",
+            "timestamp": "29/05/2021, 16:59:19"
+        },
+        {
+            "party": "Victim",
+            "content": "And the fact is we have very limited money and if you insist on asking us to pay you this much, or if you disclose or publish, you will get nothing.  Can you please check with your higher ups (boss) and explain to them the situation, so that maybe they understand the value exchange we are proposing?",
+            "timestamp": "29/05/2021, 17:00:24"
+        },
+        {
+            "party": "Victim",
+            "content": "If we needed the decryptor, I could understand you continuing to ask for the massive amount you are asking for, but we don't need the decryptor. We just want your promise and proof you destroyed our data. How much is that worth to you? If we can't get to a number that is realistic and affordable to us, you will get nothing.",
+            "timestamp": "29/05/2021, 17:01:58"
+        },
+        {
+            "party": "Victim",
+            "content": "Also, we cannot pay until Tuesday when the banks open again (Monday is a holiday) IF we can settle on a price.",
+            "timestamp": "29/05/2021, 17:10:19"
+        },
+        {
+            "party": "Victim",
+            "content": "You threatened us with a deadline of the end of this week. I would appreciate you removing that deadline so that we can continue to discuss price. Again, if you publish, you get nothing. Standing by",
+            "timestamp": "29/05/2021, 17:11:51"
+        },
+        {
+            "party": "Conti",
+            "content": "Reputation is expensive, of course 155k good money but it is still not enough. If you want this dialogue to not last and we resolve the issue quickly, we can make a super offer given that you do not need a decryptor. Super offer 400.000$ and we agree.",
+            "timestamp": "29/05/2021, 22:15:22"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for your willingness to work with us on price. As I mentioned, money is in short supply. I have been authorized to increase our offer to $175k with a promise to pay Tuesday for your promise and proof of deletion. Please understand we are not able to offer more and will have to pay you in at least two seperate payments (1 big 1 smaller). If this is ok, we can agree and will prepare everything for Tuesday.",
+            "timestamp": "29/05/2021, 22:35:46"
+        },
+        {
+            "party": "Conti",
+            "content": "You didn't appreciate our offer. When we  make such discounts, we wait for retaliatory steps. We can also make such discounts in the end you pull time, our time is expensive. Your price returns to original and considering your offer is 650,000",
+            "timestamp": "30/05/2021, 16:49:30"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, your withdrawal of the price creates serious confidence and trust issues for our leadership. We offered all we could in a show of support for your new price, and then you withdrew it. We need you to offer serious prices only, continuing to dither on the price will result in nothing. Please reconsider.",
+            "timestamp": "31/05/2021, 18:42:02"
+        },
+        {
+            "party": "Conti",
+            "content": "We offered you a serious price, you in turn did not appreciate this offer.\nYou were the first to show your frivolity and desire to play games with us with an increase in offers by 20,000. You didn't appreciate the seriousness of our move. You can fix it.",
+            "timestamp": "01/06/2021, 13:43:21"
+        },
+        {
+            "party": "Victim",
+            "content": "You can characterize our offers in whatever way makes you happy, however you still hold nothing in your hand. If you want a productive conversation, let's start at $175k and see where it goes. We have to get approval to offer money to you, and that approval comes in small increments. It is just the nature of how our leadership operates. If you don't like it, sorry. You attacked us.",
+            "timestamp": "01/06/2021, 15:53:18"
+        },
+        {
+            "party": "Conti",
+            "content": "Offer $175,000 rejected. Make the best offer.",
+            "timestamp": "01/06/2021, 22:33:47"
+        },
+        {
+            "party": "Victim",
+            "content": "I will inform leadership",
+            "timestamp": "02/06/2021, 02:48:54"
+        },
+        {
+            "party": "Victim",
+            "content": "Our final super-offer is $250k, and we can begin payment today. Standing by.",
+            "timestamp": "02/06/2021, 17:07:43"
+        },
+        {
+            "party": "Conti",
+            "content": "Super offer 350.000$ and we agree.",
+            "timestamp": "02/06/2021, 19:13:49"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, I have informed leadership that you declined the super offer and of your new offer.",
+            "timestamp": "03/06/2021, 17:39:29"
+        },
+        {
+            "party": "Victim",
+            "content": "I will return with their response.",
+            "timestamp": "03/06/2021, 17:40:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi. Leadership replied that if you can't meet us at our offer of $250k just for deletion, then give us the decryptor, destroy our data, and promise not to disclose the data for $300k.",
+            "timestamp": "03/06/2021, 20:01:13"
+        },
+        {
+            "party": "Conti",
+            "content": "325.000 and we agree.",
+            "timestamp": "03/06/2021, 20:14:24"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok, I will inform leadership. We will give you files to prove you can decrypt prior to payment, if leadership agrees.  We can pay $150k per day if leadership accepts.",
+            "timestamp": "03/06/2021, 22:07:41"
+        },
+        {
+            "party": "Victim",
+            "content": "Leadership agrees to $325,000.\nWe will begin paying tomorrow, it will take until Tuesday to get it done completely.",
+            "timestamp": "04/06/2021, 00:40:58"
+        },
+        {
+            "party": "Victim",
+            "content": "We would like to get the file tree from you after partial payment tomorrow, we can get the rest from you after final payment, if you are ok with that.",
+            "timestamp": "04/06/2021, 00:45:14"
+        },
+        {
+            "party": "Victim",
+            "content": "If you need to wait until final payment for all items, just let us know, but the file tree will be useful now rather than at the end.",
+            "timestamp": "04/06/2021, 00:46:16"
+        },
+        {
+            "party": "Victim",
+            "content": "Please provide payment instructions and address",
+            "timestamp": "04/06/2021, 00:48:14"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, we are approaching the end of the day for us to be able to make payment today. We need the payment instructions",
+            "timestamp": "04/06/2021, 19:23:59"
+        },
+        {
+            "party": "Conti",
+            "content": "BTC wallet: [redacted]",
+            "timestamp": "05/06/2021, 00:46:16"
+        },
+        {
+            "party": "Conti",
+            "content": "$325.000",
+            "timestamp": "05/06/2021, 00:57:12"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, first payment sent ($150.000), next payment in 24hrs ($150.000), then final payment 24 hrs after that one ($25.000)",
+            "timestamp": "05/06/2021, 18:56:22"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, second payment sent ($150.000), next payment in 24 hrs ($25.000)",
+            "timestamp": "06/06/2021, 22:29:31"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you acknowledge payment?",
+            "timestamp": "06/06/2021, 22:38:45"
+        },
+        {
+            "party": "Conti",
+            "content": "Yes",
+            "timestamp": "06/06/2021, 23:02:41"
+        },
+        {
+            "party": "Conti",
+            "content": "We wait $25.000",
+            "timestamp": "07/06/2021, 01:04:45"
+        },
+        {
+            "party": "Conti",
+            "content": "2\\3 payments accepted",
+            "timestamp": "07/06/2021, 01:05:36"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, next payment today",
+            "timestamp": "07/06/2021, 18:20:24"
+        },
+        {
+            "party": "Victim",
+            "content": "Last payment just sent 3/3, $25.000",
+            "timestamp": "07/06/2021, 18:40:17"
+        },
+        {
+            "party": "Victim",
+            "content": "Please provide file tree, deletion log, and decryptor once payment is confirmed.",
+            "timestamp": "07/06/2021, 18:40:50"
+        },
+        {
+            "party": "Conti",
+            "content": "Wait",
+            "timestamp": "07/06/2021, 20:53:59"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_decryptor.exe [ 103kB ]",
+            "timestamp": "07/06/2021, 21:30:03"
+        },
+        {
+            "party": "Conti",
+            "content": "Decryptor:   \n1) Launch the decryptor under Administrative rights   \n2) Wait till the decryptor window is closed   \n3) if any of the files haven't changed the extension back to the original - repeat 1 and 2",
+            "timestamp": "07/06/2021, 21:30:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, we would like the File Tree and destruction log please.",
+            "timestamp": "09/06/2021, 22:46:44"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, still waiting on file tree and destruction log",
+            "timestamp": "10/06/2021, 16:10:06"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, we finished paying on Monday. It's Friday. Please provide file tree and destruction log",
+            "timestamp": "11/06/2021, 21:45:35"
+        },
+        {
+            "party": "Conti",
+            "content": "Within 48 hours, you'll get everything. Small technical faults.",
+            "timestamp": "12/06/2021, 01:28:06"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_tree.zip [ 589kB ]",
+            "timestamp": "14/06/2021, 17:36:42"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, thank you for the file tree, can you please provide the deletion log?",
+            "timestamp": "14/06/2021, 19:41:20"
+        },
+        {
+            "party": "Conti",
+            "content": "The deletion is still in progress. You will receive the log as soon as it is complete",
+            "timestamp": "14/06/2021, 19:46:01"
+        },
+        {
+            "party": "Conti",
+            "content": "[redacted]_shred.zip [ 6.2MB ]",
+            "timestamp": "14/06/2021, 23:32:19"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. Now that we've paid the ransom amount, would you be willing to let us know how we were breached so that we can take necessary precautions in the future?",
+            "timestamp": "16/06/2021, 06:05:31"
+        }
+    ]
+}
