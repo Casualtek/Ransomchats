@@ -1,0 +1,665 @@
+{
+    "chat_id": "20210613",
+    "messages": [
+        {
+            "party": "REvil",
+            "content": "Hello,\n\nWe are REvil Group.\nWe want to inform that your company local network have been hacked and \nencrypted. We have all your local network data. The Price to unlock is \n$1,000,000. Now we're keeping it a secret, but if you do not reply us \nwithin 3 days it will be posted on our news-site. Think about the \nfinancial damage to your stock price from this publication. In case of \nsuccessful negotiations we guarantee that you will get decryptors for \nall your machines, non recoverable removal of downloaded data and \nsecurity report on how you were hacked to fix your vulnerabilities. We \nhope that you can correctly assess the risks for your company.\nYou can find more information about REvil group in Google.\n\n\n\nPosting on our blog and further publications in the media will lead to \nsignificant losses for your company: court and government fines, data \nrecovery, loss of reputation, abandonment of clients, drop in limits.\n\nBut don't panic! We are in business, not in war.\nWe can unblock your data and keep everything secret. All we need is a ransom.\nIn this case, you also get: a security report, a complete tree of \ncompromised data files, permanently deleting downloaded data, support \nwith tips on unlocking and protecting.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay. I appreciate your introduction. My name is [redacted] and I'm part of \nthe IT team here. My manager is asking if you can show us all of the \ndata that you took?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "You will receive complete data only after payment. We can only give an example of the data taken.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay. That may work for now. How long does that example take to get from you?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "from several hours to a day",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait for answer.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you here?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Yes",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Will you share the example data today?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We need time.\nYou are not the only one who needs to provide evidence of a break-in",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay. Can we discuss this price then? We're a non-profit organization \nwith the majority of services covered by tax payers/state government. We\n help treat a variety of patients from cancer to mental health. It's \nvery important we get our systems back quickly. My manager said we can \npromise you an almost immediate payment, but not at $1M. It would be \nimpossible",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "In case of quick payment, we are ready to offer you a 20% discount",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "This is generous, my manager is happy to know you are willing to help \nus with the price. He thinks even still 20% is too much for us to be \nable to pay, but said they will discuss it when everyone else is online \nagain. Please send the example files whenever you have them",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We are working on it. But you can also make your proposal and my boss will consider it.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay. My manager is willing to make a proposal after we receive the files, so I will keep an eye out for your update.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Any luck with getting the files so that I can share with my manager? \nThe sooner I send them the files, the sooner we can talk about coming to\n an agreement.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Part of random lines from the tree file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. Can you send me these files? [redacted]passport.pdf, mandatoryreport.docx and [redacted].pdf",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "You can send the other 2 also?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "yes wait",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay thank you",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you I will be right back",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We'd like to move very quickly with you. Given what we do, it's \nimportant we have your decryptor as soon as possible to get our systems \nback so we can keep helping patients. We can't afford the price you \nindicate on the site, but we can pay you $195,000 today. We already \nstarted the wire process to a broker in the US so that it arrives \nimmediately",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "20% discount its all.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We can't make that happen. We don't have that kind of funding. Please \nthink this over, we really need our data back and you're the only one \nwho can help us with that.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Your offer is too small",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "What do you propose then? Please understand the circumstances we are \nin. Everything is shut down, we can't help our patients. Everyday we are\n down, the worse off we are. We need to purchase the tool quickly and in\n good faith, already hired a broker in the US to assist us and sent him \nsome funds so he can buy crypto quickly for you.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "It's very late here already, I've been working all day but will stay up\n all night if it means we can have a compromise with you today",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We have been administrators of your network for a long time and we know\n how much you are willing to pay. Our latest offer is 700k but that's \nall",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Our servers have hundreds of gigabytes of your confidential data. You must understand the seriousness of the situation.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "If that is true then you would have seen we are just a non-profit and \ndon't have millions. We don't operate like large companies. Any money we\n get comes from donations or the government and is used to provide our \nservices. We have many expenses and a low budget. Please understand that\n even something like $500,000 is a lot of money for us and we can't make\n that happen. WIth COVID we weren't able to have as many \nevents/fundraisers as usually. These are the drivers of our income, it's\n been a difficult time for us, everyone really. I can certainly check \nwith the board on what else we can do, but will need to wake some of \nthem so please wait. We seriously need to be back today",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We can wait, but ours, we gave you the last sentence",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you the owner for REvil?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "If you are, please find it in your heart to help us here. We'll never \nhave $700k and I will do what I can to figure out where to pull money \nfrom, but we need help",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "no , support.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay I got in touch with some of the board, they want me to express how\n important it is that we reach an agreement today. We don't have time to\n waste and I can pay you immediately. We have confirmation the US broker\n received our money transfer. The budget we have is fixed annually so we\n can't reallocate funding. The board was able to connect with a partner \nthat committed to donating sooner than normal. We can pay you $255k \nright now. Thank you",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We have too much sensitive data to accept such a low offer.\n650k and we agree",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "It's impossible. It would take months for us to get that kind of money.\n Please think on our offer. Please discuss with your team internally. \nThis is very serious for us and we need to pay you today. We have no \nother way to get money. We were lucky to find the partner to help us out\n this time",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "You should make an offer above otherwise we will not be able to agree",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I don't think we can get much more than what we offered. Please talk to\n your team/boss and let me know. $650k is impossible, $500k is \nimpossible. We are 100% ready to pay you immediately. I will be here \nuntil the job is done.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Then we will not be able to agree",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Did you talk to them and explain the scenario? We're doing everything \nwe can here and are ready to pay asap. I'm sure you have much larger \nclients that can pay this kind of amount, but that's not us. We don't \nwant to waste any more of your time on this, I'm sure you are talking to\n many people like me at the same time. Please reconsider our offer and \nsee if you can accept something closer to what we offered!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "650 is the last thing my boss has to offer. The price for selling your data will be much higher",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We can never do it! The original asking price was set too high for us. \nYou have our files and like you said, were on our systems for a while. I\n don't doubt this at all. You can check our files/systems and see we \nnever had this kind of money. DId you tell your boss we can pay you \nright now??",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "I passed the information directly to the boss and everything he has to offer 650k",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I just called the broker company helping us with payment and they said \ngood things about you and historically REvil has given much larger \ndiscounts than 35%. Please if you can offer a better price we will do \nour best to figure this out. It's very late here, I'm very tired but \nneed to get this completed",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you are willing to pay quickly, we will approve the amount of 600k. But this is only in case of quick payment.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "But we only have $255k. HOw are we supposed to get more money? It's \nvery early morning here, everything is closed. I need to have this done \nbefore business hours. We were lucky the partner was still available and\n offered to help. We don't have any more options",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We cannot offer any other solution to the problem. We can wait there is no problem.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We are ready to consider options for a deferred payment if you pay 300k\n now and receive a decryptor and 300k the next day for non-dissemination\n of your data.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "This is really the last thing we can offer",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "If we wait any longer, we incur major risks",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I don't have $300k and then another",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Then we will not be able to agree",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "This is really disappointing. We're making great strides to fix this with you",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We are ready to consider options for a deferred payment if you pay 255k\n now and receive a decryptor and 355k the next day for non-dissemination\n of your data.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Its all !",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We can't!! How do I get $355k out of nowhere? We might be able to get a\n few more thousand dollars but definitely not $355k. I think the most we\n can actually send you is $284,811.29. THis is what we wired to the \nbroker and he can purchase the crypto. His own fee is included in that \namount but I think I can ask him to hold off on charging that so the \nfull amount is yours okay? Please let me call him and ask this. It is \nonly the afternoon where he is so it should be fast",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "He agreed to help, which means the full amount we sent can go to you today. Please let me know!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "300 and okay",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "price update you can pay.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you!! We will figure out the remaining amount, but I think this is possible. Thank you so much",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you unlock this? We don't have a picture to use",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you!!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you confirm what we will receive today after we pay you $300k?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you here?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "After payment you receive:\n- Universal decryptor for your all network\n- The complete deletion of all your files with our warranty not to use the data for any purpose.\n- 100% confidentiality of this incident and all terms of the transaction on our part.\n- Complete audit of your network to prevent similar attacks in the future",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok thank you for sending over this confirmation for me! I am working on\n sending payment, I will send you a confirmation here once it goes \nthrough. But I can only pay in bitcoin, where do I send it?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you here? Please confirm where I should send the bitcoin.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you here?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "You can use Bitcoin instead of Monero, but it will be more expensive for you in case of our merchant additional fee,\nso if u want to pay in BTC u need to add +10%. Or u can simply buy \nmonero on this exchanges and withdraw on ur own wallet and send to us.\nhttps://www.okex.com/markets/spot?product=xmr_usdt\nhttps://www.binance.com/en/trade/XMR_BTC\nhttps://hitbtc.com/xmr-to-usdt\nhttps://www.hbg.com/en-us/exchange/xmr_usdt\nand there are all of the ways to get monero\nhttps://www.getmonero.org/community/merchants/#exchanges",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "btc enabled update",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We can only pay in bitcoin because that's the only payment method the \nbroker will help us with. We are giving you everything that we can to \njust reach $300k. We are ready to pay you quickly but we don't have an \nextra $30k to give you. Please, can we just pay the $300k that we agreed\n to in bitcoin so we can pay you quickly.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "10% commission is charged by our payment processor, we have nothing to do with this money.\nBelow 300k we will not accept",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you ableto make the price $270k and then with the 10% it equals all\n of the $300k? We don't have another $30k. Some of us are going to max \nour credit card to get near the $300k you're asking. We really can't \nmake another $30k happen and the broker in the US said its illegal to \npay in monero, this is why it must be bticoins please",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "There is nothing we can do to help.\nOur latest offer is 300k. If not, we will simply publish your details.\nWe made maximum concessions",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Come on mate please help me out, we came this far. The broker said \nmajority of the time you waive the 10%. I don't want to waste anymore of\n your time on this with me, let's just be done. I can't get any more \nmoney",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "not interested.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "You're going to turn us away over 10%? What is this even for?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "After 12 hours, the amount will return to 1kk",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I need to know why you add the 10%, I can't just ask someone for $30k with no explanation",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "I repeat bitcoin transactions are tracked and the payment gateway takes a commission to clear them",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "They charge you 10% when you try to clear it ? Or is it a small % and you are adding more? Can we agree on 3% ?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "no",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "You're killing me!!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Our agreement 300k will not be lower",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We agree with $300k, but youre trying to add another $30k and we don't \nhave any way to make that happen. We can only send you exactly $300k in \nbitcoin, you won't get less than this!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Then pay in Monero 300k",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "It's illegal!",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "These are not our problems",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you need decryptor pay.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Why do you ask for payment in a currency the US can't pay ?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you keep asking stupid questions, you will be banned from this chat.\nEither you pay, or we publish your data in the media with the subsequent sale, you must pass this information to your boss.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "He understands, we're trying to figure it out. There's no way to make \nthe 10% lower?? Also he wants to know if you will let us download all \nthe files you took from us after payment",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We provide a complete file tree for complete confidentiality after \npayment arrives at our account, the data is automatically deleted along \nwith the server.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay we 100% would like the file tree before you delete the files. But \nif there is any way we can download the files before you delete them, \nthat would be preffered. Is that possible at all?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "No, this violates our privacy policy.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Only file tree",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay thank you. Some people are just getting online now, so I will let you know soon on the payment",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "OKay",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you lock the amount to be 6.0027 BTC so we can purchase the right \namount without having to go back to our vendor multiple times?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Ok",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry our US broker hasn't been responsive, but I think that is because\n of the time zone. Can we still pay you in a few hours when they are \nonline? I did not expect this to happen, but wanted to let you know that\n everything is set, I am just waiting on them",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "No problem",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you very much! I appreciate your help.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "we have paid",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Okay wait 3 confirmations",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please send us universal decryptor now that there are 3 confirms. Thank you",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "To use a decryptor run it as administrator and turn off antivirus before.\nYou can use a decryptor as gui application or through cmd.\n\nCMD commands:\nUniversalDecryptor.exe -full\nUniversalDecryptor.exe -path \"C:\\folder\"\nUniversalDecryptor.exe -file \"C:\\folder\\file.txt.random_ext\"\n\n* decryptor with -full option will decrypt all with default params.\n\nIf you use it as gui application, mI recommend you choose \"create \nbackups\" option. If you use decryptor without this option, you should \nnot interrupt decryption process, otherwise some files will be \nirreversibly damaged.",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you, please send us the file tree as well?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "please confirm all files are deleted?",
+            "timestamp": "1 month ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi are you there?",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "all files was deleted",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "there is some issue and need your help",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "??",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "?.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you please provide the invoice??",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We do not issue invoices",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "any other method please??",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please understand I will lost my job.. Higher management is asking for it.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait for answer.",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "ok I am waiting Thanks",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please help me fast please it's a humble request.. Higher management is keep pinging me & asking for it",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "It's about my job please understand. I don't want to lose my job. I \nhave my loans and debts which I have to pay. Please help me fast",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "are you there???",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "Victim",
+            "content": "kindly reply me.. please understand my situation",
+            "timestamp": "1 day ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait for answer",
+            "timestamp": "1 day ago"
+        }
+    ]
+}

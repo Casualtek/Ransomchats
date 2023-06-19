@@ -1,0 +1,295 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "REvil",
+            "content": "Hello,\n\nWe are REvil Group.\nWe want to inform that your company local network have been hacked and encrypted. We have all your local network data. The Price to unlock is $300,000. Now we're keeping it a secret, but if you do not reply us within 3 days it will be posted on our news-site. Think about the financial damage to your stock price from this publication. In case of successful negotiations we guarantee that you will get decryptors for all your machines, non recoverable removal of downloaded data and security report on how you were hacked to fix your vulnerabilities. We hope that you can correctly assess the risks for your company.\nYou can find more information about REvil group in Google.\n\n\n\nPosting on our blog and further publications in the media will lead to significant losses for your company: court and government fines, data recovery, loss of reputation, abandonment of clients, drop in limits.\n\nBut don't panic! We are in business, not in war.\nWe can unblock your data and keep everything secret. All we need is a ransom.\nIn this case, you also get: a security report, a complete tree of compromised data files, permanently deleting downloaded data, support with tips on unlocking and protecting.",
+            "timestamp": "9 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, \n\nOur business has been seriously affected by the current Covid Pandemic since early last year. Our country (Singapore) is in lock down mode currently. Everybody is suffering and life is very tough here. Our company is no exception. Our company is small local family company and not a Listed Company. Our Company finance has become very tight right now. We really cannot afford your asking price. We could only fork up to US$20,000.\n\nWe have already finalised our recovery plan and with the offline back up data, we are in the process of rebuilding some data and files now. We do not have P&C data with Government, Customers or Vendors. However, we wish to save our business recovery time and cost. Hence, we sincerely come to you and hope to reach a mutual agreement and settle this amicably.\n\nHope to hear from you soon.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello!\nWe took note of your communication and concluded:\n\n1) If you could cope without our help, you would not contact us.\n\n2) And yet, we are ready to make concessions to you, and throw the price down to $75,000.\n\nWe await your decision.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi\n\nAppreciate your reply. \nWe wish to pay $75,000 and settle amicably. However, it is still very tough for us. We are willing to double our initial offer to $40,000.\n\nWe have only one condition (just to safeguard our side here), that is we pay 50% first and in return, you give us the decryption tool for our files in two (2) hosts :\n1) Host name 'SAP-VEEAM' (file extension .[redacted]), and\n2) Host name 'apps-fs' (file extension .[redacted], .[redacted], [redacted])\n\nOnce we successfully decrypt the above-mentioned files, we shall immediately settle the balance 50% without delay in return for all the balance decryption.\n(Please be reassured that once we achieve agreement to pay, we shall honor our word)\n\nFor payment to you in XMR (currently trad around US$ 287 now), our local Crypto platform do not support this transfer network. Can we pay you in Bitcoin/Ethereum instead?\n\nHope to see your favorable reply soon.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Let my boss think, next couple of hours.\n\nIn any case, we are not ready for a down payment of 50%. So we don't work.\nYou can send us some not very important files so that we can confirm the functionality of our build. To do this, skip the file and note this extension.\n\nI'll tell you in advance if the boss does not agrees to 40.000, try to offer a little more.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "i talked with my boss so the last price is 50.000$ It is the minimal price we can offer to you.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "you can pay in btc",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi,\nUltimately, how do we be sure that after we pay 100% in advance you would give us 100% decryption? \nwe may not get anything at all after we make payment.\nTherefore, please reconsider our suggestion that we pay you 50% and you decrypt our files as mentioned earlier on.\nWe assured you that once we reach an agreement with you, we will definitely honor our payment.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "We have a long reputation, you can read reviews about us.\nIn addition, you ask to decrypt the server with backups.\n\nWe have already done everything possible for our cooperation in the form of a proposed discount.\n\nYou will receive a utility that will run on all extensions at once on your network.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi,\nCan you provide the links for the review about you?\nHow many Bitcoin do we have to pay? Bitcoin price now is $38,650. Can you provide Bitcoin Transfer address/details?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "1.36 btc",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you provide the links for the review about you?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Use google \"REvil\"",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi,\nCan you decrypt below 3 files to show you have the tools/keys? Thanks.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "APPS-SAP Backup.vbm.[redacted]\n\nChoose another file for test decryption",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Regional - Employee Master Data (Latest).xls",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Do you really take us for fools?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "send another test file",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "The Employee file is critical actually. Pls decrypt for us.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "no",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "The Employee file is NOT critical actually.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "send another file",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "try this please",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "this is the 3rd file please",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Can I have last 2 more files to show my boss? Please.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Only 3 file test",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "If you need more , pay",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Now the BTC is $38,820 x 1.287 = $50,000, \nCan we agree with 1.287 BTC coins?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "1.295",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "we pay you 1.295 BTC coins, you send us the decryption tools/keys for all files. Do we have a deal?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "yes",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We need to remit money to our Cryto Platform to buy BTC, it may be late tomorrow to transfer the coins to you. Please bear with us.\ncan you also send me the BTC transfer details?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "You can find btc ID on main page",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "I only saw XMR address?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "click \"Bitcoin + 10%\"",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "in the Recipient Address, I put this correct?\n[redacted]",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "What should I put in Recipient Full Name?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please confirm",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "[redacted]",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Yes, this wallet.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "3. Wait for 3 confirmations by blockchain\nWhat does the above means?",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "This is a confirmation of the transaction in the blockchain network. The usual procedure for transferring cryptocurrencies.",
+            "timestamp": "6 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok \nwhat should I put the full name for the recipient?",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "nothing. Wallet Only",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, we finally gathered enough BTC 1.295. But it is coming from 2 sources due to time constraint.\nWe shall transfer BTC 0.42546345 from our local Crypto Platform first.\nOnce you receive it, please let us know before we transfer the balance BTC to you from another Crypto Platform\nIs that okay with you?",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please let us know quickly\nWe want to transfer now but need you to confirm okay first.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hi, \nWe managed to transfer BTC 1.295 to your below address. Pls check and confirm.\n[redacted]",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Please see attached jpg image for the successful transfer of BTC 1.295.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "waiting till 3 conformations,after that you can download decryption program",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Where do we find these 3 confirmations?",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We have done email confirmation and phone confirm for our BTC transfer just now.\nis it related to the above 3 confirmations?",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "wait please",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "To use a decryptor run it as administrator and turn off antivirus before.\nYou can use a decryptor as gui application or through cmd.\n\nCMD commands:\nUniversalDecryptor.exe -full\nUniversalDecryptor.exe -path \"C:\\folder\"\nUniversalDecryptor.exe -file \"C:\\folder\\file.txt.random_ext\"\n\n* decryptor with -full option will decrypt all with default params.\n\nIf you use it as gui application, mI recommend you choose \"create backups\" option. If you use decryptor without this option, you should not interrupt decryption process, otherwise some files will be irreversibly damaged.",
+            "timestamp": "5 days ago"
+        }
+    ]
+}

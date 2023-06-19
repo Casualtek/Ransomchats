@@ -1,0 +1,160 @@
+{
+    "chat_id": "20210616",
+    "messages": [
+        {
+            "party": "REvil",
+            "content": "Hello,\n\nWe are REvil Group.\nWe want to inform that your company local network have been hacked and encrypted. We have all your local network data. The Price to unlock is $500,000. Now we're keeping it a secret, but if you do not reply us within 3 days it will be posted on our news-site. Think about the financial damage to your stock price from this publication. In case of successful negotiations we guarantee that you will get decryptors for all your machines, non recoverable removal of downloaded data and security report on how you were hacked to fix your vulnerabilities. We hope that you can correctly assess the risks for your company.\nYou can find more information about REvil group in Google.\n\n\n\nPosting on our blog and further publications in the media will lead to significant losses for your company: court and government fines, data recovery, loss of reputation, abandonment of clients, drop in limits.\n\nBut don't panic! We are in business, not in war.\nWe can unblock your data and keep everything secret. All we need is a ransom.\nIn this case, you also get: a security report, a complete tree of compromised data files, permanently deleting downloaded data, support with tips on unlocking and protecting.",
+            "timestamp": "9 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello \nWe are interested in resolving this situation. Can you provide some sample information on what files were accessed and taken?",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Hello , wait for answer",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Some sample file for decryption test",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Extract:[redacted]\nDownload:\n[redacted]\n\nhttps://privatlab.com/s/v/[redacted]\nhttps://privatlab.com/s/d/[redacted]#delete",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you kindly. What can we do about discount of the price? 500 is beyond our capacity to pay.",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "my boss can offer 20% discount for fast payment",
+            "timestamp": "7 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - Your website was unreachable today. \nWe looked into available on-hand funds but we cannot do 400k. We have $124k available on-hand that we can pay you for this situation. Can I give you my email in case this chat goes down again? how do we talk? How do I know if we pay that your site will not come down and we never get confirmation of data being deleted or the decryptors?",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Our site will not be disabled, you do not need to worry about it.\nBut your offer is too low, we are ready to take one more small step forward, but 300k is our last offer.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - 300k is not possible for us. We do not have that kind of cash on hand even if we maxed our personal credit cards. I need to go back and figure out what we can do.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "The price below is not interesting to us",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We spoke to a few crypto places and with their fees, we can go up to 280k but in btc only. we are short 20k we cannot make it up sorry. Also, I want to ensure if we reach agreement, that you will come through on your side on the promises you are making. specifically, we need you to give us the decryptors and that they will work and if there are technical support issues, that you will help resolve. Also, that all our data will be deleted and you will provide some confirmation of deletion and I would also like to see the full listing of what you took. This is a lot of money for our company, you have to understand and I do not want to be attacked again, so I want your word that REvil will not attack us again and that you can tell me what I need to do to block whatever way you come in. If you are in agreement tell me what is \"Bitcoin Wallet ID to send BTC\" as my broker suggested. I need your assurance though.",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "okay we agree and confirm",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "btc enabled , price update",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - ok thank you, we are working with a bitcoins broker to do transfer today",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "ok",
+            "timestamp": "5 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - the broker just sent 7.670 bitcoins. Please confirm and provide the decryptor, thanks",
+            "timestamp": "4 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - ok, we downloaded the decryptor. Please send the full listing of what you took, how we were breached and the confirmation of deletion of our data. Thank you.",
+            "timestamp": "4 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Wait for answer",
+            "timestamp": "4 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "To use a decryptor run it as administrator and turn off antivirus before.\nYou can use a decryptor as gui application or through cmd.\n\nCMD commands:\nUniversalDecryptor.exe -full\nUniversalDecryptor.exe -path \"C:\\folder\"\nUniversalDecryptor.exe -file \"C:\\folder\\file.txt.random_ext\"\n\n* decryptor with -full option will decrypt all with default params.\n\nIf you use it as gui application, mI recommend you choose \"create backups\" option. If you use decryptor without this option, you should not interrupt decryption process, otherwise some files will be irreversibly damaged.",
+            "timestamp": "4 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "file",
+            "timestamp": "3 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - thanks. Can you also provide the full listing of what you took, and how we were breached, appreciated",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Full listing was deleted with all your files",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "Spam attack",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "REvil",
+            "content": "1) A spam campaign with a virus file were sent to employees of your domain\n2) Once user clicked the file, our virus payload was installed on the computer\n3) Using special tools the computer was scanned and all user authorization data\n4) This authorization data was used to access to the [redacted] network remotely\n5) Next we scanned your network and found a vulnerable server with RCE, we used this RCE to execute our payload and gather full access to the server\n6) Next we used special security tools to dump all possible passwords from the server\n7) We used those passwords to gather access to other network elements until we accessed your domain controller\n8) Specially designed keyloggers were installed to the IT stuff machines, which helped us to gain access to the whole IT infra\n9) We modified your antivirus configuration the way, it would not detect our presence on the IT network\n10) After gaining all possible IT access data, we also found the way to connect to the remaining branches of the company\n11) As soon as we gathered access to all the IT network, we used specially crafted tools to collect all valuable data\n\n12) Upon data fetch completion, we launched our locking software across some on your IT systems, we didn't put much pressure on it, just wanted you to know that your data was leaked.",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello - thanks",
+            "timestamp": "2 days ago"
+        },
+        {
+            "party": "Victim",
+            "content": "We have a technical question - we've decrypted the Domain Controllers DC01 and DC02, but we're having issues with them as they are not functioning as Domain Controllers. Is it possible these were damaged in some way during the breach? Could you tell us know how to fix them? thanks",
+            "timestamp": "2 days ago"
+        }
+    ]
+}
