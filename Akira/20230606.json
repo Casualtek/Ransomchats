@@ -1,0 +1,70 @@
+{
+    "chat_id": "20230606",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> We received your ransom note. What is next?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Congratulations, you have passed a surprise information security audit and become a victim of ransomware. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted] list // 980 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're looking through your files to calculate a fair demand to you. I will let you know the sum shortly. We offer:\n1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted]_list2.zip // 2.09 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here is additional data we took from some of your trusts.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> How much data did you take from us in GB's? Are these two lists everything you took?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> About 200 GB in full.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Yes, these two list are everything we took.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can we use a separate chat for the conversation going forward?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Yes, I will send a new chat ID shortly.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> https://privnote.com/[redacted]",
+            "timestamp": ""
+        }
+    ]
+}
