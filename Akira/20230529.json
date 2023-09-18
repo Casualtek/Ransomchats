@@ -1,0 +1,40 @@
+{
+    "chat_id": "20230529",
+    "messages": [
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.\n\nDo you have a permission to conduct a negotiation on behalf of your organization?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Your attempts to waste our time could force our exit from negotiations and cause data publication.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we identified our systems to be encrypted and we have limited back ups. Let us know if you can help with recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will let you know soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello! First of all send us 2-3 encrypted files, so we can prove that we can restore them. Secondly we have downloaded 400 gb of your sensaitve data. In the attachment we sent you the file-lists of data we have downloaded from your network. You can request any 2-3 files from that list as proof that we have the files. For the service of decryption and secure deletion of downloaded files your company must pay 900000 usd in BTC.\nFile list: https://temp.sh/[redacted]/all.txt",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> knock knock !",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Don't you see our previous message? We've sent the list and outlined the deal terms.",
+            "timestamp": ""
+        }
+    ]
+}
