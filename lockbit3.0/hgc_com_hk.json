@@ -1,0 +1,45 @@
+{
+    "chat_id": "Chat: *************AF75A0",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "11.07.2023 11:07:47 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "May I know how much are you charging for the decryptor?",
+            "timestamp": "11.07.2023 11:10:17 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "hello",
+            "timestamp": "11.07.2023 11:20:52 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Price per decrypt 19 000 000 usd in btc",
+            "timestamp": "11.07.2023 11:22:35 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "In addition to the attack on your network, several hundred GB of your data were stolen.",
+            "timestamp": "11.07.2023 11:23:53 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "This price includes our software and data deletion so that we do not publish them anywhere.",
+            "timestamp": "11.07.2023 11:24:53 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Frankly, the company being attacked is an insolvent company which has been in liquidation administration for a few years already. The company basically has no valuable asset and it can only afford USD5,000 for the decryptor. I would be grateful if you could accept the offer of USD5,000 in BTC for the decryptor.",
+            "timestamp": "12.07.2023 09:45:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "it's funny, why would they pay anything at all? you have 48 hours to start adequate negotiations, then I publish a blog and attach this correspondence to the blog with your files",
+            "timestamp": "12.07.2023 12:55:53 UTC"
+        }
+    ]
+}
