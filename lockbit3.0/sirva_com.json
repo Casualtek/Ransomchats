@@ -1,0 +1,395 @@
+{
+    "chat_id": "Chat: *************B8DC6D",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[Chat started]",
+            "timestamp": "06.10.2023 01:08:19 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello! We will keep the publication but without proofs of leak.",
+            "timestamp": "06.10.2023 07:29:11 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "If you'll be fast the blog isn't going to be an issue because it just a words in the internet",
+            "timestamp": "06.10.2023 07:34:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [9.png]",
+            "timestamp": "06.10.2023 13:47:31 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [8.png]",
+            "timestamp": "06.10.2023 13:47:33 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [10.png]",
+            "timestamp": "06.10.2023 13:47:34 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [11.png]",
+            "timestamp": "06.10.2023 13:47:34 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [12.png]",
+            "timestamp": "06.10.2023 13:47:35 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You need to hurry up if you want to prevent distribution of these proofs",
+            "timestamp": "06.10.2023 13:49:29 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [21.png]",
+            "timestamp": "06.10.2023 13:49:42 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [19.png]",
+            "timestamp": "06.10.2023 13:49:42 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [20.png]",
+            "timestamp": "06.10.2023 13:49:43 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [22.png]",
+            "timestamp": "06.10.2023 13:49:44 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "How does this work? What are you asking for?",
+            "timestamp": "06.10.2023 18:41:18 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You need to pay ransom to keep this incident and data we have confidality",
+            "timestamp": "06.10.2023 18:56:31 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "What is the ransom price?",
+            "timestamp": "06.10.2023 19:38:47 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Price for your company is 15m$.",
+            "timestamp": "06.10.2023 20:45:54 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We would like to ask you to provide a detailed file listing showing the files you took from our systems. We need the file listing to show a total data size so that we can compare that against the 1.5TB you referenced on your blog. We will also need you to show us what the three database backups were.",
+            "timestamp": "06.10.2023 23:29:29 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [filetree.7z]",
+            "timestamp": "06.10.2023 23:42:06 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [filetree2.7z]",
+            "timestamp": "06.10.2023 23:44:45 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You can choose up to 5 random files from file tree and we'll send it like a proof.",
+            "timestamp": "06.10.2023 23:47:51 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you able to provide file listings that maintains the file path and shows the file size and total file count and data size of each list?",
+            "timestamp": "07.10.2023 00:48:17 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [2.jpg]",
+            "timestamp": "07.10.2023 00:50:51 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [1.jpg]",
+            "timestamp": "07.10.2023 00:50:53 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [3.jpg]",
+            "timestamp": "07.10.2023 00:50:54 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "We cannot provide you more information because it exposes sensitive information",
+            "timestamp": "07.10.2023 00:51:32 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Some files are compressed",
+            "timestamp": "07.10.2023 00:51:59 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We need transparency if we are going to come to an agreement. Our leadership needs to see a full listing, including the full file paths and data size if we are going to proceed. Because you have not provided a file listing with the details we have asked for, there is a great concern that you may be artificially inflating your statistics.",
+            "timestamp": "07.10.2023 15:01:57 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Ok, wait",
+            "timestamp": "07.10.2023 17:41:07 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data2.7z]",
+            "timestamp": "07.10.2023 21:03:48 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data4.7z]",
+            "timestamp": "07.10.2023 21:04:20 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data5.7z]",
+            "timestamp": "07.10.2023 21:05:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data1.1.7z]",
+            "timestamp": "07.10.2023 21:06:34 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data1.2.7z]",
+            "timestamp": "07.10.2023 21:07:48 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [data3.7z]",
+            "timestamp": "07.10.2023 21:10:01 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing the most recent file listings, our leadership will start review this information tomorrow. We will get back to you soon. In the meantime, will you please take the timer off your blog site. We won’t be able to come to an agreement by tomorrow afternoon.",
+            "timestamp": "08.10.2023 23:51:51 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "We will add 12 hours.",
+            "timestamp": "09.10.2023 13:06:58 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Any updates?",
+            "timestamp": "09.10.2023 20:52:51 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Our leadership team is still reviewing the file listings, this is going to take us a couple of days. One question that keeps being asked is, do the file listings you provided include all of the data you took?",
+            "timestamp": "09.10.2023 23:46:26 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You see the timer. Nobody going to wait for you to check every single file from the list. Stay slow and everybody will check the listing with you. Also we have prepared special high speed mirrors for press.",
+            "timestamp": "09.10.2023 23:56:33 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Yesterday the timer showed 4 extra days. Our leadership team planned on using that time to review the data so that we can prepare a counteroffer. We are still evaluating the data and need to work through this process. If you post the data, then we have no reason to give you an offer. Please return the timer as it was so we can continue our discussions to come to a resolution on this.",
+            "timestamp": "10.10.2023 15:57:10 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You have 48 hours",
+            "timestamp": "10.10.2023 16:44:07 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We’ve had a chance to perform our review, we want to make sure we’re very transparent with you as we work together to resolve this.",
+            "timestamp": "11.10.2023 18:08:32 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Based on what we have seen in the list, we are going to have to notify a lot of our clients of this by law. This will cost us a lot of money to do regardless of whether we pay you or not, so we have to account for that. We’d still be willing to pay you so that the data gets deleted, but that price has to be realistic. $15M is not realistic for us.",
+            "timestamp": "11.10.2023 18:09:03 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Considering what we have available and what we need to spend regardless, we’re willing to pay $500,000 to resolve this with you.",
+            "timestamp": "11.10.2023 18:09:33 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You can pay 15m and nobody will know about what data we have. I don't want to see amounts like 500k or 1-2-3-m$ because its ridiculous for your company size and you'll pay much more if i post your data.",
+            "timestamp": "11.10.2023 18:55:30 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I had a conversation with my boss. Due to our rules we cannot review any unreasonable offers. My boss is provide you a discount so now you can pay $14.5m. Next week it will be 30m$. If you think that it's too much say it now. Consider your responsibility for the clients.",
+            "timestamp": "11.10.2023 20:53:55 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "The size of our company doesn’t matter in this situation, and if you know our finances, then you know we haven’t made a profit in years. What matters is what we can pay and what is realistic for us. Based on what you have shown us and what we have to pay regardless because of our legal obligations, what is realistic for us is $750,000, maybe a little bit more based on what you have shown us. Perhaps you discuss with your boss again to explain the situation and extend the timer while we continue discussing the resolution of this with you.",
+            "timestamp": "12.10.2023 14:33:56 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "We do know about your financial situation and we know that you can pay. But I can trust you and provide access to your data for everyone or press only. So may I count on you and wait a little bit more or you going to put me bullshit offers everyday?",
+            "timestamp": "12.10.2023 15:25:58 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "If you make our data public then we have not reason to keep negotiating or make a payment of any amount. The price you are asking is completely beyond our capability to pay and we ask that you re-consider our last offer or provide a number that's more reasonable. Either way, we need more time to figure this all out.",
+            "timestamp": "12.10.2023 15:48:20 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I wont talk with my boss about all offers under 8m$. If you swear me to give me normal offer i can give you extra time.",
+            "timestamp": "12.10.2023 16:21:44 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We will go back to our leadership team and board to discuss what we can do. Please give us more time, it is going to take us some time to get the appropriate individuals engaged.",
+            "timestamp": "12.10.2023 16:35:51 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Timer is paused until tomorrow. I warn you to stop playing this games with us because our patience is almost done.",
+            "timestamp": "12.10.2023 16:42:58 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We can bring our offer up to $1,000,000 but this will deplete what funds what we currently have available for a payment.",
+            "timestamp": "13.10.2023 18:32:40 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Read one more time carefully my previous messages. I told you that i don't want to see offers like this. I'm starting to make first steps to destroy your company because you don't want to make a deal with me. You think I'm fool? I have your files and i know how much money you have.",
+            "timestamp": "13.10.2023 18:42:00 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "CEO of Sirva knows about this shit offers? He understand how much funds he will loose in all departments around the world after work we'll done?",
+            "timestamp": "13.10.2023 18:51:18 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Our offer was approved by the leadership team and board, these are the individuals who determined that $1,000,000 is a reasonable and realistic valuation. Your attempt to reach out to or call our people will not influence our position. $1,000,000 is all that we are able to offer at this time and we would like to ask you to review this offer with your boss.",
+            "timestamp": "13.10.2023 21:27:15 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "We don't accept your offer. We've been waiting long time for a good offer from you and can't wait anymore. Now we will start working with media by sending them a links with all data of your clients, transactions, taxes, etc. We have collected a lot of data and we will send a it to the tax department, trade unions and more law offices later. We think they will be interested in your activities. We don't want to have a dialogue with you because you're losing our time. Wish you the best luck.",
+            "timestamp": "13.10.2023 22:12:46 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We have been working in good faith with you to bring this to a realistic resolution. If you move forward and publish or make public any more of our data than we will have no incentive to work with you. We have to believe that $1,000,000 is worth more to you than publishing our information. If you can provide us a more realistic price than we can discuss this in our next leadership meeting that is scheduled for Monday.",
+            "timestamp": "13.10.2023 22:54:27 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We see that you have re-posted some files. We previously indicated that disclosure of information impacts our incentive to pay.",
+            "timestamp": "14.10.2023 01:36:18 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We have demonstrated a willingness to pay a realistic amount but you continue to demand an amount that is higher than we can pay, make unnecessary threats and are taking these unnecessary posting actions that cannot change our position. We have told you that we need until Monday to discuss any increased payment. We ask you remove the files, stop your threats and accept a reasonable offer from us.",
+            "timestamp": "14.10.2023 01:36:36 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "I told you, next step is calling all you clients. I told that if you don't want to pay us you'll lose more. Stop your shit talk about you don't have funds and so on. I know who you are and what work you need to do and you know that if I'll publish all data from Sirva company you'll get nothing. So you need to talk with Sirva company management and come back with amount which we're asking.",
+            "timestamp": "14.10.2023 08:10:17 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We’ve been very transparent with you throughout this process. As we said, if you make any additional disclosures of our information, our willingness to pay any amount will be drastically reduced. Republishing our name and original data on the site and continuing to try to contact our leadership or media won’t change our position, and in fact will make us less willing to pay. We are willing to pay a realistic price and come to an agreement with you. $1,000,000 is that price. Let’s close this and both move on with a win.",
+            "timestamp": "16.10.2023 23:24:00 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "It could be win for you not for us. Seems you don't want to make a deal.",
+            "timestamp": "17.10.2023 00:11:24 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion/secret/acc2cf6896c0c9c116ff8c52bda40d0b/sirva.com/",
+            "timestamp": "17.10.2023 12:02:53 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "You have 2 days until it will be published. All or nothing.",
+            "timestamp": "17.10.2023 12:09:07 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "File: [ALL.JPG]",
+            "timestamp": "17.10.2023 20:23:36 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Here you go. The day after tomorrow, I will send another letter with all your data",
+            "timestamp": "17.10.2023 20:25:09 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "Your continued pressure and threats make it very clear to us that you want to get paid and close this deal. The amount of money you are asking is nowhere near a realistic price to pay for the data you have shown us. We have said this time and time again. Your new threat to notify the media and your continued efforts to threaten our business, our leadership and our customers will not change our valuation of the data and will not influence our position. We have clearly demonstrated the price range we are able to work within. Stop playing your games, wasting our time and let’s close this business deal. give us a price within range of our offer and our leadership team will discuss making a deal.",
+            "timestamp": "17.10.2023 23:53:09 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "The price range is between 7,7 and 15 million dollars, I already told you that, did you forget?",
+            "timestamp": "18.10.2023 00:05:22 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We saw that you originally responded and asked 'What range?' It looks like you have now changed that response which is unfortunate. You should realize by now, the realistic range we are willing to consider is evident by our offer to date. Take this information back to your boss and let’s discuss a price that is more realistic.",
+            "timestamp": "18.10.2023 17:19:56 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Hello, this is boss Lockbit, my partner asked if he can make an additional discount and agree to your miserable pennies, I refused him. The thing is that since October 1, according to the new rules it is strictly forbidden to make a discount of more than 50% of the originally announced redemption amount, so the partner has no right to make a discount on a single dollar even if he wants it very much and believed in your funny fairy tales about your poverty and the last possible price for you $7.500.000. I as the Boss will be very happy to see your information on my blog, your information will be kept there forever. The only way to prevent the leak is to accept my last possible price, otherwise you will not only suffer losses from the leak but will be repeatedly attacked again in the future and will not know in what original way your very profitable and successful company was hacked until now. All the best, you can continue negotiations with my partner.",
+            "timestamp": "18.10.2023 18:45:59 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "I have no way of knowing if the individual who wrote this last message is truly a different person. Everything about this message tells us that you are still interested in making a deal and getting paid. Your original price is unweighted and not realistic. Your “internal rules” about the discount percentage you are able to provide do not apply to us or this situation. That is unfortunately an issue you are going to need to work through internally, come back to us with a resolution if you would like to make this deal. We reiterate, if you publish our data we are done. Your demand is totally out of our range and as a result we will not provide another counteroffer until you give us a more realistic price within our range.",
+            "timestamp": "18.10.2023 23:24:49 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "Work on the leak. Correspondence will be attached to the blog post.",
+            "timestamp": "19.10.2023 00:26:35 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We will need to meet with the leadership team tomorrow ",
+            "timestamp": "19.10.2023 02:20:34 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "No. You still have 9 hours.",
+            "timestamp": "19.10.2023 02:24:33 UTC"
+        },
+        {
+            "party": "Victim",
+            "content": "We will not be able to get approvals to raise our offer tonight. You are going to need to wait until tomorrow.",
+            "timestamp": "19.10.2023 02:37:14 UTC"
+        },
+        {
+            "party": "LockBit 3.0",
+            "content": "No. You already had a lot of time which you wasted so hurry up.",
+            "timestamp": "19.10.2023 03:12:08 UTC"
+        }
+    ]
+}
