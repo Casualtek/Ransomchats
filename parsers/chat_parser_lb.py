@@ -33,12 +33,12 @@ def parse_html_to_json(html_file, output_file):
         text_div = item.find('div', class_='text')
         date_div = item.find('div', class_='date')
         
-        # Trim content up to the first occurrence of '\n'
-        content = text_div.get_text().strip().split('\n', 1)[0]
+        # Parsing message in a list to gather messages with line breaks, removing timestamp at the end of list
+        content = text_div.get_text().strip().split('\n')[:-2]
         
         message = {
             'party': party,
-            'content': content,
+            'content': " ".join(content), # Concatenate list items
             'timestamp': date_div.get_text().strip()
         }
         messages.append(message)
