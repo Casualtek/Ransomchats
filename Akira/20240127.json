@@ -1,0 +1,210 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> Please confirm this message",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes I do",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Just checking you are still here?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are. Wait for the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Do you have the details yet?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].rar // 371 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.\n\nWe're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We need a few days to look at the list and pick 2-3 files. Ill get back to you on monday",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Standing by.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. I am waiting for the files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. We're willing to set a $300,000 price for ALL the services we offer:\n\n1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price. Atm, we highly recommend that you refer to your cyber insurance to cover our amount quickly minimizing all upcoming risks.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for this update. I will get you the filenames very soon and we will also discuss the price you have shared",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Standing by.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 1. [redacted].pdf 2. [redacted].xlsx 3. [redacted].docx",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].rar // 541 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I'll review these today",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We have to proceed to payment options.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Ok but first I need to see proof of decryption assistance. I will get you files today",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Standing by.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].xml.akira // 518 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].akira // 749 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Here",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted] // 748 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].xml // 517 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thanks. Is it expected that the files become 1kb smaller after decryption?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Yes, it is.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Ready to move to payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have no more questions at the moment. We confirm your abilities to recover the data and the details about our files. I am meeting with our boss in the morning to go over our next steps and I will check in with you after that",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting for the update.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Here is the update. We have taken note of what is still encrypted and the financial impact of losing it or rebuilding it. I am running the numbers again to confirm but I dont think it amounts to the $300k that was quoted. To discuss payment, we would hope to see a revised quote, if that is something you can provide.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Let me know what sum you see reasonable and I'll discuss it with my team.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I will confirm our assessment with my boss and get back to you after the weekend",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> so?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You have 24 hours to give us your decision regarding this deal. If you stay silent, we will announce the breach on our blog.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can find your company name in our news column: akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion If you want this post to be removed, we have to agree on something.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Your data will be available for downloading soon.",
+            "timestamp": ""
+        }
+    ]
+}
