@@ -1,0 +1,340 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> I don't unnderstand what this is.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, I am the IT admin assitant.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> listing_[redacted].txt // 724 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.\n\nWe're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price. \nIf we don't get a respond within next 24 hours, we will be forced to announce your corporate data leak on our blog.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I guess we need decryption assistance.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We'll let you know our price for the decryption tool soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": ">\nWe accept payments in bitcoins. To gain bitcoins you have to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. We are the ones who can properly decrypt your data and restore your infrastructure in a short period of time.\nAfter payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. You will be able to restore your infrastructure within 24 hours. If you face any problems during decryption process, we will be here to support. You will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. What's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure.\nYou will also receive written guarantees that we will keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again. Our price is $200,000. Once you confirm the sum, I will drop off our wallet ID.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> For $250,000 we will also delete your data.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> can you show me these files: [redacted].doc [redacted].pdf [redacted].xlsx [redacted].xlsx [redacted].docx [redacted].docx",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> also here are some files for a test of the decryptor",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].doc.akira // 1.86 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 115 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].xlsx.akira // 14.7 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files.rar // 4.29 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the proof files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].doc // 1.86 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].pdf // 115 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].xlsx // 14.2 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the decrypted ones. Ready to move to payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Appreciated. We are scrambling to offer any amount as we are completely in unknown territory here. Can we reach a deal of 50,000? this is a lot of money for us.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We appreciate your offer but it is far away from a fair deal that we're here trying to reach. As a goodwill, we're willing to accept $200,000 which is capable for you to handle. You're well aware of the financial and reputational consequences in case we fail to agree. Let's be objective.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We understand and this is why we attempt with approval to offer 95,000 to reach the deal with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I'll discuss with my team and be back here.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we can accept $150,000 as final. We won't go any lower. Here is our BTC wallet [redacted] It's up to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We understand and agree to the 150,000 amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> If you can confirm these deal points, then we have reached a deal -",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 1.  Decryptors right away, and full decryption assistance",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 2.  Confirmation of which files you exfiltrated \u2013 full file list",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 3.  Guarantees never to publish or sell our data \u2013 or to publicize or leak anything about this incident",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 4.  Guarantees never to attack us or our customers in the future",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 5.  Physical copy of all data exfiltrated \u2013 provide a link to download",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 6.  After we download the data, your evidence and secure proof data deletion",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 7.  Information about how you entered our systems  \u2013 security report",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 8.  When we approve, you will delete this chat and all logs and other data about this incident",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Please confirm and let us know when you are online to give us decryptors",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We confirm. I'll provide our BTC wallet soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here is the wallet: [redacted]\n\nHow soon should we wait for a transfer? We expect to get payment before the weekend.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The terms we agreed on are valid before the weekend.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Confirmation is appreciated.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  We will make the transfer this morning. Please prepare the decryptors to transfer to us right away",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We see 2 wallets in chat. Please confirm we should transfer to lastest one: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're prepared.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> OK, we will send shortly to wallet: [redacted], standby",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> transfer completed. you can check it",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> win_unlocker_[redacted].ex_ // 759 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\"\nunlocker.exe -s=\"C:\\paths.txt\"\nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We've started uploading your data to mega storage. This process will take us 2-3 days approximately.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thanks, received. When will you provide the data dowload link?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> See the message above.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes, the chat did not refresh",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can we receive the security report and information about how you entered our systems",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.\n2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.\n3. Install 2FA wherever possible.\n4. Use the latest versions of operating systems, as they are less vulnerable to attacks.\n5. Update all software versions.\n6. Use antivirus solutions and traffic monitoring tools.\n7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.\n8. Use backup software with cloud storage which supports a token key.\n9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> mega.nz\n[redacted]@proton.me\nw[redacted]\n\narchive password: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> one of the files did not upload correctly can you please re-upload the file called [redacted].part6.rar",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> This file is correct. The downloading was interrupted and this archive was corrupted. We can't do anything with this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> so you cannot re-upload it again?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hello? the file in the mega one of the is not complete. You stopped the upload can you put it there again please and if something is wrong, can you say what files were there?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I've passed it to my team. Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hello, how is this file re-upload progressing?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. This archive cannot be re-uploaded because it was corrupted while we downloading this FROM your network. We got this archive like this. Sorry for misunderstanding.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Okay thanks for your help. Can you please delete all data you have about the situation and provide evidence of secure deletion?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Sure. I'll provide the file within 12 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Deletion.7z // 87.3 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Apologies for the delay.",
+            "timestamp": ""
+        }
+    ]
+}
