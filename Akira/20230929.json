@@ -1,0 +1,295 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> now what?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": ">\nHello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon. Do you have a permission to conduct a negotiation on behalf of your organization?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> you took data? what, like you took files?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> list.rar // 375 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have to pay too, yes?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Surely.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> ok. what is the price? what do we get in return?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> After payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. You will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. You will receive a security report that includes information about how we were able to penitrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. What's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. You will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again.\n\nI will let you know the price shortly, we're reviewing your financial papers to come up with a reasonable demand to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we've gone through your files to define your financial abilities. We're willing to set a $300,000 price for ALL the services we offer:\n\n1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> ANy chance you would share the password for our VCenter? We fear the hardware has now been damaged",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We didn't change the password for your VCenter.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> well.. our creds do not work.. something is broke",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Your V\u0421enter was in the quality of a virtual machine on one of the ESXi server. All VMs on this ESXi have been encrypted so you can't login to your VCenter. After payment you will be able to access to any of your data/servers.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> so the host password was changed?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> VMs are encrypted or deleted?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Encrypted for sure.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The host password was changed, correct. You will get the pass after payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we need to know if the VMs are intact before we  pay please...thus need limited access to the host",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We can't provide, sorry. All we can offer you is to choose 2-3 encrypted files and upoad them to our chat so we can will upload decrypted copies back for you to be calm.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> OK, Im not sure we will want to pay anything if we cant validate that the VMs are just encrypted vs. deleted or harmed in some other way. thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].jpg",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].docx",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will provide these files soon. Also will you upload files for decryption?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted]files.rar // 1.28 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> what is the breakdown of pricing for the services--if we decide to pay?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Full decryption assistance costs 150k in your case, the evidence of data removal is 125k and the security report is 25k. All the guarantees are coming as a default.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> ok",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We need your decision.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will put your name on our blog today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> as part of the local government, these decisions take everyone getting involved. This means things move slow",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So everyone involved needs to hurry up. We won't wait long.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> What is your best price ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> For the whole deal?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes. we are interested in the whole deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We would accept $250,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> OK. i will share your offer with the board tonight or in the AM. Thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hurry up on your part please.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Our board is at this level of approval: $137,000  - Monies over this amount have other local regulatory hurdles.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will discuss internally.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The management has decided to accept your offer. I will provide you with a btc wallet ID shortly.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here it is: [redacted]\nWe expect to get payment within next 24 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 24 hrs. yikes! we will do our best. thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We believe in you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> They said Monday is the soonest they can pay.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> It is already Tuesday. If we don't receive payment within 24 hours, you will see your name in our blog. Your data will be uploaded before the weekend this way.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can find yourself in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/ If you want this post to be removed, we have to agree at something.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We cant gather funds as quickly as you like. Now that you have let evryone know it will be even more dificult to get funds. Why did you do this???",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We can't read your thoughts. You left us almost 10 days ago and haven't dropped a word. Hurry up on your end. The post will be taken down immediately after payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Is the btc wallet still good to use?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. Sure, you can use it.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> When will we see the transfer? We won't be waiting for another week. We either publish your data prior to weekend or receive the payment and get this over.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> whee is the best/proper place to purchase bitcoin?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> C'mon guys. If you really wanted to pay, you would have done so a couple of weeks ago. Don't waste our time, please leave this chat. We absolutely do not care about this modest amount, so your data will be published soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> where",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You will know.",
+            "timestamp": ""
+        }
+    ]
+}
