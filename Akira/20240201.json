@@ -1,0 +1,205 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Wait a bit.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.7z // 554 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].docx",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].docx",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Files.zip // 54.1 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Passing to my tech dept. Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> decrypted.7z // 22 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files.7z // 538 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. We're willing to set a $350,000 price for ALL the services we offer: 1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are interesed in parts. Can you detail the price on every service ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 1) full decryption assistance - $250,000;\n2) evidence of data removal - $150,000;\n3) security report on vulnerabilities we found - $25,000;\n4) guarantees are included to each of the above options.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The amount requested by you is exaggerated. The amount requested by you is half of the company's profit for the whole year. If we refer to the encrypted data, it can be recovered by manually restoring the databases, something that certainly costs less than $250,000 - the cost of total decryption. We are still willing to negotiate, but with a much smaller amount. The maximum we can offer is $50,000, but we cannot pay the amount in full, but in installments, because we cannot legally remove this amount from the accounting. Our proposal is to divide this amount into 10 packages, and you decrypt packages of files for us. We pay in advance for each package.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will never accept your terms, so we can end this right now. You can go back and forth but we will never be lower than 230k for the full package. The first option is $140,000 and it is the bottom line. We accept payments in full, so you can transfer funds to your broker in parts.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> How will we pay ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> what is the bank account ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We accept payments in bitcoins. Once we agree on the price, I'll provide you our wallet ID.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The board has agreed to a 100.000 euro payment",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> This is for full decryption",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We can do it in one payment",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> ok. We are ready to close the deal at $120,000. I am pretty sure you can add a bit to your current offer and make a transaction that will satisfy both parties. Here is our BTC wallet [redacted] Please let me know how soon can we expect the transfer.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. Are you going to finish the deal with us?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hello! We are processing the request with the Financial Department and Legal",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> How long should we wait?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have made a test transaction. The board is reluctant to this type of payment. Now we wait for confirmation of the payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 0.00430313 received. You can proceed with the full amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> What's your progress?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Economic department issues",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> How soon can w eexpect the rest?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I am waiting for an update from you today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> It seems the board is doesn't trust to pay the money",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Can you please explain? Are we going to have a deal? You've already sent us the test payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The board came to the conclusion that we have no warranty that we will get our data back. The risk of not getting anything vs. the amount that we have to pay.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We've proven that we can decrypt the files and after payment we can give you back the files we took from your network. Our initial demand has been decreased significantly and now you are saying that there is a risk. Did I understand you right that this is your final decision and there will be no deal with you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I'm sorry. It is not my decision",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> OK Thanks for the information. We will announce this incident on our blog and your data will be uploaded there as well.",
+            "timestamp": ""
+        }
+    ]
+}
