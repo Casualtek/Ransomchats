@@ -1,0 +1,53 @@
+{
+    "chat_id": "29BBE03074FDBB8D",
+    "messages": [
+        {
+        "timestamp":"2024-08-01T22:33:55.198424Z",
+        "content":"We are attempting to do step 1 by downloading the file tree, however it will not download. Can you send it to me?",
+        "party": "Victim"
+        },
+        {
+        "timestamp":"2024-08-01T22:39:40.79313Z",
+        "content":"yes.",
+        "party": "dragonforce"
+        },
+        {"timestamp":"2024-08-01T22:46:59.132678Z",
+        "content": "tree.zip filesize:889780",
+        "party": "dragonforce"
+        },
+        {
+        "timestamp":"2024-08-02T00:34:24.006357Z",
+        "content":" Is this everything you have stolen? How much data did you take from our network?",
+        "party": "victim"
+        },
+        {"timestamp":"2024-08-02T00:37:20.701612Z",
+        "content":"102 GB. The list has been provided to you.",
+        "party": "dragonforce"
+        },
+        {
+        "timestamp":"2024-08-03T00:37:45.986826Z",
+        "content":"Okay thank you. How do we know you have these files? Can we select a few file names from that list and then you will provide them?",
+        "party": "victim"
+        },
+        {
+        "timestamp":"2024-08-03T00:40:52.838507Z",
+        "content":"What specific files do you want to see? The size should be small and the contents of the files should not be critical.",
+        "party": "dragonforce"
+        },
+        {
+        "timestamp":"2024-08-03T15:05:48.992011Z",
+        "content":"Ok that is a large dataset. I am waiting on selection from my boss",
+        "party": "victim"
+        },
+        {
+        "timestamp":"2024-08-03T15:08:46.692687Z",
+        "content":"Ok",
+        "party": "dragonforce"
+        },
+        {
+        "timestamp":"2024-08-07T16:31:29.716114Z",
+        "content":"You're delaying time. The announcement of the publication of the files is posted on the blog. If the payment is not made before the end of the timer, the data will be published.",
+        "party": "dragonforce"
+        }
+        ]
+    }
