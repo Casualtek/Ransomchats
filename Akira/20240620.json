@@ -1,0 +1,40 @@
+{
+    "chat_id": "20240620",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> Hello. We received your message and are authorised to speak with you. However, we are concerned about the security of this chat portal because your note has been sent to many people. Please can you provide us with an email address so that we can communicate with you further.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get your reply you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Do you need a new chat ID?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you. We do have authority to speak with you. If we get a new chat ID, how will we know that it is secure and nobody else has access? We prefer email.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> This chat is the only one place to communicate in secure. You will get a one-time note that contains a new chat ID. This note will be destroyed once you open it.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> https://privnote.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We look forward to your message in the new chat room.",
+            "timestamp": ""
+        }
+    ]
+}
