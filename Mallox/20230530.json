@@ -1,0 +1,90 @@
+{
+    "chat_id": "20230530",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Can the price be lower. I am a student",
+            "timestamp": "[30/05/2023 18:46]"
+        },
+        {
+            "party": "Victim",
+            "content": "I'm too poor, but I don't want to lose data",
+            "timestamp": "[30/05/2023 18:46]"
+        },
+        {
+            "party": "Support",
+            "content": "you can tell similar tales to someone else",
+            "timestamp": "[30/05/2023 19:53]"
+        },
+        {
+            "party": "Victim",
+            "content": "10%\uff0cOk\u3002",
+            "timestamp": "[30/05/2023 19:55]"
+        },
+        {
+            "party": "Support",
+            "content": "what you mean?",
+            "timestamp": "[30/05/2023 19:57]"
+        },
+        {
+            "party": "Victim",
+            "content": "Discount 10%",
+            "timestamp": "[30/05/2023 19:58]"
+        },
+        {
+            "party": "BOT",
+            "content": "Discount 10%. Discount expiration date: 2023-06-05",
+            "timestamp": "[30/05/2023 19:58]"
+        },
+        {
+            "party": "Support",
+            "content": "I've made discount 10%",
+            "timestamp": "[30/05/2023 19:59]"
+        },
+        {
+            "party": "Victim",
+            "content": "After discount 10%\uff0c",
+            "timestamp": "[30/05/2023 20:01]"
+        },
+        {
+            "party": "Victim",
+            "content": "$4500",
+            "timestamp": "[30/05/2023 20:01]"
+        },
+        {
+            "party": "Support",
+            "content": "$33750 / 1.21740423 btc",
+            "timestamp": "[30/05/2023 20:02]"
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry, I'm too poor\u3002",
+            "timestamp": "[30/05/2023 20:03]"
+        },
+        {
+            "party": "Support",
+            "content": "I'm not interested in your personal income. If the company needs the data, then they can pay for the decryption",
+            "timestamp": "[30/05/2023 20:10]"
+        },
+        {
+            "party": "Victim",
+            "content": "$10000,Help me.",
+            "timestamp": "[30/05/2023 20:11]"
+        },
+        {
+            "party": "Support",
+            "content": "no",
+            "timestamp": "[30/05/2023 20:14]"
+        },
+        {
+            "party": "Victim",
+            "content": "$15000",
+            "timestamp": "[30/05/2023 20:18]"
+        },
+        {
+            "party": "Support",
+            "content": "This offer is not serious. I can offer 30000 USD and it's best price which you can get for decryption of all your servers",
+            "timestamp": "[30/05/2023 20:58]"
+        }
+    ]
+}

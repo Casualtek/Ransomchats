@@ -1,0 +1,150 @@
+{
+    "chat_id": "20230529",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": "[29/05/2023 05:26]"
+        },
+        {
+            "party": "File:",
+            "content": "Sent the file",
+            "timestamp": "[29/05/2023 05:26]"
+        },
+        {
+            "party": "Victim",
+            "content": "The customer's backup was not encrypted, the customer had the backup, and only lost a day's worth of data",
+            "timestamp": "[29/05/2023 05:36]"
+        },
+        {
+            "party": "Hervios",
+            "content": "All customers say so",
+            "timestamp": "[29/05/2023 05:48]"
+        },
+        {
+            "party": "Victim",
+            "content": "Send the test file first",
+            "timestamp": "[29/05/2023 06:45]"
+        },
+        {
+            "party": "hervios",
+            "content": "The technician is not online, please wait patiently",
+            "timestamp": "[29/05/2023 06:57]"
+        },
+        {
+            "party": "Victim",
+            "content": "Still no test files?",
+            "timestamp": "[29/05/2023 15:06]"
+        },
+        {
+            "party": "hiervos",
+            "content": "Be patient, the admin should be right back",
+            "timestamp": "[29/05/2023 15:10]"
+        },
+        {
+            "party": "Support",
+            "content": "Sent the file",
+            "timestamp": "[29/05/2023 16:02]"
+        },
+        {
+            "party": "Victim",
+            "content": "This price is too expensive, give a discount, I will confirm tomorrow whether the customer has a backup",
+            "timestamp": "[29/05/2023 23:06]"
+        },
+        {
+            "party": "BOT",
+            "content": "Discount 16%. Discount expiration date: 2023-06-05",
+            "timestamp": "[30/05/2023 04:27]"
+        },
+        {
+            "party": "Victim",
+            "content": "10000USDOK\uff1f",
+            "timestamp": "[30/05/2023 06:00]"
+        },
+        {
+            "party": "Support",
+            "content": "no",
+            "timestamp": "[30/05/2023 06:00]"
+        },
+        {
+            "party": "Support",
+            "content": "20000 USD could be accepted",
+            "timestamp": "[30/05/2023 07:15]"
+        },
+        {
+            "party": "Victim",
+            "content": "This price is too expensive, and some customers have already returned to it",
+            "timestamp": "[30/05/2023 08:39]"
+        },
+        {
+            "party": "hiervos",
+            "content": "You should be trying to get your clients instead of asking me",
+            "timestamp": "[30/05/2023 09:08]"
+        },
+        {
+            "party": "Victim",
+            "content": "I understand, but the customer thinks the price is too expensive, and others ask you, 10,000USD I will get the customer",
+            "timestamp": "[30/05/2023 11:08]"
+        },
+        {
+            "party": "hiervos",
+            "content": "$25000 or give up",
+            "timestamp": "[30/05/2023 11:09]"
+        },
+        {
+            "party": "Victim",
+            "content": "15000USD OK?",
+            "timestamp": "[30/05/2023 19:14]"
+        },
+        {
+            "party": "hiervos",
+            "content": "no",
+            "timestamp": "[31/05/2023 10:11]"
+        },
+        {
+            "party": "hiervos",
+            "content": "I can offer 25000 USD and it's best price which you can get for decryption of all your servers",
+            "timestamp": "[31/05/2023 10:24]"
+        },
+        {
+            "party": "Victim",
+            "content": "The customer budget is out, 10000usd ok? If OK, arrange to pay tomorrow",
+            "timestamp": "[01/06/2023 05:37]"
+        },
+        {
+            "party": "Support",
+            "content": "this is not interesting for us. It was said before - 25000 USD",
+            "timestamp": "[01/06/2023 05:45]"
+        },
+        {
+            "party": "Victim",
+            "content": "I've \nheard from customers that other middlemen have already received a \ndiscount of about $10000 and I need the lowest discount to get \ncustomers.",
+            "timestamp": "[01/06/2023 06:06]"
+        },
+        {
+            "party": "Victim",
+            "content": "Please give us the lowest price, after all, we have also settled more than $100,000 order with you.",
+            "timestamp": "[01/06/2023 06:28]"
+        },
+        {
+            "party": "Victim",
+            "content": "Is the 20000USD mentioned earlier okay?",
+            "timestamp": "[01/06/2023 07:59]"
+        },
+        {
+            "party": "Support",
+            "content": "this is last price, no lower",
+            "timestamp": "[01/06/2023 08:05]"
+        },
+        {
+            "party": "Victim",
+            "content": "What is the final price? 20000USD?",
+            "timestamp": "[01/06/2023 09:07]"
+        },
+        {
+            "party": "Support",
+            "content": "20000 USD",
+            "timestamp": "[01/06/2023 09:09]"
+        }
+    ]
+}

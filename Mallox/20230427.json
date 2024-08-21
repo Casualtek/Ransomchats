@@ -1,0 +1,315 @@
+{
+    "chat_id": "20230427",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "hello\uff1f",
+            "timestamp": "[27/04/2023 09:09]"
+        },
+        {
+            "party": "Victim",
+            "content": "Sent the file",
+            "timestamp": "[27/04/2023 09:14]"
+        },
+        {
+            "party": "Victim",
+            "content": "Brother, please give me a discount",
+            "timestamp": "[27/04/2023 09:23]"
+        },
+        {
+            "party": "BOT",
+            "content": "To send funds, use the BTC address specified below: [redacted]. Do not send more than 1 payment to this BTC address",
+            "timestamp": "[27/04/2023 12:26]"
+        },
+        {
+            "party": "BOT",
+            "content": "Discount 20%. Discount expiration date: 2023-05-03",
+            "timestamp": "[27/04/2023 12:26]"
+        },
+        {
+            "party": "Victim",
+            "content": "We are a small enterprise and we cannot afford to spend so much money. Is 5000 USD okay",
+            "timestamp": "[27/04/2023 12:41]"
+        },
+        {
+            "party": "BOT",
+            "content": "To recover your files you need a decryption tool. We are ready to sell it to you at the price indicated on this page",
+            "timestamp": "[27/04/2023 12:44]"
+        },
+        {
+            "party": "Victim",
+            "content": "If I were to make money now, how long would I be able to give me the tools",
+            "timestamp": "[27/04/2023 12:48]"
+        },
+        {
+            "party": "hiervos",
+            "content": "Then we will complete the deal today.",
+            "timestamp": "[27/04/2023 12:51]"
+        },
+        {
+            "party": "Victim",
+            "content": "Can you decrypt the test file so that we can take a look?",
+            "timestamp": "[27/04/2023 12:52]"
+        },
+        {
+            "party": "BOT",
+            "content": "We can make test decrypt for free for not valuable files (xls, doc, bat, txt, jpeg, png, pdf, exe or etc)If you need a test then upload your file on any file host and send me download linkFile hosts: sendspace.com / dropmefiles.com / google.com/drive / file.io / wetransfer.com",
+            "timestamp": "[27/04/2023 12:56]"
+        },
+        {
+            "party": "Victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": "[27/04/2023 12:57]"
+        },
+        {
+            "party": "Victim",
+            "content": "this link",
+            "timestamp": "[27/04/2023 12:57]"
+        },
+        {
+            "party": "hiervos",
+            "content": "wait",
+            "timestamp": "[27/04/2023 13:07]"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay, please hurry up",
+            "timestamp": "[27/04/2023 13:08]"
+        },
+        {
+            "party": "Victim",
+            "content": "We plan to make payment after seeing the decrypted test files. Could you please hurry up? Thank you",
+            "timestamp": "[27/04/2023 13:29]"
+        },
+        {
+            "party": "hiervos",
+            "content": "wait",
+            "timestamp": "[27/04/2023 13:52]"
+        },
+        {
+            "party": "Victim",
+            "content": "Could you please hurry up",
+            "timestamp": "[27/04/2023 14:38]"
+        },
+        {
+            "party": "hiervos",
+            "content": "The technician went out, wait",
+            "timestamp": "[27/04/2023 14:48]"
+        },
+        {
+            "party": "Victim",
+            "content": "Can we complete the transaction tonight? We have been waiting on our end, please make sure to complete the transaction tonight",
+            "timestamp": "[27/04/2023 14:49]"
+        },
+        {
+            "party": "hiervos",
+            "content": "yes",
+            "timestamp": "[27/04/2023 14:53]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, has the technology returned? We have been waiting",
+            "timestamp": "[27/04/2023 16:29]"
+        },
+        {
+            "party": "hiervos",
+            "content": "Wait patiently, don't worry, I will tell you after the production is completed",
+            "timestamp": "[27/04/2023 16:35]"
+        },
+        {
+            "party": "Victim",
+            "content": "How long will it take",
+            "timestamp": "[27/04/2023 16:36]"
+        },
+        {
+            "party": "Victim",
+            "content": "We've been waiting all night tonight, please feel free to contact me anytime",
+            "timestamp": "[27/04/2023 17:04]"
+        },
+        {
+            "party": "hiervos",
+            "content": "I know",
+            "timestamp": "[27/04/2023 17:39]"
+        },
+        {
+            "party": "Support",
+            "content": "Sent the file",
+            "timestamp": "[27/04/2023 18:21]"
+        },
+        {
+            "party": "Support",
+            "content": "which amount you are going to pay?",
+            "timestamp": "[27/04/2023 18:22]"
+        },
+        {
+            "party": "Victim",
+            "content": "Didn't you say 20000U?",
+            "timestamp": "[27/04/2023 18:25]"
+        },
+        {
+            "party": "Support",
+            "content": "current price for decryption tool after disocunt is 20000 USD",
+            "timestamp": "[27/04/2023 18:25]"
+        },
+        {
+            "party": "Support",
+            "content": "that's right",
+            "timestamp": "[27/04/2023 18:25]"
+        },
+        {
+            "party": "Support",
+            "content": "just to figure out",
+            "timestamp": "[27/04/2023 18:25]"
+        },
+        {
+            "party": "Victim",
+            "content": "We are \nconfirming the correctness of the document and will make payment \nimmediately after confirmation. Please stay online and wait for me",
+            "timestamp": "[27/04/2023 18:26]"
+        },
+        {
+            "party": "Support",
+            "content": "ok",
+            "timestamp": "[27/04/2023 18:27]"
+        },
+        {
+            "party": "Victim",
+            "content": "The customer cannot confirm that it is their own file. Can we decrypt a test file again?",
+            "timestamp": "[27/04/2023 18:42]"
+        },
+        {
+            "party": "Victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": "[27/04/2023 18:44]"
+        },
+        {
+            "party": "Support",
+            "content": "Sent the file",
+            "timestamp": "[27/04/2023 18:46]"
+        },
+        {
+            "party": "Victim",
+            "content": "wait a moment",
+            "timestamp": "[27/04/2023 18:49]"
+        },
+        {
+            "party": "Victim",
+            "content": "Confirm the transfer address, BTC quantity, and we are ready to make payment",
+            "timestamp": "[27/04/2023 19:07]"
+        },
+        {
+            "party": "Support",
+            "content": "$20000 / 0.6874617 btc",
+            "timestamp": "[27/04/2023 19:12]"
+        },
+        {
+            "party": "Support",
+            "content": "btc address [quotes BOT]",
+            "timestamp": "[27/04/2023 19:12]"
+        },
+        {
+            "party": "Victim",
+            "content": "Is this address? [quotes BOT]",
+            "timestamp": "[27/04/2023 19:12]"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok\nwait",
+            "timestamp": "[27/04/2023 19:13]"
+        },
+        {
+            "party": "Victim",
+            "content": "Enclosed please find!",
+            "timestamp": "[27/04/2023 19:18]"
+        },
+        {
+            "party": "Support",
+            "content": "yes",
+            "timestamp": "[27/04/2023 19:18]"
+        },
+        {
+            "party": "Victim",
+            "content": "Payment has been made. Please check the records on your end. Thank you",
+            "timestamp": "[27/04/2023 19:19]"
+        },
+        {
+            "party": "Victim",
+            "content": "How long can I receive the decryption tool",
+            "timestamp": "[27/04/2023 19:22]"
+        },
+        {
+            "party": "Support",
+            "content": "in 30 minutes after payment",
+            "timestamp": "[27/04/2023 19:40]"
+        },
+        {
+            "party": "Support",
+            "content": "we are waiting bitcoin network confirmations",
+            "timestamp": "[27/04/2023 19:40]"
+        },
+        {
+            "party": "Support",
+            "content": "when payment will be credited to the account decryptor will be sent",
+            "timestamp": "[27/04/2023 19:41]"
+        },
+        {
+            "party": "Victim",
+            "content": "Okay, I've been waiting",
+            "timestamp": "[27/04/2023 19:46]"
+        },
+        {
+            "party": "BOT",
+            "content": "Received $19987",
+            "timestamp": "[27/04/2023 19:48]"
+        },
+        {
+            "party": "Victim",
+            "content": "hi",
+            "timestamp": "[27/04/2023 19:49]"
+        },
+        {
+            "party": "Support",
+            "content": "Sent the decryptor. To unpack use the password: 123",
+            "timestamp": "[27/04/2023 19:52]"
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, there are two file decryptors that cannot recognize it. Can you help restore it?",
+            "timestamp": "[29/04/2023 13:09]"
+        },
+        {
+            "party": "Victim",
+            "content": "These two files are very important to me",
+            "timestamp": "[29/04/2023 13:09]"
+        },
+        {
+            "party": "Victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": "[29/04/2023 13:12]"
+        },
+        {
+            "party": "hiervos",
+            "content": "Yes, wait a little",
+            "timestamp": "[29/04/2023 13:21]"
+        },
+        {
+            "party": "Victim",
+            "content": "Are you there?",
+            "timestamp": "[29/04/2023 18:23]"
+        },
+        {
+            "party": "hiervos",
+            "content": "yes",
+            "timestamp": "[29/04/2023 18:51]"
+        },
+        {
+            "party": "Support",
+            "content": "Hello",
+            "timestamp": "[29/04/2023 20:46]"
+        },
+        {
+            "party": "Support",
+            "content": "I'm \nsorry, unfortunately these two files were not fully encrypted. They are \nmissing critical recovery information, so I can't decrypt them.",
+            "timestamp": "[29/04/2023 20:46]"
+        }
+    ]
+}
