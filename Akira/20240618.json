@@ -1,0 +1,270 @@
+{
+    "chat_id": "20240618",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> Hi we received your readme file. This is a shock to us, what do we do next? Can you help us?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes i am authorized to negotiate with you",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> list.txt // 640 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.\n\nWe're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us calculate our demand to you. We're willing to set a $400,000 price for ALL the services we offer.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi please show proof of life for the following files: [redacted].pdf, [redacted].docx, [redacted].docx, [redacted].xlsx",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files.rar // 207 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please review the files. If you need to test our decryption tool, give me 2-3 encrypted files asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].eps.akira // 5.46 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 2.08 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have reveiwed the files.  Thank you for providing those.  Here are some files to show proof of decryption.  Thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 421 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].png.akira // 4.02 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> decrypted.7z // 7.67 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> As for the third file, we have a question. Did you stop the encryption process?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes we did.  Honestly we freaked out when we saw this kick off and just shut everything down.  Is that going to be a problem?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Some files less than 2 mb might be damaged.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have carefully reviewed the services you offer, but we have some concerns about limitations related to the decryption of some of our files. We have a very complex database that was on one of our servers, when we took it offline during the encryption process. Now, some of the subfiles of this database are of the size that you said could be a problem.  What guarantees can you give us, that after paying for decryption, these files will be completely accessible and be able to be used without restrictions?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> There shouldn't be any troubles with decrypting your files of size 2mb and less. As well as with the rest.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Are we going to have a deal here?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are open to finalizing a deal.  However, as previously discussed, there are significant concerns: Regarding the decryption process and the size of our current files. You have mentioned that you reviewed our files, and clearly noticed we are small family owned business that lacks cyber liability coverage.  We have some concerns about the likely success of decryption, based on your most recent attempts to decrypt only three out of four submitted files. Given the decryption issues encountered, we propose a settlement of $105,000 as we are taking considerable risk by relying on a decryption tool that has proven unreliable.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I'll get back soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. Given the circumstances and your \"concerns\", we are willing to step forward to close at $350,000, nothing more.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We appreciate your response, yet our \"concerns\" persist. Post-payment, we're left without any recourse should your service fail to decrypt what has been encrypted. In an effort to push this conversation forward and mitigate our hesitations about proceeding with payment, we require further clarity. Specifically, we need reassurance about your capability to decrypt a critical piece of our infrastructure - a 540GB SQL server 2005 DB file named [redacted].MDF, previously hosted on a 2008R2 SP1 server. This file is crucial to our negotiation. Gaining assurances from your team that we could expect this DB to be decrypted will help us move forward with a decision. Can your team provide a concrete assurance regarding your tools' ability to handle a database file of this magnitude? Furthermore, post-payment, what level of \"TechSupport\" can we expect to ensure the functionality of your product? Awaiting your detailed response.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I'm pretty confident that you will decrypt everything we've encrypted, with our took, but I will ask my tech guys about assurances as well.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thankyou",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Well, I got assurance from my tech dept that all of your encrypted files including huge SQL server and DBs will be successfully decrypted. If you face any problems during decryption process, we will be here to support 24/7. After payment you will receive decryptors and commands how to run them. We've already decrypted cases where encryption process was interrupted. We have carefully checked encrypted files you gave us for test and are sure there won;t be any problems.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're not interested in deceiving you since it will impact our reputation we honor.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have been discussing your services and after your assurances we feel a lot better with moving forward with an agreement. We can gather and access 208K within the next 24 hours and pay.  Please work with us here. We do not have a cyber insurance policy to pull funds from, and this is out of pocket cash we have to access. We appreciate that your team will stand behind your service as you value your reputation.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> In our turn we appreciate your willingness to end this with us but $208k won't resolve the incident. My team is ready to accept $300,000 for the deal this week. This is our final offer. Let us get this over. Here is our BTC wallet [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting for your reply guys.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for working with us on this incident.\u00a0 Please take $271,818.13 in BTC to your wallet and let's put the matter behind us.\u00a0 We can all go into our weekend feeling like we worked on this problem together and enjoy life.\u00a0 As soon as you agree, we will start working on getting the BTC setup and send it to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> I'll let you know soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Guys, we both know that you are able to close this at $300,000. We've decreased our demand significantly so let's end this at $300k and get this over. I'll wait for a message from you asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. We are waiting for a message from you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I am sitting here waiting for final approval from my boss.  please give me a couple of minutes",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We will move forward with the 300k payment.      We need to be sure that your team will provide the decryption key ASAP and be available to assist with decryption throughout this weekend and for as soon as our files remain encrypted, You will provide the report on what you found vulnerable in our environment, Promise to never attack us again, provide proof of deletion of our files as well as your assurance that our data including that of our clients will not be sold or shared or published, and finally never mention your attack against us to any other person or organization.   If we are in agreement we will purchase the bitcoin and provide an initial payment of a small amount to confirm that you received and then make a full payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Great. We confirm the terms. Decryptors are ready. The wallet is above. Let me know when you make a test transaction.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi friends.  First payment on its way.  Hash: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Are you able to confirm reciept?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 0.0000387 Received.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Full Payment is on the way, here is that Hash ID: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Checking. Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Received.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.7z // 1.77 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\"\nunlocker.exe -s=\"C:\\paths.txt\"\nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line\nESXi commands\n1) chmod +x unlocker\n2) ./unlocker -p=\"/vmfs/volumes\"",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Brilliant. That worked for the most part and our team is going to troubleshoot the remaining systems.  As for the Vulnerablity report and proof of deletion?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Deletion.7z // 128 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.\n2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.\n3. Install 2FA wherever possible.\n4. Use the latest versions of operating systems, as they are less vulnerable to attacks.\n5. Update all software versions.\n6. Use antivirus solutions and traffic monitoring tools.\n7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.\n8. Use backup software with cloud storage which supports a token key.\n9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. We wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security.",
+            "timestamp": ""
+        }
+    ]
+}
