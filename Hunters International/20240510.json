@@ -1,0 +1,150 @@
+{
+    "chat_id": "20240510",
+    "messages": [
+        {
+            "party": "Hunters",
+            "content": "Hi, how may I assist you?",
+            "timestamp": "Saturday, 19:40"
+        },
+        {
+            "party": "Victim",
+            "content": "That is an extremely high demand. To consider any payment we need to know what you have and what you did. It looks like I can upload encrypted files to test your decryptor?",
+            "timestamp": "19:46"
+        },
+        {
+            "party": "Hunters",
+            "content": "Yes, you can. We will decrypt. The data will be available later.",
+            "timestamp": "19:47"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you",
+            "timestamp": "19:52"
+        },
+        {
+            "party": "Victim",
+            "content": "Do you know how much data you have?",
+            "timestamp": "21:14"
+        },
+        {
+            "party": "Victim",
+            "content": "I think you provided a file listing? Looks like just 2.7 million files? Just want to be sure I have the right number to report",
+            "timestamp": "Sunday, 3:58"
+        },
+        {
+            "party": "Hunters",
+            "content": "That is correct. We have 2,793,643 files 2.3 TB in total.",
+            "timestamp": "5:04"
+        },
+        {
+            "party": "Victim",
+            "content": "Ok that's good to know. It's not everything but it is a lot. We are analyzing it now and will have a request for a few files so you can prove you have them and not just a file tree. I also have a team working on getting encrypted files. This has proved difficult so please be patient",
+            "timestamp": "13:34"
+        },
+        {
+            "party": "Hunters",
+            "content": "Okay.",
+            "timestamp": "13:57"
+        },
+        {
+            "party": "Victim",
+            "content": "Files uploaded for proof of decryptor",
+            "timestamp": "15:52"
+        },
+        {
+            "party": "Hunters",
+            "content": "The files have been decrypted.",
+            "timestamp": "16:11"
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. Updating",
+            "timestamp": "16:14"
+        },
+        {
+            "party": "Victim",
+            "content": "My executives want me to make you aware that we have been through this before. We were ransomwared a few years ago, and similar to you they asked for a ridiculous amount of money. We did not pay them. Their loss puts you at an advantage though. We did buy Bitcoin then for the potential situation we are in right now. My boss does not want to waste money or time on this any longer and is willing to pay you that Bitcoin so we can all walk away today. As you know banks are closed today and tomorrow due to holiday, so we only have what Bitcoin we have to work with. We can send you $1,500,000 within hours. Accept and we will start the process of cold storage removal",
+            "timestamp": "18:26"
+        },
+        {
+            "party": "Victim",
+            "content": "We have a majority of the Bitcoin ready. Did you take today off for easter? The longer this takes the less valuable payment becomes",
+            "timestamp": "Monday, 0:28"
+        },
+        {
+            "party": "Hunters",
+            "content": "We are ready to take nothing if it's what you meant. The price is final. It is only your decision to pay or be disclosed.",
+            "timestamp": ""
+        },
+        {
+            "party": "Hunters",
+            "content": "We do discounts only for small companies.",
+            "timestamp": "4:19"
+        },
+        {
+            "party": "Victim",
+            "content": "In the last ransomware case we walked away from a lower demand. You currently can have $1.5 million ready to be in your hands. Our bank is closed so we can only work with the bitcoin we have from the last incident, which is less than your demand. Additionally if this goes much longer, my executives may change their mind and just rebuild. Please make a reasonable offer",
+            "timestamp": "14:32"
+        },
+        {
+            "party": "Hunters",
+            "content": "We are not in a hurry. We will wait for your bank to be opened.",
+            "timestamp": ""
+        },
+        {
+            "party": "Hunters",
+            "content": "And please stop appealing to your last ransomware case. We are not them and each case is unique, especially when you are dealing with us.",
+            "timestamp": "14:51"
+        },
+        {
+            "party": "Victim",
+            "content": "We appreciate your patience but we will not be paying $10 million. The longer this goes on the more likely you get nothing. You don't have everything and our rebuilding teams are being activated. Please provide a reasonable offer and I will push to get approved.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "It is good for you to know our experience so you can make an educated decision to work together to come to a reasonable conclusion. Our executives have walked away before. We are prepared to pay you a great deal of money for quick resolution but not as much as you are asking",
+            "timestamp": "15:49"
+        },
+        {
+            "party": "Hunters",
+            "content": "I'm okay to get nothing. Just tell me that you will not pay us $10M and I will publish all of your data on our data leak site right away.",
+            "timestamp": ""
+        },
+        {
+            "party": "Hunters",
+            "content": "I also would like to point you out that we will send a bulk email to your competitors, partners and customers, informing them about the incident with proofs attached.",
+            "timestamp": "19:32"
+        },
+        {
+            "party": "Victim",
+            "content": "Let\u2019s reset and try to work together on this. Clearly $1.5mm is not enough and $10 is too high. How do we come up with something in between? I think everyone wants to move quickly to finish this on good terms",
+            "timestamp": "21:51"
+        },
+        {
+            "party": "Hunters",
+            "content": "The only way for you to resolve this is to pay the full amount.",
+            "timestamp": "Tuesday, 5:18"
+        },
+        {
+            "party": "Victim",
+            "content": "Our IT team is rebuilding and having success. Soon there is no need to continue this conversation. We will not pay you $10mm. We are willing to resolve this today for $4,000,000.",
+            "timestamp": "14:36"
+        },
+        {
+            "party": "Hunters",
+            "content": "Okay, so you are ready for your data will be published?",
+            "timestamp": ""
+        },
+        {
+            "party": "Hunters",
+            "content": "We don't need $4M or even $9M. Stop wasting your time.",
+            "timestamp": ""
+        },
+        {
+            "party": "Hunters",
+            "content": "I hope you already checked our data leak site so you can see there are some huge companies with all sensitive data published. You are not an exception.",
+            "timestamp": "14:44"
+        }
+    ]
+}
