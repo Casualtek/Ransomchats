@@ -16,3 +16,5 @@ Thanks as well **Calvin So**'s for his stylometric analysis **[here](https://med
 Anastasia Sentsova, from Analyst1, also used LockBit's chats in her research **["Negotiating with LockBit: Uncovering the Evolution of Operations and Newly Established Rules"](https://analyst1.com/blog-negotiating-with-lockbit-uncovering-the-evolution-of-operations-and-newly-established-rules/)**.
 
 You can also experience ransomware negotiation with a custom made ChatGPT, **[trained on this dataset by Ellis Stannard](https://ellisstannard.medium.com/ransomchatgpt-ransomware-negotiation-simulator-ee8cab041b53)**.
+
+<a href="https://www.buymeacoffee.com/casualtek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
