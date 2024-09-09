@@ -1,0 +1,530 @@
+{
+    "chat_id": "20240718",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> hello?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get your reply you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> lagging here, internet poor, maybe slow respons from me",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I do",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait for details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.7z // 394 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10mb size from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10mb size to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We offer:\n1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Could I see 2022-01-03 [redacted].pdf and 2023-10-10 [redacted].jpg",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I cannot upload files for decrypt. Servers are encrypted.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can upload any encrypted files you can find like log or configs. Please wait for files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files.7z // 939 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here us the files. Let us know your progress with encrypted ones.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> still looking for encryptet files - can only see encrypted servers, so far",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> It write 413 Request Entity Too Large when I try upload file",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Let me know if you need the whole deal or in parts please. We are standing by to the files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> If you can decrypt we like part 1 and 4",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can give us log or config files for test.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> All files we try upload write 413 Request Entity Too Large",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Make sure that the file size does not exceed 10mb. Our size limit is 10mb.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> files are only 4 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Try uploading them through any file sharing service. You can share the link.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> https://www.dropbox.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Wait a bit.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> decrypted.7z // 22.1 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please review. Ready to discuss payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The fourth option means we would have to delete your data, so this is just a basic guarantee of the second option. The price for the mentioned services is $225,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi. Sorry for the delay in respons, but things are really hectic here. And people want to do different things. Also stupid things. I hope we can manage, so we can all get on with what we do. The company is not in a good position right now so it is a lot to handle right now. I try my best.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for your response today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I really do want to find a solution, I promise, but some people here think it is the wrong way to go. It is hard convincing them. What should I tell them? Any help is highly appreciated. Thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi. I was unable to access the chat for some time. It worries me. Any problems?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi. Things are super difficult here. Some of the others seem to have abandoned all hope. We have lost a lot of customers in the last year and we have had to downsize, we have fired colleagues. We own unsellable buildings. People are disillusioned, but I go on pushing and fighting. Any help from you is appreciated.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hi. We've heard these stories many times. What do you offer?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Sorry to hear this. This is not everyday for us. This is our first time. I do all I can to find solutions, so we can move on. Honestly, it is not easy, both because of liquidity and ability. They don't understand the picture as clear as me. I try all I can to make them. I will get back to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for your offer asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> It sounds like you are  frustrated that we cannot be more concrete. I am myself super frustrated. Sometimes I feel my head is about to explode.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I do feel like we might be able to drive this in the right direction. I hear a lot of fears but you being professional as you are really helps them see there might be a way. I thank you for being patient with me, I need to keep the situation stable and I will do all I can.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Will we see a counter offer from you today?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, I really hope that I can give it to you before Thursday is over. There are movements in the right direction.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are going to close the deal this week in any case.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Look, I am doing everything I can but the company is in a very bad place. I am just trying to be honest with you and I am sorry that things are taking longer than both you and I would like. Trust me I just want everything to fall in place quickly, shake hands with you and get on with trying to save the rubbles of a company. I am working my ass off and this feels threatening to me when you write like this, I really need you not to do this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for your offer today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The last 24 hours have been absolutely rough. I almost didn\u2019t sleep last night, and when I finally fell asleep I got woken by my smallest child who was sick all over the place.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  I am sorry if this is annoying for you and I guess you must hear a lot from people that they are in a bad place, but I just had to get that off my chest. I must try to find the strength to keep everyone in line here so we can find a way with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  I am grateful for your patience, it is a very important and hard moment right now and they are hurting a lot because of a really bad year as well as other things. But I am on it and I will update you as soon as I can.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting for the update.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thanks. The company is in an crazy internal fight, people shout at each other, disagreeing on what to do. Some think we should try to find a solution with you (my team), some think that would be a dangerous mistake, potentially unlawfull and they want to try finding technical ways, and again some seem to have been giving up because they think the company was going down no matter what, due to really bad economy, closed projects and laid off people. They actually think this situation can be used for a restructuring process. No matter what I still believe that my team will get (some of) its way, but maybe in a very limited fashion. Perhaps a group of us will have to work out something on our own. These are the discussions. It is fucked up, but I don't quit. I will get back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Quick update again: I have done a little progress, although it is not easy, but moving now. I am trying to come up with funds to offer. How would we transfer the money to you? It should be USD, right?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Thank you for the update. We hope you will come to an agreement soon because we will not wait long. Anyway restructuring you mentioned will be more expensive that a deal with us. We can help with the price and we can accept $200,000 this week. It is up to you to decide what way to choose. Let us know your decision asap please. We need to move on.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I do hear that you want to move this on. I have been thinking to myself that you might also be in a situation where you need to show others progress. I think a lot about this and I am worried that I create expectations that I am not fully able to meet. At least not as quickly as I would like. I would rather be honest and realistic with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  I am very grateful for you giving the new amount but I fear it is a mountain we are too small and weak to climb.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  But do know this: I will do everything I can to try to get to a solution with you. I just need to be certain of what we can actually come up with for real. Also we need to discretely exchange our local currency into USD.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  Can I ask how a deal would work? Will you send us an invoice or how does it work with the payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We accept bitcoins. To gain bitcoins you have to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Oh, I understand. That is making it a whole lot more complicated, I have no experience with bit coins and that sort. Are you sure we can get more than usd 5000 each day on those places? It looks like it might take a lot of time to even get approved on their site.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> It has been very hard coming up with whatever little usd I might be able to offer you, also because I have had to keep the ghost of reconstruction away. I am almost ready to tell you what we can manage but I need to make sure that I look for even small additional amounts everywhere, as I fear that what we have is something that you will think is not very much.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So what do you have? Let us know asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes. Stand by. Thank you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  Ok so I know you may think I am not serious-minded and quite annoying. I fear that you will take this the wrong way and I pray you will not be too offended. I am really doing all that I can. I have USD 71500.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are not offended at all but your offer is not enough to close the deal unfortunately. We see you want a resolution a even made an offer that is not really bad. We want to come to an agreement with you and we suppose it is possible so we are ready to accept $170,000 and get this over with. I believe you and your colleagues are able to see that the agreement with us is more that possible. Let us know asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I am very grateful for this and that you are trying to do what you can to make this work and I so much wish that we had all of that so we could end this today. I can feel you are really trying to help. But I am afraid we don\u2019t have it. I apologise to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You have to give us a renewed offer if you want this to end positively.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I do. I understand you need me to improve. I am trying, but it is super hard.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We believe you will cope with it. $170,000 is a price we can agree on with you. Your colleagues should understand that. We are waiting for updates.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you, I understand. I am trying so hard to find alternatives. I know that you want this to move forward but we are deeply depleted and in big trouble already.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will wait to hear about alternative you will find asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Ok. Thank you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Again I thank you for awaiting me. I must say that right now I feel lost. And desperate. I am doing all I can to better at least a little bit. But even my smallest steps are so heavy. This is so overwhelmingly scary and painful.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hello again and sorry for my late response. Yet another absolutely awful night, I just want this nightmare to end.  But let me give you an update so you know what is going on here:  I am fighting on two fronts right now. Getting approved to purchase BTC in more than very small amounts is crazy hard because of regulations I think. I am looking at different options and will know more today, but it is complicated.  And as you know, the company is in a sorry state and resources are so limited.  Right now the idea of being able to come up with more that I can offer you seems very black. But I understand I need to show you progress and I am doing all I can.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We get lots of payments from [redacted]. Everything will be fine.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I really also hope everything will be fine. Im still working on how to exchange, it is not easy. I am right now actively trying to better what we can come up with in terms of amount but I cannot promise anything right now. I will get back to you as soon as I can.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hi. I am out of alternatives. Out of energy. Out of help. I have spent everything I have raising the amount for you. I really hope you will accept it. I have USD 93.300. Let us get this over with.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We appreciate your willingness to cooperate and you efforts of course but we are still far apart from each other. We will wait for better number on Monday and we hope to finish the deal after we receive your renewed offer.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I was fearing you would say that. I simply don\u2019t know how I can put myself in a situation where I can find more. I don\u2019t know how.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Do not give up. Organize a meeting with you colleagues and try to find additional funds for this deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I have invested all my energy in meetings. I have had so many. Big and small. And I have fought so hard to get to this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting for positive new from you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> But what do you want me to do to get more? I am really trying my very best. Finding a way to increase the amount is hell - let alone the nightmare it is to getting to the point where I can exchange it to bitcoin",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I don\u2019t want to let everybody down. I need your help but I am not a magician. I\u2019m sorry. I don\u2019t know how to make it work the way you want, I wish I did.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I need to go for a late night ride, clear my head, try and see if I can translate my desperation into something. Can I get in contact with you later tonight?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Sure. My leadership decided to reduce the price to assist you with the process and we are ready to accept $125,000. I think this amount you can cope with and we can end all this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I really appreciate that you help me like this, I really do. I pray that you and I can get things to a point where we will achieve what we have been working on. Thank you for making my cases with them.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  To try to make just some movement I went for a ride yesterday as you know.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I took a big chance and my neck is on the line for real here. I rode out to meet some very rough people to solve the bitcoins. I need this to work man. I pray to God I don\u2019t need to talk to them again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  But I have it in bitcoin for you now, we can end this now, I know it\u2019s not all you ask but I have it converted now. I have BTC 1,562 ready I have screenshot for you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> wallet.png // 96.5 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $100,000 and we have a deal here.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Wait",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I am desperately trying to get the last bit. What bitcoin-address should we send to?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> This one [redacted].",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I have been fighting so hard for this. Can we agree that 1) we transfer BTC 1.7235 to your wallet [redacted] and 2) you will then send us the decryptors and provide full help with decryption, and 3) you will then send us a security report, and 4) you promise not to publish and/or sell our data, and 5) you guarantee that you will not carry out any future attacks against us, and 6) we mutually agree to keep all of this a secret   Do you agree to this?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We agree. How soon are you able to transfer BTC 1.7235?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have an agreement, thank you. I have sent a test transfer to your wallet. Can I ask you to please confirm that you have received it and the amount I have sent. Thank you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 0.00125 BTC received. You can proceed with the rest.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I have now sent the rest. Can I ask you to please confirm when they are received and then send the decryptors? Thank you",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlockers.7z // 2.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\" \nunlocker.exe -s=\"C:\\paths.txt\" \nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line \nESXi commands \n1) chmod +x unlocker \n2) ./unlocker -p=\"/vmfs/volumes\"",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> So, It seem as if the decryptors are working (still in progress). When can we expect the Data removal and evidence that data has been removed? And the security report?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Yes. We'll provide everything soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Deletion.7z // 250 Bytes",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.\n2. Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.\n3. Install 2FA wherever possible.\n4. Use the latest versions of operating systems, as they are less vulnerable to attacks.\n5. Update all software versions.\n6. Use antivirus solutions and traffic monitoring tools.\n7. Create a jump host for your VPN. Use unique credentials on it that differ from domain one.\n8. Use backup software with cloud storage which supports a token key.\n9. Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. We wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for the fast delivery of the decryptors, og after that the delivery of the deletion log and the security report. I guess it is time to say goodbye and go our separate ways.Thanks for listening to my troubles and helping me get through this. I appreciate your professionalism.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You are welcome! Take care!",
+            "timestamp": ""
+        }
+    ]
+}
