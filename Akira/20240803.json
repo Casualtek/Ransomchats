@@ -1,0 +1,175 @@
+{
+    "chat_id": "20240803",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> Hello, we found your note",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.\n\nDo you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.7z // 346 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10mb size from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10mb size to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Directory of C:\\DATA\\[redacted].doc   Directory of C:\\DATA\\[redacted].xlsx  Directory of C:\\DATA\\[redacted].doc  Directory of C:\\DATA\\[redacted].xls  Directory of C:\\DATA\\[redacted].xlsx",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files (7).rar // 1.5 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please review the files. Do you want to test our tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can you please decrypt these files for us?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> files.rar // 5.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The archive is corrupted. Please reupload asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> files.rar // 5.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Same thing. Could you please upload the files one at a time?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for the files today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].ini.akira // 82.3 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].ocx.akira // 830 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].DAT.akira // 587 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].VD7.akira // 2.76 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].mdb.akira // 4.09 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> decrypted.7z // 4.99 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can review the files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for providing us with the decrypted files. How do we go about getting the rest of our files decrypted?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will give you our decryption tool after payment. You will recover your systems within 24 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> How much does the decryption tool cost?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 1) full decryption assistance $275,000;\n2) evidence of data removal $200,000;\n3) security report on vulnerabilities we found $35,000;\nGuarantees are included. The full deal is $400,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are interested in the decryption tool and can pay quickly, but we cannot offer what you are asking. What type of discount can you offer to help speed up this process?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Sure. $250,000 if you make payment within 48 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> $250,000 for the full deal, correct?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $250,000 is the discounted price for the tool. If you want the full deal and are ready to pay within 48 hours, we can accept $350,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can you please provide instructions for payment",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We accept bitcoins. To gain bitcoins you have to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. Here is our BTC wallet ID for payment: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> payment was just sent, can you please confirm",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlockers.7z // 2.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\" \nunlocker.exe -s=\"C:\\paths.txt\" \nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line \nESXi commands \n1) chmod +x unlocker \n2) ./unlocker -p=\"/vmfs/volumes\"",
+            "timestamp": ""
+        }
+    ]
+}
