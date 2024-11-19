@@ -1,0 +1,220 @@
+{
+    "chat_id": "20240723",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> hi",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hi",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hi",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> anybody out there?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hello?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.\n\nDo you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> nobody seems to be there, we will come back later",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Do you see our messages?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hi there, got another tor browser, now I see your messages",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes, I have a permission to negotiate on behalf of my organization",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait for details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hello?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I can't see any message after your \"Do you see our messages?\"",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I will come back to check new messages",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hello?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Can you see my message?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> now I see \"Can you see my message?\", but I had to log out and log in again",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> it seems that I don't get an update in the chat directly",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we will come back later as \"please wait\" seems to be a bit longer",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.rar // 2.48 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I got the list and will check which files we want to see as prove of possession",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Standing by.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we would like to see the following 3 files:",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> D:\\[redacted].log",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> D:\\[redacted].refs",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> D:\\[redacted].png",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Take your time, I will come back on monday",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> hi there, back again and ready to receive your files",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The files will be uploaded shortly.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> files.rar // 19.6 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please review. Give me encrypted files asap, if you want to test our decryption tool.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> got your files and check them, will come back with encrypted files asap",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are standing by to the files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].akira // 21.6 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> uploaded the one file to test the decryption tool",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted] // 21.1 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> ok, matches, so: what next?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> So, we've gone through your files to define your financial abilities. We've been looking through your bank statements, net income, cyber liability limits, financial audits - all the info that might help us to calculate our demand to you. We're willing to set a $350,000 price for ALL the services we offer:\n\n1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We decline and will not pay anything. This conversion is over.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> OK. Thank you for the information.",
+            "timestamp": ""
+        }
+    ]
+}
