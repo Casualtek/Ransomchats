@@ -1,0 +1,165 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "Bom dia",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "gostaria de saber oque precisa para liberar nossos arquivos",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Good morning, you need to make a payment and then we will send you a decoder to recover your data.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "pagamento ?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "valor ?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "0,5 BTC",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "kkkkkkkk",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "podem ficar com eles, vamos ter trabalho mas temos o backup antigo",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "How many infected PCs do you have?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "opa",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "1 computador",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "estou aqui ajudando o dono, vamos puxar o backup",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "estou aqui ajudando o dono, vamos puxar o backup Por\u00e9m se o valor for acessivel ele ta disposto aceitar",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "por\u00e9m esse valor pedido o faturamento do ano todo empresa com 2 funcion\u00e1rios s\u00f3",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "The price has to be acceptable to us too, not just your client. We are ready to negotiate.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "certo, fa\u00e7a a sua melhor proposta",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "se ele n\u00e3o aceitar \nvou excluir tudo aqui e n\u00e3o te incomodo mais, por\u00e9m o valor que vc pediu\n ficou fora de cogita\u00e7\u00e3o, ser\u00e1 s\u00f3 alguns dias perdidos porque tem o \nbackup",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "You don't have a backup.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "This chat is created just for this purpose, so that your client is aware of the dialog and price.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "We'll give you 25% off. So you need to transfer 0.375 BTC.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "tentei enviar print aqui mais n\u00e3\u00f5 consigo, temos o backup sim",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "por\u00e9m vai perde alguns dias de trabalho por isso o contato",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "por isso ele se interessou, mais esse valor ainda n\u00e3o vai querer",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ele tinha esse servidor que era usado para acesso remoto e um outro servidor d link que replicava semanalmente em outro lugar",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "vc invadiu apenas o servidor remoto",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "seu valor \u00e9 dolar \nest\u00e1 muito fora, se estudar a empresa vai ver que esta muito acima, o \nm\u00e1ximo que ele pagaria gira em torno de 0,015 BTC em torno de 5mil reais\n da nossa moeda",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Let him do his own backups.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ele j\u00e1 desistiu, \nagora eu tenho uma duvida pra vc como vc invadiu [redacted] ? minha \npergunta porque poderia lhe passar umas empresas aqui da cidade com essa\n situa\u00e7\u00e3\u00f5",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "What kind of situation are you referring to? their data is encrypted by trinity?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "isso mesmo, o dele foi feito Trinity",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you have to register again with their files. so we can talk about it.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Download a new file first (another client) and start a new chat with us. Then we will discuss the terms.",
+            "timestamp": ""
+        }
+    ]
+}
