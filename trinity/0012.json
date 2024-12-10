@@ -1,0 +1,80 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "Hello",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I was the victim of \n your virus , I wanted to know if you have knowledge of how to decrypt \nit! If you can help, I would be grateful. The files are all sql based",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "how many computers you want to decrypt?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "only 1 server",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "price 0.5 bitcoin",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "after payment you will receive the decryption program",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "host.docker.internal\n\t[redacted]\tC :\\930 D :\\1.81\t[redacted]... SYNOLOGYNAS1\t\n[redacted]\t3.57Tb\t[redacted]...",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Can you provide me a Chat link where I can write?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "And ban this one?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you can only chat with your ID. only here",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "fuck this",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we don't work with middlemen write so that the client can see",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "middlemen fuck you",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        }
+    ]
+}
