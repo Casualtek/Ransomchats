@@ -1,0 +1,855 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "Hello, We have a ransomware infection. How do I \u3150 it?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We have a ransomware infection. What should I do?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you want to decrypt how many computers?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Three recovery PCs have been identified.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We need three recoveries.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "recovery price  0.5 \nbitcoin for 1 PC, 3pc=1.5 bitcoin after payment you will receive the \ndecryption program which will automatically decrypt all files bitcoin \nwallet [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "when can I expect payment from you?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "The annual sales are\n about 600 million won and the net profit is about 30 million won.  The \namount you mentioned is the amount we have to collect over five years. \nWe could go bankrupt.  We want to negotiate. Please save our company.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we can offer a price for 3pc 1 bitcoin if you pay today",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "In terms of dollars, $4500,000 is the profit and $25,000 is the net profit.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We don't have any \nexpenses. We only have $10,000 in our bank account. It's a [redacted] \nproduction company, but there's a lot of outstanding money...",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "In terms of dollars,\n $450,000 is the profit and $25,000 is the net profit.  We don't have \nany expenses. We only have $10,000 in our bank account. It's a [redacted] \nproduction company, but there's a lot of outstanding money...",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "I've spoken to the management we can accept $15,000 for 1 PC. if you pay at once",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Please lower it a little bit. We need to get a loan and it's tomorrow weekend. Please.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "$39,000 for 3 PCs final offer we lowered it a little bit like you asked. It's $13,000 for 1 PC.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Thank you so much. \nBut we have to get loans as I told you. One can be possible, but we need\n a lot of time to recover. Can you spend time?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we are waiting for \npayment, 0.61 bitcoin to the above wallet. Do not delay the payment \nprocess as we have given you a big discount my boss can cancel the \ncontract and discount if you delay.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "bitcoin wallet [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "0.61 bitcoin",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "As I said, I don't \nhave money right now. And it's the weekend... I can't even go to the \nbank. Finally, give me a discount and plenty of time.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "All right, we're waiting. but don't drag it out.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "when can I expect a bitcoin transfer from you?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We are sending you 2 ransomware infected files. Request you to do test recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I'm sorry, but I'd like to recover the two files contained in the url above.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "when will you pay after the test?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you'll pay right after the test?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we're waiting to hear back from you and do a test",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "It's difficult because it's the weekend. I need a day or two.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://prnt.sc/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://prnt.sc/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we're waiting for payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Data recovery has \nbeen validated.  I'd like to ask you a favor. I have 13,000 dollars. So I\n would like to restore just one server first this weekend. Can you \nrecover to 0.018 btc first  And two days later, I would like to apply \nfor a loan from the bank on Monday and restore the other two as well.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we negotiated \n$39,000 and gave you a discount. fulfill the terms of the agreement you \ncan wire us $13,000. to lock in the price and the discount today. While \nyou take the credit, we'll prepare the decryptors. Don't change the \nterms of the agreement.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "or we'll refund the original price 0.5 bitcoin per 1 pc.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we keep our word and we ask you to keep yours",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "It's a little hard to understand. If I send $13,000, will you send me 1 recovery key first?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if you send $13,000 \n we'll start preparing three decryptors for you. but we'll only ship \nthem to you after you've paid the full $39,000. if you want to restore 1\n pc, the price will be 0.5 bitcoin please respect the original \nagreements",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "show us your intent send $13,000 today",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Please wait a moment. I'm borrowing money now.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "0.61 right?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "now39000$  0.62",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "bitcoin fell",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Oh... We are preparing 0.61. Please, 0.61 btc.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok pay",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Thank you, I think it will take about an hour or two. How long does it take for us to pay the btc and receive the recovery tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "please check money 0.61BTC",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "TxID: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "TxID: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Sorry TxID: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "send us one file from each of the three computers you want to recover.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "here file",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Please stand by. the boss will come and we'll send you three decoders.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok i'm waiting",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "30-40 min",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok Thanks",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "before decryption Make copies of important files just in case password :123  run as administrator",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if you want to decrypt all other files we are ready to make a very big discount. all other PCs for $11,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Can you tell me how to use it?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "before decryption Make copies of important files just in case",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "unzip",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "password :123",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "run as administrator",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "the program decrypts all files automatically",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "The file has been recovered, but it's all broken. I'd like to get the recovery tool again.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if some files have not been decrypted send us some files",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Got into trouble. Program keeps turning off during early morning recovery... How do I fix the problem?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "program shuts down with an error? what do you mean?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I'm not sure. Only cd drive comes out of the black window and the window disappears",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "are you running as an administrator? Did the files decrypt?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I decrypt a few and the program just turns off. After that, it just keeps turning off.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "try changing \ncompatibility mode right-click on the program properties compatibility \nmode and check the box compatibility with windows 7/8",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://www.sendspace.com/file/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I am sending you the data again from 3 servers. Please send it to the recovery key that has been confirmed to operate normally.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "\u0425\u043e\u0440\u043e\u0448\u043e \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "okay Please stand by.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we had no trouble deciphering it. try copying the files to an external drive and run it on another computer.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://file.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I really appreciate the support. Thank you so much. I'll try again.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "20 to 30 GB of database corruption... is there a fix?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "didn't decrypt the files?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "1. It's been restored, but it's damaged. 2. Some materials are not recovered.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "how big is the file?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://dropmefiles.com/  download here",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "upload the corrupted file here and upload 1 file that was not recovered",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "the .trinitylock is gone?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I'll let you know \nour problem.  1. Some files cannot be recovered  2. Recovered, but the \nfile does not open  We don't know what to do.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I'm sending you 5gb data. Please help.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "please help me",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "waiting please",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok thanks!!!!!",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "there's a different encryption key you didn't pay for this ID.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We sent the data from the same computer. Where can I check the key you are talking about?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We paid for 3 keys, \nbut we only received 1 recovery key. Shouldn't you give us 2 more keys? \n  It's only 10% recovery... We can go out of business. Please help",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "so there were network drives This is a different key. Let's decrypt all your computers. if you pay the $13,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "the first time you sent the files [redacted] [redacted] [redacted] [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "4 ID we made a decrypter on them.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "now you've sent files with the ID [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "all your ID \n[redacted] [redacted] [redacted] \n[redacted] [redacted] [redacted] \n[redacted] [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you can see the file IDs through the HEX editor, at the end of each file",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you have to pay extra for other IDs $13,000 and we'll decrypt all your IDs. same wallet",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We don't know how to look at it. Can I test this? And please let me know your ID for this.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "[redacted].zip.trinitylock [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "[redacted]_LIST_202403.zip.trinitylock [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you'll have to pay extra for another ID we'll make a decrypter",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Is it the same ID as the 5g we sent you?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "[redacted]\n For this, I would like to restore only one. Can you give me a quarter \nof a dollar And I'd like to test the zip file.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "13000$ 1 ID",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Is it the same ID as the 5g we sent you?  YES [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "1id? Aren't you \ngoing to give me all the rest of the keys? We hope to lower the cost \nfurther. Please, I really don't have any money...",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "13000$ all ID",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "0.22 btc",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We really don't have any money, so we have to save it. I can get it tomorrow. Please give me a little discount one more time.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "13000$ for all id",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We are borrowing money again. But $13000 is too much. Is $8000 possible? Please",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "price 13000$",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "How many coins is 13000 dollars?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "0.21",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "please check money 0.21BTC",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Please stand by.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "send 2 files from each PC you want to recover",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://dropmefiles.com/[redacted] One is the file I sent you",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Please stand by.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "here all file",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "How long will it take?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "waiting boss",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Sorry for delay",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "password:123",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "https://dropmefiles.com/[redacted] We can't even restore it. Please tell me how to do this.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "min",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Please stand by.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "How long will it take?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "waiting boss",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We'll wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Sorry for delay",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Not yet? How much longer do I have to wait... Please help.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Sorry for delay waiting please",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "please help me",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I can't recover it, what should I do?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Sorry for delay waiting please",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "how many files didn't decrypt?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "how many files didn't decrypt?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "90% Unrecoverable",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "90 percent of only 1 ID? Did the other IDs decrypt normally?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "",
+            "timestamp": ""
+        }
+    ]
+}
