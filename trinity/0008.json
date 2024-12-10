@@ -1,0 +1,70 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "Hi",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Hi",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I need decryption keys please",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "how many computers do you want to decrypt?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "1",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we've encrypted your entire network decryption price 1 pc and keeping your data private will cost 0.5 bitcoin ($30,000).",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "How can we test if it works? How is it decrypted? Can you test with any file?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "yes send us one file no more than 2 mb. not a backup or database and we'll do a test. upload the file here https://www.file.io/",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if you want to decrypt all the PCs price 1.5 bitcoin",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if you refuse to pay, we will post your data and bases on our leak site",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "bitcoin wallet [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "after payment you will receive a program that automatically decrypts all files",
+            "timestamp": ""
+        }
+    ]
+}
