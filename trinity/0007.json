@@ -1,0 +1,185 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "what do we have to do to acces our files ?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Please say your network domain",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "i sent you email to",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Yes I see",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "what info do you need ?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "[redacted] ?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "idd",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "your network?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "[redacted] is correct",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Price for decrypt 70000$ in bitcoin amount",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok, i'm talking with management",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "is there any garantee tht we can decrypt all files ?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "i see the VHDX files are only 3GB and the were much bigger ..",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "We have been working\n for several years and all our clients have received their key. You can \nsend us up to 10 files for the test decrypt, but these files should not \ncontain important information",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "ok, and my VHD files will decrypt as wel ? they were +1TB in size and now only 3GB",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Yes",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Inside the hard disk these files have normal size",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "In order to proceed,\n my manager requires a due dilligence step that protects us from \nliability, and that is to obtain proof that you have our sensitive files\n before we can consider payment. For that reason, can you provide the \ncleartext copy of the \"[redacted]_V10_13_8_GP.ZIP\" file located \nin the \"C:\\Users\\Administrator\\Downloads\" folder on one of the encrypted\n servers.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "we don't loan out valuable files for testing for the test send 1-2 files (1-5 mb) not backup and database",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "If you don't pay, \nwe'll put your data on the leak sites.  \nhttps://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion/\ncompanies/2148689972 ,and similar sites",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "In order to \nnegotiate a resolution, we would require proof of data posession, so we \nhave asked you for a file that does not contain sensitive information \n(you can verify that in the file itself). We have so far not received \nany evidence of you posessing cleartext copies of our data. Such \nevidence allows me to talk to my manager, who will eventually decide on \nthe best course of action, as we have multiple alternatives.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "We can't provide this file to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Since we cannot show\n our manager any proof of stolen data, we cannot argue such a high \nransom demand. We do have backups which are few weeks old, but I am \nconvinced that our manager would pay a smaller fee for decryption key in\n order to have the latest data in a much faster way. They are willing to\n offer you $10.000 for the decryption key.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "We have already told\n you the price. The only way you can reduce the final price is to pay \ntoday and then we can think about a discount.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "but 10000$ just a joke for us, you should understand it. We can make discount 10.000$ if you pay today",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I will have to take \nthat offer to my manager. In the meantime, how can you provide proof of \nhaving a working decryption key? Can we provide you with an encrypted \nfile and you decrypt it?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "I will have to take \nthat offer to my manager. In the meantime, how can you provide proof of \nhaving a working decryption key? Can we provide you with an encrypted \nfile and you decrypt it?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Yes, send file here https://dropmefiles.com/",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Yes, send file here https://dropmefiles.com/",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Hereby https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "https://dropmefiles.com/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "pass 123",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "You don't use our discount offer. So the price is 70.000$ again. Tomorrow it will rise again.",
+            "timestamp": ""
+        }
+    ]
+}
