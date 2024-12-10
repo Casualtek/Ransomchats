@@ -1,0 +1,60 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "Hi. 1 pc is infected with ransomware. What should I do?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "decrypting your \nfiles will cost  $30,000 if you pay quickly, negotiable. after payment \nyou will receive a decryption program that will automatically decrypt \nyour files.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "Hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "hello",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "decrypting your \nfiles will cost $30,000 if you pay quickly, negotiable. after payment \nyou will receive a decryption program that will automatically decrypt \nyour files.",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "you will pay?",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "We think $1000. Is it possible?",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "30 000$",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "if you pay 24 hour!price 20 000$",
+            "timestamp": ""
+        }
+    ]
+}
