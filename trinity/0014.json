@@ -1,0 +1,35 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "victim",
+            "content": "",
+            "timestamp": ""
+        },
+        {
+            "party": "victim",
+            "content": "what payment you accept for decryption",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Hi",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "Price for decrypt 0.25 btc",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "We can decrypt 1 file smaller than 1 mb, we do not decrypt backups and archives for free.",
+            "timestamp": ""
+        },
+        {
+            "party": "trinity",
+            "content": "?",
+            "timestamp": ""
+        }
+    ]
+}
