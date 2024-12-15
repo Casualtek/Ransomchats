@@ -20,6 +20,8 @@ Anastasia Sentsova, from Analyst1, also used LockBit's chats in her research **[
 
 John Hammond, from Huntress Labs, made a **[full video](https://www.youtube.com/watch?v=Yj28OEeDDzk)** on ransomware negotiations using the chats in this repository.
 
+Mikko Hypponen, CEO of WithSecure, mentioned this project during his **[keynote](https://www.youtube.com/watch?v=Ap8gWBNQ24g)** at RSA Conference 2024.
+
 You can also experience ransomware negotiation with a custom made ChatGPT, **[trained on this dataset by Ellis Stannard](https://ellisstannard.medium.com/ransomchatgpt-ransomware-negotiation-simulator-ee8cab041b53)**.
 
 <a href="https://www.buymeacoffee.com/casualtek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
