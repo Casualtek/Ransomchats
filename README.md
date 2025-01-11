@@ -20,7 +20,7 @@ Thanks as well **Calvin So**'s for his stylometric analysis **[here](https://med
 
 **John Hammond**, from Huntress Labs, made a **[full video](https://www.youtube.com/watch?v=Yj28OEeDDzk)** on ransomware negotiations using the chats in this repository.
 
-**Mikko Hypponen**, CEO of WithSecure, mentioned this project during his **[keynote](https://www.youtube.com/watch?v=Ap8gWBNQ24g)** at RSA Conference 2024.
+**Mikko Hypponen**, CRO of WithSecure, mentioned this project during his **[keynote](https://www.youtube.com/watch?v=Ap8gWBNQ24g)** at RSA Conference 2024.
 
 You can also experience ransomware negotiation with a custom made ChatGPT, **[trained on this dataset by Ellis Stannard](https://ellisstannard.medium.com/ransomchatgpt-ransomware-negotiation-simulator-ee8cab041b53)**. **[Antonio Brandao](https://www.linkedin.com/feed/update/urn:li:activity:7282123358224195586/)** also developed a **[Ransomware negotiations simulator](https://github.com/toniall/ransomchat)**.
 
