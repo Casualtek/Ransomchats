@@ -22,6 +22,8 @@ Thanks as well **Calvin So**'s for his stylometric analysis **[here](https://med
 
 **Mikko Hypponen**, CRO of WithSecure, mentioned this project during his **[keynote](https://www.youtube.com/watch?v=Ap8gWBNQ24g)** at RSA Conference 2024.
 
+Also take a look at **Anastasia Sentsova** and **Jon DiMaggio**'s **[analysis](https://analyst1.com/ransomware-extortion-activity-in-2024-a-year-in-review/)** of some specifics of negotiations with Akira.
+
 You can also experience ransomware negotiation with a custom made ChatGPT, **[trained on this dataset by Ellis Stannard](https://ellisstannard.medium.com/ransomchatgpt-ransomware-negotiation-simulator-ee8cab041b53)**. **[Antonio Brandao](https://www.linkedin.com/feed/update/urn:li:activity:7282123358224195586/)** also developed a **[Ransomware negotiations simulator](https://github.com/toniall/ransomchat)**.
 
 <a href="https://www.buymeacoffee.com/casualtek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
