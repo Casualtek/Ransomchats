@@ -1,0 +1,55 @@
+{
+    "chat_id": "FDA8141B6DD392E3",
+    "messages": [
+        {
+            "timestamp": "2024-11-20T02:18:01.897517Z",
+            "content": "Hello. You've been attacked by DragonForce as you can see. We've researched information about your company and decided to set a price of $7,000,000. Otherwise, your data will be published in our blog.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-20T16:46:45.392949Z",
+            "content": "Can you provide the list of files you have taken? Also, what type of discounts do you offer?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-20T20:29:17.989461Z",
+            "content": "list.zip filesize:2780416",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-20T20:31:20.346305Z",
+            "content": "If you pay quickly, we can provide a 10% discount.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-25T15:19:12.786536Z",
+            "content": "We need an update ASAP.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-04T19:12:19.047574Z",
+            "content": "Hello, sorry for the delay in responding. It was Thanksgiving holiday last week so a lot of people were out. Can you provide the 3 files to prove you have them? These files: Old SPF Records.txt, 01 19 23 KNP POSTING SHEET.xlsm, and Zelis Payment URL.txt.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-04T19:41:47.453304Z",
+            "content": "Sure.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-04T19:42:04.731879Z",
+            "content": "ashvilleeyes_test.zip filesize:58126",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-05T14:05:43.812681Z",
+            "content": "Thanks, we will review and be back in touch.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-05T18:18:47.365378Z",
+            "content": "Keep in mind that your decryptor will be automatically deleted in 3 days. We won't extend the timer if we don't come to an agreement in these 3 days. Hurry up, please.",
+            "party": "DragonForce"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "chat_id": "BD004D632D87DBA0",
+    "messages": [
+        {
+            "timestamp": "2025-01-22T20:05:51.321439Z",
+            "content": "hello?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-22T21:30:08.489146Z",
+            "content": "Hello. As you can see, your network was encrypted by DragonForce. Also we downloaded your data, so if you don't pay, we will publish it and you will have problems. After payment you will receive decryption software and proof that we've deleted your files. Don't waste your time, in 28 days decryptor will be automatically deleted.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-23T19:57:20.438046Z",
+            "content": "you took data? for what?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-23T19:57:52.378533Z",
+            "content": "how much do we have to pay?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-24T00:01:24.766069Z",
+            "content": "15 BTC. Data is needed for better negotiations. If you don't pay we will publish it so you will have big problems.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-24T19:58:52.541737Z",
+            "content": "interwebs say you can tell us what files were taken",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-27T21:03:38.406842Z",
+            "content": "ok, thank you",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-27T21:05:28.955672Z",
+            "content": "it says, file not found?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-28T19:41:32.154822Z",
+            "content": "Try again, on our side it work.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-29T00:47:20.098922Z",
+            "content": "The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-29T20:52:57.760489Z",
+            "content": "got it",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-29T21:35:02.623698Z",
+            "content": "is this listing represent all the data that was taken?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-30T00:57:58.10373Z",
+            "content": "Yes.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-31T21:34:51.65209Z",
+            "content": "the money you want, is a really large number for us. can anything be done about this?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-31T22:12:43.978205Z",
+            "content": "If you pay quickly, we can provide a 10% discount.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-04T10:14:53.541054Z",
+            "content": "http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog?post_uuid=[redacted]]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-04T16:36:04.915551Z",
+            "content": "What is this link for?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-02-04T16:39:59.338842Z",
+            "content": "This is a private (hidden) report of a network breach in your company.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-04T16:40:34.039585Z",
+            "content": "To incentivize cooperation.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-04T20:24:26.202847Z",
+            "content": "it says 388 GB of data?? what is that??",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-02-04T20:29:23.559957Z",
+            "content": "The data we downloaded from your network, we gave you a list of files earlier.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-04T20:36:42.857329Z",
+            "content": "that represents 388 GB??",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-02-04T20:55:52.803959Z",
+            "content": "Yes.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-02-13T14:46:39.576792Z",
+            "content": "you put our name on the blog? i thought we had more time?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-02-13T15:19:39.883836Z",
+            "content": "We gave you the link earlier, by clicking on it there was a timer when the post would become visible. Now you have 6 days to make the payment.",
+            "party": "DragonForce"
+        }
+    ]
+}

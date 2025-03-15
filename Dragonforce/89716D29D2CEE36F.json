@@ -1,0 +1,120 @@
+{
+    "chat_id": "89716D29D2CEE36F",
+    "messages": [
+        {
+            "timestamp": "2025-01-25T17:38:28.964451Z",
+            "content": "Hello, I am reaching out regarding our encryption issue",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T17:39:01.481152Z",
+            "content": "Need to know what the next steps are",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T17:41:54.644682Z",
+            "content": "Hello, please wait, we are exploring your financial possibilities, and then we will tell you the amount to pay.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T18:45:12.332003Z",
+            "content": "NASltd_list_of_files.zip filesize:2496907",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T18:46:03.774012Z",
+            "content": "is a list of files we stole from your network.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T18:52:31.028698Z",
+            "content": "For decrypting and deleting the stolen data, including a commitment that we will not post or announce your hack on our blog price 5 bitcoins. You can do a test decrypt (if you haven't already). You can also examine the files we stole, choose a few random files to make sure we are telling the truth, we will provide these random files to you.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T18:54:37.738495Z",
+            "content": "The file list you sent when downloaded comes as attachment.htm not [redacted].zip. How can I get the zip file?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T18:59:52.753191Z",
+            "content": "http://temp.sh/drpwd/[redacted].zip",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:06:47.211473Z",
+            "content": "Got the list but it only contains data from one of my servers. How about the other data?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:08:25.016840Z",
+            "content": "The rest of the data can be recovered. I sent the data that was stolen. Encrypted files can all be recovered.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:10:37.535688Z",
+            "content": "We provide a program that automatically decrypts the data on all servers.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:10:48.284323Z",
+            "content": "OK",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:13:41.750406Z",
+            "content": "But I think there is a mistake in your price. Looks like 5 bitcoins is about 500K USD. I don't make that much in two years combined! Not to mention, I live in a place called Altadena in California where we had major fires and I lost my house with everything in it with no insurance. This would be impossible to pay!",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:18:15.900193Z",
+            "content": "No there was no mistake. But we're open to talking. We can discount it to a reasonable amount. I think losing your reputation altogether would be worse.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:33:35.937803Z",
+            "content": "I spoke to two of my friends who had the same problem and he said when they paid, the decryptor could not decrypt large files with several gigabytes. The small files like Word, Excel worked ok but they lost all of their large files. How can you guarantee that it will work?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:40:15.360764Z",
+            "content": "We're not newbies at this. We don't have the problems your friends had.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:40:27.400121Z",
+            "content": "We're risking our name here. DragonForce, we don't make mistakes like that.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:42:17.437685Z",
+            "content": "Can you prove it? Can you send me a decryptor that can decrypt 1 large file to see if it will work?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:45:18.463878Z",
+            "content": "If your friends did have such instances, you can ask what faction they belonged to. It certainly wasn't us (DragonForce). No, of course not. We wouldn't do that. Large files are often the most key and important. It's stupid to do a test decryption on that. You should understand that. You did a test decryption - it worked. That's the first point that shows we're not cheating. The second point is that you can pick files from a list of 2-3 random files that we can give you! That all proves that we're serious and not cheating.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:53:23.933808Z",
+            "content": "I also know that you would say anything to get paid and it's hard for me to believe anything you say. I also lost my house and everything I own two weeks ago. I don't have a lot of money since I have to rebuild my life again. I will have to think about what part of my life I need to fix first and how much the stuff you stole is worth to me if anything. I will get back to you once I think it over.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:55:04.465346Z",
+            "content": "It's not just about those files. It's about the company being perceived as untrustworthy and compromised. Think about it and come back. I'll see you later.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-01-25T19:55:49.139384Z",
+            "content": "I will get back to you.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-01-25T19:56:27.594846Z",
+            "content": "Pay the ransom and don't mess with us, otherwise we'll just publish the files. You still have time.",
+            "party": "DragonForce"
+        }
+    ]
+}
