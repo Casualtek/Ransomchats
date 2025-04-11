@@ -1,0 +1,140 @@
+{
+    "chat_id": "20250411",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hello, we want to resolve this, but we have no experience of this sort of event and do not know how this works. Our management want proof you can fix our data and are still reviewing the file list you to understand what files you took. Does the list show all the files you took?",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "This is an exhaustive list.\n        You can send us some files and we will decrypt it for free.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, please can you provide the following files as proof you have our data:\n\n                   File 1 - [1.2M]  [Redacted]_files/01.0 - [Redacted].xlsx\nFile 2 - [ 15M]  [Redacted]_files/[Redacted].pptx\nFile 3 - [100K]  [Redacted]_files/[Redacted].html\nFile 4 - [2.4M] [Redacted]_files/[Redacted].jpg\nFile 5 -[2.6M] [Redacted]_files/[Redacted].JPG",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "here it is",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing the requested files. We will get our team to verify them. We will also get our IT to obtain some suitable files and come back to you as soon as we can for a test of your decryption. This may take us some time due to the weekend, therefore we ask that you be patient and stop the timer while work with you to sort this.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Your time is up. This is last chance  to get a deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hello, \n        We want to resolve this with you, but your price is very high. Please can you give us a better price. \n        We have attached a small file for a test of your decryption capability, but our management need assurance that you can restore all our data including larger files. We have a file that is 16GB in size. How do we get proof you can decrypt this?",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "The file, you've attached is a binary file. We decrypted it. To check it, you can open it with any text editor.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for providing the decrypted file. We will get IT to verify it. How do we share a larger file with you? We will pass your discount to our management for their consideration and will come back to you",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Upload it to any public share.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Our management said your price is still very high and the limited time for discount is not achievable for us – Our approvals process takes time and it would take us longer than 2 days to get stakeholders together for approvals and obtain bitcoin. We want to reach a deal with you but we need better discount with time to get the necessary approvals to make a payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "How much time do you need? Give me the date.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "It would likely take us 3 - 4 business days to get stakeholder approvals for a payment and gathering the funds to obtain bitcoin, so towards the latter part of next week. Please give us a significant discount so we can reach a deal and resolve this quickly for both our benefit.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "We analized the company's revenue, possible reputational losses, files we have and encrypted data. The company provides IT security services, and belong to the most influential family in the world. It's great headline for newspapers. And if that's the case, you will lose most of you customers. Besides, we have huge value of you and your customers data.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "OK, we will pass your reply to our management. They will need to meet with stakeholders after the weekend to discuss this.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Ok, when will the response be ready?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Management have discussed the situation and they want to reach a deal with you, but they could not agree to the very large amount you are asking due to the cost our business has incurred already because of your attack. They said that they can offer to pay you * Bitcoin to resolve this quickly. Please accept this so we can reach a deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "We have spent a lot of time and resources so we can't acept such a small price.\n        If the deal goes through quikly, we can settle for *Btc. Let's get a deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for giving some further discount. We will pass your price to our management for their consideration and come back to you.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Let's get a deal this week",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Our management said they cannot reach the high amount you are asking, but they want to come to an agreement with you and would be able to pay * Bitcoin to resolve this soon. We ask you to please accept this amount so we can reach a deal.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Ok. Let's make a deal. We agree to *Btc.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for the reply. We have passed your offer to our management but they will need to meet with stakeholders to obtain approval for extra funds. We will come back to you after the weekend.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Monday is here, let's get a deal!",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Unfortunately, our managment gave us 2 days. Let's make a deal. We can no longer waste time.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Guys, it's last chance. Let's get a deal! We can't wait longer.",
+            "timestamp": ""
+        },
+        {
+            "party": "RSW",
+            "content": "Ok, we start the publishing process with a mailing to your customers, partners and media. Bye!",
+            "timestamp": ""
+        }
+    ]
+}
