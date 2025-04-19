@@ -1,722 +1,725 @@
-[
-    {
-        "timestamp": "Monday, 29 July 2024 15:37:56",
-        "party": "victim",
-        "message": "Hi"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 15:40:39",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 15:41:22",
-        "party": "fog",
-        "message": "I will give you details in a minute"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 15:47:24",
-        "party": "fog",
-        "message": "[provides a plain TXT files list]\nthis is what has been taken from your network"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 16:34:00",
-        "party": "victim",
-        "message": "What are the instruction to restore our data?"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 17:21:31",
-        "party": "victim",
-        "message": "Hi are you there?"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 17:53:48",
-        "party": "fog",
-        "message": "I will give you instructions after payment"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 18:11:40",
-        "party": "victim",
-        "message": "What payment?"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 18:15:24",
-        "party": "fog",
-        "message": "If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. I will give you our demand soon."
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 19:59:48",
-        "party": "victim",
-        "message": "Any news?"
-    },
-    {
-        "timestamp": "Monday, 29 July 2024 20:07:44",
-        "party": "fog",
-        "message": "If you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. To test our tool, send me 3 random encrypted files and we will decrypt them for free. Our demand is $200,000."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 09:53:26",
-        "party": "victim",
-        "message": "Hello, we don't know how to make the payment or how to facilitate it for you. On the other hand, we are a very small company and cannot afford the payment you are mentioning. What options do we have? And about the three files what is the procedure?"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 10:36:45",
-        "party": "fog",
-        "message": "As for the files, if you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. We can provide you with a $20,000 discount if you pay us this week. The price is fair for your company."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 13:40:45",
-        "party": "victim",
-        "message": "We are willing to cooperate, but the amount requested is far beyond our capabilities as a small company. We can offer a smaller sum and pay it as soon as possible. Additionally, we need to clearly understand the payment process and the guarantees we have to securely recover our data. Please provide detailed instructions on how to proceed and assure us that we will receive all our data without further issues"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 14:16:50",
-        "party": "fog",
-        "message": "I can't give you an additional discount until I see your number. The price can be increased at any second if you keep haggling like this."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 14:20:59",
-        "party": "victim",
-        "message": "What number do you mean?"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 14:28:00",
-        "party": "fog",
-        "message": "The number you are ready to pay at the moment."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 14:59:21",
-        "party": "victim",
-        "message": "We can offer $120,000 and want to be transparent, avoiding a prolonged negotiation. Additionally, we need to understand how to make the payment. We will provide several files for you to decrypt to verify your capabilities."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 15:16:50",
-        "party": "fog",
-        "message": "$120,000 is not a bad offer but I can't accept this. I also want to avoid a prolonged negotiation, so our final price is $150,000. You have 2 days to gather the rest $30k and we will be done with it. I will give you our wallet for payment later."
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 16:03:24",
-        "party": "victim",
-        "message": "We are agreeable to proceeding with the following conditions: First, we will provide several encrypted files for you to decrypt as proof of your decryption capabilities. Following this, we will make an initial payment of $120,000 in exchange for the instructions and necessary tools to decrypt the rest of our systems. Once we have successfully recovered our data, we will make a final payment of $30,000. In return, we expect a report detailing how the attack was carried out and confirmation that all our data has been removed from your possession and any related systems"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 16:04:57",
-        "party": "victim",
-        "message": "[provides a zip archive of encrypted files]"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 16:35:49",
-        "party": "fog",
-        "message": "tell is there the file named \"auth.log.fog.savepoint\" somewhere near the file \"auth.log.fog\"?"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 17:04:09",
-        "party": "victim",
-        "message": "We couldn't find the file you mentioned, could you tell us where this file should be located and what it contains?"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 17:39:30",
-        "party": "fog",
-        "message": "it should be in the same directory with the file auth.log.fog that your gave me"
-    },
-    {
-        "timestamp": "Tuesday, 30 July 2024 17:40:44",
-        "party": "victim",
-        "message": "Isn't in this directory"
-    },
-    {
-        "timestamp": "Admin 19:02:03",
-        "party": "fog",
-        "message": "[provides 2 decrypted files]\nI will give you everything right away when I received the full 150k payment. Let's resolve the issue quickly."
-    },
-    {
-        "timestamp": "Admin 19:03:52",
-        "party": "fog",
-        "message": "[redacted] this is id for payment"
-    },
-    {
-        "timestamp": "Admin 19:09:35",
-        "party": "victim",
-        "message": "We understand your position, but we must adhere to our agreed-upon model. We need to follow the steps we outlined previously: first providing a portion of the payment, receiving the necessary decryption instructions, and then completing the full payment upon confirmation. Additionally, specify which cryptocurrency it is for the payment."
-    },
-    {
-        "timestamp": "Admin 19:27:14",
-        "party": "fog",
-        "message": "We work with bitcoins. We cannot violate our policy, which means we cannot accept fractional payments."
-    },
-    {
-        "timestamp": "Admin 20:32:49",
-        "party": "victim",
-        "message": "Once the payment is made, how does the decryption process work? What guarantees do we have that all our data will be fully recovered and secured? We also want to understand what you will provide to us after the payment. Please understand that we are concerned due to our lack of experience with situations like this and need reassurance that everything will be resolved properly."
-    },
-    {
-        "timestamp": "Admin 20:48:18",
-        "party": "fog",
-        "message": "Once the payment is made, you will get the .exe files that you will need to run on your systems (win or esxi) to decrypt your files. We guarantee that you will be able to recover all the encrypted data. We will give you a deletion log file which means the files we stole .were removed from our source."
-    },
-    {
-        "timestamp": "Admin 21:08:16",
-        "party": "victim",
-        "message": "We need to finalize the financial and legal aspects on our end before proceeding with the payment. Once everything is ready and the payment is made, we will notify you immediately."
-    },
-    {
-        "timestamp": "Admin 21:14:23",
-        "party": "fog",
-        "message": "Standing by, thanks."
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 08:08:12",
-        "party": "victim",
-        "message": "We are currently reviewing the payment method, and since we are not familiar with this process, we are unsure how to proceed. Could you explain how this is typically done and which services are usually used? We want to ensure that everything is handled correctly."
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 09:34:36",
-        "party": "fog",
-        "message": "see the link https://www.csoonline.com/article/570047/how-to-buy-bitcoin-for-ransomware-payment-if-you-must.html"
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 09:54:27",
-        "party": "victim",
-        "message": "Thanks ,we are checking, but the registration process and validation will take some time."
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 10:38:24",
-        "party": "fog",
-        "message": "sure"
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 14:10:07",
-        "party": "fog",
-        "message": "How's your progress with that?"
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 14:39:30",
-        "party": "victim",
-        "message": "The cryptocurrency purchase platform needs to verify the user, and this won't be completed until tomorrow. The process is turning out to be quite long and complex for us."
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 14:52:24",
-        "party": "fog",
-        "message": "tell me when you have updates"
-    },
-    {
-        "timestamp": "Wednesday, 31 July 2024 15:21:43",
-        "party": "victim",
-        "message": "Sure"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 09:37:55",
-        "party": "victim",
-        "message": "We have conducted an initial test to verify that the process we're following is correct. Could you confirm that you have received the first transfer of $5? Meanwhile, we are in the process of acquiring the total amount of cryptocurrency needed for the full payment, but it is taking some time."
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 10:00:09",
-        "party": "fog",
-        "message": "I received 0.000082"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 10:29:02",
-        "party": "victim",
-        "message": "Okay, we are in the process of obtaining the full amount. Once we have it, we will proceed with the transfer."
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 10:29:43",
-        "party": "victim",
-        "message": "Once the payment is received, what are the next steps?"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 10:43:53",
-        "party": "fog",
-        "message": "I will give you the decrypter after I see the money in the wallet"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 10:44:05",
-        "party": "fog",
-        "message": "and instructions of course"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 17:18:25",
-        "party": "victim",
-        "message": "We are gathering the payment in the exchange, but we need to proceed gradually with the euro money transfers to the wallet. I believe we can have it ready in less than 48 hours. Maybe in 24 hours. I'll keep you informed."
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 17:20:04",
-        "party": "victim",
-        "message": "From the moment we make the payment transfer, how long will it take you to send me the decryptors for Windows files and virtual machines? Will you send them here, or should I give you an email?"
-    },
-    {
-        "timestamp": "Thursday, 01 August 2024 19:20:05",
-        "party": "fog",
-        "message": "I will send the decrypters via this chat after full sum received"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 12:29:16",
-        "party": "victim",
-        "message": "Hi, I already have the funds available. I'm going to make a small test transfer from this wallet, and then the rest will be ok?"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 12:43:01",
-        "party": "fog",
-        "message": "Sure. But you have already sent a test amount of 0.000082 BTC. Anyway, you can send another one."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 14:14:33",
-        "party": "victim",
-        "message": "Please give me 3 hours and we will proceed. I write to you here. Thank you."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 14:36:49",
-        "party": "fog",
-        "message": "Standing by."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 15:48:05",
-        "party": "victim",
-        "message": "Hi, we just did the test transfer. Please tell me everything is ok."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 15:48:29",
-        "party": "victim",
-        "message": "When you verify it we make the final large transfer."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 15:59:04",
-        "party": "fog",
-        "message": "I see 0.003 confirming"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 15:59:37",
-        "party": "victim",
-        "message": "ok Sr."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:00:15",
-        "party": "victim",
-        "message": "We proceed to make the payment. Can you confirm that I will have the decrypters instantly please?"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:18:32",
-        "party": "victim",
-        "message": "You're online?"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:19:23",
-        "party": "fog",
-        "message": "I can confirm"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:19:47",
-        "party": "victim",
-        "message": "ok, thanks. wait a minute please"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:20:01",
-        "party": "fog",
-        "message": "ok"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:21:36",
-        "party": "victim",
-        "message": "we are working on it, give me just 2 minutes. please prepare the decrypters to send me."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:22:13",
-        "party": "fog",
-        "message": "preparing"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:26:27",
-        "party": "victim",
-        "message": "it's OK."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:26:34",
-        "party": "victim",
-        "message": "Transfer OK."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:29:42",
-        "party": "victim",
-        "message": "It has arrived, can you confirm it for me?"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:30:49",
-        "party": "fog",
-        "message": "confirming"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:30:57",
-        "party": "victim",
-        "message": "Thanks!"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:31:01",
-        "party": "fog",
-        "message": "give me a minute"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:31:15",
-        "party": "victim",
-        "message": "ok, sr."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:44:47",
-        "party": "fog",
-        "message": "Esxi\n\nchmod +x unlocker\n./unlocker --id [redacted] --log --target \"/vmfs/volumes/\"\n\nWindows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:45:06",
-        "party": "fog",
-        "message": "[provides a zip file with the decryptor]"
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 16:48:51",
-        "party": "victim",
-        "message": "OK, we'll try it out and I'll write to you if there are any questions or problems. Thanks."
-    },
-    {
-        "timestamp": "Friday, 02 August 2024 17:14:35",
-        "party": "fog",
-        "message": "ok I am here"
-    },
-    {
-        "timestamp": "Admin 18:45:50",
-        "party": "victim",
-        "message": "[provides a PNG file]\nIt gives us an error with the ESXI, I attach an image"
-    },
-    {
-        "timestamp": "Admin 19:03:42",
-        "party": "victim",
-        "message": "maybe too many files on the machine?"
-    },
-    {
-        "timestamp": "Admin 19:14:23",
-        "party": "fog",
-        "message": "specify one vm in directory of decrypter"
-    },
-    {
-        "timestamp": "Admin 23:08:27",
-        "party": "victim",
-        "message": "we are having some problems. I leave you screenshots:[provides 2 PNG files]"
-    },
-    {
-        "timestamp": "Admin 23:11:35",
-        "party": "victim",
-        "message": "I am attaching the files that we cannot decrypt. Let's see if you can help us since they are very important to be able to operate:[provides 3 TXT files]"
-    },
-    {
-        "timestamp": "Admin 23:13:47",
-        "party": "victim",
-        "message": "We have carried out the test of specifying a machine instead of a folder and it does not give an error, but it does not decrypt either."
-    },
-    {
-        "timestamp": "Admin 23:14:03",
-        "party": "victim",
-        "message": "It is a very serious problem for us. Please, help."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 06:42:29",
-        "party": "victim",
-        "message": "For example, these files are impossible to decrypt (and they are small):[provides 8 .FOG files]"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 08:12:52",
-        "party": "fog",
-        "message": "my team is working on it"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 09:05:55",
-        "party": "fog",
-        "message": "how many vms did you already fix and run?"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:08:09",
-        "party": "victim",
-        "message": "We are very concerned because those machines are the SAP and two other environments we use to operate the business. Without these environments, we cannot function. Let me tell you which machines they are:"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:08:36",
-        "party": "victim",
-        "message": "1 - [redacted]-flat.vmdk\n1 - [redacted].vmdk\n0 - [redacted]-flat.vmdk\n0 - [redacted]-flat.vmdk\n[redacted]-flat.vmdk\n[redacted]-flat.vmdk\n0 - [redacted]-flat.vmdk\n0 - [redacted].vmdk\n[redacted]-flat.vmdk\n[redacted]-ctk.vmdk"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:08:57",
-        "party": "victim",
-        "message": "And swap files:\n\nvmx-[redacted].vswp\nvmx-0 - [redacted].vswp\nvmx-[redacted].vswp\nvmx-[redacted].vswp\n[redacted].vswp"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:09:22",
-        "party": "victim",
-        "message": "And .vmsd file:\n\n0 - [redacted].vmsd"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:10:06",
-        "party": "victim",
-        "message": "And also many other files in .log format that are secondary and not needed to start the machines."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:10:45",
-        "party": "victim",
-        "message": "How can we solve this? Do you need me to share more files that we cannot decrypt?"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:11:10",
-        "party": "victim",
-        "message": "I have shared some small files above that cannot be decrypted."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:12:03",
-        "party": "victim",
-        "message": "All the files we cannot decrypt are these (I already listed them above, but here they are again for your reference):"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:14:42",
-        "party": "victim",
-        "message": "This is very urgent because we cannot operate the business without it. We have tried everything possible. We have tried decrypting locally, on other machines, specifying directory paths, and the final paths of the machines."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:51:40",
-        "party": "fog",
-        "message": "there are some options for solving this"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 10:52:59",
-        "party": "fog",
-        "message": "start decryption of the following folders using --threads 16\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:02:31",
-        "party": "fog",
-        "message": "when you have 'error open file' try to recheck permissions of a file copying it to another folder because permissions could change. use the command ls -la. Example: -rw-r--r--    1 root     root          8024 Aug\nDecrypter should be run as host\nfile permissions -rw\nIf host and permission don't match, then change host using 'chown' or change permissions using 'chmod'"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:03:33",
-        "party": "fog",
-        "message": "Or another options is to try replace a file to another folder an run decrypter to decrypt exactly this one file"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:06:17",
-        "party": "victim",
-        "message": "ok let's try it."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:26:12",
-        "party": "victim",
-        "message": "Using -- threads 16 and other parameters that we have tried does not work, I attach an image:[provides a PNG file]"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:26:43",
-        "party": "victim",
-        "message": "Let's test the permissions issue of the second option. However, we run it as root."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:27:03",
-        "party": "victim",
-        "message": "We tried the third option yesterday and this morning and it doesn't work for us."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 11:27:14",
-        "party": "victim",
-        "message": "Now I'll tell you about the issue of permissions."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 12:21:04",
-        "party": "victim",
-        "message": "None of the options work."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 12:21:33",
-        "party": "victim",
-        "message": "Without these files we cannot operate, they are the core of the organization."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 12:22:30",
-        "party": "victim",
-        "message": "Do you want me to upload virtual machines to the cloud, or give you access to a system?"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 12:22:46",
-        "party": "victim",
-        "message": "please help"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 13:10:04",
-        "party": "fog",
-        "message": "my team is working on the trouble"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 13:52:08",
-        "party": "fog",
-        "message": "Upload to the cloud we will fix the file"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 13:58:04",
-        "party": "victim",
-        "message": "OK sr. Thanks!!!![provides a .vswp.fog file]"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 17:52:52",
-        "party": "victim",
-        "message": "I'm sending you this small file so that your team can analyze why the decrypter doesn't decrypt. We followed all your instructions. Let's see if you can try it in your environment. It's 83Mb of file so you don't have to pass anything bigger that is difficult to handle."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 18:19:43",
-        "party": "victim",
-        "message": "[provides a JPG file]\nIn this image more information with the permissions:[provides another JPG file]"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 18:43:48",
-        "party": "fog",
-        "message": "ok"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 18:43:53",
-        "party": "fog",
-        "message": "wait"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 18:45:15",
-        "party": "victim",
-        "message": "Thanks!!!!"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 18:59:50",
-        "party": "fog",
-        "message": "I will have news for you most likely on Sunday"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 19:08:42",
-        "party": "victim",
-        "message": "OK, thank you very much for your attention. We will be waiting for your news."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 22:02:43",
-        "party": "fog",
-        "message": "send me vmdk or vmdk-flat file"
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 22:15:08",
-        "party": "victim",
-        "message": "In a few hours you will have the files in a repository. Does that seem okay to you? This way we will not be able to share so many gigabytes. Thank you very much, without these virtual machines our entire company cannot work. It is the core of the business."
-    },
-    {
-        "timestamp": "Saturday, 03 August 2024 22:15:21",
-        "party": "victim",
-        "message": "Thank you very much"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:30:20",
-        "party": "victim",
-        "message": "We almost have a machine uploaded to the cloud to share the link with you. We have uploaded a \"small\" 1.2Gb file of those that also cause problems and are on critical routes for us:"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:30:27",
-        "party": "victim",
-        "message": "https://[redacted].log.fog"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:30:56",
-        "party": "victim",
-        "message": "Give me a few minutes and I'll send you the link for the vdmk machine"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:31:36",
-        "party": "victim",
-        "message": "Thank you for your help. Without these operational vdmk machines our company would go bankrupt."
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:38:18",
-        "party": "victim",
-        "message": "We have the vdmk uploaded to the cloud. I am sending you credentials:"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:38:36",
-        "party": "victim",
-        "message": "sftp://[redacted].vmdk.fog"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:38:54",
-        "party": "victim",
-        "message": "Password:   [redacted]"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:39:49",
-        "party": "victim",
-        "message": "We are waiting for your news. With these files and the 83Mb one I sent you earlier that is also causing problems, I think your programmers could see what is wrong with the decrypter."
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 11:40:24",
-        "party": "victim",
-        "message": "We are very concerned because all the critical files of vmdk virtual machines are in this situation. (8 machines)"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 13:08:02",
-        "party": "fog",
-        "message": "got it"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 13:08:43",
-        "party": "fog",
-        "message": "I wait for something from my team"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 13:37:47",
-        "party": "victim",
-        "message": "Thanks"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 17:34:18",
-        "party": "victim",
-        "message": "Hi, sorry to bother you. I wanted to know if we'll receive any updates today on how to resolve the file decryption issues. We are overwhelmed as we cannot decrypt files like the ones I mentioned in the conversation. Thank you, sorry for the insistence."
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 17:36:02",
-        "party": "victim",
-        "message": "Please, if you don't help us, our company will close, and we will lose our jobs."
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 17:56:36",
-        "party": "fog",
-        "message": "we will help"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 17:56:43",
-        "party": "fog",
-        "message": "wait"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 18:03:19",
-        "party": "victim",
-        "message": "Thanks!!!!"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 22:29:58",
-        "party": "victim",
-        "message": "Can we turn off the SFTP machine where we have uploaded the .vmdk file?"
-    },
-    {
-        "timestamp": "Sunday, 04 August 2024 22:30:35",
-        "party": "victim",
-        "message": "We can leave it active if necessary."
-    },
-    {
-        "timestamp": "Monday, 05 August 2024 06:33:17",
-        "party": "fog",
-        "message": "let it be active for some time"
-    },
-    {
-        "timestamp": "Monday, 05 August 2024 06:42:52",
-        "party": "victim",
-        "message": "Ok thanks"
-    },
-    {
-        "timestamp": "Monday, 05 August 2024 11:25:13",
-        "party": "fog",
-        "message": "try to copy a vmdk file to a separate folder and run it after removing extension .fog"
-    },
-    {
-        "timestamp": "Monday, 05 August 2024 12:55:22",
-        "party": "victim",
-        "message": "OK,wait a moment."
-    }
-]
+{
+    "chat_id": "20240729",
+    "messages": [
+        {
+            "timestamp": "Monday, 29 July 2024 15:37:56",
+            "party": "victim",
+            "content": "Hi"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 15:40:39",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 15:41:22",
+            "party": "fog",
+            "content": "I will give you details in a minute"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 15:47:24",
+            "party": "fog",
+            "content": "[provides a plain TXT files list]\nthis is what has been taken from your network"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 16:34:00",
+            "party": "victim",
+            "content": "What are the instruction to restore our data?"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 17:21:31",
+            "party": "victim",
+            "content": "Hi are you there?"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 17:53:48",
+            "party": "fog",
+            "content": "I will give you instructions after payment"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 18:11:40",
+            "party": "victim",
+            "content": "What payment?"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 18:15:24",
+            "party": "fog",
+            "content": "If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. I will give you our demand soon."
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 19:59:48",
+            "party": "victim",
+            "content": "Any news?"
+        },
+        {
+            "timestamp": "Monday, 29 July 2024 20:07:44",
+            "party": "fog",
+            "content": "If you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. To test our tool, send me 3 random encrypted files and we will decrypt them for free. Our demand is $200,000."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 09:53:26",
+            "party": "victim",
+            "content": "Hello, we don't know how to make the payment or how to facilitate it for you. On the other hand, we are a very small company and cannot afford the payment you are mentioning. What options do we have? And about the three files what is the procedure?"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 10:36:45",
+            "party": "fog",
+            "content": "As for the files, if you need a proof we indeed possess your data, send me a couple of directories to the files you want to see. We can provide you with a $20,000 discount if you pay us this week. The price is fair for your company."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 13:40:45",
+            "party": "victim",
+            "content": "We are willing to cooperate, but the amount requested is far beyond our capabilities as a small company. We can offer a smaller sum and pay it as soon as possible. Additionally, we need to clearly understand the payment process and the guarantees we have to securely recover our data. Please provide detailed instructions on how to proceed and assure us that we will receive all our data without further issues"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 14:16:50",
+            "party": "fog",
+            "content": "I can't give you an additional discount until I see your number. The price can be increased at any second if you keep haggling like this."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 14:20:59",
+            "party": "victim",
+            "content": "What number do you mean?"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 14:28:00",
+            "party": "fog",
+            "content": "The number you are ready to pay at the moment."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 14:59:21",
+            "party": "victim",
+            "content": "We can offer $120,000 and want to be transparent, avoiding a prolonged negotiation. Additionally, we need to understand how to make the payment. We will provide several files for you to decrypt to verify your capabilities."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 15:16:50",
+            "party": "fog",
+            "content": "$120,000 is not a bad offer but I can't accept this. I also want to avoid a prolonged negotiation, so our final price is $150,000. You have 2 days to gather the rest $30k and we will be done with it. I will give you our wallet for payment later."
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 16:03:24",
+            "party": "victim",
+            "content": "We are agreeable to proceeding with the following conditions: First, we will provide several encrypted files for you to decrypt as proof of your decryption capabilities. Following this, we will make an initial payment of $120,000 in exchange for the instructions and necessary tools to decrypt the rest of our systems. Once we have successfully recovered our data, we will make a final payment of $30,000. In return, we expect a report detailing how the attack was carried out and confirmation that all our data has been removed from your possession and any related systems"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 16:04:57",
+            "party": "victim",
+            "content": "[provides a zip archive of encrypted files]"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 16:35:49",
+            "party": "fog",
+            "content": "tell is there the file named \"auth.log.fog.savepoint\" somewhere near the file \"auth.log.fog\"?"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 17:04:09",
+            "party": "victim",
+            "content": "We couldn't find the file you mentioned, could you tell us where this file should be located and what it contains?"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 17:39:30",
+            "party": "fog",
+            "content": "it should be in the same directory with the file auth.log.fog that your gave me"
+        },
+        {
+            "timestamp": "Tuesday, 30 July 2024 17:40:44",
+            "party": "victim",
+            "content": "Isn't in this directory"
+        },
+        {
+            "timestamp": "Admin 19:02:03",
+            "party": "fog",
+            "content": "[provides 2 decrypted files]\nI will give you everything right away when I received the full 150k payment. Let's resolve the issue quickly."
+        },
+        {
+            "timestamp": "Admin 19:03:52",
+            "party": "fog",
+            "content": "[redacted] this is id for payment"
+        },
+        {
+            "timestamp": "Admin 19:09:35",
+            "party": "victim",
+            "content": "We understand your position, but we must adhere to our agreed-upon model. We need to follow the steps we outlined previously: first providing a portion of the payment, receiving the necessary decryption instructions, and then completing the full payment upon confirmation. Additionally, specify which cryptocurrency it is for the payment."
+        },
+        {
+            "timestamp": "Admin 19:27:14",
+            "party": "fog",
+            "content": "We work with bitcoins. We cannot violate our policy, which means we cannot accept fractional payments."
+        },
+        {
+            "timestamp": "Admin 20:32:49",
+            "party": "victim",
+            "content": "Once the payment is made, how does the decryption process work? What guarantees do we have that all our data will be fully recovered and secured? We also want to understand what you will provide to us after the payment. Please understand that we are concerned due to our lack of experience with situations like this and need reassurance that everything will be resolved properly."
+        },
+        {
+            "timestamp": "Admin 20:48:18",
+            "party": "fog",
+            "content": "Once the payment is made, you will get the .exe files that you will need to run on your systems (win or esxi) to decrypt your files. We guarantee that you will be able to recover all the encrypted data. We will give you a deletion log file which means the files we stole .were removed from our source."
+        },
+        {
+            "timestamp": "Admin 21:08:16",
+            "party": "victim",
+            "content": "We need to finalize the financial and legal aspects on our end before proceeding with the payment. Once everything is ready and the payment is made, we will notify you immediately."
+        },
+        {
+            "timestamp": "Admin 21:14:23",
+            "party": "fog",
+            "content": "Standing by, thanks."
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 08:08:12",
+            "party": "victim",
+            "content": "We are currently reviewing the payment method, and since we are not familiar with this process, we are unsure how to proceed. Could you explain how this is typically done and which services are usually used? We want to ensure that everything is handled correctly."
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 09:34:36",
+            "party": "fog",
+            "content": "see the link https://www.csoonline.com/article/570047/how-to-buy-bitcoin-for-ransomware-payment-if-you-must.html"
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 09:54:27",
+            "party": "victim",
+            "content": "Thanks ,we are checking, but the registration process and validation will take some time."
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 10:38:24",
+            "party": "fog",
+            "content": "sure"
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 14:10:07",
+            "party": "fog",
+            "content": "How's your progress with that?"
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 14:39:30",
+            "party": "victim",
+            "content": "The cryptocurrency purchase platform needs to verify the user, and this won't be completed until tomorrow. The process is turning out to be quite long and complex for us."
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 14:52:24",
+            "party": "fog",
+            "content": "tell me when you have updates"
+        },
+        {
+            "timestamp": "Wednesday, 31 July 2024 15:21:43",
+            "party": "victim",
+            "content": "Sure"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 09:37:55",
+            "party": "victim",
+            "content": "We have conducted an initial test to verify that the process we're following is correct. Could you confirm that you have received the first transfer of $5? Meanwhile, we are in the process of acquiring the total amount of cryptocurrency needed for the full payment, but it is taking some time."
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 10:00:09",
+            "party": "fog",
+            "content": "I received 0.000082"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 10:29:02",
+            "party": "victim",
+            "content": "Okay, we are in the process of obtaining the full amount. Once we have it, we will proceed with the transfer."
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 10:29:43",
+            "party": "victim",
+            "content": "Once the payment is received, what are the next steps?"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 10:43:53",
+            "party": "fog",
+            "content": "I will give you the decrypter after I see the money in the wallet"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 10:44:05",
+            "party": "fog",
+            "content": "and instructions of course"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 17:18:25",
+            "party": "victim",
+            "content": "We are gathering the payment in the exchange, but we need to proceed gradually with the euro money transfers to the wallet. I believe we can have it ready in less than 48 hours. Maybe in 24 hours. I'll keep you informed."
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 17:20:04",
+            "party": "victim",
+            "content": "From the moment we make the payment transfer, how long will it take you to send me the decryptors for Windows files and virtual machines? Will you send them here, or should I give you an email?"
+        },
+        {
+            "timestamp": "Thursday, 01 August 2024 19:20:05",
+            "party": "fog",
+            "content": "I will send the decrypters via this chat after full sum received"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 12:29:16",
+            "party": "victim",
+            "content": "Hi, I already have the funds available. I'm going to make a small test transfer from this wallet, and then the rest will be ok?"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 12:43:01",
+            "party": "fog",
+            "content": "Sure. But you have already sent a test amount of 0.000082 BTC. Anyway, you can send another one."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 14:14:33",
+            "party": "victim",
+            "content": "Please give me 3 hours and we will proceed. I write to you here. Thank you."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 14:36:49",
+            "party": "fog",
+            "content": "Standing by."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 15:48:05",
+            "party": "victim",
+            "content": "Hi, we just did the test transfer. Please tell me everything is ok."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 15:48:29",
+            "party": "victim",
+            "content": "When you verify it we make the final large transfer."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 15:59:04",
+            "party": "fog",
+            "content": "I see 0.003 confirming"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 15:59:37",
+            "party": "victim",
+            "content": "ok Sr."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:00:15",
+            "party": "victim",
+            "content": "We proceed to make the payment. Can you confirm that I will have the decrypters instantly please?"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:18:32",
+            "party": "victim",
+            "content": "You're online?"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:19:23",
+            "party": "fog",
+            "content": "I can confirm"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:19:47",
+            "party": "victim",
+            "content": "ok, thanks. wait a minute please"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:20:01",
+            "party": "fog",
+            "content": "ok"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:21:36",
+            "party": "victim",
+            "content": "we are working on it, give me just 2 minutes. please prepare the decrypters to send me."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:22:13",
+            "party": "fog",
+            "content": "preparing"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:26:27",
+            "party": "victim",
+            "content": "it's OK."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:26:34",
+            "party": "victim",
+            "content": "Transfer OK."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:29:42",
+            "party": "victim",
+            "content": "It has arrived, can you confirm it for me?"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:30:49",
+            "party": "fog",
+            "content": "confirming"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:30:57",
+            "party": "victim",
+            "content": "Thanks!"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:31:01",
+            "party": "fog",
+            "content": "give me a minute"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:31:15",
+            "party": "victim",
+            "content": "ok, sr."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:44:47",
+            "party": "fog",
+            "content": "Esxi\n\nchmod +x unlocker\n./unlocker --id [redacted] --log --target \"/vmfs/volumes/\"\n\nWindows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:45:06",
+            "party": "fog",
+            "content": "[provides a zip file with the decryptor]"
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 16:48:51",
+            "party": "victim",
+            "content": "OK, we'll try it out and I'll write to you if there are any questions or problems. Thanks."
+        },
+        {
+            "timestamp": "Friday, 02 August 2024 17:14:35",
+            "party": "fog",
+            "content": "ok I am here"
+        },
+        {
+            "timestamp": "Admin 18:45:50",
+            "party": "victim",
+            "content": "[provides a PNG file]\nIt gives us an error with the ESXI, I attach an image"
+        },
+        {
+            "timestamp": "Admin 19:03:42",
+            "party": "victim",
+            "content": "maybe too many files on the machine?"
+        },
+        {
+            "timestamp": "Admin 19:14:23",
+            "party": "fog",
+            "content": "specify one vm in directory of decrypter"
+        },
+        {
+            "timestamp": "Admin 23:08:27",
+            "party": "victim",
+            "content": "we are having some problems. I leave you screenshots:[provides 2 PNG files]"
+        },
+        {
+            "timestamp": "Admin 23:11:35",
+            "party": "victim",
+            "content": "I am attaching the files that we cannot decrypt. Let's see if you can help us since they are very important to be able to operate:[provides 3 TXT files]"
+        },
+        {
+            "timestamp": "Admin 23:13:47",
+            "party": "victim",
+            "content": "We have carried out the test of specifying a machine instead of a folder and it does not give an error, but it does not decrypt either."
+        },
+        {
+            "timestamp": "Admin 23:14:03",
+            "party": "victim",
+            "content": "It is a very serious problem for us. Please, help."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 06:42:29",
+            "party": "victim",
+            "content": "For example, these files are impossible to decrypt (and they are small):[provides 8 .FOG files]"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 08:12:52",
+            "party": "fog",
+            "content": "my team is working on it"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 09:05:55",
+            "party": "fog",
+            "content": "how many vms did you already fix and run?"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:08:09",
+            "party": "victim",
+            "content": "We are very concerned because those machines are the SAP and two other environments we use to operate the business. Without these environments, we cannot function. Let me tell you which machines they are:"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:08:36",
+            "party": "victim",
+            "content": "1 - [redacted]-flat.vmdk\n1 - [redacted].vmdk\n0 - [redacted]-flat.vmdk\n0 - [redacted]-flat.vmdk\n[redacted]-flat.vmdk\n[redacted]-flat.vmdk\n0 - [redacted]-flat.vmdk\n0 - [redacted].vmdk\n[redacted]-flat.vmdk\n[redacted]-ctk.vmdk"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:08:57",
+            "party": "victim",
+            "content": "And swap files:\n\nvmx-[redacted].vswp\nvmx-0 - [redacted].vswp\nvmx-[redacted].vswp\nvmx-[redacted].vswp\n[redacted].vswp"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:09:22",
+            "party": "victim",
+            "content": "And .vmsd file:\n\n0 - [redacted].vmsd"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:10:06",
+            "party": "victim",
+            "content": "And also many other files in .log format that are secondary and not needed to start the machines."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:10:45",
+            "party": "victim",
+            "content": "How can we solve this? Do you need me to share more files that we cannot decrypt?"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:11:10",
+            "party": "victim",
+            "content": "I have shared some small files above that cannot be decrypted."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:12:03",
+            "party": "victim",
+            "content": "All the files we cannot decrypt are these (I already listed them above, but here they are again for your reference):"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:14:42",
+            "party": "victim",
+            "content": "This is very urgent because we cannot operate the business without it. We have tried everything possible. We have tried decrypting locally, on other machines, specifying directory paths, and the final paths of the machines."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:51:40",
+            "party": "fog",
+            "content": "there are some options for solving this"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 10:52:59",
+            "party": "fog",
+            "content": "start decryption of the following folders using --threads 16\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/\n/vmfs/volumes/[redacted]/"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:02:31",
+            "party": "fog",
+            "content": "when you have 'error open file' try to recheck permissions of a file copying it to another folder because permissions could change. use the command ls -la. Example: -rw-r--r--    1 root     root          8024 Aug\nDecrypter should be run as host\nfile permissions -rw\nIf host and permission don't match, then change host using 'chown' or change permissions using 'chmod'"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:03:33",
+            "party": "fog",
+            "content": "Or another options is to try replace a file to another folder an run decrypter to decrypt exactly this one file"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:06:17",
+            "party": "victim",
+            "content": "ok let's try it."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:26:12",
+            "party": "victim",
+            "content": "Using -- threads 16 and other parameters that we have tried does not work, I attach an image:[provides a PNG file]"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:26:43",
+            "party": "victim",
+            "content": "Let's test the permissions issue of the second option. However, we run it as root."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:27:03",
+            "party": "victim",
+            "content": "We tried the third option yesterday and this morning and it doesn't work for us."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 11:27:14",
+            "party": "victim",
+            "content": "Now I'll tell you about the issue of permissions."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 12:21:04",
+            "party": "victim",
+            "content": "None of the options work."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 12:21:33",
+            "party": "victim",
+            "content": "Without these files we cannot operate, they are the core of the organization."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 12:22:30",
+            "party": "victim",
+            "content": "Do you want me to upload virtual machines to the cloud, or give you access to a system?"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 12:22:46",
+            "party": "victim",
+            "content": "please help"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 13:10:04",
+            "party": "fog",
+            "content": "my team is working on the trouble"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 13:52:08",
+            "party": "fog",
+            "content": "Upload to the cloud we will fix the file"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 13:58:04",
+            "party": "victim",
+            "content": "OK sr. Thanks!!!![provides a .vswp.fog file]"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 17:52:52",
+            "party": "victim",
+            "content": "I'm sending you this small file so that your team can analyze why the decrypter doesn't decrypt. We followed all your instructions. Let's see if you can try it in your environment. It's 83Mb of file so you don't have to pass anything bigger that is difficult to handle."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 18:19:43",
+            "party": "victim",
+            "content": "[provides a JPG file]\nIn this image more information with the permissions:[provides another JPG file]"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 18:43:48",
+            "party": "fog",
+            "content": "ok"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 18:43:53",
+            "party": "fog",
+            "content": "wait"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 18:45:15",
+            "party": "victim",
+            "content": "Thanks!!!!"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 18:59:50",
+            "party": "fog",
+            "content": "I will have news for you most likely on Sunday"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 19:08:42",
+            "party": "victim",
+            "content": "OK, thank you very much for your attention. We will be waiting for your news."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 22:02:43",
+            "party": "fog",
+            "content": "send me vmdk or vmdk-flat file"
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 22:15:08",
+            "party": "victim",
+            "content": "In a few hours you will have the files in a repository. Does that seem okay to you? This way we will not be able to share so many gigabytes. Thank you very much, without these virtual machines our entire company cannot work. It is the core of the business."
+        },
+        {
+            "timestamp": "Saturday, 03 August 2024 22:15:21",
+            "party": "victim",
+            "content": "Thank you very much"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:30:20",
+            "party": "victim",
+            "content": "We almost have a machine uploaded to the cloud to share the link with you. We have uploaded a \"small\" 1.2Gb file of those that also cause problems and are on critical routes for us:"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:30:27",
+            "party": "victim",
+            "content": "https://[redacted].log.fog"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:30:56",
+            "party": "victim",
+            "content": "Give me a few minutes and I'll send you the link for the vdmk machine"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:31:36",
+            "party": "victim",
+            "content": "Thank you for your help. Without these operational vdmk machines our company would go bankrupt."
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:38:18",
+            "party": "victim",
+            "content": "We have the vdmk uploaded to the cloud. I am sending you credentials:"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:38:36",
+            "party": "victim",
+            "content": "sftp://[redacted].vmdk.fog"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:38:54",
+            "party": "victim",
+            "content": "Password:   [redacted]"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:39:49",
+            "party": "victim",
+            "content": "We are waiting for your news. With these files and the 83Mb one I sent you earlier that is also causing problems, I think your programmers could see what is wrong with the decrypter."
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 11:40:24",
+            "party": "victim",
+            "content": "We are very concerned because all the critical files of vmdk virtual machines are in this situation. (8 machines)"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 13:08:02",
+            "party": "fog",
+            "content": "got it"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 13:08:43",
+            "party": "fog",
+            "content": "I wait for something from my team"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 13:37:47",
+            "party": "victim",
+            "content": "Thanks"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 17:34:18",
+            "party": "victim",
+            "content": "Hi, sorry to bother you. I wanted to know if we'll receive any updates today on how to resolve the file decryption issues. We are overwhelmed as we cannot decrypt files like the ones I mentioned in the conversation. Thank you, sorry for the insistence."
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 17:36:02",
+            "party": "victim",
+            "content": "Please, if you don't help us, our company will close, and we will lose our jobs."
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 17:56:36",
+            "party": "fog",
+            "content": "we will help"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 17:56:43",
+            "party": "fog",
+            "content": "wait"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 18:03:19",
+            "party": "victim",
+            "content": "Thanks!!!!"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 22:29:58",
+            "party": "victim",
+            "content": "Can we turn off the SFTP machine where we have uploaded the .vmdk file?"
+        },
+        {
+            "timestamp": "Sunday, 04 August 2024 22:30:35",
+            "party": "victim",
+            "content": "We can leave it active if necessary."
+        },
+        {
+            "timestamp": "Monday, 05 August 2024 06:33:17",
+            "party": "fog",
+            "content": "let it be active for some time"
+        },
+        {
+            "timestamp": "Monday, 05 August 2024 06:42:52",
+            "party": "victim",
+            "content": "Ok thanks"
+        },
+        {
+            "timestamp": "Monday, 05 August 2024 11:25:13",
+            "party": "fog",
+            "content": "try to copy a vmdk file to a separate folder and run it after removing extension .fog"
+        },
+        {
+            "timestamp": "Monday, 05 August 2024 12:55:22",
+            "party": "victim",
+            "content": "OK,wait a moment."
+        }
+    ]
+}
