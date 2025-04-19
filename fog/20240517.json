@@ -1,0 +1,137 @@
+[
+    {
+        "timestamp": "Friday, 17 May 2024 08:30:51",
+        "party": "fog",
+        "message": "Do you need our help?"
+    },
+    {
+        "timestamp": "Thursday, 23 May 2024 03:55:28",
+        "party": "victim",
+        "message": "We would like to know what you are looking for from us. Your note says you copied data so we would like to understand what data you took."
+    },
+    {
+        "timestamp": "Admin 11:10:55",
+        "party": "fog",
+        "message": "[provides a compressed 7zp files list]\nthis is what we took"
+    },
+    {
+        "timestamp": "Admin 11:57:37",
+        "party": "fog",
+        "message": "We can decrypt your systems in a couple of hours for only $400,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free."
+    },
+    {
+        "timestamp": "Admin 23:45:48",
+        "party": "victim",
+        "message": "Okay, we are working on that for you. Can you confirm that list is all of the data that you took?"
+    },
+    {
+        "timestamp": "Friday, 24 May 2024 08:37:03",
+        "party": "fog",
+        "message": "Yes this is all we took"
+    },
+    {
+        "timestamp": "Friday, 24 May 2024 19:43:14",
+        "party": "victim",
+        "message": "Thank you. We are working on the files but will probably not have an update until after the weekend"
+    },
+    {
+        "timestamp": "Monday, 27 May 2024 07:57:09",
+        "party": "fog",
+        "message": "Hello. Have you managed to review?"
+    },
+    {
+        "timestamp": "Monday, 27 May 2024 12:30:14",
+        "party": "victim",
+        "message": "Sorry we are working through one last item and it's late here. We will respond by tomorrow."
+    },
+    {
+        "timestamp": "Monday, 27 May 2024 13:45:56",
+        "party": "fog",
+        "message": "We need you to speed up."
+    },
+    {
+        "timestamp": "Tuesday, 28 May 2024 03:25:26",
+        "party": "victim",
+        "message": "Are you able to send us the following files from that list?"
+    },
+    {
+        "timestamp": "Tuesday, 28 May 2024 03:25:45",
+        "party": "victim",
+        "message": "Directory of E:\\[redacted 1st directory]"
+    },
+    {
+        "timestamp": "Tuesday, 28 May 2024 03:25:56",
+        "party": "victim",
+        "message": "Directory of E:\\[redacted 2nd directory]"
+    },
+    {
+        "timestamp": "Tuesday, 28 May 2024 03:26:02",
+        "party": "victim",
+        "message": "Directory of E:\\[redacted 3rd directory]"
+    },
+    {
+        "timestamp": "Admin 07:38:02",
+        "party": "fog",
+        "message": "[provides provides 3 files]\nthese are the files from the directories you that gave"
+    },
+    {
+        "timestamp": "Wednesday, 29 May 2024 00:23:06",
+        "party": "victim",
+        "message": "For the first directory, are you able to provide us this file? [redacted]\\[redacted].docx"
+    },
+    {
+        "timestamp": "Wednesday, 29 May 2024 00:23:28",
+        "party": "victim",
+        "message": "It looks like the full file path was originally cutoff when we requested it"
+    },
+    {
+        "timestamp": "Admin 07:00:33",
+        "party": "fog",
+        "message": "[provides provides 1 more file]"
+    },
+    {
+        "timestamp": "Admin 14:39:49",
+        "party": "victim",
+        "message": "h"
+    },
+    {
+        "timestamp": "Admin 14:51:30",
+        "party": "fog",
+        "message": "what?"
+    },
+    {
+        "timestamp": "Admin 14:54:02",
+        "party": "fog",
+        "message": "lets get closer to a resolution here. Are you ready to make a transaction and get all this resolved?"
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 05:26:24",
+        "party": "victim",
+        "message": "We are going to have a bit more discussion today and over the weekend but should be in a good place to discuss more next week"
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 05:26:34",
+        "party": "victim",
+        "message": "Does this work?"
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 07:54:29",
+        "party": "fog",
+        "message": "I will be waiting for numbers from you on Monday."
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 11:04:54",
+        "party": "fog",
+        "message": "https://privnote.com/[redacted] use the id on the link to access a new chat to discuss the price and payment"
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 11:05:19",
+        "party": "fog",
+        "message": "I will be waiting for you there on Monday or earlier"
+    },
+    {
+        "timestamp": "Thursday, 30 May 2024 11:05:30",
+        "party": "fog",
+        "message": "tell me when you access the new chat"
+    }
+]
