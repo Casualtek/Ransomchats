@@ -1,367 +1,370 @@
-[
-    {
-        "timestamp": "Friday, 30 August 2024 16:56:22",
-        "party": "victim",
-        "message": "We have found what appears to be your notes on our systems with links that we have followed here. What are the next steps and what is going on?"
-    },
-    {
-        "timestamp": "Friday, 30 August 2024 17:35:20",
-        "party": "fog",
-        "message": "Hello. Wait please. I'll get back with details."
-    },
-    {
-        "timestamp": "Sunday, 01 September 2024 16:57:05",
-        "party": "victim",
-        "message": "Hello? Any news?"
-    },
-    {
-        "timestamp": "Monday, 02 September 2024 07:47:38",
-        "party": "fog",
-        "message": "[provides a plain TXT files list]\nthat's what's been taken from your network"
-    },
-    {
-        "timestamp": "Monday, 02 September 2024 13:45:34",
-        "party": "fog",
-        "message": "We can decrypt your systems in a couple of hours for only $290,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free."
-    },
-    {
-        "timestamp": "Wednesday, 04 September 2024 19:37:39",
-        "party": "victim",
-        "message": "Can you send us the files from the list we have provided below?\n08/29/2024  04:28 AM            98,075 [redacted].pdf\n08/29/2024  06:59 AM               165 [redacted].xlsx\n08/29/2024  03:50 AM            15,571 [redacted].xlsx\n08/29/2024  03:59 AM            28,381 [redacted].docx\n08/29/2024  04:01 AM            32,193 [redacted].pdf"
-    },
-    {
-        "timestamp": "Wednesday, 04 September 2024 20:11:55",
-        "party": "fog",
-        "message": "[provides a 7zip compressed archive]"
-    },
-    {
-        "timestamp": "Sunday, 08 September 2024 13:19:56",
-        "party": "victim",
-        "message": "Hello, we are still working on gathering encrypted files small enough to send over to you, but it's almost impossible to find any due to the way all of our systems were locked up in the first place. We hope to have something soon, but we will reach back out once we do."
-    },
-    {
-        "timestamp": "Sunday, 08 September 2024 14:40:00",
-        "party": "fog",
-        "message": "I can wait until Monday only"
-    },
-    {
-        "timestamp": "Monday, 09 September 2024 23:59:59",
-        "party": "victim",
-        "message": "Hello, we are still trying to pull some sample encrypted files to send to you but we are running into a lot of issues because our systems aren't available to grab the files off of. We will hopefully have a file or two tomorrow to send over."
-    },
-    {
-        "timestamp": "Tuesday, 10 September 2024 08:57:22",
-        "party": "fog",
-        "message": "I hope so"
-    },
-    {
-        "timestamp": "Tuesday, 10 September 2024 08:57:29",
-        "party": "fog",
-        "message": "I cant wait more"
-    },
-    {
-        "timestamp": "Tuesday, 10 September 2024 13:35:13",
-        "party": "victim",
-        "message": "Ok, we will have those files over today."
-    },
-    {
-        "timestamp": "Tuesday, 10 September 2024 14:02:13",
-        "party": "fog",
-        "message": "I wait"
-    },
-    {
-        "timestamp": "Wednesday, 11 September 2024 13:49:27",
-        "party": "victim",
-        "message": "[provides 3 encrypted files]\nPlease see the attached files."
-    },
-    {
-        "timestamp": "Wednesday, 11 September 2024 14:06:55",
-        "party": "fog",
-        "message": "[provides 2 decrypted files]"
-    },
-    {
-        "timestamp": "Admin 14:42:56",
-        "party": "fog",
-        "message": "its time to perform payment"
-    },
-    {
-        "timestamp": "Thursday, 12 September 2024 01:04:56",
-        "party": "victim",
-        "message": "Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you\u2019ve given us and while we want to get this resolved, we simply don\u2019t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?"
-    },
-    {
-        "timestamp": "Thursday, 12 September 2024 10:05:00",
-        "party": "fog",
-        "message": "if you  make payment by Saturday evening I can take 255k to get to a resolution"
-    },
-    {
-        "timestamp": "Thursday, 12 September 2024 23:25:23",
-        "party": "victim",
-        "message": "Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you\u2019ve given us and while we want to get this resolved, we simply don\u2019t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?"
-    },
-    {
-        "timestamp": "Friday, 13 September 2024 08:28:37",
-        "party": "fog",
-        "message": "if you make payment today evening I can take 255k to get to a resolution"
-    },
-    {
-        "timestamp": "Monday, 16 September 2024 13:32:42",
-        "party": "victim",
-        "message": "Thank you for the reduction, but even at that number it\u2019s more than we have on hand. Can you please give us a number that we can take back to the firm\u2019s leadership and see what can be done?"
-    },
-    {
-        "timestamp": "Monday, 16 September 2024 14:41:41",
-        "party": "fog",
-        "message": "what did you leadership said about 255k?"
-    },
-    {
-        "timestamp": "Monday, 16 September 2024 14:42:30",
-        "party": "fog",
-        "message": "what do you have on hand?"
-    },
-    {
-        "timestamp": "Wednesday, 25 September 2024 14:28:27",
-        "party": "fog",
-        "message": "I see"
-    },
-    {
-        "timestamp": "Wednesday, 25 September 2024 14:29:22",
-        "party": "fog",
-        "message": "I will leak your files"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 13:18:41",
-        "party": "victim",
-        "message": "We are still interested in getting a decryptor to unlock a small portion of our data, but it\u2019s not nearly worth 255,000. What is the lowest number you will take?"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 14:19:51",
-        "party": "fog",
-        "message": "I will wake 255k"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 14:20:07",
-        "party": "fog",
-        "message": "what is it worth?"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 14:20:16",
-        "party": "fog",
-        "message": "what would you say?"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 14:34:22",
-        "party": "victim",
-        "message": "Hello, we are willing to pay 25,000 so we can both move on from this. That\u2019s about what it would take for us to just completely reconstitute the data anyway."
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 15:01:32",
-        "party": "fog",
-        "message": "how much would it take for you to keep this situation secret?"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 16:36:05",
-        "party": "victim",
-        "message": "$25,000 is what we have and could send you as soon as possible"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:34:58",
-        "party": "fog",
-        "message": "you don't care if your files leaked?"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:35:11",
-        "party": "fog",
-        "message": "no I don't take 25k"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:35:37",
-        "party": "fog",
-        "message": "I can take 150k if you need decrypter only"
-    },
-    {
-        "timestamp": "Wednesday, 16 October 2024 16:50:19",
-        "party": "victim",
-        "message": "While we appreciate the reduction for just the decryptor, we would also like for our data to be deleted from your possession and for proof of that being deleted. We can come up on our price, but we don\u2019t have what you are asking for. We can do $60k that we can send immediately, and is more than double what we offered before. But that\u2019s all we have onhand to send. Please consider our offer and we will get the process started of sending that money over to you."
-    },
-    {
-        "timestamp": "Wednesday, 16 October 2024 17:23:38",
-        "party": "fog",
-        "message": "$200,000 for data deletion and unlockers. You have the last chance"
-    },
-    {
-        "timestamp": "Saturday, 26 October 2024 20:09:12",
-        "party": "victim",
-        "message": "Hello, it\u2019s taken us quite a while, but we have been able to source an additional 40,000 and we can now offer you 100,000 to get this done as soon as possible. This has been very stressful for us and we have exhausted all avenues of getting additional funding. If you accept, we will get the process started to send the money to you ASAP."
-    },
-    {
-        "timestamp": "Sunday, 27 October 2024 08:52:28",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Sunday, 27 October 2024 08:54:39",
-        "party": "fog",
-        "message": "I cannot accept this for both data and unlockers but ok I can accept that for unlockers only"
-    },
-    {
-        "timestamp": "Sunday, 27 October 2024 08:54:49",
-        "party": "fog",
-        "message": "175k for everything would let me get it resolved today"
-    },
-    {
-        "timestamp": "Wednesday, 30 October 2024 12:23:39",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Wednesday, 30 October 2024 12:26:36",
-        "party": "fog",
-        "message": "are you leaving me?"
-    },
-    {
-        "timestamp": "Thursday, 31 October 2024 14:49:23",
-        "party": "victim",
-        "message": "Honestly, it's taken us this long just to collect what we've been able to collect and at the price that you're wanting, we'd just rather put the extra 75k into rebuilding the data we're missing. We've been trying to come to an agreement here, but we've exhausted all options and this is what we have."
-    },
-    {
-        "timestamp": "Thursday, 31 October 2024 15:02:54",
-        "party": "fog",
-        "message": "Does it mean our deal is off?"
-    },
-    {
-        "timestamp": "Thursday, 31 October 2024 15:03:25",
-        "party": "fog",
-        "message": "Do you understand that your files will be leaked?"
-    },
-    {
-        "timestamp": "Tuesday, 05 November 2024 13:32:00",
-        "party": "fog",
-        "message": "http://[redacted].onion/posts/[redacted]/"
-    },
-    {
-        "timestamp": "Tuesday, 05 November 2024 17:35:37",
-        "party": "victim",
-        "message": "Hello, the deal is not off. We have offered what we think is a generous offer to have a small portion of our data unlocked that we weren\u2019t able to retrieve from backups. If you are going to walk away from 100,000 just to release our data, then we will have no choice but to reconstruct the data with that 100,000 and move on."
-    },
-    {
-        "timestamp": "Tuesday, 05 November 2024 18:03:59",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Tuesday, 05 November 2024 18:04:17",
-        "party": "fog",
-        "message": "ok send 100k here [redacted] and we get this resolved"
-    },
-    {
-        "timestamp": "Tuesday, 05 November 2024 18:04:27",
-        "party": "fog",
-        "message": "tell me when ready to send"
-    },
-    {
-        "timestamp": "Wednesday, 06 November 2024 17:18:51",
-        "party": "victim",
-        "message": "We are in the process of converting the funds now. I will reach back out once we have that process complete. Just so we are clear, you will provide us with a decryptor, proof of you deleting our data, and a report on how you got into our network?"
-    },
-    {
-        "timestamp": "Wednesday, 06 November 2024 19:06:05",
-        "party": "fog",
-        "message": "Yes, we will provide you with everything you outlined."
-    },
-    {
-        "timestamp": "Friday, 08 November 2024 16:30:25",
-        "party": "fog",
-        "message": "Hello. How long should I wait? Next week I will have to leak your files."
-    },
-    {
-        "timestamp": "Saturday, 09 November 2024 18:24:46",
-        "party": "victim",
-        "message": "Payment has been made. Can you please provide the items as soon as possible?"
-    },
-    {
-        "timestamp": "Saturday, 09 November 2024 19:07:52",
-        "party": "fog",
-        "message": "received. wait please"
-    },
-    {
-        "timestamp": "Wednesday, 13 November 2024 14:30:32",
-        "party": "victim",
-        "message": "Hello, can you please provide the items to us?"
-    },
-    {
-        "timestamp": "Admin 14:43:43",
-        "party": "fog",
-        "message": "Windows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\\n\nEsxi \\ LINUX\nchmod +x unlocker_key\n./unlocker_key --id [redacted] --log --target \"/vmfs/volumes/\""
-    },
-    {
-        "timestamp": "Sunday, 24 November 2024 22:52:40",
-        "party": "victim",
-        "message": "Can you help us out with some files that don't see to be decrypting? I've attached them."
-    },
-    {
-        "timestamp": "Monday, 25 November 2024 09:44:09",
-        "party": "fog",
-        "message": "wait"
-    },
-    {
-        "timestamp": "Monday, 25 November 2024 14:32:18",
-        "party": "victim",
-        "message": "The decryptor that we have isn't working on these files. Can you send me a decryptor that works?"
-    },
-    {
-        "timestamp": "Monday, 25 November 2024 14:50:28",
-        "party": "fog",
-        "message": "Give us error logs and explain your actions in more details."
-    },
-    {
-        "timestamp": "Tuesday, 26 November 2024 14:22:26",
-        "party": "victim",
-        "message": "These are the best logs we can find."
-    },
-    {
-        "timestamp": "Tuesday, 26 November 2024 14:24:02",
-        "party": "victim",
-        "message": "We're just attempting to run the decryptor and it's simply not decrypting some of the files."
-    },
-    {
-        "timestamp": "Tuesday, 26 November 2024 16:44:33",
-        "party": "fog",
-        "message": "wait"
-    },
-    {
-        "timestamp": "Tuesday, 26 November 2024 16:46:09",
-        "party": "fog",
-        "message": "are you trying to decrypt files on windows?"
-    },
-    {
-        "timestamp": "Tuesday, 26 November 2024 20:20:24",
-        "party": "victim",
-        "message": "Yes"
-    },
-    {
-        "timestamp": "Wednesday, 27 November 2024 12:27:26",
-        "party": "fog",
-        "message": "the problem is the path to files is too long"
-    },
-    {
-        "timestamp": "Wednesday, 27 November 2024 12:28:23",
-        "party": "fog",
-        "message": "the decrypter works correctly"
-    },
-    {
-        "timestamp": "Wednesday, 27 November 2024 12:28:55",
-        "party": "fog",
-        "message": "try to fix files in a different folder"
-    },
-    {
-        "timestamp": "Wednesday, 27 November 2024 16:19:10",
-        "party": "victim",
-        "message": "We shortened the path and it's still not working"
-    },
-    {
-        "timestamp": "Wednesday, 27 November 2024 19:32:06",
-        "party": "fog",
-        "message": "give us the log as well"
-    }
-]
+{
+    "chat_id": "20240830",
+    "messages": [
+        {
+            "timestamp": "Friday, 30 August 2024 16:56:22",
+            "party": "victim",
+            "content": "We have found what appears to be your notes on our systems with links that we have followed here. What are the next steps and what is going on?"
+        },
+        {
+            "timestamp": "Friday, 30 August 2024 17:35:20",
+            "party": "fog",
+            "content": "Hello. Wait please. I'll get back with details."
+        },
+        {
+            "timestamp": "Sunday, 01 September 2024 16:57:05",
+            "party": "victim",
+            "content": "Hello? Any news?"
+        },
+        {
+            "timestamp": "Monday, 02 September 2024 07:47:38",
+            "party": "fog",
+            "content": "[provides a plain TXT files list]\nthat's what's been taken from your network"
+        },
+        {
+            "timestamp": "Monday, 02 September 2024 13:45:34",
+            "party": "fog",
+            "content": "We can decrypt your systems in a couple of hours for only $290,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free."
+        },
+        {
+            "timestamp": "Wednesday, 04 September 2024 19:37:39",
+            "party": "victim",
+            "content": "Can you send us the files from the list we have provided below?\n08/29/2024  04:28 AM            98,075 [redacted].pdf\n08/29/2024  06:59 AM               165 [redacted].xlsx\n08/29/2024  03:50 AM            15,571 [redacted].xlsx\n08/29/2024  03:59 AM            28,381 [redacted].docx\n08/29/2024  04:01 AM            32,193 [redacted].pdf"
+        },
+        {
+            "timestamp": "Wednesday, 04 September 2024 20:11:55",
+            "party": "fog",
+            "content": "[provides a 7zip compressed archive]"
+        },
+        {
+            "timestamp": "Sunday, 08 September 2024 13:19:56",
+            "party": "victim",
+            "content": "Hello, we are still working on gathering encrypted files small enough to send over to you, but it's almost impossible to find any due to the way all of our systems were locked up in the first place. We hope to have something soon, but we will reach back out once we do."
+        },
+        {
+            "timestamp": "Sunday, 08 September 2024 14:40:00",
+            "party": "fog",
+            "content": "I can wait until Monday only"
+        },
+        {
+            "timestamp": "Monday, 09 September 2024 23:59:59",
+            "party": "victim",
+            "content": "Hello, we are still trying to pull some sample encrypted files to send to you but we are running into a lot of issues because our systems aren't available to grab the files off of. We will hopefully have a file or two tomorrow to send over."
+        },
+        {
+            "timestamp": "Tuesday, 10 September 2024 08:57:22",
+            "party": "fog",
+            "content": "I hope so"
+        },
+        {
+            "timestamp": "Tuesday, 10 September 2024 08:57:29",
+            "party": "fog",
+            "content": "I cant wait more"
+        },
+        {
+            "timestamp": "Tuesday, 10 September 2024 13:35:13",
+            "party": "victim",
+            "content": "Ok, we will have those files over today."
+        },
+        {
+            "timestamp": "Tuesday, 10 September 2024 14:02:13",
+            "party": "fog",
+            "content": "I wait"
+        },
+        {
+            "timestamp": "Wednesday, 11 September 2024 13:49:27",
+            "party": "victim",
+            "content": "[provides 3 encrypted files]\nPlease see the attached files."
+        },
+        {
+            "timestamp": "Wednesday, 11 September 2024 14:06:55",
+            "party": "fog",
+            "content": "[provides 2 decrypted files]"
+        },
+        {
+            "timestamp": "Admin 14:42:56",
+            "party": "fog",
+            "content": "its time to perform payment"
+        },
+        {
+            "timestamp": "Thursday, 12 September 2024 01:04:56",
+            "party": "victim",
+            "content": "Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you\u2019ve given us and while we want to get this resolved, we simply don\u2019t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?"
+        },
+        {
+            "timestamp": "Thursday, 12 September 2024 10:05:00",
+            "party": "fog",
+            "content": "if you  make payment by Saturday evening I can take 255k to get to a resolution"
+        },
+        {
+            "timestamp": "Thursday, 12 September 2024 23:25:23",
+            "party": "victim",
+            "content": "Hello, thank you for your patience to this point as we try and navigate our way through this. We have been working at verifying and reviewing everything you\u2019ve given us and while we want to get this resolved, we simply don\u2019t have 290,000 to send you. Is there any discount from you to be had so that we can maybe get this to some sort of resolution with you?"
+        },
+        {
+            "timestamp": "Friday, 13 September 2024 08:28:37",
+            "party": "fog",
+            "content": "if you make payment today evening I can take 255k to get to a resolution"
+        },
+        {
+            "timestamp": "Monday, 16 September 2024 13:32:42",
+            "party": "victim",
+            "content": "Thank you for the reduction, but even at that number it\u2019s more than we have on hand. Can you please give us a number that we can take back to the firm\u2019s leadership and see what can be done?"
+        },
+        {
+            "timestamp": "Monday, 16 September 2024 14:41:41",
+            "party": "fog",
+            "content": "what did you leadership said about 255k?"
+        },
+        {
+            "timestamp": "Monday, 16 September 2024 14:42:30",
+            "party": "fog",
+            "content": "what do you have on hand?"
+        },
+        {
+            "timestamp": "Wednesday, 25 September 2024 14:28:27",
+            "party": "fog",
+            "content": "I see"
+        },
+        {
+            "timestamp": "Wednesday, 25 September 2024 14:29:22",
+            "party": "fog",
+            "content": "I will leak your files"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 13:18:41",
+            "party": "victim",
+            "content": "We are still interested in getting a decryptor to unlock a small portion of our data, but it\u2019s not nearly worth 255,000. What is the lowest number you will take?"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 14:19:51",
+            "party": "fog",
+            "content": "I will wake 255k"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 14:20:07",
+            "party": "fog",
+            "content": "what is it worth?"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 14:20:16",
+            "party": "fog",
+            "content": "what would you say?"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 14:34:22",
+            "party": "victim",
+            "content": "Hello, we are willing to pay 25,000 so we can both move on from this. That\u2019s about what it would take for us to just completely reconstitute the data anyway."
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 15:01:32",
+            "party": "fog",
+            "content": "how much would it take for you to keep this situation secret?"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 16:36:05",
+            "party": "victim",
+            "content": "$25,000 is what we have and could send you as soon as possible"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:34:58",
+            "party": "fog",
+            "content": "you don't care if your files leaked?"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:35:11",
+            "party": "fog",
+            "content": "no I don't take 25k"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:35:37",
+            "party": "fog",
+            "content": "I can take 150k if you need decrypter only"
+        },
+        {
+            "timestamp": "Wednesday, 16 October 2024 16:50:19",
+            "party": "victim",
+            "content": "While we appreciate the reduction for just the decryptor, we would also like for our data to be deleted from your possession and for proof of that being deleted. We can come up on our price, but we don\u2019t have what you are asking for. We can do $60k that we can send immediately, and is more than double what we offered before. But that\u2019s all we have onhand to send. Please consider our offer and we will get the process started of sending that money over to you."
+        },
+        {
+            "timestamp": "Wednesday, 16 October 2024 17:23:38",
+            "party": "fog",
+            "content": "$200,000 for data deletion and unlockers. You have the last chance"
+        },
+        {
+            "timestamp": "Saturday, 26 October 2024 20:09:12",
+            "party": "victim",
+            "content": "Hello, it\u2019s taken us quite a while, but we have been able to source an additional 40,000 and we can now offer you 100,000 to get this done as soon as possible. This has been very stressful for us and we have exhausted all avenues of getting additional funding. If you accept, we will get the process started to send the money to you ASAP."
+        },
+        {
+            "timestamp": "Sunday, 27 October 2024 08:52:28",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Sunday, 27 October 2024 08:54:39",
+            "party": "fog",
+            "content": "I cannot accept this for both data and unlockers but ok I can accept that for unlockers only"
+        },
+        {
+            "timestamp": "Sunday, 27 October 2024 08:54:49",
+            "party": "fog",
+            "content": "175k for everything would let me get it resolved today"
+        },
+        {
+            "timestamp": "Wednesday, 30 October 2024 12:23:39",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Wednesday, 30 October 2024 12:26:36",
+            "party": "fog",
+            "content": "are you leaving me?"
+        },
+        {
+            "timestamp": "Thursday, 31 October 2024 14:49:23",
+            "party": "victim",
+            "content": "Honestly, it's taken us this long just to collect what we've been able to collect and at the price that you're wanting, we'd just rather put the extra 75k into rebuilding the data we're missing. We've been trying to come to an agreement here, but we've exhausted all options and this is what we have."
+        },
+        {
+            "timestamp": "Thursday, 31 October 2024 15:02:54",
+            "party": "fog",
+            "content": "Does it mean our deal is off?"
+        },
+        {
+            "timestamp": "Thursday, 31 October 2024 15:03:25",
+            "party": "fog",
+            "content": "Do you understand that your files will be leaked?"
+        },
+        {
+            "timestamp": "Tuesday, 05 November 2024 13:32:00",
+            "party": "fog",
+            "content": "http://[redacted].onion/posts/[redacted]/"
+        },
+        {
+            "timestamp": "Tuesday, 05 November 2024 17:35:37",
+            "party": "victim",
+            "content": "Hello, the deal is not off. We have offered what we think is a generous offer to have a small portion of our data unlocked that we weren\u2019t able to retrieve from backups. If you are going to walk away from 100,000 just to release our data, then we will have no choice but to reconstruct the data with that 100,000 and move on."
+        },
+        {
+            "timestamp": "Tuesday, 05 November 2024 18:03:59",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Tuesday, 05 November 2024 18:04:17",
+            "party": "fog",
+            "content": "ok send 100k here [redacted] and we get this resolved"
+        },
+        {
+            "timestamp": "Tuesday, 05 November 2024 18:04:27",
+            "party": "fog",
+            "content": "tell me when ready to send"
+        },
+        {
+            "timestamp": "Wednesday, 06 November 2024 17:18:51",
+            "party": "victim",
+            "content": "We are in the process of converting the funds now. I will reach back out once we have that process complete. Just so we are clear, you will provide us with a decryptor, proof of you deleting our data, and a report on how you got into our network?"
+        },
+        {
+            "timestamp": "Wednesday, 06 November 2024 19:06:05",
+            "party": "fog",
+            "content": "Yes, we will provide you with everything you outlined."
+        },
+        {
+            "timestamp": "Friday, 08 November 2024 16:30:25",
+            "party": "fog",
+            "content": "Hello. How long should I wait? Next week I will have to leak your files."
+        },
+        {
+            "timestamp": "Saturday, 09 November 2024 18:24:46",
+            "party": "victim",
+            "content": "Payment has been made. Can you please provide the items as soon as possible?"
+        },
+        {
+            "timestamp": "Saturday, 09 November 2024 19:07:52",
+            "party": "fog",
+            "content": "received. wait please"
+        },
+        {
+            "timestamp": "Wednesday, 13 November 2024 14:30:32",
+            "party": "victim",
+            "content": "Hello, can you please provide the items to us?"
+        },
+        {
+            "timestamp": "Admin 14:43:43",
+            "party": "fog",
+            "content": "Windows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\\n\nEsxi \\ LINUX\nchmod +x unlocker_key\n./unlocker_key --id [redacted] --log --target \"/vmfs/volumes/\""
+        },
+        {
+            "timestamp": "Sunday, 24 November 2024 22:52:40",
+            "party": "victim",
+            "content": "Can you help us out with some files that don't see to be decrypting? I've attached them."
+        },
+        {
+            "timestamp": "Monday, 25 November 2024 09:44:09",
+            "party": "fog",
+            "content": "wait"
+        },
+        {
+            "timestamp": "Monday, 25 November 2024 14:32:18",
+            "party": "victim",
+            "content": "The decryptor that we have isn't working on these files. Can you send me a decryptor that works?"
+        },
+        {
+            "timestamp": "Monday, 25 November 2024 14:50:28",
+            "party": "fog",
+            "content": "Give us error logs and explain your actions in more details."
+        },
+        {
+            "timestamp": "Tuesday, 26 November 2024 14:22:26",
+            "party": "victim",
+            "content": "These are the best logs we can find."
+        },
+        {
+            "timestamp": "Tuesday, 26 November 2024 14:24:02",
+            "party": "victim",
+            "content": "We're just attempting to run the decryptor and it's simply not decrypting some of the files."
+        },
+        {
+            "timestamp": "Tuesday, 26 November 2024 16:44:33",
+            "party": "fog",
+            "content": "wait"
+        },
+        {
+            "timestamp": "Tuesday, 26 November 2024 16:46:09",
+            "party": "fog",
+            "content": "are you trying to decrypt files on windows?"
+        },
+        {
+            "timestamp": "Tuesday, 26 November 2024 20:20:24",
+            "party": "victim",
+            "content": "Yes"
+        },
+        {
+            "timestamp": "Wednesday, 27 November 2024 12:27:26",
+            "party": "fog",
+            "content": "the problem is the path to files is too long"
+        },
+        {
+            "timestamp": "Wednesday, 27 November 2024 12:28:23",
+            "party": "fog",
+            "content": "the decrypter works correctly"
+        },
+        {
+            "timestamp": "Wednesday, 27 November 2024 12:28:55",
+            "party": "fog",
+            "content": "try to fix files in a different folder"
+        },
+        {
+            "timestamp": "Wednesday, 27 November 2024 16:19:10",
+            "party": "victim",
+            "content": "We shortened the path and it's still not working"
+        },
+        {
+            "timestamp": "Wednesday, 27 November 2024 19:32:06",
+            "party": "fog",
+            "content": "give us the log as well"
+        }
+    ]
+}
