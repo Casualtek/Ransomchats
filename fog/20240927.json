@@ -1,302 +1,305 @@
-[
-    {
-        "timestamp": "Friday, 27 September 2024 13:24:06",
-        "party": "victim",
-        "message": "Hello, we found several of our systems encrypted with your ransomware. Can we talk about resolving this?"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 14:06:37",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 14:07:03",
-        "party": "fog",
-        "message": "I will give you details soon and we will talk"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 14:15:28",
-        "party": "fog",
-        "message": "[provides a compressed RAR files list]\nthis is what's been taken"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 16:36:06",
-        "party": "victim",
-        "message": "We will need some time to take a look at this. In the mean time how would we get our systems decrypted?"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 22:14:03",
-        "party": "fog",
-        "message": "when you pay you receive decrypter to fix your systems"
-    },
-    {
-        "timestamp": "Friday, 27 September 2024 22:14:25",
-        "party": "fog",
-        "message": "I will tell you the price for decrypter soon"
-    },
-    {
-        "timestamp": "Sunday, 29 September 2024 19:12:47",
-        "party": "victim",
-        "message": "How much would the decrypter cost? Can you confirm that our files would be deleted from your servers and that you will not publish our name or share the data?"
-    },
-    {
-        "timestamp": "Sunday, 29 September 2024 20:55:39",
-        "party": "fog",
-        "message": "yes I can confirm your files will be deleted and your name will not be published"
-    },
-    {
-        "timestamp": "Sunday, 29 September 2024 20:56:09",
-        "party": "fog",
-        "message": "I will tell you price soon"
-    },
-    {
-        "timestamp": "Tuesday, 01 October 2024 11:24:46",
-        "party": "fog",
-        "message": "If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. The bosses are demanding $800,000 for said services."
-    },
-    {
-        "timestamp": "Wednesday, 02 October 2024 12:47:10",
-        "party": "fog",
-        "message": "Do we work?"
-    },
-    {
-        "timestamp": "Wednesday, 02 October 2024 15:17:22",
-        "party": "victim",
-        "message": "$800,000 is too high. We are looking to reach an agreement and can offer $150,000 to get this finished quickly."
-    },
-    {
-        "timestamp": "Wednesday, 02 October 2024 15:47:34",
-        "party": "fog",
-        "message": "There's no way we're going to agree to that amount. I don't think we can even give you a $150,000 discount. our demand is more than reasonable in your case. I will talk to the bosses"
-    },
-    {
-        "timestamp": "Wednesday, 02 October 2024 20:15:53",
-        "party": "fog",
-        "message": "bosses agreed to take 715k for everything"
-    },
-    {
-        "timestamp": "Thursday, 03 October 2024 16:10:09",
-        "party": "victim",
-        "message": "How do we know the decrypter will work? Could you decrypt some files for us so we can be sure this will work on our systems"
-    },
-    {
-        "timestamp": "Thursday, 03 October 2024 16:13:58",
-        "party": "fog",
-        "message": "yes"
-    },
-    {
-        "timestamp": "Thursday, 03 October 2024 16:16:09",
-        "party": "fog",
-        "message": "give me a few"
-    },
-    {
-        "timestamp": "Admin 18:46:52",
-        "party": "victim",
-        "message": "[provides a zip archive of files to decrypt]\nthere are a few small encrypted files in here"
-    },
-    {
-        "timestamp": "Friday, 04 October 2024 08:16:51",
-        "party": "fog",
-        "message": "give me some time"
-    },
-    {
-        "timestamp": "Friday, 04 October 2024 09:57:54",
-        "party": "fog",
-        "message": "[provides 5 decrypted files]"
-    },
-    {
-        "timestamp": "Saturday, 05 October 2024 13:54:06",
-        "party": "victim",
-        "message": "Thank you. Our business isn't doing as well as we used to and we don't have insurance to cover this. We can't afford anywhere near that amount. We would still like to resolve this, but it needs to be close to our previous offer"
-    },
-    {
-        "timestamp": "Saturday, 05 October 2024 16:35:23",
-        "party": "fog",
-        "message": "I cant close the case at your previous offer"
-    },
-    {
-        "timestamp": "Saturday, 05 October 2024 16:36:35",
-        "party": "fog",
-        "message": "you need to add something to your offer"
-    },
-    {
-        "timestamp": "Monday, 07 October 2024 10:39:33",
-        "party": "victim",
-        "message": "Cash is really tight for us, we are doing all we can but can only raise our offer to $175,000."
-    },
-    {
-        "timestamp": "Monday, 07 October 2024 11:30:12",
-        "party": "fog",
-        "message": "I talked to the bosses. $500,000 and we can end this today. I don't think that you will get any better deal"
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 15:27:22",
-        "party": "victim",
-        "message": "We simply cannot afford that.\u00a0We have rebuilt most of our systems without the decrypter. Can we agree at $200,000 today?"
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 16:09:59",
-        "party": "fog",
-        "message": "bosses agree to take 350k today"
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 16:10:24",
-        "party": "fog",
-        "message": "this is the best bet price for the situation"
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 16:10:51",
-        "party": "fog",
-        "message": "tell me when ready to make payment"
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 22:09:49",
-        "party": "fog",
-        "message": "just take one last step, and we'll put this behind us."
-    },
-    {
-        "timestamp": "Tuesday, 08 October 2024 22:14:01",
-        "party": "fog",
-        "message": "bosses can take one last step and decrease to 300k. the wallet is [redacted]"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 19:05:01",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 19:05:12",
-        "party": "fog",
-        "message": "are you leaving me?"
-    },
-    {
-        "timestamp": "Wednesday, 09 October 2024 19:06:14",
-        "party": "fog",
-        "message": "tell me should I wait the money today or what"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 11:40:41",
-        "party": "fog",
-        "message": "I need your decision guys."
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 11:40:56",
-        "party": "fog",
-        "message": "this week we have to close your case"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 16:40:18",
-        "party": "victim",
-        "message": "We can't go that high, we can offer $225,000"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:42:18",
-        "party": "fog",
-        "message": "I can't take 225k"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:43:06",
-        "party": "fog",
-        "message": "confirm 250k to me and I will make my bosses take the offer 250k"
-    },
-    {
-        "timestamp": "Thursday, 10 October 2024 18:43:25",
-        "party": "fog",
-        "message": "we can do that today only"
-    },
-    {
-        "timestamp": "Friday, 11 October 2024 12:00:52",
-        "party": "fog",
-        "message": "hello. what is your decision?"
-    },
-    {
-        "timestamp": "Friday, 11 October 2024 14:52:25",
-        "party": "victim",
-        "message": "ok we will pay $250,0000, can you confirm you will provide a decrypter and you will delete all our data? We will need some time to arrange the payment"
-    },
-    {
-        "timestamp": "Friday, 11 October 2024 15:48:03",
-        "party": "fog",
-        "message": "I can confirm that you will receive the .exe files that you will need to run on your systems (win or esxi) to decrypt your files. We guarantee that you will be able to recover all the encrypted data. We will give you a deletion log file which means the files we stole .were removed from our source."
-    },
-    {
-        "timestamp": "Friday, 11 October 2024 15:49:09",
-        "party": "fog",
-        "message": "Please let me know when the money has been sent"
-    },
-    {
-        "timestamp": "Saturday, 12 October 2024 10:15:05",
-        "party": "fog",
-        "message": "hi"
-    },
-    {
-        "timestamp": "Saturday, 12 October 2024 10:15:34",
-        "party": "fog",
-        "message": "can you tell me when are you going to make payment?"
-    },
-    {
-        "timestamp": "Monday, 14 October 2024 18:36:15",
-        "party": "victim",
-        "message": "we are sending a small amount to check it works ok. Can you confirm when you receive it?"
-    },
-    {
-        "timestamp": "Monday, 14 October 2024 18:58:26",
-        "party": "fog",
-        "message": "yes send please"
-    },
-    {
-        "timestamp": "Monday, 14 October 2024 20:46:27",
-        "party": "fog",
-        "message": "I received 0.0001 btc. you can send the full amount now"
-    },
-    {
-        "timestamp": "Tuesday, 15 October 2024 14:53:17",
-        "party": "victim",
-        "message": "we are arranging the bitcoin for the full amount and will let you know when we are making the payment"
-    },
-    {
-        "timestamp": "Tuesday, 15 October 2024 15:03:10",
-        "party": "fog",
-        "message": "waiting, thanks"
-    },
-    {
-        "timestamp": "Tuesday, 15 October 2024 17:27:42",
-        "party": "victim",
-        "message": "we've sent the payment"
-    },
-    {
-        "timestamp": "Admin 18:20:08",
-        "party": "fog",
-        "message": "[provides the decryptor in a 7zip compressed file]\nWindows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\\n\nEsxi \\ LINUX\nchmod +x unlocker_key\n./unlocker_key --id [redacted] --log --target \"/vmfs/volumes/\""
-    },
-    {
-        "timestamp": "Monday, 21 October 2024 09:51:08",
-        "party": "victim",
-        "message": "Hi, we are working through recovering our systems but we cannot access our domain controller as you have changed the administrator password. Please could you tell us what the password for the domain administrator account was changed to?"
-    },
-    {
-        "timestamp": "Monday, 21 October 2024 09:56:03",
-        "party": "fog",
-        "message": "all domain admins passwords \"gotochatplease\""
-    },
-    {
-        "timestamp": "Wednesday, 30 October 2024 09:17:47",
-        "party": "victim",
-        "message": "Can you still provide us a report on how you got access into our network?  Also can you confirm you have deleted all our data now?"
-    },
-    {
-        "timestamp": "Wednesday, 30 October 2024 10:07:59",
-        "party": "fog",
-        "message": "I will tell you soon"
-    },
-    {
-        "timestamp": "Monday, 04 November 2024 09:10:19",
-        "party": "victim",
-        "message": "Do you have any update please?"
-    },
-    {
-        "timestamp": "Monday, 04 November 2024 10:14:29",
-        "party": "fog",
-        "message": "You data has been deleted. Access to your network was gained through a phishing mail. Your staff should be more vigilant when downloading and opening unfamiliar files. We recommend that you implement the following measures to protect your corporate network:\n1) Enforce passwords on local and domain admins. Complicate group policy on passwords for all users;\n2) Using the group \"Protected users\";\n3) Use centralised management of antivirus protection;\n4) Inform users not to open suspicious emails and files;\n5) Updating software and OS to current versions;\n6) Set up permission delegations in the Active Directory;\n7) Install an application to monitor activity in the Active Directory;\n8) Use Vmware Esxi ver. 7.0 or more current.\nOur team guarantees that any data taken from your network will not be disclosed, sold or published. Of course, this dialogue will also remain confidential."
-    }
-]
+{
+    "chat_id": "20240927",
+    "messages": [
+        {
+            "timestamp": "Friday, 27 September 2024 13:24:06",
+            "party": "victim",
+            "content": "Hello, we found several of our systems encrypted with your ransomware. Can we talk about resolving this?"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 14:06:37",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 14:07:03",
+            "party": "fog",
+            "content": "I will give you details soon and we will talk"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 14:15:28",
+            "party": "fog",
+            "content": "[provides a compressed RAR files list]\nthis is what's been taken"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 16:36:06",
+            "party": "victim",
+            "content": "We will need some time to take a look at this. In the mean time how would we get our systems decrypted?"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 22:14:03",
+            "party": "fog",
+            "content": "when you pay you receive decrypter to fix your systems"
+        },
+        {
+            "timestamp": "Friday, 27 September 2024 22:14:25",
+            "party": "fog",
+            "content": "I will tell you the price for decrypter soon"
+        },
+        {
+            "timestamp": "Sunday, 29 September 2024 19:12:47",
+            "party": "victim",
+            "content": "How much would the decrypter cost? Can you confirm that our files would be deleted from your servers and that you will not publish our name or share the data?"
+        },
+        {
+            "timestamp": "Sunday, 29 September 2024 20:55:39",
+            "party": "fog",
+            "content": "yes I can confirm your files will be deleted and your name will not be published"
+        },
+        {
+            "timestamp": "Sunday, 29 September 2024 20:56:09",
+            "party": "fog",
+            "content": "I will tell you price soon"
+        },
+        {
+            "timestamp": "Tuesday, 01 October 2024 11:24:46",
+            "party": "fog",
+            "content": "If you want your data fully decrypted and the files we stole removed from our source, you will have to pay a fee. We will also be able to provide a security report and explain how we did it to get in. The bosses are demanding $800,000 for said services."
+        },
+        {
+            "timestamp": "Wednesday, 02 October 2024 12:47:10",
+            "party": "fog",
+            "content": "Do we work?"
+        },
+        {
+            "timestamp": "Wednesday, 02 October 2024 15:17:22",
+            "party": "victim",
+            "content": "$800,000 is too high. We are looking to reach an agreement and can offer $150,000 to get this finished quickly."
+        },
+        {
+            "timestamp": "Wednesday, 02 October 2024 15:47:34",
+            "party": "fog",
+            "content": "There's no way we're going to agree to that amount. I don't think we can even give you a $150,000 discount. our demand is more than reasonable in your case. I will talk to the bosses"
+        },
+        {
+            "timestamp": "Wednesday, 02 October 2024 20:15:53",
+            "party": "fog",
+            "content": "bosses agreed to take 715k for everything"
+        },
+        {
+            "timestamp": "Thursday, 03 October 2024 16:10:09",
+            "party": "victim",
+            "content": "How do we know the decrypter will work? Could you decrypt some files for us so we can be sure this will work on our systems"
+        },
+        {
+            "timestamp": "Thursday, 03 October 2024 16:13:58",
+            "party": "fog",
+            "content": "yes"
+        },
+        {
+            "timestamp": "Thursday, 03 October 2024 16:16:09",
+            "party": "fog",
+            "content": "give me a few"
+        },
+        {
+            "timestamp": "Admin 18:46:52",
+            "party": "victim",
+            "content": "[provides a zip archive of files to decrypt]\nthere are a few small encrypted files in here"
+        },
+        {
+            "timestamp": "Friday, 04 October 2024 08:16:51",
+            "party": "fog",
+            "content": "give me some time"
+        },
+        {
+            "timestamp": "Friday, 04 October 2024 09:57:54",
+            "party": "fog",
+            "content": "[provides 5 decrypted files]"
+        },
+        {
+            "timestamp": "Saturday, 05 October 2024 13:54:06",
+            "party": "victim",
+            "content": "Thank you. Our business isn't doing as well as we used to and we don't have insurance to cover this. We can't afford anywhere near that amount. We would still like to resolve this, but it needs to be close to our previous offer"
+        },
+        {
+            "timestamp": "Saturday, 05 October 2024 16:35:23",
+            "party": "fog",
+            "content": "I cant close the case at your previous offer"
+        },
+        {
+            "timestamp": "Saturday, 05 October 2024 16:36:35",
+            "party": "fog",
+            "content": "you need to add something to your offer"
+        },
+        {
+            "timestamp": "Monday, 07 October 2024 10:39:33",
+            "party": "victim",
+            "content": "Cash is really tight for us, we are doing all we can but can only raise our offer to $175,000."
+        },
+        {
+            "timestamp": "Monday, 07 October 2024 11:30:12",
+            "party": "fog",
+            "content": "I talked to the bosses. $500,000 and we can end this today. I don't think that you will get any better deal"
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 15:27:22",
+            "party": "victim",
+            "content": "We simply cannot afford that.\u00a0We have rebuilt most of our systems without the decrypter. Can we agree at $200,000 today?"
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 16:09:59",
+            "party": "fog",
+            "content": "bosses agree to take 350k today"
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 16:10:24",
+            "party": "fog",
+            "content": "this is the best bet price for the situation"
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 16:10:51",
+            "party": "fog",
+            "content": "tell me when ready to make payment"
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 22:09:49",
+            "party": "fog",
+            "content": "just take one last step, and we'll put this behind us."
+        },
+        {
+            "timestamp": "Tuesday, 08 October 2024 22:14:01",
+            "party": "fog",
+            "content": "bosses can take one last step and decrease to 300k. the wallet is [redacted]"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 19:05:01",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 19:05:12",
+            "party": "fog",
+            "content": "are you leaving me?"
+        },
+        {
+            "timestamp": "Wednesday, 09 October 2024 19:06:14",
+            "party": "fog",
+            "content": "tell me should I wait the money today or what"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 11:40:41",
+            "party": "fog",
+            "content": "I need your decision guys."
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 11:40:56",
+            "party": "fog",
+            "content": "this week we have to close your case"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 16:40:18",
+            "party": "victim",
+            "content": "We can't go that high, we can offer $225,000"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:42:18",
+            "party": "fog",
+            "content": "I can't take 225k"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:43:06",
+            "party": "fog",
+            "content": "confirm 250k to me and I will make my bosses take the offer 250k"
+        },
+        {
+            "timestamp": "Thursday, 10 October 2024 18:43:25",
+            "party": "fog",
+            "content": "we can do that today only"
+        },
+        {
+            "timestamp": "Friday, 11 October 2024 12:00:52",
+            "party": "fog",
+            "content": "hello. what is your decision?"
+        },
+        {
+            "timestamp": "Friday, 11 October 2024 14:52:25",
+            "party": "victim",
+            "content": "ok we will pay $250,0000, can you confirm you will provide a decrypter and you will delete all our data? We will need some time to arrange the payment"
+        },
+        {
+            "timestamp": "Friday, 11 October 2024 15:48:03",
+            "party": "fog",
+            "content": "I can confirm that you will receive the .exe files that you will need to run on your systems (win or esxi) to decrypt your files. We guarantee that you will be able to recover all the encrypted data. We will give you a deletion log file which means the files we stole .were removed from our source."
+        },
+        {
+            "timestamp": "Friday, 11 October 2024 15:49:09",
+            "party": "fog",
+            "content": "Please let me know when the money has been sent"
+        },
+        {
+            "timestamp": "Saturday, 12 October 2024 10:15:05",
+            "party": "fog",
+            "content": "hi"
+        },
+        {
+            "timestamp": "Saturday, 12 October 2024 10:15:34",
+            "party": "fog",
+            "content": "can you tell me when are you going to make payment?"
+        },
+        {
+            "timestamp": "Monday, 14 October 2024 18:36:15",
+            "party": "victim",
+            "content": "we are sending a small amount to check it works ok. Can you confirm when you receive it?"
+        },
+        {
+            "timestamp": "Monday, 14 October 2024 18:58:26",
+            "party": "fog",
+            "content": "yes send please"
+        },
+        {
+            "timestamp": "Monday, 14 October 2024 20:46:27",
+            "party": "fog",
+            "content": "I received 0.0001 btc. you can send the full amount now"
+        },
+        {
+            "timestamp": "Tuesday, 15 October 2024 14:53:17",
+            "party": "victim",
+            "content": "we are arranging the bitcoin for the full amount and will let you know when we are making the payment"
+        },
+        {
+            "timestamp": "Tuesday, 15 October 2024 15:03:10",
+            "party": "fog",
+            "content": "waiting, thanks"
+        },
+        {
+            "timestamp": "Tuesday, 15 October 2024 17:27:42",
+            "party": "victim",
+            "content": "we've sent the payment"
+        },
+        {
+            "timestamp": "Admin 18:20:08",
+            "party": "fog",
+            "content": "[provides the decryptor in a 7zip compressed file]\nWindows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\\n\nEsxi \\ LINUX\nchmod +x unlocker_key\n./unlocker_key --id [redacted] --log --target \"/vmfs/volumes/\""
+        },
+        {
+            "timestamp": "Monday, 21 October 2024 09:51:08",
+            "party": "victim",
+            "content": "Hi, we are working through recovering our systems but we cannot access our domain controller as you have changed the administrator password. Please could you tell us what the password for the domain administrator account was changed to?"
+        },
+        {
+            "timestamp": "Monday, 21 October 2024 09:56:03",
+            "party": "fog",
+            "content": "all domain admins passwords \"gotochatplease\""
+        },
+        {
+            "timestamp": "Wednesday, 30 October 2024 09:17:47",
+            "party": "victim",
+            "content": "Can you still provide us a report on how you got access into our network?  Also can you confirm you have deleted all our data now?"
+        },
+        {
+            "timestamp": "Wednesday, 30 October 2024 10:07:59",
+            "party": "fog",
+            "content": "I will tell you soon"
+        },
+        {
+            "timestamp": "Monday, 04 November 2024 09:10:19",
+            "party": "victim",
+            "content": "Do you have any update please?"
+        },
+        {
+            "timestamp": "Monday, 04 November 2024 10:14:29",
+            "party": "fog",
+            "content": "You data has been deleted. Access to your network was gained through a phishing mail. Your staff should be more vigilant when downloading and opening unfamiliar files. We recommend that you implement the following measures to protect your corporate network:\n1) Enforce passwords on local and domain admins. Complicate group policy on passwords for all users;\n2) Using the group \"Protected users\";\n3) Use centralised management of antivirus protection;\n4) Inform users not to open suspicious emails and files;\n5) Updating software and OS to current versions;\n6) Set up permission delegations in the Active Directory;\n7) Install an application to monitor activity in the Active Directory;\n8) Use Vmware Esxi ver. 7.0 or more current.\nOur team guarantees that any data taken from your network will not be disclosed, sold or published. Of course, this dialogue will also remain confidential."
+        }
+    ]
+}
