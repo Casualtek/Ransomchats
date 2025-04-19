@@ -1,0 +1,132 @@
+[
+    {
+        "timestamp": "Thursday, 10 September 2024 05:05:28",
+        "party": "victim",
+        "message": "My name is [redacted]. I am 72 and have maintained this server for the last 23 years.  I am not a cybersecurity expert, but I thought I would contact you to see how we can get you to release the data.\nI know the boss will not pay the Ransom, but it may be cheaper for me to pay it out of my pocket if it is not too much so that I can keep this job."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 05:51:03",
+        "party": "victim",
+        "message": "Hello.  They are a tiny firm of Architects with four people in a squishy office."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 05:55:32",
+        "party": "victim",
+        "message": "I am waiting for your reply."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 07:09:08",
+        "party": "fog",
+        "message": "Hello. Please wait for details."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 07:17:02",
+        "party": "victim",
+        "message": "OK"
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 08:05:33",
+        "party": "victim",
+        "message": "I have some chores to do.  I will be back as soon as I can, and I will check before I go to sleep."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 09:21:52",
+        "party": "victim",
+        "message": "I am back."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 09:42:47",
+        "party": "victim",
+        "message": "Please.  Let these people work.  They recently received some good jobs to turn them around after many years of hardship.  The profit margins are very slim.  Architects are expensive and hard to find good people."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 09:51:13",
+        "party": "victim",
+        "message": "+These are nice people.  Please let them and me work.  Please."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 10:25:56",
+        "party": "victim",
+        "message": "It is nearly 9:30 p.m. and I need to go to sleep.  Please think about this.  They are good people.  Please."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 10:41:52",
+        "party": "fog",
+        "message": "I am not going to rob you"
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 10:43:31",
+        "party": "fog",
+        "message": "No data was taken. We can decrypt your systems in a couple of hours for only $125,000. Just send us 3 random encrypted files to be sure - we'll decrypt them for free."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 10:49:42",
+        "party": "victim",
+        "message": "They do not have $125,000."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 11:07:07",
+        "party": "victim",
+        "message": "You are going to kill this business."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 11:39:35",
+        "party": "fog",
+        "message": "what do they have?"
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 11:56:49",
+        "party": "victim",
+        "message": "Not even $10,000 to spare. It is costly to run a business in Australia nowadays. Eighty per cent of start-ups go broke within the first three years, and many companies go broke daily. A major Airline went broke, owing millions of dollars. The Server is nine years old, and they cannot afford to buy another, but it will cost more with AWS, etc.  Things are very tight here in Australia.  I will lose this job after this.  I make $800.00 per two weeks after their expenses, plus my Aged Pension of $1,100.00 per two weeks gets me through.  Electricity and Gas are both at a ridiculous level."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 11:58:16",
+        "party": "victim",
+        "message": "We do not have that sort of money.  Please let us go."
+    },
+    {
+        "timestamp": "Thursday, 10 September 2024 12:47:13",
+        "party": "victim",
+        "message": "Good night.  It is now 11:45 p.m.  I must sleep."
+    },
+    {
+        "timestamp": "Admin 13:59:04",
+        "party": "fog",
+        "message": "Windows\nunlocker.exe -nomutex -console -target \\\\SERVER\\C$\nunlocker.exe -nomutex -console -target C:\\\n\nEsxi \\ LINUX\nchmod +x unlocker_key\n./unlocker_key --id [redacted] --log --target \"/vmfs/volumes/\""
+    },
+    {
+        "timestamp": "Admin 20:17:33",
+        "party": "victim",
+        "message": "Good morning. If this is what I hope it is, thank you very much. I am so relieved that these people will keep their businesses and their livelihoods. You have made this old man very happy. If there is anything I can do for you, please let me know. I can be contacted at [redacted]@gmail.com or +61 [redacted].  I want to give you a big hug.  Thank you again."
+    },
+    {
+        "timestamp": "Admin 20:52:03",
+        "party": "fog",
+        "message": "ok"
+    },
+    {
+        "timestamp": "Admin 23:50:49",
+        "party": "victim",
+        "message": "It is working.  Thank you from the bottom of my heart for your generosity and understanding.  As I stated before, please let me know if there is anything I can do in the future.  You have my details.  My e-mail address should have read [redacted]@gmail.com."
+    },
+    {
+        "timestamp": "Friday, 11 September 2024 17:58:12",
+        "party": "fog",
+        "message": "I dont need anything from you anymore"
+    },
+    {
+        "timestamp": "Friday, 11 September 2024 17:58:17",
+        "party": "fog",
+        "message": "all the best"
+    },
+    {
+        "timestamp": "Friday, 11 September 2024 19:36:08",
+        "party": "victim",
+        "message": "Thank you.  All the best for you too.  I appreciate what you did for me, very much."
+    },
+    {
+        "timestamp": "Friday, 11 September 2024 19:58:55",
+        "party": "fog",
+        "message": "thanks"
+    }
+]
