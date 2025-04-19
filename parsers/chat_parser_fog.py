@@ -29,9 +29,6 @@ def parse_html_to_json(html_file, output_folder):
         # Parse the HTML using BeautifulSoup
         soup = BeautifulSoup(html_content, HTML_PARSER)
 
-        # Extract the chat ID (currently not used)
-        chat_id = ''
-
         # Find all chat items
         chat_container = soup.find('div', class_=CHAT_MESSAGES_CLASS)
         chat_subcontainer = chat_container.find('div', class_=G_BOX_FLEX_CLASS)
@@ -59,15 +56,20 @@ def parse_html_to_json(html_file, output_folder):
                     message_time = message_details[1].text.strip()
                     if current_date:
                         timestamp = f'{current_date} {message_time}'
-                        messages.append({'timestamp': timestamp, 'party': party, 'message': message_contents})
+                        messages.append({
+                            'timestamp': timestamp,
+                            'party': party,
+                            'content': message_contents
+                        })
 
         # Get the output file name from the input HTML file name
         output_filename = os.path.splitext(os.path.basename(html_file))[0] + '.json'
         output_path = os.path.join(output_folder, output_filename)
 
-        # Write the chat data to a JSON file
+        # Wrap messages in a dictionary and write to a JSON file
+        output_data = {"messages": messages}
         with open(output_path, 'w', encoding='utf-8') as json_file:
-            json.dump(messages, json_file, indent=4)
+            json.dump(output_data, json_file, indent=4)
 
         print(f'Chat data extracted and saved as {output_path}')
 
