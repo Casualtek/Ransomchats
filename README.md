@@ -12,7 +12,7 @@ Thanks **[@thomfredev](https://twitter.com/thomfredev)** for the [reading app](h
 
 Thanks **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for including the chats in **[ransomware.live](https://www.ransomware.live/#/negotiations)**.
 
-Thanks **[@g0njxa](https://github.com/g0njxa)** for the ransom chats involving **Trinity**.
+Thanks **[@g0njxa](https://github.com/g0njxa)**, **[Rakesh Krishnan](https://theravenfile.com)** and **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for ransom chats you contributed.
 
 Thanks as well **Calvin So**'s for his stylometric analysis **[here](https://medium.com/@callyso0414/tracing-ransomware-threat-actors-through-stylometric-analysis-and-chat-log-examination-23f0f84abba8)** and **[there](https://medium.com/@callyso0414/tracing-ransomware-threat-actors-through-stylometric-analysis-and-chat-log-examination-part-2-2928cf497e5a)** and **PCMag Middle East** for **[theirs](https://me.pcmag.com/en/ransomware-protection/18858/haggling-with-hackers-surprising-lessons-from-50-negotiations-with-ransomware-gangs)**, and **SEC4U** for **[theirs](https://www.neteye-blog.com/2023/09/ransomware-negotiation-dos-and-donts/)**. 
 
