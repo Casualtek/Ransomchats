@@ -6,6 +6,7 @@ This project aims at changing that, in a respectful manner for the victims of cy
 You have copies of negotiations? 
 You're more than welcome to contibute. 
 You can find some parsers ready to use to help you with that. Or you can send me an e-mail: **valery@proton.me**
+If you want to contribute ransom chats yourself, note than none will published without your clear agreement to their parsing and redaction.
 
 Thanks **[@thomfredev](https://twitter.com/thomfredev)** for the [reading app](https://github.com/thomfre/ransomchats-viewer) that's running here : **[ransomch.at](https://ransomch.at/)**
 (thanks as well for the help getting it built properly)
