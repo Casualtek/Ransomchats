@@ -25,6 +25,8 @@ Thanks as well **Calvin So**'s for his stylometric analysis **[here](https://med
 
 Also take a look at **Anastasia Sentsova** and **Jon DiMaggio**'s **[analysis](https://analyst1.com/ransomware-extortion-activity-in-2024-a-year-in-review/)** of some specifics of negotiations with Akira.
 
+**Jean-Yves Marion**, head of DefMal project at Lorraine University, mentioned this project in his research paper **[Ransomware: Extortion Is My Business](https://cacm.acm.org/research/ransomware-extortion-is-my-business/)**.
+
 You can also experience ransomware negotiation with a custom made ChatGPT, **[trained on this dataset by Ellis Stannard](https://ellisstannard.medium.com/ransomchatgpt-ransomware-negotiation-simulator-ee8cab041b53)**. **[Antonio Brandao](https://www.linkedin.com/feed/update/urn:li:activity:7282123358224195586/)** also developed a **[Ransomware negotiations simulator](https://github.com/toniall/ransomchat)**.
 
 <a href="https://www.buymeacoffee.com/casualtek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
