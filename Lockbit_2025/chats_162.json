@@ -1,0 +1,212 @@
+[
+    {
+        "created_at": "2025-02-14 18:56:35",
+        "date": 1739559395,
+        "content": "You can attach a few files for test decryption by packing them into an archive with zip, rar, tar, 7zip, 7z, tar.gz extensions of no more than 10 megabytes using the attach button directly in the chat.\r\n\r\nIf your archive weighs more than 10 megabytes, please use our file sharing service.\r\nhttp:\/\/lockbitfss2w7co3ij6am6wox4xcurtgwukunx3yubcoe5cbxiqakxqd.onion\r\nhttp:\/\/lockbitfsvf75glg226he5inkfgtuoakt4vgfhd7nfgghx5kwz5zo3ad.onion\r\nhttp:\/\/lockbitfskq2fxclyfrop5yizyxpzu65w7pphsgthawcyb4gd27x62id.onion\r\nFor security reasons we do not click on other links you send in chat.\r\nPlease wait for a reply, sometimes it takes several hours due to possible time zone differences.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-14 18:57:54",
+        "date": 1739559474,
+        "content": "Hi, what did you do to us?",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 12:17:27",
+        "date": 1739621847,
+        "content": "Hello, please first validate that you are from the company by providing any identifying information from your local area network (hostnames, IP addresses, etc) and please also confirm that",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 12:18:09",
+        "date": 1739621889,
+        "content": "you can negotiate on behalf of the company",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 12:19:08",
+        "date": 1739621948,
+        "content": "After confirmation, the matter will be explained",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:39:10",
+        "date": 1739641150,
+        "content": "CF-HOST01 and yes, I can negotiate for us",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:41:05",
+        "date": 1739641265,
+        "content": "Ok, confirmed. Your Hyper-V host machine (CF-HOST01) was fully encrypted (each VM was encrypted from start to finish and the entire machine was encrypted) and also a windows machine running on bare metal that was domain joined was also encrypted.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:41:24",
+        "date": 1739641284,
+        "content": "Veeam cloud backups were deleted and any NAS backups were encrypted.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:43:22",
+        "date": 1739641402,
+        "content": "As you know, your host machine hosts Magento and SAP servers and your web server integrates with these servers. You can either find backups for your virtual machines or build those servers from scratch if you do not want to cooperate with us.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:45:03",
+        "date": 1739641503,
+        "content": "I must add, if you cooperate with us those servers will get back up and running and your web server will integrate just as before.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:45:52",
+        "date": 1739641552,
+        "content": "No data was downloaded from your network.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-15 17:46:41",
+        "date": 1739641601,
+        "content": "The price for the decryptor is 210,000 USD",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-16 01:03:53",
+        "date": 1739667833,
+        "content": "How do we know we can trust you on this and you will unencrypt everything?",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-16 07:53:06",
+        "date": 1739692386,
+        "content": "Give me test files for free test",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-16 21:42:39",
+        "date": 1739742159,
+        "content": "http:\/\/temp.sh\/DrRcI\/Samples.zip",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-17 10:26:16",
+        "date": 1739787976,
+        "content": "",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-18 03:29:45",
+        "date": 1739849385,
+        "content": "We will check this out and verify",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-19 21:27:35",
+        "date": 1740000455,
+        "content": "The guy who would verify is out today but should be back tomorrow. Will send an update when I get to talk to them and have them validate.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-20 21:35:04",
+        "date": 1740087304,
+        "content": "They look good. What do we do now?",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 08:03:43",
+        "date": 1740125023,
+        "content": "Pay",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 08:03:51",
+        "date": 1740125031,
+        "content": "210,000 USD",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 17:16:25",
+        "date": 1740158185,
+        "content": "How? Would we mail you a check? Wire Transfer? I just dont understand any of this.",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 22:06:39",
+        "date": 1740175599,
+        "content": "crypto",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 22:06:41",
+        "date": 1740175601,
+        "content": "bitcoin",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 22:06:43",
+        "date": 1740175603,
+        "content": "monero",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 22:06:50",
+        "date": 1740175610,
+        "content": "buy crypto",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-21 22:28:28",
+        "date": 1740176908,
+        "content": "That's a lot of money\nWhere would we send this bitcoin to?",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 09:48:20",
+        "date": 1740217700,
+        "content": "on my btc wallet, I will give you it, when you have bitcoin",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 09:49:21",
+        "date": 1740217761,
+        "content": "if it's a lot of money, I can increase price to 500,000 usd",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 19:54:54",
+        "date": 1740254094,
+        "content": "We will have to figure out the process. Do we get them from the bank?",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 21:34:02",
+        "date": 1740260042,
+        "content": "bestchange.com",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 21:34:05",
+        "date": 1740260045,
+        "content": "any way",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 21:34:14",
+        "date": 1740260054,
+        "content": "you can take cash and buy crypto",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-22 21:34:23",
+        "date": 1740260063,
+        "content": "you can buy crypto via bank",
+        "clientid": 162
+    },
+    {
+        "created_at": "2025-02-23 21:19:41",
+        "date": 1740345581,
+        "content": "Ok, we will discuss with our bank when they open next. ",
+        "clientid": 162
+    }
+]
