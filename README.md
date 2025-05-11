@@ -11,7 +11,7 @@ If you want to contribute ransom chats yourself, note than none will published w
 Thanks **[@thomfredev](https://twitter.com/thomfredev)** for the [reading app](https://github.com/thomfre/ransomchats-viewer) that's running here : **[ransomch.at](https://ransomch.at/)**
 (thanks as well for the help getting it built properly)
 
-Thanks **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for including the chats in **[ransomware.live](https://www.ransomware.live/#/negotiations)**.
+Thanks **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for including the chats in **[ransomware.live](https://www.ransomware.live/#/negotiations)** and providing some.
 
 Thanks **[@g0njxa](https://github.com/g0njxa)**, **[Rakesh Krishnan](https://theravenfile.com)** and **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for ransom chats you contributed.
 
