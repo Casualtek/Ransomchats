@@ -1,18 +1,11 @@
 {
-  "last_updated": "2025-05-30T15:07:08.856191",
+  "last_updated": "2025-05-30T15:19:44.014544",
   "statistics": {
-    "total_groups": 24,
+    "total_groups": 23,
     "total_chats": 218,
     "total_messages": 10699
   },
   "groups": {
-    ".github": {
-      "chats": [],
-      "group_statistics": {
-        "chat_count": 0,
-        "message_count": 0
-      }
-    },
     "Akira": {
       "chats": [
         {
