@@ -25,7 +25,7 @@ jobs:
         
     - name: Generate chat index
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         python generate_chat_index.py
         cat chat_index.json
