@@ -29,13 +29,11 @@ jobs:
       run: |
         python make_index.py
         cat chat_index.json
-        
-    - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           repository: ./
           push_options: --force
-          
-    - name: Save changes
+      - name: Save changes
         run: |  
           DATE=$(date -Iseconds)
           git config user.name github-actions
@@ -43,4 +41,3 @@ jobs:
           git pull origin main
           git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
           git push origin main
-          
