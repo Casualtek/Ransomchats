@@ -34,7 +34,7 @@ def generate_chat_index():
     
     # Get all directories in the root (groups)
     contents = repo.get_contents("")
-    groups = [c for c in contents if c.type == "dir" and c.name != "parsers"]
+    groups = [c for c in contents if c.type == "dir" and c.name != "parsers" and c.name != ".github"]
     
     chat_index = {
         "last_updated": datetime.utcnow().isoformat(),
