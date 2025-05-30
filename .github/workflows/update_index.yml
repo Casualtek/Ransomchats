@@ -29,11 +29,16 @@ jobs:
       run: |
         python make_index.py
         cat chat_index.json
-        
-    - name: Commit and push changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add chat_index.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update chat index [skip ci]"
-        git push
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: ./
+          push_options: --force
+      - name: Save changes
+        run: |  
+          DATE=$(date -Iseconds)
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull origin main
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
+          git push origin main
+          
