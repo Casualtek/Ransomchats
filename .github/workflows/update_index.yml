@@ -3,7 +3,10 @@ name: Update Chat Index
 on:
   schedule:
     - cron: '0 */6 * * *'  # Runs every 6 hours
-  workflow_dispatch:  # Allow manual triggers
+  workflow_dispatch:        # Allow manual triggers
+  push:
+    branches:
+      - main               # Optional: regenerate when chat files change
 
 jobs:
   update-index:
@@ -12,7 +15,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+      with:
+        fetch-depth: 0      # Required for git-auto-commit to work properly
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -25,19 +30,16 @@ jobs:
         
     - name: Generate chat index
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python make_index.py
-        cat chat_index.json
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          repository: ./
-          push_options: --force
-      - name: Save changes
-        run: |  
-          DATE=$(date -Iseconds)
-          git config user.name github-actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git pull origin main
-          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
-          git push origin main
+        python generate_chat_index.py
+        
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update chat index [skip ci]"
+        branch: main
+        file_pattern: chat_index.json
+        commit_user_name: "GitHub Actions"
+        commit_user_email: "actions@github.com"
+        commit_author: "GitHub Actions <actions@github.com>"
