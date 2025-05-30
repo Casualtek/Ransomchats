@@ -32,7 +32,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python generate_chat_index.py
+        python make_index.py
         
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v4
