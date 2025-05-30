@@ -1,0 +1,1509 @@
+{
+  "last_updated": "2025-05-30T15:07:08.856191",
+  "statistics": {
+    "total_groups": 24,
+    "total_chats": 218,
+    "total_messages": 10699
+  },
+  "groups": {
+    ".github": {
+      "chats": [],
+      "group_statistics": {
+        "chat_count": 0,
+        "message_count": 0
+      }
+    },
+    "Akira": {
+      "chats": [
+        {
+          "filename": "20230529.json",
+          "chat_id": "20230529",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230529.json",
+          "message_count": 7
+        },
+        {
+          "filename": "20230606.json",
+          "chat_id": "20230606",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230606.json",
+          "message_count": 13
+        },
+        {
+          "filename": "20230616.json",
+          "chat_id": "20230616",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230616.json",
+          "message_count": 80
+        },
+        {
+          "filename": "20230628.json",
+          "chat_id": "20230628",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230628.json",
+          "message_count": 5
+        },
+        {
+          "filename": "20230707.json",
+          "chat_id": "20230707",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230707.json",
+          "message_count": 37
+        },
+        {
+          "filename": "20230719.json",
+          "chat_id": "20230719",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230719.json",
+          "message_count": 4
+        },
+        {
+          "filename": "20230722.json",
+          "chat_id": "20230722",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230722.json",
+          "message_count": 9
+        },
+        {
+          "filename": "20230727.json",
+          "chat_id": "20230727",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230727.json",
+          "message_count": 72
+        },
+        {
+          "filename": "20230728.json",
+          "chat_id": "20230728",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230728.json",
+          "message_count": 5
+        },
+        {
+          "filename": "20230815.json",
+          "chat_id": "20230815",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230815.json",
+          "message_count": 84
+        },
+        {
+          "filename": "20230929.json",
+          "chat_id": "20230929",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20230929.json",
+          "message_count": 58
+        },
+        {
+          "filename": "20231112.json",
+          "chat_id": "20231112",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20231112.json",
+          "message_count": 58
+        },
+        {
+          "filename": "20231115.json",
+          "chat_id": "20231115",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20231115.json",
+          "message_count": 81
+        },
+        {
+          "filename": "20231209.json",
+          "chat_id": "20231209",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20231209.json",
+          "message_count": 112
+        },
+        {
+          "filename": "20231217.json",
+          "chat_id": "20231217",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20231217.json",
+          "message_count": 67
+        },
+        {
+          "filename": "20231227.json",
+          "chat_id": "20231227",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20231227.json",
+          "message_count": 74
+        },
+        {
+          "filename": "20240127.json",
+          "chat_id": "20240127",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240127.json",
+          "message_count": 41
+        },
+        {
+          "filename": "20240129.json",
+          "chat_id": "20240129",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240129.json",
+          "message_count": 70
+        },
+        {
+          "filename": "20240131.json",
+          "chat_id": "20240131",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240131.json",
+          "message_count": 75
+        },
+        {
+          "filename": "20240201.json",
+          "chat_id": "20240201",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240201.json",
+          "message_count": 40
+        },
+        {
+          "filename": "20240301.json",
+          "chat_id": "20240301",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240301.json",
+          "message_count": 43
+        },
+        {
+          "filename": "20240317.json",
+          "chat_id": "20240317",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240317.json",
+          "message_count": 8
+        },
+        {
+          "filename": "20240329.json",
+          "chat_id": "20240329",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240329.json",
+          "message_count": 65
+        },
+        {
+          "filename": "20240410.json",
+          "chat_id": "20240410",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240410.json",
+          "message_count": 16
+        },
+        {
+          "filename": "20240424.json",
+          "chat_id": "20240424",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240424.json",
+          "message_count": 70
+        },
+        {
+          "filename": "20240509.json",
+          "chat_id": "20240509",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240509.json",
+          "message_count": 170
+        },
+        {
+          "filename": "20240531.json",
+          "chat_id": "20240531",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240531.json",
+          "message_count": 55
+        },
+        {
+          "filename": "20240611.json",
+          "chat_id": "20240611",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240611.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20240618.json",
+          "chat_id": "20240618",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240618.json",
+          "message_count": 53
+        },
+        {
+          "filename": "20240620.json",
+          "chat_id": "20240620",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240620.json",
+          "message_count": 7
+        },
+        {
+          "filename": "20240718.json",
+          "chat_id": "20240718",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240718.json",
+          "message_count": 105
+        },
+        {
+          "filename": "20240719.json",
+          "chat_id": "20240719",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240719.json",
+          "message_count": 6
+        },
+        {
+          "filename": "20240723.json",
+          "chat_id": "20240723",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240723.json",
+          "message_count": 43
+        },
+        {
+          "filename": "20240803.json",
+          "chat_id": "20240803",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20240803.json",
+          "message_count": 34
+        },
+        {
+          "filename": "20250104.json",
+          "chat_id": "20250104",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250104.json",
+          "message_count": 13
+        },
+        {
+          "filename": "20250108.json",
+          "chat_id": "20250108",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250108.json",
+          "message_count": 10
+        },
+        {
+          "filename": "20250110.json",
+          "chat_id": "20250110",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250110.json",
+          "message_count": 7
+        },
+        {
+          "filename": "20250112.json",
+          "chat_id": "20250112",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250112.json",
+          "message_count": 44
+        },
+        {
+          "filename": "20250117.json",
+          "chat_id": "20250117",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250117.json",
+          "message_count": 70
+        },
+        {
+          "filename": "20250120.json",
+          "chat_id": "20250120",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250120.json",
+          "message_count": 7
+        },
+        {
+          "filename": "20250121.json",
+          "chat_id": "20250121",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250121.json",
+          "message_count": 26
+        },
+        {
+          "filename": "20250125.json",
+          "chat_id": "20250125",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250125.json",
+          "message_count": 9
+        },
+        {
+          "filename": "20250216.json",
+          "chat_id": "20250216",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250216.json",
+          "message_count": 14
+        },
+        {
+          "filename": "20250217.json",
+          "chat_id": "20250217",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250217.json",
+          "message_count": 13
+        },
+        {
+          "filename": "20250222.json",
+          "chat_id": "20250222",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250222.json",
+          "message_count": 72
+        },
+        {
+          "filename": "20250227.json",
+          "chat_id": "20250227",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250227.json",
+          "message_count": 56
+        },
+        {
+          "filename": "20250306.json",
+          "chat_id": "20250306",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250306.json",
+          "message_count": 9
+        },
+        {
+          "filename": "20250310.json",
+          "chat_id": "20250310",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250310.json",
+          "message_count": 24
+        },
+        {
+          "filename": "20250312.json",
+          "chat_id": "20250312",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250312.json",
+          "message_count": 20
+        },
+        {
+          "filename": "20250313.json",
+          "chat_id": "20250313",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250313.json",
+          "message_count": 43
+        },
+        {
+          "filename": "20250321.json",
+          "chat_id": "20250321",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250321.json",
+          "message_count": 25
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 51,
+        "message_count": 2179
+      }
+    },
+    "Avaddon": {
+      "chats": [
+        {
+          "filename": "20210112.json",
+          "chat_id": "20210112",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210112.json",
+          "message_count": 25
+        },
+        {
+          "filename": "20210324.json",
+          "chat_id": "20210324",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210324.json",
+          "message_count": 73
+        },
+        {
+          "filename": "20210430.json",
+          "chat_id": "20210430",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210430.json",
+          "message_count": 103
+        },
+        {
+          "filename": "20210512.json",
+          "chat_id": "20210512",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210512.json",
+          "message_count": 35
+        },
+        {
+          "filename": "20210518.json",
+          "chat_id": "20210518",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210518.json",
+          "message_count": 17
+        },
+        {
+          "filename": "20210518_2.json",
+          "chat_id": "20210518_2",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210518_2.json",
+          "message_count": 24
+        },
+        {
+          "filename": "20210518_3.json",
+          "chat_id": "20210518_3",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avaddon/20210518_3.json",
+          "message_count": 103
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 7,
+        "message_count": 380
+      }
+    },
+    "Avos": {
+      "chats": [
+        {
+          "filename": "20210903.json",
+          "chat_id": "20210903",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Avos/20210903.json",
+          "message_count": 86
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 86
+      }
+    },
+    "Babuk": {
+      "chats": [
+        {
+          "filename": "20210203.json",
+          "chat_id": "20210203",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Babuk/20210203.json",
+          "message_count": 106
+        },
+        {
+          "filename": "20210428.json",
+          "chat_id": "20210428",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Babuk/20210428.json",
+          "message_count": 44
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 150
+      }
+    },
+    "BlackBasta": {
+      "chats": [
+        {
+          "filename": "20221011.json",
+          "chat_id": "20221011",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackBasta/20221011.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20221229.json",
+          "chat_id": "20221229",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackBasta/20221229.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20230410.json",
+          "chat_id": "20230410",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackBasta/20230410.json",
+          "message_count": 57
+        },
+        {
+          "filename": "20230501.json",
+          "chat_id": "20230501",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackBasta/20230501.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20240814.json",
+          "chat_id": "20240814",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackBasta/20240814.json",
+          "message_count": 50
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 5,
+        "message_count": 257
+      }
+    },
+    "BlackMatter": {
+      "chats": [
+        {
+          "filename": "20210829.json",
+          "chat_id": "20210829",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackMatter/20210829.json",
+          "message_count": 44
+        },
+        {
+          "filename": "20210907.json",
+          "chat_id": "20210907",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/BlackMatter/20210907.json",
+          "message_count": 77
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 121
+      }
+    },
+    "Cloak": {
+      "chats": [
+        {
+          "filename": "20230802-2.json",
+          "chat_id": "20230802-2",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Cloak/20230802-2.json",
+          "message_count": 66
+        },
+        {
+          "filename": "20230802.json",
+          "chat_id": "20230802",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Cloak/20230802.json",
+          "message_count": 54
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 120
+      }
+    },
+    "Conti": {
+      "chats": [
+        {
+          "filename": "20201017.json",
+          "chat_id": "20201017",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20201017.json",
+          "message_count": 78
+        },
+        {
+          "filename": "20201019.json",
+          "chat_id": "20201019",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20201019.json",
+          "message_count": 9
+        },
+        {
+          "filename": "20201109.json",
+          "chat_id": "20201109",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20201109.json",
+          "message_count": 255
+        },
+        {
+          "filename": "20201121.json",
+          "chat_id": "20201121",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20201121.json",
+          "message_count": 6
+        },
+        {
+          "filename": "20201230.json",
+          "chat_id": "20201230",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20201230.json",
+          "message_count": 146
+        },
+        {
+          "filename": "20210107.json",
+          "chat_id": "20210107",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210107.json",
+          "message_count": 139
+        },
+        {
+          "filename": "20210126.json",
+          "chat_id": "20210126",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210126.json",
+          "message_count": 9
+        },
+        {
+          "filename": "20210219.json",
+          "chat_id": "20210219",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210219.json",
+          "message_count": 12
+        },
+        {
+          "filename": "20210305.json",
+          "chat_id": "20210305",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210305.json",
+          "message_count": 45
+        },
+        {
+          "filename": "20210315.json",
+          "chat_id": "20210315",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210315.json",
+          "message_count": 49
+        },
+        {
+          "filename": "20210316.json",
+          "chat_id": "20210316",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210316.json",
+          "message_count": 63
+        },
+        {
+          "filename": "20210426.json",
+          "chat_id": "20210426",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210426.json",
+          "message_count": 12
+        },
+        {
+          "filename": "20210428.json",
+          "chat_id": "20210428",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210428.json",
+          "message_count": 13
+        },
+        {
+          "filename": "20210513.json",
+          "chat_id": "20210513",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210513.json",
+          "message_count": 78
+        },
+        {
+          "filename": "20210517.json",
+          "chat_id": "20210517",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210517.json",
+          "message_count": 56
+        },
+        {
+          "filename": "20210517_b.json",
+          "chat_id": "20210517_b",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210517_b.json",
+          "message_count": 69
+        },
+        {
+          "filename": "20210520.json",
+          "chat_id": "20210520",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210520.json",
+          "message_count": 101
+        },
+        {
+          "filename": "20210602.json",
+          "chat_id": "20210602",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210602.json",
+          "message_count": 81
+        },
+        {
+          "filename": "20210611.json",
+          "chat_id": "20210611",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210611.json",
+          "message_count": 48
+        },
+        {
+          "filename": "20210628.json",
+          "chat_id": "20210628",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210628.json",
+          "message_count": 34
+        },
+        {
+          "filename": "20210708.json",
+          "chat_id": "20210708",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210708.json",
+          "message_count": 25
+        },
+        {
+          "filename": "20210715.json",
+          "chat_id": "20210715",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210715.json",
+          "message_count": 10
+        },
+        {
+          "filename": "20210805.json",
+          "chat_id": "20210805",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210805.json",
+          "message_count": 47
+        },
+        {
+          "filename": "20210812.json",
+          "chat_id": "20210812",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210812.json",
+          "message_count": 46
+        },
+        {
+          "filename": "20210820.json",
+          "chat_id": "20210820",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210820.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20210902.json",
+          "chat_id": "20210902",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210902.json",
+          "message_count": 43
+        },
+        {
+          "filename": "20210904.json",
+          "chat_id": "20210904",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210904.json",
+          "message_count": 17
+        },
+        {
+          "filename": "20210923.json",
+          "chat_id": "20210923",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20210923.json",
+          "message_count": 14
+        },
+        {
+          "filename": "20211108.json",
+          "chat_id": "20211108",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20211108.json",
+          "message_count": 32
+        },
+        {
+          "filename": "20211112.json",
+          "chat_id": "20211112",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20211112.json",
+          "message_count": 32
+        },
+        {
+          "filename": "20211205.json",
+          "chat_id": "20211205",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20211205.json",
+          "message_count": 63
+        },
+        {
+          "filename": "20211217.json",
+          "chat_id": "20211217",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Conti/20211217.json",
+          "message_count": 27
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 32,
+        "message_count": 1709
+      }
+    },
+    "Darkside": {
+      "chats": [
+        {
+          "filename": "20200811.json",
+          "chat_id": "20200811",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Darkside/20200811.json",
+          "message_count": 85
+        },
+        {
+          "filename": "20201115.json",
+          "chat_id": "20201115",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Darkside/20201115.json",
+          "message_count": 243
+        },
+        {
+          "filename": "20210215.json",
+          "chat_id": "20210215",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Darkside/20210215.json",
+          "message_count": 24
+        },
+        {
+          "filename": "20210413.json",
+          "chat_id": "20210413",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Darkside/20210413.json",
+          "message_count": 63
+        },
+        {
+          "filename": "20210418.json",
+          "chat_id": "20210418",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Darkside/20210418.json",
+          "message_count": 10
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 5,
+        "message_count": 425
+      }
+    },
+    "Dragonforce": {
+      "chats": [
+        {
+          "filename": "29BBE03074FDBB8D.json",
+          "chat_id": "29BBE03074FDBB8D",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/29BBE03074FDBB8D.json",
+          "message_count": 10
+        },
+        {
+          "filename": "89716D29D2CEE36F.json",
+          "chat_id": "89716D29D2CEE36F",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/89716D29D2CEE36F.json",
+          "message_count": 23
+        },
+        {
+          "filename": "BD004D632D87DBA0.json",
+          "chat_id": "BD004D632D87DBA0",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/BD004D632D87DBA0.json",
+          "message_count": 25
+        },
+        {
+          "filename": "C2A3C7249797F5ED.json",
+          "chat_id": "C2A3C7249797F5ED",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/C2A3C7249797F5ED.json",
+          "message_count": 66
+        },
+        {
+          "filename": "C42CDF65B97D0E92.json",
+          "chat_id": "C42CDF65B97D0E92",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/C42CDF65B97D0E92.json",
+          "message_count": 30
+        },
+        {
+          "filename": "C7CD31EAAF9DE9AC.json",
+          "chat_id": "C7CD31EAAF9DE9AC",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/C7CD31EAAF9DE9AC.json",
+          "message_count": 71
+        },
+        {
+          "filename": "C8479B30418B331E.json",
+          "chat_id": "C8479B30418B331E",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/C8479B30418B331E.json",
+          "message_count": 4
+        },
+        {
+          "filename": "FDA8141B6DD392E3.json",
+          "chat_id": "FDA8141B6DD392E3",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/FDA8141B6DD392E3.json",
+          "message_count": 10
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 8,
+        "message_count": 239
+      }
+    },
+    "Hive": {
+      "chats": [
+        {
+          "filename": "20211004.json",
+          "chat_id": "20211004",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211004.json",
+          "message_count": 70
+        },
+        {
+          "filename": "20211005.json",
+          "chat_id": "20211005",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211005.json",
+          "message_count": 19
+        },
+        {
+          "filename": "20211026.json",
+          "chat_id": "20211026",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211026.json",
+          "message_count": 46
+        },
+        {
+          "filename": "20211102.json",
+          "chat_id": "20211102",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211102.json",
+          "message_count": 58
+        },
+        {
+          "filename": "20211113.json",
+          "chat_id": "20211113",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211113.json",
+          "message_count": 136
+        },
+        {
+          "filename": "20211126.json",
+          "chat_id": "20211126",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211126.json",
+          "message_count": 4
+        },
+        {
+          "filename": "20211213.json",
+          "chat_id": "20211213",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211213.json",
+          "message_count": 15
+        },
+        {
+          "filename": "20211220.json",
+          "chat_id": "20211220",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hive/20211220.json",
+          "message_count": 24
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 8,
+        "message_count": 372
+      }
+    },
+    "Hunters International": {
+      "chats": [
+        {
+          "filename": "20240510.json",
+          "chat_id": "20240510",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Hunters International/20240510.json",
+          "message_count": 29
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 29
+      }
+    },
+    "Mallox": {
+      "chats": [
+        {
+          "filename": "20230427.json",
+          "chat_id": "20230427",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Mallox/20230427.json",
+          "message_count": 62
+        },
+        {
+          "filename": "20230529.json",
+          "chat_id": "20230529",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Mallox/20230529.json",
+          "message_count": 29
+        },
+        {
+          "filename": "20230530.json",
+          "chat_id": "20230530",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Mallox/20230530.json",
+          "message_count": 17
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 3,
+        "message_count": 108
+      }
+    },
+    "NoEscape": {
+      "chats": [
+        {
+          "filename": "20230911.json",
+          "chat_id": "20230911",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/NoEscape/20230911.json",
+          "message_count": 6
+        },
+        {
+          "filename": "20230912.json",
+          "chat_id": "20230912",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/NoEscape/20230912.json",
+          "message_count": 4
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 10
+      }
+    },
+    "Qilin": {
+      "chats": [
+        {
+          "filename": "20240429.json",
+          "chat_id": "20240429",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Qilin/20240429.json",
+          "message_count": 3
+        },
+        {
+          "filename": "20250203 - from @RakeshKrish12.json",
+          "chat_id": "20250203 - from @RakeshKrish12",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Qilin/20250203 - from @RakeshKrish12.json",
+          "message_count": 36
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 39
+      }
+    },
+    "REvil": {
+      "chats": [
+        {
+          "filename": "20201014.json",
+          "chat_id": "20201014",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20201014.json",
+          "message_count": 72
+        },
+        {
+          "filename": "20201104.json",
+          "chat_id": "20201104",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20201104.json",
+          "message_count": 63
+        },
+        {
+          "filename": "20201126.json",
+          "chat_id": "20201126",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20201126.json",
+          "message_count": 79
+        },
+        {
+          "filename": "20210320.json",
+          "chat_id": "20210320",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210320.json",
+          "message_count": 13
+        },
+        {
+          "filename": "20210329.json",
+          "chat_id": "20210329",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210329.json",
+          "message_count": 43
+        },
+        {
+          "filename": "20210331.json",
+          "chat_id": "20210331",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210331.json",
+          "message_count": 23
+        },
+        {
+          "filename": "20210401.json",
+          "chat_id": "20210401",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210401.json",
+          "message_count": 78
+        },
+        {
+          "filename": "20210407.json",
+          "chat_id": "20210407",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210407.json",
+          "message_count": 15
+        },
+        {
+          "filename": "20210413.json",
+          "chat_id": "20210413",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210413.json",
+          "message_count": 156
+        },
+        {
+          "filename": "20210603.json",
+          "chat_id": "20210603",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210603.json",
+          "message_count": 63
+        },
+        {
+          "filename": "20210604.json",
+          "chat_id": "20210604",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210604.json",
+          "message_count": 10
+        },
+        {
+          "filename": "20210609.json",
+          "chat_id": "20210609",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210609.json",
+          "message_count": 58
+        },
+        {
+          "filename": "20210613.json",
+          "chat_id": "20210613",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210613.json",
+          "message_count": 132
+        },
+        {
+          "filename": "20210616.json",
+          "chat_id": "20210616",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210616.json",
+          "message_count": 31
+        },
+        {
+          "filename": "20210617.json",
+          "chat_id": "20210617",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210617.json",
+          "message_count": 67
+        },
+        {
+          "filename": "20210622.json",
+          "chat_id": "20210622",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210622.json",
+          "message_count": 52
+        },
+        {
+          "filename": "20210628.json",
+          "chat_id": "20210628",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210628.json",
+          "message_count": 39
+        },
+        {
+          "filename": "20210630.json",
+          "chat_id": "20210630",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210630.json",
+          "message_count": 42
+        },
+        {
+          "filename": "20210708.json",
+          "chat_id": "20210708",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210708.json",
+          "message_count": 28
+        },
+        {
+          "filename": "20210709.json",
+          "chat_id": "20210709",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/REvil/20210709.json",
+          "message_count": 1
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 20,
+        "message_count": 1065
+      }
+    },
+    "RansomHub": {
+      "chats": [
+        {
+          "filename": "20240810.json",
+          "chat_id": "20240810",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/RansomHub/20240810.json",
+          "message_count": 1
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 1
+      }
+    },
+    "Ranzy": {
+      "chats": [
+        {
+          "filename": "20201015.json",
+          "chat_id": "20201015",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Ranzy/20201015.json",
+          "message_count": 36
+        },
+        {
+          "filename": "20210223.json",
+          "chat_id": "20210223",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Ranzy/20210223.json",
+          "message_count": 20
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 56
+      }
+    },
+    "RunSomeWares": {
+      "chats": [
+        {
+          "filename": "20250411.json",
+          "chat_id": "20250411",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/RunSomeWares/20250411.json",
+          "message_count": 27
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 27
+      }
+    },
+    "fog": {
+      "chats": [
+        {
+          "filename": "20240517.json",
+          "chat_id": "20240517",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20240517.json",
+          "message_count": 27
+        },
+        {
+          "filename": "20240729.json",
+          "chat_id": "20240729",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20240729.json",
+          "message_count": 144
+        },
+        {
+          "filename": "20240830.json",
+          "chat_id": "20240830",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20240830.json",
+          "message_count": 73
+        },
+        {
+          "filename": "20240910.json",
+          "chat_id": "20240910",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20240910.json",
+          "message_count": 26
+        },
+        {
+          "filename": "20240927.json",
+          "chat_id": "20240927",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20240927.json",
+          "message_count": 60
+        },
+        {
+          "filename": "20241119.json",
+          "chat_id": "20241119",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/fog/20241119.json",
+          "message_count": 3
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 6,
+        "message_count": 333
+      }
+    },
+    "lockbit3.0": {
+      "chats": [
+        {
+          "filename": "**************************149576.json",
+          "chat_id": "**************************149576",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/**************************149576.json",
+          "message_count": 17
+        },
+        {
+          "filename": "Leaked2025-ClientID-124.json",
+          "chat_id": "Leaked2025-ClientID-124",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/Leaked2025-ClientID-124.json",
+          "message_count": 55
+        },
+        {
+          "filename": "Leaked2025-ClientID-154.json",
+          "chat_id": "Leaked2025-ClientID-154",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/Leaked2025-ClientID-154.json",
+          "message_count": 137
+        },
+        {
+          "filename": "Leaked2025-ClientID-206.json",
+          "chat_id": "Leaked2025-ClientID-206",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/Leaked2025-ClientID-206.json",
+          "message_count": 4
+        },
+        {
+          "filename": "Leaked2025-ClientID-36.json",
+          "chat_id": "Leaked2025-ClientID-36",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/Leaked2025-ClientID-36.json",
+          "message_count": 55
+        },
+        {
+          "filename": "aguasdoporto_pt.json",
+          "chat_id": "aguasdoporto_pt",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/aguasdoporto_pt.json",
+          "message_count": 3
+        },
+        {
+          "filename": "bakkerheftrucks_com.json",
+          "chat_id": "bakkerheftrucks_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/bakkerheftrucks_com.json",
+          "message_count": 27
+        },
+        {
+          "filename": "bankbsi_co_id.json",
+          "chat_id": "bankbsi_co_id",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/bankbsi_co_id.json",
+          "message_count": 27
+        },
+        {
+          "filename": "chsf_fr.json",
+          "chat_id": "chsf_fr",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/chsf_fr.json",
+          "message_count": 42
+        },
+        {
+          "filename": "colonialgeneral_com.json",
+          "chat_id": "colonialgeneral_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/colonialgeneral_com.json",
+          "message_count": 25
+        },
+        {
+          "filename": "continental_com.json",
+          "chat_id": "continental_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/continental_com.json",
+          "message_count": 37
+        },
+        {
+          "filename": "datair_com.json",
+          "chat_id": "datair_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/datair_com.json",
+          "message_count": 106
+        },
+        {
+          "filename": "emunworks_com.json",
+          "chat_id": "emunworks_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/emunworks_com.json",
+          "message_count": 8
+        },
+        {
+          "filename": "entrust_com.json",
+          "chat_id": "entrust_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/entrust_com.json",
+          "message_count": 29
+        },
+        {
+          "filename": "gavresorts_com_br.json",
+          "chat_id": "gavresorts_com_br",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/gavresorts_com_br.json",
+          "message_count": 6
+        },
+        {
+          "filename": "genusplc_com.json",
+          "chat_id": "genusplc_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/genusplc_com.json",
+          "message_count": 34
+        },
+        {
+          "filename": "gocontec_com.json",
+          "chat_id": "gocontec_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/gocontec_com.json",
+          "message_count": 52
+        },
+        {
+          "filename": "guardiananalytics_com.json",
+          "chat_id": "guardiananalytics_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/guardiananalytics_com.json",
+          "message_count": 27
+        },
+        {
+          "filename": "hgc_com_hk.json",
+          "chat_id": "hgc_com_hk",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/hgc_com_hk.json",
+          "message_count": 8
+        },
+        {
+          "filename": "kaycan_com.json",
+          "chat_id": "kaycan_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/kaycan_com.json",
+          "message_count": 94
+        },
+        {
+          "filename": "lapostemobile_fr.json",
+          "chat_id": "lapostemobile_fr",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/lapostemobile_fr.json",
+          "message_count": 93
+        },
+        {
+          "filename": "millennia_pro.json",
+          "chat_id": "millennia_pro",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/millennia_pro.json",
+          "message_count": 43
+        },
+        {
+          "filename": "myerspower_com.json",
+          "chat_id": "myerspower_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/myerspower_com.json",
+          "message_count": 99
+        },
+        {
+          "filename": "newbridge_org.json",
+          "chat_id": "newbridge_org",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/newbridge_org.json",
+          "message_count": 70
+        },
+        {
+          "filename": "nicklaus_com.json",
+          "chat_id": "nicklaus_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/nicklaus_com.json",
+          "message_count": 43
+        },
+        {
+          "filename": "okcu_edu.json",
+          "chat_id": "okcu_edu",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/okcu_edu.json",
+          "message_count": 56
+        },
+        {
+          "filename": "omscomponents_it.json",
+          "chat_id": "omscomponents_it",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/omscomponents_it.json",
+          "message_count": 66
+        },
+        {
+          "filename": "plasticproductsco_com.json",
+          "chat_id": "plasticproductsco_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/plasticproductsco_com.json",
+          "message_count": 28
+        },
+        {
+          "filename": "porcelanosa-usa_com.json",
+          "chat_id": "porcelanosa-usa_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/porcelanosa-usa_com.json",
+          "message_count": 8
+        },
+        {
+          "filename": "preflooring_com.json",
+          "chat_id": "preflooring_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/preflooring_com.json",
+          "message_count": 17
+        },
+        {
+          "filename": "psenergy_com.json",
+          "chat_id": "psenergy_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/psenergy_com.json",
+          "message_count": 25
+        },
+        {
+          "filename": "qsi-q3_de.json",
+          "chat_id": "qsi-q3_de",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/qsi-q3_de.json",
+          "message_count": 20
+        },
+        {
+          "filename": "royalmailgroup_com.json",
+          "chat_id": "royalmailgroup_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/royalmailgroup_com.json",
+          "message_count": 103
+        },
+        {
+          "filename": "samyang_com.json",
+          "chat_id": "samyang_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/samyang_com.json",
+          "message_count": 237
+        },
+        {
+          "filename": "scohil_com.json",
+          "chat_id": "scohil_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/scohil_com.json",
+          "message_count": 29
+        },
+        {
+          "filename": "sirva_com.json",
+          "chat_id": "sirva_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/sirva_com.json",
+          "message_count": 78
+        },
+        {
+          "filename": "software-line_it.json",
+          "chat_id": "software-line_it",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/software-line_it.json",
+          "message_count": 30
+        },
+        {
+          "filename": "tapcocu_org.json",
+          "chat_id": "tapcocu_org",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/tapcocu_org.json",
+          "message_count": 215
+        },
+        {
+          "filename": "vitalityhp_net.json",
+          "chat_id": "vitalityhp_net",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/vitalityhp_net.json",
+          "message_count": 73
+        },
+        {
+          "filename": "vsainc_com.json",
+          "chat_id": "vsainc_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/vsainc_com.json",
+          "message_count": 21
+        },
+        {
+          "filename": "wabteccorp_com.json",
+          "chat_id": "wabteccorp_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/wabteccorp_com.json",
+          "message_count": 39
+        },
+        {
+          "filename": "wcinet_com.json",
+          "chat_id": "wcinet_com",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/lockbit3.0/wcinet_com.json",
+          "message_count": 34
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 42,
+        "message_count": 2220
+      }
+    },
+    "mount-locker": {
+      "chats": [
+        {
+          "filename": "20201016.json",
+          "chat_id": "20201016",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/mount-locker/20201016.json",
+          "message_count": 60
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 60
+      }
+    },
+    "trinity": {
+      "chats": [
+        {
+          "filename": "0001.json",
+          "chat_id": "0001",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0001.json",
+          "message_count": 2
+        },
+        {
+          "filename": "0002.json",
+          "chat_id": "0002",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0002.json",
+          "message_count": 52
+        },
+        {
+          "filename": "0003.json",
+          "chat_id": "0003",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0003.json",
+          "message_count": 298
+        },
+        {
+          "filename": "0004.json",
+          "chat_id": "0004",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0004.json",
+          "message_count": 170
+        },
+        {
+          "filename": "0005.json",
+          "chat_id": "0005",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0005.json",
+          "message_count": 14
+        },
+        {
+          "filename": "0006.json",
+          "chat_id": "0006",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0006.json",
+          "message_count": 11
+        },
+        {
+          "filename": "0007.json",
+          "chat_id": "0007",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0007.json",
+          "message_count": 36
+        },
+        {
+          "filename": "0008.json",
+          "chat_id": "0008",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0008.json",
+          "message_count": 13
+        },
+        {
+          "filename": "0009.json",
+          "chat_id": "0009",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0009.json",
+          "message_count": 6
+        },
+        {
+          "filename": "0010.json",
+          "chat_id": "0010",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0010.json",
+          "message_count": 8
+        },
+        {
+          "filename": "0011.json",
+          "chat_id": "0011",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0011.json",
+          "message_count": 50
+        },
+        {
+          "filename": "0012.json",
+          "chat_id": "0012",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0012.json",
+          "message_count": 15
+        },
+        {
+          "filename": "0013.json",
+          "chat_id": "0013",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0013.json",
+          "message_count": 32
+        },
+        {
+          "filename": "0014.json",
+          "chat_id": "0014",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/trinity/0014.json",
+          "message_count": 6
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 14,
+        "message_count": 713
+      }
+    }
+  }
+}
