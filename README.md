@@ -8,10 +8,10 @@ You're more than welcome to contibute.
 You can find some parsers ready to use to help you with that. Or you can send me an e-mail: **valery@proton.me**
 If you want to contribute ransom chats yourself, note than none will published without your clear agreement to their parsing and redaction.
 
-Thanks **[@thomfredev](https://twitter.com/thomfredev)** for the [reading app](https://github.com/thomfre/ransomchats-viewer) that's running here : **[ransomch.at](https://ransomch.at/)**
+Thanks **[@thomfredev](https://twitter.com/thomfredev)** for the [reading app](https://github.com/thomfre/ransomchats-viewer) that's been running here for the first two years of this project : **[ransomch.at](https://ransomch.at/)**
 (thanks as well for the help getting it built properly)
 
-Thanks **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for including the chats in **[ransomware.live](https://www.ransomware.live/#/negotiations)** and providing some.
+Thanks **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for including the chats in **[ransomware.live](https://www.ransomware.live/#/negotiations)**.
 
 Thanks **[@g0njxa](https://github.com/g0njxa)**, **[Rakesh Krishnan](https://theravenfile.com)** and **[@JMousqueton](https://github.com/JMousqueton/ransomware.live)** for ransom chats you contributed.
 
