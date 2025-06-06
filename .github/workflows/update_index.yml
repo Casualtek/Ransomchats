@@ -1,8 +1,6 @@
 name: Update Chat Index
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'  # Runs every 6 hours
   workflow_dispatch:        # Allow manual triggers
   push:
     branches:
