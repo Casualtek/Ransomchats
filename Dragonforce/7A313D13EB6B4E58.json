@@ -1,0 +1,165 @@
+{
+  "chat_id": "7A313D13EB6B4E58",
+  "messages": [
+    {
+      "timestamp": "2025-04-08T20:28:51.424478Z",
+      "content": "We found your note. Where is the listing? Is there a link on your page somewhere?",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-08T20:41:38.922911Z",
+      "content": "tree.txt filesize:4533984",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-08T20:42:08.638245Z",
+      "content": "This is a list of files",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-08T20:58:17.418497Z",
+      "content": "At the moment, information about the incident is completely private. There are no publications yet.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-09T18:15:41.602121Z",
+      "content": "Thank you. We are reviewing the list",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-09T19:02:13.854667Z",
+      "content": "[Redacted].JPG, [Redacted].jpeg, [Redacted].pdf",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-09T19:11:14.457636Z",
+      "content": "[Redacted].xlsx filesize:27582",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-09T19:11:20.459373Z",
+      "content": "[Redacted].doc filesize:21504",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-09T19:11:28.440043Z",
+      "content": "[Redacted].JPG filesize:71420",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-09T19:11:33.675575Z",
+      "content": "[Redacted].jpeg filesize:2807",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-09T19:11:38.950857Z",
+      "content": "[Redacted].pdf filesize:27068",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T20:43:35.209059Z",
+      "content": "[Redacted].zip filesize:1521432",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-11T21:14:55.742893Z",
+      "content": "[Redacted].msg filesize:326656",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:15:01.888965Z",
+      "content": "[Redacted].pdf filesize:11648",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:15:05.809785Z",
+      "content": "[Redacted].xlsx filesize:27388",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:15:08.364957Z",
+      "content": "[Redacted].xlsx filesize:27408",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:15:12.482293Z",
+      "content": "[Redacted].doc filesize:321536",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:15:16.114719Z",
+      "content": "[Redacted].doc filesize:796672",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-12T12:55:24.673494Z",
+      "content": "Reviewing. Whats next?",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-12T12:57:29.002751Z",
+      "content": "Now we want you to pay us 15 BTC, after which we will give you a decryption tool and delete the data from our servers.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-14T20:49:41.059210Z",
+      "content": "If negotiations are not underway, we will publish an incident announcement without publishing the data. That's how he becomes known publicly. If negotiations fail, we publish the data. You wanted privacy, but you stopped negotiating after we mentioned the terms.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-15T17:37:54.509846Z",
+      "content": "That is a huge amount of dollars. We do not have that kind of money. We are a low margin business and these new tariffs are killing us. Please ask us for something that we can actually pay",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-15T17:39:10.565056Z",
+      "content": "And how much do you think you could pay?",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-16T18:14:06.725583Z",
+      "content": "Our business is going through massive downtrends and there is so much uncertainty with tariffs we have no idea how much our sales will drop. You are asking for over a million and we do not have that even if we wanted. Honestly we are more in the 10's of thousands. Please work with us",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-16T18:23:16.827043Z",
+      "content": "We have examined your documents. Including insurance. We can reduce the amount to 14 BTC.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-19T14:28:56.985330Z",
+      "content": "That is going to be impossible for us. We are willing to discuss the potential of payment but at that amount it we cannot do anything",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-19T14:38:12.921231Z",
+      "content": "Abstract discussions do not bring real results. The amount that we have named is based on your documents that we have studied. You know these documents, you've seen them, we speak the same language. If you have a different view, then name it and we will discuss it. A serious suggestion, not abstract words.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-21T02:15:28.179287Z",
+      "content": "We are meeting tomorrow to discuss your message. Will report back",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-21T03:07:48.057451Z",
+      "content": "Ok",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-23T17:08:00.885257Z",
+      "content": "We are having a difficult time deciding how to continue this discussion given you are asking for over $1 million. We cannot aford that but we do not want to upset you either. Can you show us a more reasonable amount so we can consider? How do you prove you delete our data if paid?",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-27T16:45:24.250486Z",
+      "content": "You posted us so i guess you are no longer interested",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-28T05:20:53.894675Z",
+      "content": "You knew the conditions. You have received an offer. You've decided to play games. The consequences are now your responsibility.",
+      "party": "Attacker"
+    }
+  ]
+}

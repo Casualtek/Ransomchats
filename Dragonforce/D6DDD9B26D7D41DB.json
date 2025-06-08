@@ -1,0 +1,75 @@
+{
+  "chat_id": "D6DDD9B26D7D41DB",
+  "messages": [
+    {
+      "timestamp": "2025-04-10T21:20:45.774561Z",
+      "content": "We’ve found your note and messages, and we are here to discuss what we do now",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-11T00:35:49.938260Z",
+      "content": "We got into your network and encrypted your files. We also took some of the files from your network. You can decrypt several of your files and check several files in our possession. After that, we will discuss payment for decrypting your files and deleting the data we received.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T00:35:57.555971Z",
+      "content": "tree.txt filesize:4700442",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T00:36:27.750221Z",
+      "content": "Here is a list of your files",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-11T21:05:13.106683Z",
+      "content": "Is this listing all of the data you stole? How much is it total in size?",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-11T21:07:50.211371Z",
+      "content": "More than 100 gigabytes, more than 50 thousand files.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-14T22:05:27.140521Z",
+      "content": "We want these files from your list:   Group\\Clients\\[Redacted].pdf   Collateral Review\\Template v2022-08\\[Redacted].xlsm   [Redacted].pdf",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-14T22:19:19.606914Z",
+      "content": "[Redacted].pdf filesize:1125386",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-14T22:19:28.998241Z",
+      "content": "[Redacted].xlsm filesize:947633",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-14T22:19:38.570961Z",
+      "content": "[Redacted].pdf filesize:10588784",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-17T21:52:57.374172Z",
+      "content": "You can see the countdown timer. When it reaches 0, the data will be published, and the decryption tool will be deleted. Some promise to recover the data after our encryption, but this is not possible. Trying to negotiate just before the countdown ends will not make the position strong. Keep this in mind and don't miss the time.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-18T18:55:29.118725Z",
+      "content": "How are we supposed to negotiate anything or attempt to move forward here when you haven't even told us your price? What exactly is it you want from us?",
+      "party": "Victim"
+    },
+    {
+      "timestamp": "2025-04-18T19:28:58.117337Z",
+      "content": "You saw the rules right away. Listing, test, price. The price is 12 BTC.",
+      "party": "Attacker"
+    },
+    {
+      "timestamp": "2025-04-22T21:41:50.776077Z",
+      "content": "In the absence of active negotiations, the data will be published in less than 48 hours.",
+      "party": "Attacker"
+    }
+  ]
+}
