@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-06-11T18:17:04.705577",
+  "last_updated": "2025-06-12T07:04:40.167583",
   "statistics": {
     "total_groups": 23,
-    "total_chats": 222,
-    "total_messages": 10812
+    "total_chats": 225,
+    "total_messages": 10845
   },
   "groups": {
     "Akira": {
@@ -319,11 +319,29 @@
           "chat_id": "20250328",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250328.json",
           "message_count": 39
+        },
+        {
+          "filename": "20250330.json",
+          "chat_id": "20250330",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250330.json",
+          "message_count": 15
+        },
+        {
+          "filename": "20250331.json",
+          "chat_id": "20250331",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250331.json",
+          "message_count": 6
+        },
+        {
+          "filename": "20250408.json",
+          "chat_id": "20250408",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250408.json",
+          "message_count": 12
         }
       ],
       "group_statistics": {
-        "chat_count": 52,
-        "message_count": 2218
+        "chat_count": 55,
+        "message_count": 2251
       }
     },
     "Avaddon": {
