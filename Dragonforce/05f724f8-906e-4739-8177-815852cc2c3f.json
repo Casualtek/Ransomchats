@@ -1,0 +1,150 @@
+{
+    "chat_id": "05f724f8-906e-4739-8177-815852cc2c3f",
+    "messages": [
+        {
+            "timestamp": "2025-06-21T18:49:10.569693Z",
+            "content": "Is someone here?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-22T00:00:02.368226Z",
+            "content": "Yes",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-22T14:10:16.237473Z",
+            "content": "Okay, good to know. Please tell us exactly what you did and why. How do we fix this? Just please be as detailed as possible.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-22T14:18:00.277884Z",
+            "content": "Hello. Your network has been attacked. The files are encrypted, and we also took files from your network. I will now send you a part of the list of these files. You can select 1-3 small files from the list and they will be provided to you as proof. You can also send 1-3 small encrypted files and we will decrypt them as proof of the decryption capability. After that, we will discuss the amount you will pay to receive the decryptor and delete the files we downloaded from you. If we do not reach an agreement before the expiration of the timer that you see, the data taken will be published, and the decryption program will be deleted. It is impossible to decrypt without this program, after removing the decryptor, even we will not be able to do it. You can also see a short list of questions and answers to the right of this chat window.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-22T14:19:10.013012Z",
+            "content": "tree.zip filesize:1626285",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-23T18:03:32.121166Z",
+            "content": "Yeah, we've noticed a significant disruption to our network. You mentioned that you've sent part of the list of what you took; can you please send the full list?  We need a complete picture of what you're in possession of, as I'm sure you understand.  We'll review everything you mentioned and get back to you soon.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-23T18:09:45.383837Z",
+            "content": "Yes, of course, we understand that you want the entire list. At the same time, we don't want to show it to you. We think you understand why, and it's part of the rules that we detailed for you as you requested.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-24T15:20:47.231681Z",
+            "content": "Can you tell us exactly why you won't send us a complete list? We're not entirely sure why you won't send it. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-24T15:20:58.16113Z",
+            "content": "Here are some files we selected to get back:  [Redacted].xls [Redacted].xlsx [Redacted].xlsm.pdf",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-24T15:45:23.799934Z",
+            "content": "The full list is not being provided because having it would give you the opportunity and time to minimize the damage before publication. This would weaken our position in the negotiations and strengthen yours. For the same reason, waiting until the last minutes of the timer and trying to use that to reduce the amount will not work. Our blog has several examples of chats where people have tried to do this, but it didn't work out. The best strategy now is to do everything as quickly as possible, which will make us as flexible as possible in our ability to negotiate.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-24T15:45:34.205133Z",
+            "content": "[Redacted].xls filesize:34304",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-24T15:45:44.8934Z",
+            "content": "[Redacted].xlsx filesize:14645",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-24T15:45:52.724696Z",
+            "content": "[Redacted].xlsm.pdf filesize:244620",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-26T12:21:41.897327Z",
+            "content": "We downloaded the files and will look at them here shortly.  No offense but, that logic regarding the file list doesn't really make any sense though, for a couple of reasons.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-26T12:22:14.292968Z",
+            "content": "By only sending the partial list, how do we actually know you have any more of our data? You could be bluffing.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-26T12:22:56.521023Z",
+            "content": "Also, if you send us the full list then we could assess the full impact this whole event might have on us; we don't see how that would strengthen our posture.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-26T13:02:09.288354Z",
+            "content": "Yes. By sending part of the list, we can bluff, and you can't fully assess the impact of publication on you. You've understood everything correctly. This is a standard scheme.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-28T13:27:18.206046Z",
+            "content": "What? That makes very little sense. Especially when you admit to us that you could be bluffing and the reasoning is based on some kind of scheme. Can we just stop with the games? It's childish and we are dealing with enough problems as it is- just send us the full list please.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-28T13:41:33.255138Z",
+            "content": "There are rules and they are as follows. If you can't figure them out, we recommend that you contact any negotiation company. The usual timeline is to enter into negotiations 1-2 days after the incident, to deal with the files within 2-6 hours, and then proceed to discuss payment. Within 8 days, we haven't made progress with checking the files and haven't started discussing payment. It's surprising, since companies with your profile are popular, judging by our download statistics. And such companies usually try to resolve the issue literally over the first weekend, so that by the beginning of the week, no one notices the incident. You have been provided with a single list, which you will see, and the rest you will be able to view on our blog in a week, if the negotiations are not successful.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-30T16:46:34.700849Z",
+            "content": "We haven't made progress because you have some nonsensical \"rule\" about not giving us a full list. We likely would have had this entire situation resolved by now if you would just provide what we're asking for. This just seems very strange, and it is making it difficult to understand your true motives or trust that you will be able to help us. What would be the point in putting the list on the blog for everyone to see? Why would we even consider a payment then? What we are asking for isn't hard… if you provide it we can move forward.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-30T16:52:59.58603Z",
+            "content": "You have been provided with the only available file list that you will see. Rules exist and will be followed. If you want to resolve the situation, stop asking for something you cannot get. There are just over 5 days left to resolve the issue.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-01T17:56:24.605537Z",
+            "content": "This is unbelievable…since you won't give us a full list...what now? How do we resolve the situation?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-01T18:07:24.537375Z",
+            "content": "How you accept this situation is your choice. The rules will not be changed. Currently, there are less than 4 days left to resolve the issue, including payment.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-02T19:16:36.587385Z",
+            "content": "That is what I'm asking you...how do we resolve this? You mentioned a payment, but no other information.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-02T19:36:24.367404Z",
+            "content": "Yes. This was mentioned right away when you asked me to describe the process to you. It's all straightforward. We want $450,000.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-04T14:06:29.113466Z",
+            "content": "$450,000 isn't a small amount of money, do people typically have that kind of cash just laying around? We definitely don't. Give me a moment, I'm reviewing what you sent before about the process.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-04T14:34:38.88026Z",
+            "content": "Okay. But don't forget that there are 28 hours left on the countdown.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-05T15:08:50.883831Z",
+            "content": "We are clearly going to need more time to hash this out. It's a holiday weekend right now and everything is shut down. Can we resume this discussion on Monday?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-05T15:12:55.286812Z",
+            "content": "We are always open to a substantive dialogue. The deadline has been extended to Wednesday.",
+            "party": "DragonForce"
+        }
+    ]
+}
