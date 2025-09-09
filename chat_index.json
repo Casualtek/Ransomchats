@@ -1,9 +1,9 @@
 {
-  "last_updated": "2025-06-12T07:14:10.114358",
+  "last_updated": "2025-09-09T14:57:18.865687",
   "statistics": {
-    "total_groups": 23,
-    "total_chats": 230,
-    "total_messages": 11002
+    "total_groups": 24,
+    "total_chats": 234,
+    "total_messages": 11106
   },
   "groups": {
     "Akira": {
@@ -777,6 +777,18 @@
     "Dragonforce": {
       "chats": [
         {
+          "filename": "058f4b92-ae99-45c7-bf35-5d2d6754b3de.json",
+          "chat_id": "058f4b92-ae99-45c7-bf35-5d2d6754b3de",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/058f4b92-ae99-45c7-bf35-5d2d6754b3de.json",
+          "message_count": 19
+        },
+        {
+          "filename": "05f724f8-906e-4739-8177-815852cc2c3f.json",
+          "chat_id": "05f724f8-906e-4739-8177-815852cc2c3f",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/05f724f8-906e-4739-8177-815852cc2c3f.json",
+          "message_count": 29
+        },
+        {
           "filename": "29BBE03074FDBB8D.json",
           "chat_id": "29BBE03074FDBB8D",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/29BBE03074FDBB8D.json",
@@ -841,11 +853,17 @@
           "chat_id": "FDA8141B6DD392E3",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/FDA8141B6DD392E3.json",
           "message_count": 10
+        },
+        {
+          "filename": "b8e14e1a-548f-4eec-bd6e-a590126e57c9.json",
+          "chat_id": "b8e14e1a-548f-4eec-bd6e-a590126e57c9",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/b8e14e1a-548f-4eec-bd6e-a590126e57c9.json",
+          "message_count": 14
         }
       ],
       "group_statistics": {
-        "chat_count": 11,
-        "message_count": 313
+        "chat_count": 14,
+        "message_count": 375
       }
     },
     "Hive": {
@@ -962,6 +980,20 @@
       "group_statistics": {
         "chat_count": 2,
         "message_count": 10
+      }
+    },
+    "Pear": {
+      "chats": [
+        {
+          "filename": "20250720.json",
+          "chat_id": "20250720",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Pear/20250720.json",
+          "message_count": 42
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 42
       }
     },
     "Qilin": {
