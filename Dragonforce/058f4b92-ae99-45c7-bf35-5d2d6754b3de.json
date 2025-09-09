@@ -1,0 +1,100 @@
+{
+    "chat_id": "058f4b92-ae99-45c7-bf35-5d2d6754b3de",
+    "messages": [
+        {
+            "timestamp": "2025-07-05T12:38:21.265342Z",
+            "content": "hello",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-05T12:38:43.259589Z",
+            "content": "Hi",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-05T12:52:22.162723Z",
+            "content": "I discover your file and contacts on my systems, you said we can get the list of files stolen from us and make a test decrypt, how can we proceed?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-05T12:53:15.422565Z",
+            "content": "Also what is the price?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-05T12:55:23.021448Z",
+            "content": "Yes. We will now provide a list and can do a test decryption of a small file with non-critical information.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-05T12:55:59.911414Z",
+            "content": "tree.txt filesize:7771",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-05T12:59:22.707454Z",
+            "content": "We have backups of your databases. Our encryption cannot be decrypted by third-party methods. Once the timer expires, the decryption tool will be deleted and the data will be published. We want $1,500,000 for the decryption tool and deletion of the data taken from you.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-08T17:32:32.083173Z",
+            "content": "The silence is getting too long. To stimulate the discussion, we can publish a notice of the incident, without releasing the actual data. Usually, it takes less than a day for the situation to become public knowledge. Will this expedite our negotiations?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-08T19:46:49.329194Z",
+            "content": "Can you please tell me how much money you want not to disclose the data and to delete them?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-08T19:48:42.147909Z",
+            "content": "We have already written that we want $1,500,000",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-08T20:48:49.100783Z",
+            "content": "We are discussing internally and will get back to you tomorrow. This is a lot of money and not something we can decide easily.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-08T20:50:26.181956Z",
+            "content": "Ok. Keep us updated and keep an eye on the timer.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-11T06:46:17.458461Z",
+            "content": "On the 8th, you said 'get back to you tomorrow'. Today is the 11th and you haven't kept your promise. Today is the end of the workweek, and if we don't get serious progress today, there will be consequences for breaking your word.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-11T14:24:34.289693Z",
+            "content": "We have discussed this internally and your offer is too high. We have recovered most of our data, we would still be interested in the decryptor and deletion of the data taken from us, but we cannot offer more than $100,000.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-11T14:28:29.208115Z",
+            "content": "There is likely a typo in your proposal. Did you mean to offer $1,000,000? $100,000 is clearly not a sum comparable to the damage, or one that you can afford.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-11T15:02:16.053799Z",
+            "content": "No, most of us internally do not want to pay criminals. The only way for it to make sense is if it is cheaper than actual damages. $1,000,000 is way above this.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-11T15:15:34.851686Z",
+            "content": "I'm sure you've been following the news. You know that some people have chosen to settle, even after the incident became public. They placed a high value on data privacy. What would be the consequences if you were to handle it differently? It would be a significant news story. We expect a serious proposal from you.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-07-11T15:36:48.856713Z",
+            "content": "Ok, we will circle back internally on whether we believe we should make a higher offer. We will get back to you on Tuesday (Monday is off in France and we have several stakeholders for this decision)",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-07-11T15:53:47.005787Z",
+            "content": "Ok",
+            "party": "DragonForce"
+        }
+    ]
+}
