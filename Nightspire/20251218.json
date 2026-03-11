@@ -1,1 +1,424 @@
-
+{
+    "chat_id": "20251218",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "We found your note. Who are you and what do you want?",
+            "timestamp": "2025-12-18"
+        },
+        {
+            "party": "Nightspire",
+            "content": "Send us your UUID",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry do you mean this? [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "What can I help you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team is asking who you are and what do you want?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Actually we need $150k US Dollars for your decryption key and data safety.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "we have All your clients' information (Contacts, Drawings, Invoices ...)*Your data also contains russians on your clients...All your employeer's data",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My teams is asking specifically if you can provide any examples like a list of files or actual files taken?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team is also asking what amount you are looking for to resolve this matter, and what we get once a payment is made?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "These images are some examples you want.All your files are zipped on our storage.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "It's better for you to make us to not to unzip all your files for leak or selling.150k is not big price for your company, even for you.The faster you pay, the less price you can pay.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "[IMG01.jpg] [IMG02.jpg] [IMG03.jpg] [filelist.7z.txt]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for the update, I will get this information over to my team.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team is also wanting to know if you can prove the decryption key works?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Send us Test Files. After some tests, we'll provide decryption key.But these files must not contain sensitive & recent information.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "OK, be back soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "If no payment is made in this week, your hacked news will be posted on our onion site.Then next week, your clients' information and drawings will be sent to below competitors.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "* Manufacturing in US* Manufacturing in US* Group Ltd in UK** * GmbH in Germany - *** und ** GmbH in Germany * in US",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Here are the files",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "[testfile1.nspire] [testfile2.nspire] [testfile3.nspire]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "[redacted.xlsx]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "This file contains financial data. We cannot share the whole file. We're sending the screenshoot of this file",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "https://gofile.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Are you ready to pay?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I will get these over to my team to review. Thank you for working with us.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Just remember. Next week, your data will be posted on our site",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I wanted to follow-up with you as we are wanting to work with you to resolve this matter.Our team will be meeting Monday afternoon to discuss next steps.Can you please give us until Monday evening or Tuesday morning to get back with you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Ok. I hope there will be any goods deal at Tuesday evening.Actually, changes will be made from Wednesday morning.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "How was your meeting? Any deals made?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team is wanting to work with you to resolve this matter.However, the initial demand is more than we can offer at this time.My team is wondering if you can offer us a discount?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team is also concerned about the SQL database, working correctly.They asked if you would be willing to decrypt one file from the SQL server to confirm it works?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "What's your best offer to close this deal?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "And about files, we've already shown enoughly and  exactly about decryption.Let's clear our agreement price first",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for the information. My team wants to work with you to resolve this matter.I was informed that we can offer you $22,500.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If this is acceptable, we should be able to make payment within 48 hours.Again, we want to work with you, but the initial demand is more than we can offer at this time.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Is our offer acceptable?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "$22500 is too low priceAt that price, we cannot even provide decryption keyWhat about $120000?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for the update, I will provide the update to our team and get back with you as soon as possible.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "It's the last day we've said. If no deals made until Tomorrow evening, your data will be posted on Thursday 00:00. It's our last warning.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for discount but my team is advising that is more than we can offer at this time.I was informed that we can offer you $42,750.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If this is acceptable, we should be able to make payment within 48 hours.Again, we want to work with you to resolve this matter quickly. However, based on the assets currently available it will take additional time to acquire funding, if this is not acceptable.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "What about $110000?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for discount but my team is advising that is more than we can offer at this time.I was informed that we can offer you $51,650.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If this is acceptable, we should be able to make payment within 48 hours.Again, we want to work with you to resolve this matter quickly. Please work with us to resolve this.We are a small business with limited assets and funding.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "What about 105000 US Dollars?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for discount but my team is advising that we cannot agree to that based on our current available funds.I was informed that we can offer you $56,500.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If this is acceptable, we should be able to make payment within 48 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Please work with us as we are doing our best to work with you. We are a small business with limited assets and funding this is impacting on our ability to pay our employees.If this is not acceptable, we will need to look into loan options that will slow down our ability to make payment quickly and may or may not be possible.Will you accept our offer?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "With $100000, we'll provide the decryption key file, accesses which allowed us and anything you want to know",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We've reduced so much and this is the last amount we can ofer. We've already shown our best to you",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I will let my team know and get back with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "It's not so high price for you>And 9 Hours left until Thursday 00:00.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "It may take me until the morning to be able to get back to you. Again, we want to work with you to resolve this matter, can you give me a litttle extra time.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Ok. But then, at that time, I hope you to not to say your little price again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for discount but my team is advising that amount is still high for us.I was informed that we can offer you $75,000.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If this is acceptable, we should be able to make payment within 48 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Please work with us as we are doing our best to work with you. We are a small business and with this increase we will most likely lay off employees around Christmas.We are doing the best we can to work with you. Will you accept our offer?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "I'm sure that your company can pay $100000 as payment. Do not modify price anymore and lets make deal at $100000. That will be fine.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "My team has advised me that we can agree to your terms, and we accept your offer of $100,000.00 USD for the decryption key, the deletion of our data and details on how you got into our network.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If you can confirm this and provide details on payment. We should be able to get this done with in the next 48 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We want payment in BTC",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Any more details?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "what do u  want more?If you send money 100k USD to our BTC address, we'll follow all the activities you want",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Sorry I am not seeing the BTC address?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Shall I share it now?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If you agree to the 100,000 USD then yes, so I can start the process on our side.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "wait a min bc1[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Here's our wallet addressWe're waiting on here",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you I will get this over to the team and get the process started.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "when will this payment made? today?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "working on it now",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I was advised the payment was sent can you please confirm it.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "it's now on pending.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Ok please confirm once completed.I double checked and was informed we sent the full amount, Please confirm once recieved.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We're on here",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "i was told they are working on it.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "So, what service do you want?Decryption key & data erase & reach out the access",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "what do you want more?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "decryption key, the deletion of our data and details on how you got into our network",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "So, choose your way for your decryption.We'll send delete log of your files at tomorrow morning timeAbout access, we exploited the [How NIGHTSPIRE ENCRYPTED]Choose your way for solutions.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I am not sure what you mean by Choose your way?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We need the decryption key for our systems.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Also my team is asking if you can confirm which vulnerability was exploited."
+        }
+    ]
+}
