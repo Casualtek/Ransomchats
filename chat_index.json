@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-11T11:50:24.835745",
+  "last_updated": "2026-03-11T12:13:00.578508",
   "statistics": {
     "total_groups": 25,
-    "total_chats": 235,
-    "total_messages": 11190
+    "total_chats": 236,
+    "total_messages": 11252
   },
   "groups": {
     "Akira": {
@@ -969,11 +969,17 @@
           "chat_id": "20251218",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Nightspire/20251218.json",
           "message_count": 84
+        },
+        {
+          "filename": "20260127.json",
+          "chat_id": "20260127",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Nightspire/20260127.json",
+          "message_count": 62
         }
       ],
       "group_statistics": {
-        "chat_count": 1,
-        "message_count": 84
+        "chat_count": 2,
+        "message_count": 146
       }
     },
     "NoEscape": {
