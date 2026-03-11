@@ -1,0 +1,299 @@
+{
+    "chat_id": "20250428",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "[redacted]",
+            "timestamp": "2025-04-28"
+        },
+        {
+            "party": "Nightspire",
+            "content": "How can I help you?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Hi there. We are a small charity organization. We help poor communities with food and medicine. Can we please talk about this?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Hello. Yes, we are online. Ransom demand is $85k in Bitcoin. We have all your donor lists and sensitive files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "$85k? That's completely impossible for us. We are a non-profit with a very limited budget.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We understand it's a charity. But we took real risk to get in. Payment or we start leaking data soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Leaking would hurt our donors badly. It would also harm the vulnerable people we support every day. Please think about that.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Ok, let's negotiate. Our minimum right now is $60k if you pay quickly.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Even $60k is way too much. It would force us to cancel programs and lay off staff who help kids.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Then tell me. What amount can your organization actually afford?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "After talking to our board, the absolute maximum we can raise is $10k dollars from emergency appeals.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "$10k is quite low for us. But since you're a charity, let's do a test first to build trust.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you. We can send 3 sample files for decryption proof. Is that okay?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Yes. Upload them here. Maximum 10MB each, different file types please.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Uploading now.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "I can't upload on this app.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Using gofile.io",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks. https://gofile.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Files received. Wait a mins.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Decryption done. Here are your three files back, fully recovered and perfect.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you so much. We opened them and everything looks correct. No damage at all.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Good proof. Because you're non-profit and cooperative, our special price now is $55k.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "$55k is still very difficult. We're begging major donors just to reach anywhere close to that.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Honestly, the most we can realistically gather is 45,000 dollars without shutting down our core work.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "45,000? That's pushing it very low after all this effort on our side.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Please understand. Every dollar we pay comes from people who donate to save lives. We have no more.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If you accept 45k, we promise to pay quickly and keep everything quiet. No police, no publicity.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "...Alright. For charity reasons and fast payment, we accept 45,000 USD as final. We want only BTC.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Really? Thank you from the bottom of our hearts. We'll start preparing the Bitcoin right away.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Here's the wallet address: bc1q[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Got it. We're converting emergency funds now. It should take about 4 to 6 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Okay. We've paused the publication timer for you. Please don't delay too long.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Update: we're halfway through buying the BTC. Compliance checks are slowing us a bit.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Should be ready in another 2 hours or so. Thank you for your patience.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "No problem. Just send the transaction hash here when it's sent.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Transaction is sent now! Here's the link: https://mempool.space/tx/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Watching the blockchain. First confirmation coming in...",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Funds fully received and safe on our end.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Sending you the recovery package right now.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "https://gofile.io/[redacted] You can find help.txt.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Downloaded everything safely. Testing on one isolated computer first.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Test successful! The sample files decrypted perfectly. No issues.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Excellent. You can now run it on the rest of your systems.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Starting the full decryption process on our main servers now.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "10% complete already. Seems to be going smoothly.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Keep us posted if anything unusual happens.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "100% complete! All files are back and readable. Huge relief.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Fantastic news. Congratulations on the recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We can't thank you enough. Our programs can continue without interruption.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We're deleting all your exfiltrated data permanently now.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Deletion complete. No copies remain on our systems.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Is that really final? No chance of leaks later?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Yes, completely gone. We keep our word on this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "That's such a weight off our shoulders. Thank you again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "You're welcome. Business concluded.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Because of this, children will get food and medicine tomorrow.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Glad to hear it. Stay secure from now on.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We will. Take care. Goodbye.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Goodbye. Good luck with your mission."
+        }
+    ]
+}
