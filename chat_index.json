@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-09-09T14:57:18.865687",
+  "last_updated": "2026-03-11T11:38:06.820026",
   "statistics": {
-    "total_groups": 24,
-    "total_chats": 234,
+    "total_groups": 25,
+    "total_chats": 235,
     "total_messages": 11106
   },
   "groups": {
@@ -960,6 +960,20 @@
       "group_statistics": {
         "chat_count": 3,
         "message_count": 108
+      }
+    },
+    "Nightspire": {
+      "chats": [
+        {
+          "filename": "20251218.json",
+          "chat_id": "20251218",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Nightspire/20251218.json",
+          "message_count": 0
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 0
       }
     },
     "NoEscape": {
