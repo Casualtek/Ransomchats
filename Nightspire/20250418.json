@@ -1,0 +1,194 @@
+{
+    "chat_id": "20250418",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "Hello. We received your note. Are you available to discuss recovery options?",
+            "timestamp": "2025-04-18"
+        },
+        {
+            "party": "Nightspire",
+            "content": "Hi. Yes, online 24/7. Price for full decryptor, master key + data deletion guarantee: 1 BTC.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We already exfiltrated 120 GB of your sensitive data. Payment within 5 days or publish starts.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "1 BTC is impossible for us. We're a small-size manufacturing company. What's your realistic lowest offer?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "We know your revenue from leaked docs \u2014 last year ~$1M. 1 BTC is only 10% \u2014 very fair.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "But ok, show seriousness. Best we can do now: 0.8 BTC if paid in 72 hours.After that price increases 20% every 48 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Still way too high. We consulted internally \u2014 board approved max budget 0.1 BTC for this incident.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We can pay that quickly if you prove decryption works. Can you decrypt 5 sample files first?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "0.1? Too low, we reject. But we accept test decryption to build trust.Send up to 5 files (max 10MB each, different types/folders). After we return them decrypted, we talk serious discount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Ok, uploading now:1. [redacted].nspire2. [redacted].nspire3. [redacted].nspire4. [redacted].nspire5. [redacted]_2024.nspire",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Wait a mins.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "https://gofile.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Here are your 5 decrypted files. All perfect, no corruption.Now, with proof given \u2014 special price for fast deal: 0.75 BTC.Pay in 48 hours, we stop leak timer and send tool immediately after confirm.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thank you for the test \u2014 files open fine.But that amount is still double what we can realistically do.We can counter at 0.2BTC. That's our absolute max, including recovery costs.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "If you accept, we start BTC purchase today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "0.2? No, that's insulting after seeing your revenue docs.We can meet you at 0.7 BTC. Final offer for today only.We have buyers interested in your data already \u2014 automotive industry competitors.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We understand pressure, but bankruptcy isn't an option.How about 0.3? We can wire equivalent BTC within 24-36 hours.Also, can you provide more proof? Maybe decrypt one more critical file from a different server?",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Ok, send one more file for second proof. Max 10MB.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "After that \u2014 if you pay 0.6 BTC in 24 hours we close deal.No more haggling after this.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Uploading one more: [redacted].nspir",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Got it. Decrypting... Returned decrypted.Everything checks out. Final price locked: 0.6 BTC.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Wallet: bc1[redacted]You have 24 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "We pushed board hard \u2014 they approved up to 0.5 BTC max.We pay immediately (within 12 hours).",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Ok, 0.5 BTC accepted. You must pay in 12 hours. After that price increases 20% everyday.Send BTC to above wallet.Notify tx id here when sent.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Agreed on 0.5 BTC. Converting funds now.Will take ~8-10 hours for full amount.Please confirm timer paused.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Timer paused during negotiation/payment window. But if no tx by 12 hours total \u2014 resumes.Keep us updated.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Tx initiated. Hash: https://mempool.space/tx/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Should confirm soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Good. https://gofile.io/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "You can find help.txt on our 7z file.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Downloaded and tested on test VM \u2014 decrypts sample perfectly.Starting on production servers now. Will update progress.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Good. We monitor chat for next 72 hours if needed.After full recovery confirmed by you \u2014 we permanently delete all data.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Decryption complete.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "All critical systems back online. Thank you for the support.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Excellent. Data deletion has been completed on our side.",
+            "timestamp": ""
+        },
+        {
+            "party": "Nightspire",
+            "content": "Logs wiped, no backups kept.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Understood. Closing this channel.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Thanks again."
+        }
+    ]
+}
