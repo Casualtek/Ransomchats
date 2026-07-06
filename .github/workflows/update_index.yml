@@ -14,12 +14,12 @@ jobs:
       
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7
       with:
         fetch-depth: 0      # Required for git-auto-commit to work properly
         
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v6
       with:
         python-version: '3.10'
         
@@ -35,7 +35,7 @@ jobs:
         python make_index.py
         
     - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: "Update chat index [skip ci]"
         branch: main
