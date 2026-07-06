@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-07-06T13:08:21.481472",
+  "last_updated": "2026-07-06T13:13:56.972300",
   "statistics": {
     "total_groups": 26,
-    "total_chats": 241,
-    "total_messages": 11473
+    "total_chats": 242,
+    "total_messages": 11514
   },
   "groups": {
     "Akira": {
@@ -1287,10 +1287,17 @@
       }
     },
     "kairos": {
-      "chats": [],
+      "chats": [
+        {
+          "filename": "20250519.json",
+          "chat_id": "20250519",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/kairos/20250519.json",
+          "message_count": 41
+        }
+      ],
       "group_statistics": {
-        "chat_count": 0,
-        "message_count": 0
+        "chat_count": 1,
+        "message_count": 41
       }
     },
     "lockbit3.0": {
