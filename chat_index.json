@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T12:52:05.774195",
+  "last_updated": "2026-07-06T13:08:21.481472",
   "statistics": {
-    "total_groups": 25,
+    "total_groups": 26,
     "total_chats": 241,
     "total_messages": 11473
   },
@@ -1284,6 +1284,13 @@
       "group_statistics": {
         "chat_count": 6,
         "message_count": 333
+      }
+    },
+    "kairos": {
+      "chats": [],
+      "group_statistics": {
+        "chat_count": 0,
+        "message_count": 0
       }
     },
     "lockbit3.0": {
