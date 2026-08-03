@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-03T15:21:56.400744",
+  "last_updated": "2026-08-03T15:31:56.022076",
   "statistics": {
     "total_groups": 27,
     "total_chats": 243,
-    "total_messages": 11514
+    "total_messages": 11541
   },
   "groups": {
     "Akira": {
@@ -1248,12 +1248,12 @@
           "filename": "20260318.json",
           "chat_id": "20260318",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/SilentRansomGroup/20260318.json",
-          "message_count": 0
+          "message_count": 27
         }
       ],
       "group_statistics": {
         "chat_count": 1,
-        "message_count": 0
+        "message_count": 27
       }
     },
     "fog": {
