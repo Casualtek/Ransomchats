@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-07-06T13:18:30.260247",
+  "last_updated": "2026-08-03T15:06:57.030079",
   "statistics": {
-    "total_groups": 26,
-    "total_chats": 242,
+    "total_groups": 27,
+    "total_chats": 243,
     "total_messages": 11514
   },
   "groups": {
@@ -1240,6 +1240,20 @@
       "group_statistics": {
         "chat_count": 1,
         "message_count": 27
+      }
+    },
+    "SilentRansomGroup": {
+      "chats": [
+        {
+          "filename": "20260318.json",
+          "chat_id": "20260318",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/SilentRansomGroup/20260318.json",
+          "message_count": 0
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 0
       }
     },
     "fog": {
