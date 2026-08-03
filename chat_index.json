@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-03T15:31:56.022076",
+  "last_updated": "2026-08-03T15:58:31.100034",
   "statistics": {
     "total_groups": 27,
-    "total_chats": 243,
-    "total_messages": 11541
+    "total_chats": 244,
+    "total_messages": 11599
   },
   "groups": {
     "Akira": {
@@ -1245,6 +1245,12 @@
     "SilentRansomGroup": {
       "chats": [
         {
+          "filename": "20260219.json",
+          "chat_id": "20260219",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/SilentRansomGroup/20260219.json",
+          "message_count": 58
+        },
+        {
           "filename": "20260318.json",
           "chat_id": "20260318",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/SilentRansomGroup/20260318.json",
@@ -1252,8 +1258,8 @@
         }
       ],
       "group_statistics": {
-        "chat_count": 1,
-        "message_count": 27
+        "chat_count": 2,
+        "message_count": 85
       }
     },
     "fog": {
