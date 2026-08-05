@@ -1,34 +1,419 @@
 {
-    "chat_id": "20250423",
+    "chat_id": "20250425",
     "messages": [
         {
             "party": "Victim",
-            "content": "> Hi",
+            "content": "> hi",
             "timestamp": ""
         },
         {
             "party": "Victim",
-            "content": "> Hi",
+            "content": "> hi",
             "timestamp": ""
         },
         {
             "party": "Akira",
-            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get your reply you will be provided with all the details.",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.",
             "timestamp": ""
         },
         {
             "party": "Victim",
-            "content": "> Yes.",
+            "content": "> hello",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> what is the amount",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> are you there",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> yes",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I have the authority to negotiate",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> are you online yet ?",
             "timestamp": ""
         },
         {
             "party": "Akira",
-            "content": "> List.7z // 315 KB",
+            "content": "> Wait a bit.",
             "timestamp": ""
         },
         {
             "party": "Akira",
-            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal;\n3) security report on vulnerabilities we found;\n4) guarantees not to publish or sell your data;\n5) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "content": "> List.7z // 43.5 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal and guarantees not to publish or sell your data;\n3) security report on vulnerabilities we found;\n4) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> whole deal",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> let us know we are waiting",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will let you know soon. Do you have any files requests?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> all files",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're willing to set a $290,000 price for ALL the services we offer. We accept payments in BTC. To gain bitcoins you need to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. Let us know if you have any file requests.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> USD 50000 is the maximum.we cam stretch to- even that is extremely difficult given our cash flow.This situation has already hit us very hard,and we are doing our best to recover.We know you want a fee so we will arrange this money. We don't have a wallet set up yet and will need a few days to make the payment. if you agree we ask you to decrypt 75% of files immediately so we can resume operations. please confirm",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We do not work with 5 digit amounts. We can accept $250,000 if you pay within 36 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> our cash flows are extremely tight,but under extreme duress we are willing to increase our offer to USD 75000 which is very close to six figures. This is a genuine stretch for us and the absolute maximum we can arrange. we respectfully request that you accept this amount and begin partial decryption so we can resume core operations. please confirm if this is acceptable - we are ready to begin arrangements immediately. 36 hours will not be possible as we have to remit money to a third party wallet and then make payment. We do not have a wallet. we will try our best to close it by Friday .",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $250,000 within 36 hours for the full deal. What your are offering is unacceptable.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we acknowledge your position. However. USD 250000 within 36 hours is not feasible- not due to unwillingness but due to structural changes flow limitations. Banks will only open in 10 hours Ns we can remit to a third party tomorrow only which will reach their wallet by Thursday after ehich they will pay so 36 hours is impossible for us. We have carefully assessed all avenues and increased our dffer to USD 75000 which represents the absolute ceiling of whT can be mobilised. This is a financial reality. You may consider partial decryption aligned to this amount allowing both parties to demonstrate good faith and preserve value. What you are demanding is beyond our means. The repercussions to our business are catastrophic both ways. Please accept USD 750000 and we will Work immediately on transferring this",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 75000",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Guys, we will not have a deal at 5 digit amount. If this is your final, we will cancel the deal and publish your data.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  given the gravity of the situation we are prepared to raise our offer to USD 100000. please accept with a request for decryption immediately",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We can accept $100,000 for decryption only. The whole deal will cost you $150,000. Once you confirm, we will provide our BTC wallet.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have detected unauthorised attempts to access our email systems, which significantly undermines confidence in the reliability of any guarantees being offered. Additionally, any efforts to influence remittances through compromised communication channels are unacceptable. Please guarantee these efforts will also stop. We are willing to proceed at USD 110,000 for the complete resolution inclusive of decryption and closure. This is the absolute limit of what we can commit. We propose disbursing this in tranches. The first tranche of USD 35,000 will be released upon confirmation of your BTC wallet. Once we see 35% decryption evidenced, we will proceed with the next tranche without delay. This structure ensures trust on both sides. Kindly confirm acceptance of all above and stop attacking us further so we may initiate.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $130,000 for everything if you pay today. Decryption tool will be provided after we receive full payment. Here is our BTC wallet [redacted]. Let us know when you are ready to send a test payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we are prepared to proceed with USD 120000 for full scope. this is to be done in tranches to ensure mutual trust.we will start with test USD 5000 payment once you confirm. remaining tranches will follow upon successful validation of decryption data. please co fien acceptance so we can initiate",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Just to understand that we are on the same page, we will provide the tool after full payment only. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we propose 4 equal tranches of USD 30000 WITH Exh tranche corresponding to 25% of the total data. please co sidereal this structure to proceed with payments",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will provide the deliverables after we receive 100% payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we will release USD 60000 in the next 10 hours for realise of 50% data and within end of business day balance USD 60000 for balance data release",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> BTC for USD 10000 made as test payment. confirm receipt",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].jpg // 5.14 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> will send 50000 more on e u confirm",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 0.09 received. You can proceed.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 50000 sent decrypt some files and show us",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> upload is failing",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 2.18 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> please decrypt and send back",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].bmp.akira // 17.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> where are the files",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": ">  (2MB PDF and 17 MB BMP) that were sent to you. we have clearly indicated our willingness to proceed once there is evidence that decryption is possible. Please provide the decrypted files urgently,without which we cannot proceed further. Additionally since we have already paid 50% of the agreed amount we now ask that you provide decryption key for 50% of our data for either of the two encrypted servers as a demonstration that the tool functions as claimed",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we have been waiting over 15 hours for the decrypted samples",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The will be provided soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Did you use google drive or Apple services to transfer these files?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> No we did not. we transferred through mobile phone",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Mobile phones encrypt files. Provide the files asap but don't use phones.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Since you are currently unable to decrypt the sample let us know how you plan to proceed to ensure full decryption key works successfully. We need to see 50% of our data decrypted against payment already made so that we close out your demand and have all our data released",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will provide the tool after we receive full payment. You've provided modified files for a test decryption. Provide original ones and we will give you them back decrypted. Please do asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 2.18 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 2.18 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].bmp.akira // 17.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].xlsx.akira // 5.33 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].doc.akira // 3.5 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].doc.akira // 4.14 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].doc.akira // 2.13 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we are awaiting your decryption",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> why does it take so long to decrypt",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting for a feedback from our team. Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> https://limewire.com/d/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Files uploaded also in this link, decrypt and send us the sample",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Decrypted.7z // 13.7 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Do you want to see files from the list for proof?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have verified that the decrypted files you provided are correct.   Please address the following points:  1.\u2060 \u2060Decryption Instructions Provide clear instructions and the full procedure to effect complete decryption. We will proceed with remitting the balance payment of USD 60,000 upon receipt of the same.  2.\u2060 \u2060Data Deletion Assurance Clarify how you intend to demonstrate that all exfiltrated data has been securely and permanently deleted, and that it will not be published or sold in any form.  3.\u2060 \u2060Security Report Share the report detailing the vulnerabilities identified in our systems.  4.\u2060 \u2060Non-Attack Guarantee Explain how your guarantee not to attack us in the future will be upheld and evidence.  5.We have no incentive to decrypt our data and not send the balance USD 60,000 as we know then all your guarantees will be null and void and you will attack us with more pressure. We commit that as soon as we have decrypted our files we will transfer the balance.  We await your response to proceed.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We value our reputation and honor all agreements made. You will not find a single case where we have broken an agreement or failed to fulfill any of the clauses.\n\nWe are the ones who can properly decrypt your data and restore your infrastructure in a short period of time. \nAfter payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. You will be able to restore your infrastructure within 24 hours. If you face any problems during decryption process, we will be here to support.\nYou will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. \nYou will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. What's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. \nYou will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again. We're still waiting for the full payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Balance payment sent. Full monies paid to you. Please honour your agreements",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Received, thank you. Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlockers.7z // 2.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\"\nunlocker.exe -s=\"C:\\paths.txt\"\nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line\nESXi commands\n1) chmod +x unlocker\n2) ./unlocker -p=\"/vmfs/volumes\"",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> send us the detailed instructions on how to do this step by step",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Are your technicians facing challenges with these commands?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Decryption in progress. 1. Since we have made full payment send us the deletion log to evidence that the raid drives that contained the only copy are fully formatted and erased 2. Send us the security report including information on how you penetrated our network and status of our network, vulnerabilities and eliminating them to strengthen our network architecture  3. Send us the written guarantee that you will not sell or publish the data and keep this conversation private and delete the chat later. Also guarantee to include that you will not come back for more money after payment and attack us again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Should be ready soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> log_erase.txt // 357 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Initial access to your network was purchased on the dark web. Then kerberoasting was carried out and we got passwords hashes. Then we just bruted these and got domain admin password. Spending weeks inside of your network we've managed to detect some fails we highly recommend to eliminate: 1. None of your employees should open suspicious emails, suspicious links or download any files, much less run them on their computer.\n\n    Use strong passwords, change them as often as possible (1-2 times per month at least). Passwords should not match or be repeated on different resources.\n    Install 2FA wherever possible.\n    Use the latest versions of operating systems, as they are less vulnerable to attacks.\n    Update all software versions.\n    Use antivirus solutions and traffic monitoring tools.\n    Create a jump host for your VPN. Use unique credentials on it that differ from domain one.\n    Use backup software with cloud storage which supports a token key.\n    Instruct your employees as often as possible about online safety precautions. The most vulnerable point is the human factor and the irresponsibility of your employees, system administrators, etc. We wish you safety, calmness and lots of benefits in the future. Thank you for working with us and your careful attitude to your security.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Send us the written guarantee that you will not sell or publish the data and keep this conversation private and delete the chat later. Also guarantee to include that you will not come back for more money after payment and attack us again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Your data has been deleted, so we are not able to sell it or publish. Akira won't ever attack you again.",
             "timestamp": ""
         }
     ]
