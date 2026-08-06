@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-05T08:25:22.186162",
+  "last_updated": "2026-08-06T09:13:23.049611",
   "statistics": {
     "total_groups": 27,
-    "total_chats": 251,
-    "total_messages": 12066
+    "total_chats": 259,
+    "total_messages": 12446
   },
   "groups": {
     "Akira": {
@@ -387,6 +387,12 @@
           "message_count": 15
         },
         {
+          "filename": "20250428.json",
+          "chat_id": "20250428",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250428.json",
+          "message_count": 78
+        },
+        {
           "filename": "20250511.json",
           "chat_id": "20250511",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250511.json",
@@ -409,11 +415,53 @@
           "chat_id": "20250909",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20250909.json",
           "message_count": 56
+        },
+        {
+          "filename": "20260106.json",
+          "chat_id": "20260106",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260106.json",
+          "message_count": 47
+        },
+        {
+          "filename": "20260125.json",
+          "chat_id": "20260125",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260125.json",
+          "message_count": 52
+        },
+        {
+          "filename": "20260212.json",
+          "chat_id": "20260212",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260212.json",
+          "message_count": 26
+        },
+        {
+          "filename": "20260216.json",
+          "chat_id": "20260216",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260216.json",
+          "message_count": 77
+        },
+        {
+          "filename": "20260224.json",
+          "chat_id": "20260224",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260224.json",
+          "message_count": 50
+        },
+        {
+          "filename": "20260315.json",
+          "chat_id": "20260315",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260315.json",
+          "message_count": 38
+        },
+        {
+          "filename": "20260320.json",
+          "chat_id": "20260320",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Akira/20260320.json",
+          "message_count": 12
         }
       ],
       "group_statistics": {
-        "chat_count": 67,
-        "message_count": 2875
+        "chat_count": 75,
+        "message_count": 3255
       }
     },
     "Avaddon": {
