@@ -1,0 +1,65 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> hi, let's talk",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.   ATTENTION! Strictly prohibited: - Deleting files with .arika extension; - Replacing or renaming .arika and .akira files; - Using third party software to recover your systems. Negotiations with Akira can only be conducted in THIS chat room. You should ignore any attempts (such as emails/social media messages, phone calls, etc.) to redirect you to another chat or email address (proton.me is often used by unauthorized individuals) on our behalf. Be careful while working with recovery agencies as they often try to use your cyber incident to stuff their pockets. There are many risks for you to lose money and get nothing in return. If you violate any of these rules, we cannot guarantee a successful recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can you get us a new chat id before you send the list? this channel might be compromised.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The chat is secure. Confirm you have a permission to conduct a negotiation on behalf of your organization and we will provide the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I am authorized to negotiate with you but I have to insist on a new channel as I cannot rule out that other employees have seen that file on their system, therefore can\u2019t be sure if employees are reading here.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Okay. Your upper management will soon receive instruction how to get to the new channel.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Check these emails. This is the only way to get a new room.\nr[redacted]\n[redacted]\n[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We can't find any email that looks to be coming from you in the [redacted] mailbox. Can you advise which sender/subject we should look for.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Check your spam folder. You will get another emails soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Please do not accept chat room from Email as it's been on the watch by another group",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Please communicate here itself!",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Who are you and what is the group you are talking about?",
+            "timestamp": ""
+        }
+    ]
+}

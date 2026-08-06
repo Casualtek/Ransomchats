@@ -1,0 +1,390 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> Hi",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> we need to know the next steps to this",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.   ATTENTION! Strictly prohibited: - Deleting files with .arika extension; - Replacing or renaming .arika and .akira files; - Using third party software to recover your systems. If you violate these rules, we cannot guarantee a successful recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes I have",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait for details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.txt.7z // 2.2 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. \n\nWe're looking through your financial papers to come up with a reasonable demand to you. We offer: \n\n1) full decryption assistance;\n2) evidence of data removal and guarantees not to publish or sell your data;\n3) security report on vulnerabilities we found;\n4) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> 1",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> can show the price for option 1 only and price for option 1 + 2 toghether?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $200,000 for these 2 options.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> And for option 1 only ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $150,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Are these values negotiable?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> For option 1, we can pay $75,000. Is that possible?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're only going to discuss 6 figures. $135,000 and we can shake hands.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here is our BTC wallet ID for payment: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We propose the value of $119,000 (+/- one bitcoin). Deal?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can we start the payment initiation process with our indicated amount?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> $119,000",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Assuming the value of $119,000, what guarantees do we have that you can decrypt our files?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Guys, $130,000 is the lowest. The wallet is above.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> ok. $130,000",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> What guarantees do we have for data decryption?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You will restore your systems in less than 24 hours. If you have any troubles or questions, we will be here to assist.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Would you be willing to decrypt some of the files you left here?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> akira_files.zip // 820 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Decrypted.7z // 147 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Do you want to see files from the list for proof?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Provide names of files you want us to show you. Do it today.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> files_show.txt // 360 Bytes",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We sent some documents.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> During the attack, the NAS firmware was damaged. Will this be replaced as well?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Files.rar // 469 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Are you ready to proceed with payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Two NAS were encrypted and another was deleted (only backups were inside).",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> In addition to servers, will NAS be decrypted as well?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Yes, the NAS will be decrypted. Ready to pay?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Give us a few more days.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> What's your progress?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Waiting for trading approval to purchase BTC at the agreed amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> After payment, how will everything happen next?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We will give you our decryption tool and instructions how to use it.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Today's date $130,000 is 1.12 BTC. This is the amount we will transfer.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> How soon are you going to make payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Today we will give a transfer order.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Keep us posted.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The amount we are transferring is under validation because it is a considerable amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> The chain we will use will be BTC.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Are you going to pay today?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are still pending validation from Binance.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Too long guys.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are working hard to make the payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We want to fulfill our agreement.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Speed things up.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> When transferring 1.12 BTC to your wallet, you'll be asked for destination information, including your name and country. What do we write?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can write whatever you want. Waiting for payment.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We're now sending a small amount for testing. Can you confirm?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We await your confirmation to transfer the remaining amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 0.0005 BTC received. You can proceed with the rest amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We're having trouble making the transfer because it's a large amount.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We're working hard on alternatives.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Keep us posted.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Any suggestions?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can find a broker to help you make the transaction. But you have to be quick as we are not going to wait long.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We'll send you the bitcoins. Send us the encryption key right away.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.7z // 2.1 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> unlocker.exe -p=\"path_to_unlock\"\nunlocker.exe -s=\"C:\\paths.txt\"\nwhere \"paths.txt\" is a list of paths for the decryptor, each path on a new line\nESXi commands\n1) chmod +x unlocker\n2) ./unlocker -p=\"/vmfs/volumes\"",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I need to change the ex_ to exe ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Correct.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> And that QNAP nas with backups and one shared folder ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> What do you mean?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We have one qnap that is asking for initialization, we need the data that was on that QNAP",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Do we have any solution for this ?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please wait.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> That QNAP has been reset. Unfortunately, we can't help you with it.",
+            "timestamp": ""
+        }
+    ]
+}

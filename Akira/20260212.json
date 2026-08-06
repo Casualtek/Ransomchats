@@ -1,0 +1,135 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> I found this note on my server. Can you help?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached an Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. We will reach out to you soon.  Do you have a permission to conduct a negotiation on behalf of your organization? Once we get a response you will be provided with all the details.   ATTENTION! Strictly prohibited: - Deleting files with .arika extension; - Replacing or renaming .arika and .akira files; - Using third party software to recover your systems. If you violate these rules, we cannot guarantee a successful recovery.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, I've been authorized by my boss to communicate with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> List.7z // 239 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back. We're looking through your financial papers to come up with a reasonable demand to you. We offer: 1) full decryption assistance;\n2) evidence of data removal and guarantees not to publish or sell your data;\n3) security report on vulnerabilities we found;\n4) guarantees not to attack you in the future. Let me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Can you please provide us with the following files: [redacted].docx [redacted].pdf [redacted].pdf",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> http://temp.sh/[redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Do you want to test our decryption tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, we'd like to test your tool. Allow us time to gather some impacted files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].pdf.akira // 1.19 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].doc.akira // 4.08 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].jpg.akira // 2.73 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].jpg.akira // 1.94 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> [redacted].jpg.akira // 997 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Decrypted.7z // 10.5 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. We will let you know the price soon.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you. What\u2019s next?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're willing to set a $400,000 price for ALL the services we offer. We accept payments in BTC. To gain bitcoins you need to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I\u2019ll take this message to upper management, allow them time to discuss.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for your decision regarding payment within 24 hours.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Management is still talking it over. This is a lot of money and we don\u2019t have that amount of resourcing. They are asking if you are willing to work with us?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are working with you. You do have what we are asking for. Your net income last year was above $2,000,000. Let's end this without complications.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> That is without employee salaries, operating expenses, etc. so that number isn\u2019t a true representation of our actual profit. A slight discount would go a long way for us, everyday that we are down due to the impact on our systems is losing us money.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $350,000 and we have a deal. Here is our BTC wallet ID for payment: [redacted]",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You have 24 hours to give us your decision regarding this deal. If you stay silent, we will announce the breach on our blog.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> The data of your company and your employees is now freely available. https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion We can delete them, but you have to agree to our terms and conditions.",
+            "timestamp": ""
+        }
+    ]
+}

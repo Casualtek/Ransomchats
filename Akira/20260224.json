@@ -1,0 +1,255 @@
+{
+    "chat_id": "",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "> We found your note directing us to come here. What do we do next?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. You've reached Akira support chat. Currently, we are preparing the list of data we took from your network. For now you have to know that dealing with us is the best possible way to settle this quick and cheap. Keep in touch and be patient with us. Do you have a permission to conduct a negotiation on behalf of your organization? Once we get your reply you will be provided with all the details.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, I am authorized to speak with you.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted]_list.zip // 1010 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> These files were taken from your network prior to encryption. You can pick 2-3 random files up to 10 MB each from the list and we will upload them to this chat as a proof of possession. To prove that we can properly decrypt your data you can upload 2-3 encrypted files up to 10 MB each to our chat and we will upload decrypted copies back.\n\nWe're looking through your financial papers to come up with a reasonable demand to you. We offer: \n\n1) full decryption assistance;\n2) evidence of data removal and guarantees not to publish or sell your data;\n3) security report on vulnerabilities we found;\n4) guarantees not to attack you in the future.\n\nLet me know whether you're interested in a whole deal or in parts. This will affect the final price.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for this list, when our bosses return from the weekend, it will be reviewed. How much data is in this list and does it show everything you have?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> 161GB in total. This is everything.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for being patient with us, while the list is being reviewed. I will take this additional information to my bosses.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Please, speed things up on your part.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We are working as quickly as we can, this being our first time going through this. Here are the file names: D:\\[redacted].jpg D:\\[redacted].pdf",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Files.rar // 163 KB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Do you want to test our decryption tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for the files, we would like to test your decryption tool. Here is a third file, as the third one I was given previously was to an empty directory. We will have the encrypted files to you by tomorrow. Here is that file name: D:\\[redacted].JPG",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> [redacted].tar.gz // 2.84 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can review.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We're willing to set a $5,000,000 price for ALL the services we offer. We accept payments in BTC. To gain bitcoins you need to go to any exchange platform as binance or coinbase. Here are the guides: https://www.coinbase.com/how-to-buy/bitcoin\nhttps://www.binance.com/en/how-to-buy/bitcoin You also can buy bitcoin from any local brokers. If you withdraw funds from your bank account, then you have to inform the bank that you need this money for investment purposes only. If you want to come to an agreement with us without complications, provide encrypted files not later than tomorrow.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We appreciate this third file, I will take it for the leaders to review. Here are the files to test: http://temp.sh/[redacted]/Encrypted_files.zip",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Decrypted.7z // 1.56 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Here are the files. Are you ready to proceed with payment?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for these files, I will take them to our leadership for review. Some have taken an early weekend and may not be available. I will have an update for you when they get together after the weekend.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We are waiting for your decision regarding payment on Monday morning.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Hello. What have you decided?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Hello. It is still early here and not everyone has returned to the office. I have been asked to inquire, before they meet, if there is any kind of discount, as the amount you are asking is very high.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You have 5M coverage. No, there isn't any kind of discount at the moment. If you're able to pay within 36 hours, we will accept $4,500,000.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> I will take that back to my bosses. Can you reconfirm what the price gives us, so that I can verify it for the board, please.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $4,500,000 and we have a deal here.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> We understand the price, the boards question is what services would we receive if payment is made?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You will get all the services listed in one of our messages above.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Do you want to test our decryption tool?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Yes, we would, here are the files.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Enc File Samples.zip // 1.57 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> decrypted.7z // 1.56 MB",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can review the files. Ready to move on to payment? After payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. You will be able to restore your infrastructure within 24 hours. If you face any problems during decryption process, we will be here to support.\nYou will receive a deletion log which means the raid drives that contained the only copy of your data are fully formatted and erased. \nYou will receive a security report that includes information about how we were able to penetrate your network, as well as exclusive first-hand information about the state of your network, the vulnerabilities that we found. What's more, you'll receive high-quality technical recommendations on eliminating any vulnerabilities and strengthening your network to secure your internal and external infrastructure. \nYou will also receive written guarantees that we will not sell or publish your data, keep this conversation private, and delete this chat later. We won't come back for more money after payment and we won't attack you again.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you for this information. It will help the decision makers when they meet early next week. Not all are available until then and we will have an update at that time.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> We need your decision on Monday. $4,500,000 is still valid.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> What have you decided?",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> N: The board agrees that the files are correct and as expected. But they are still debating about the decryption tool. Can you explain how it works, such as how fast it will restore our systems? Does it work using a multiple thread or a single thread when it runs?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> After payment you will receive a decryptor for each of your systems and manual on how to use it for particular file/system. Yes, it works using multiple thread. You will be able to restore your infrastructure in less than 24 hours. If you face any problems during decryption process, we will be here to support.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> What's your decision?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You have 24 hours to give us your decision regarding this deal. If you continue to drag this out, we will announce the incident on our blog without warning. If you want to avoid this, you must work quickly and inform us DAILY.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> N: We appreciate your patience, and I will take this to the board directly. We will have an update no later than this time tomorrow.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Waiting.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> Thank you. The board has met and feels the price you ask is still very high. They have asked what the price would be without the decryption tool.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> If you don't need our tool, we can accept $1,200,000 for options 2-4. Let us know asap.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> N: We appreciate that, I will take it to the board. If we just wanted the data deleted and proof of that, no mention of the incident or sharing our data, and a promise not to attack again, would that lower it further?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> $1,150,000 for what you have listed.",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "> N: I will take this to the board, but with the long weekend from the holiday, it may take a bit of time. Some are gone until next week, but I will work to contact them all. As soon as I have an update, I will contact you, though it may take until early next week. Thank you for being patient with us, not having gone through this before.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Next week we are closing the case whatever the outcome. You've had enough time. We hope close this peacefully.",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> Are you going to work with us?",
+            "timestamp": ""
+        },
+        {
+            "party": "Akira",
+            "content": "> You can find your company name in our news column: https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion If you want this post to be removed, we have to agree on something.",
+            "timestamp": ""
+        }
+    ]
+}
