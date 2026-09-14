@@ -3,13 +3,7 @@
     "messages": [
         {
             "party": "Settra",
-            "content": "Hi. You didn't end up here by accident.\n
-Your network infrastructure has been encrypted. We also downloaded data from your network and are currently analyzing it for an article to be published on our blog.\n
-As soon as the file list is ready, we will send it to you immediately for review.\n
-While negotiations are ongoing, only you can see the article. In case of prolonged silence, your company name and the article will be published on our blog. Files will be published automatically when the timer expires.\n
-Before sending your first message, make sure to review the FAQ.\n
-Return key:vsiqs8nza1jqm45q17q7goy4iq6bn6rb\n
-Without it, you will be unable to return to this chat.",
+            "content": "Hi. You didn't end up here by accident.\nYour network infrastructure has been encrypted. We also downloaded data from your network and are currently analyzing it for an article to be published on our blog.\nAs soon as the file list is ready, we will send it to you immediately for review.\nWhile negotiations are ongoing, only you can see the article. In case of prolonged silence, your company name and the article will be published on our blog. Files will be published automatically when the timer expires.\nBefore sending your first message, make sure to review the FAQ.\nReturn key:[redacted]\nWithout it, you will be unable to return to this chat.",
             "timestamp": "04:02"
         },
         {
@@ -39,12 +33,7 @@ Without it, you will be unable to return to this chat.",
         },
         {
             "party": "Settra",
-            "content": "\u20BF\n
-Payment Request\n
-Amount\n
-$900,000\n
-BTC Address\n
-[redacted]",
+            "content": "\u20BF\nPayment Request\nAmount\n$900,000\nBTC Address\n[redacted]",
             "timestamp": "22:11"
         },
         {
@@ -119,12 +108,7 @@ BTC Address\n
         },
         {
             "party": "Settra",
-            "content": "\u20BF\n
-Payment Request\n
-Amount\n
-$500,000\n
-BTC Address\n
-[redacted]",
+            "content": "\u20BF\nPayment Request\nAmount\n$500,000\nBTC Address\n[redacted]",
             "timestamp": "07:27"
         },
         {
