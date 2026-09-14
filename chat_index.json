@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-14T13:24:50.336833",
+  "last_updated": "2026-09-14T13:48:27.900401",
   "statistics": {
     "total_groups": 29,
     "total_chats": 261,
-    "total_messages": 12449
+    "total_messages": 12472
   },
   "groups": {
     "Akira": {
@@ -1704,12 +1704,12 @@
           "filename": "20260820 - from @RakeshKrish12.json",
           "chat_id": "20260820 - from @RakeshKrish12",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/settra/20260820 - from @RakeshKrish12.json",
-          "message_count": 0
+          "message_count": 23
         }
       ],
       "group_statistics": {
         "chat_count": 1,
-        "message_count": 0
+        "message_count": 23
       }
     },
     "trinity": {
