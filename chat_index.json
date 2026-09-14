@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-03T11:54:12.234238",
+  "last_updated": "2026-09-14T13:24:50.336833",
   "statistics": {
-    "total_groups": 28,
-    "total_chats": 260,
+    "total_groups": 29,
+    "total_chats": 261,
     "total_messages": 12449
   },
   "groups": {
@@ -1696,6 +1696,20 @@
       "group_statistics": {
         "chat_count": 1,
         "message_count": 3
+      }
+    },
+    "settra": {
+      "chats": [
+        {
+          "filename": "20260820 - from @RakeshKrish12.json",
+          "chat_id": "20260820 - from @RakeshKrish12",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/settra/20260820 - from @RakeshKrish12.json",
+          "message_count": 0
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 1,
+        "message_count": 0
       }
     },
     "trinity": {
