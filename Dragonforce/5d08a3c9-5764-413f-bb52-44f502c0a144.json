@@ -1,0 +1,76 @@
+{
+    "chat_id": "5d08a3c9-5764-413f-bb52-44f502c0a144",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2025-06-12T21:50:41.607231Z",
+            "content": "We got your note, what now?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-13T08:48:10.039264Z",
+            "content": "Hello",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T08:51:33.738682Z",
+            "content": "[attachment: keene_listing.txt (0 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T08:55:04.215198Z",
+            "content": "[attachment: keene_listing.7z (1099625 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T08:55:33.493156Z",
+            "content": "It is file listing that was taken from your system",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T08:56:12.033669Z",
+            "content": "you can choose 3 random not important files from that listing and we send them to you as a proof",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T09:26:32.823783Z",
+            "content": "Price for you is $600 000. This price include: 1) full decryption assistance; 2) evidence of data removal; 3) security report on vulnerabilities we found; 4) guarantees not to publish or sell your data; 5) guarantees not to attack you in the future.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-13T09:48:38.059043Z",
+            "content": "The main rule of negotiations with us - the less time negotiations take - the more chances to agree on a discount. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-16T20:20:37.529578Z",
+            "content": "Ok, we're reviewing the list.   Can you provide us with the following files to show us you have the date:          08.13.2020 Minutes .pdf             CIty hall with sign.jpg         Ball Field Application PDF (Updated 2023).pdf              DailyWellReadingsMarch2017.xlsx                     Soccer Field Permit.docxm",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-06-16T22:17:03.482378Z",
+            "content": "[attachment: kenee_files.7z (517324 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-16T22:17:21.240063Z",
+            "content": "Here you go",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-18T12:43:04.142324Z",
+            "content": "Do you check files?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-19T16:35:38.853209Z",
+            "content": "We need update from you",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-06-24T21:33:37.793554Z",
+            "content": "We start upload your data to our blog",
+            "party": "DragonForce"
+        }
+    ]
+}

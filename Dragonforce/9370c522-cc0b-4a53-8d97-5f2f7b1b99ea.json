@@ -1,0 +1,401 @@
+{
+    "chat_id": "9370c522-cc0b-4a53-8d97-5f2f7b1b99ea",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2025-04-15T13:41:52.832606Z",
+            "content": "Hello, we are testing the new chat",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T13:42:04.797178Z",
+            "content": "Hello",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T13:42:08.911714Z",
+            "content": "We are here",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T13:42:56.223327Z",
+            "content": "Thank you, this is working. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T13:43:29.589295Z",
+            "content": "Can you please ensure the old chat is locked or wiped so there is no further communication there?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T13:45:58.286539Z",
+            "content": "We will communicate with you only in this chat",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T13:46:03.761844Z",
+            "content": "don't worry about that",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T13:50:01.288353Z",
+            "content": "You download file listing?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T13:50:19.68601Z",
+            "content": "Can resend it",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T16:24:02.79138Z",
+            "content": "Its ok we downloaded it",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T16:36:45.904787Z",
+            "content": "We are just starting to review now, I will be in touch",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T17:19:19.07317Z",
+            "content": "you can choose 3 random not important files from that listing and we send them to you as a proof",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T20:20:39.498897Z",
+            "content": "still review?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-15T20:23:36.749396Z",
+            "content": "Yes. It's a big list and we just got it. Please be patient while we review. Thank you",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-15T20:26:29.736131Z",
+            "content": "okay we are here waiting",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T18:21:32.580383Z",
+            "content": "can you please send these files",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T18:21:35.279833Z",
+            "content": "Lease_Checklist-_1997421609.docx",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T18:21:46.831456Z",
+            "content": "10 - Invoice_Details_0202309802248.pdf",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T18:21:56.887159Z",
+            "content": "Inventory Recon Apr06.xls",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T20:23:33.220182Z",
+            "content": "okay",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T20:23:38.767147Z",
+            "content": "please wait",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T21:03:00.831003Z",
+            "content": "[attachment: files.7z (0 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T21:03:20.398106Z",
+            "content": "[attachment: files.7z (2064764 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T21:05:12.829607Z",
+            "content": "Here you go",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T21:25:51.631249Z",
+            "content": "Thanks for sending over these files.  I’ll need to have my team review them and get back to you.  Since we lost some time getting set up in the new chat after the unauthorized access, is there any flexibility on the timer so we have a fair chance to finish our internal review?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T22:00:10.117558Z",
+            "content": "timer extend until Tuesday",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T22:01:55.759644Z",
+            "content": "Thank you, we'll be in touch after our review of the files you provided.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T22:04:10.979461Z",
+            "content": "Just let you know we need an offer from you at the end of the week",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T22:06:22.123334Z",
+            "content": "Also you can send 1 not important small file on test decrypt",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-16T22:10:00.6093Z",
+            "content": "Understood, we’ll review the files and provide a non-sensitive test file for decryption once we’ve coordinated with our team. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-16T22:10:29.763015Z",
+            "content": "Okay",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-17T20:53:12.898894Z",
+            "content": "Okay, I have two locked files. I have no idea what files they are, but are from a folder that shouldn't have anything important. How do I give these to you to prove to me that you can fix them?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-17T22:15:43.78941Z",
+            "content": "send it to this chat",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-17T22:20:17.339462Z",
+            "content": "you can upload files",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-17T23:12:17.929252Z",
+            "content": "[attachment: k447gvdczssqhdn42ivrkuoczprbvdnx.dragonforce_encrypted (224790 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-17T23:12:31.458891Z",
+            "content": "[attachment: klsr3sot6wf37mdte4tq6aotzlrqmoxv2ixg.dragonforce_encrypted (257422 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-18T08:09:40.345793Z",
+            "content": "[attachment: Asset Distribution.pdf (256888 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-18T08:09:48.199692Z",
+            "content": "[attachment: BS Consolidation.xls (224256 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-18T08:10:09.473497Z",
+            "content": "Here you go",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-18T19:25:20.200134Z",
+            "content": "You check files?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-18T19:53:33.465304Z",
+            "content": "Just got the files over to our team earlier today. With it being Friday afternoon and the Easter weekend coming up, a few key people are already offline. We likely won’t have full feedback until Monday. I’ll follow up as soon as we’ve got more to share. I really do appreciate your patience",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-18T20:15:41.280763Z",
+            "content": "Okay, we are here waiting",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T18:48:07.516628Z",
+            "content": "Are you able to explain why your price is so high? What exactly led you to think we could ever afford to pay this much? There must be a misunderstanding and I think it's important to clear it up so we can discuss this. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-21T18:57:12.856937Z",
+            "content": "We don't conclude the amount from our heads, we calculate your estimated recovery costs, your revenues, and the costs of not recovering your systems. The price of 2,500,000 is fair enough, but we are here to negotiate, so we are willing to consider your reasonable offers. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T19:06:12.648999Z",
+            "content": "We have several questions what we need answered to even be able to discuss that. We have a board meeting later this week for them to decide what to do. What exactly led you to decide on this price? I'm only trying to understand this from your perspective. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-21T19:14:08.619597Z",
+            "content": "We have a separate department of data analysis, from there we get the amount with which we start a dialog, that's all I can tell you at the moment. I would also like to draw your attention to the timer, if it runs out I will not be able to help you.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T19:17:14.242197Z",
+            "content": "we want to make a deal with you, and we give you a choice, to lose a lot by rejecting us, or to give a little and restore your work in the old way, preserving the important thing you have, namely your reputation.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T19:28:42.946867Z",
+            "content": "I understand. We're looking for the best possible outcome here and appreciate your willingness to help s achieve that. I can see a timer, but that's not enough time, as I'm sure you know. There's a board meeting at the end of the week and they will discuss this then. Give us time to meet and get back to you. In the meantime, I have some additional questions for you that will help the board decide when they meet.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-21T19:49:56.373903Z",
+            "content": "What questions?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T19:50:19.235947Z",
+            "content": "and you need time until friday?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T19:58:48.246997Z",
+            "content": "I have questions about trust and reliability. I'll ask those next. Yes, the board meeting is on Friday afternoon. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-21T20:00:10.461645Z",
+            "content": "timer extend until friday",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T20:23:14.501407Z",
+            "content": "How could someone in our position trust you? Can you share any facts or figures to support your reliability? ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-21T20:33:14.779309Z",
+            "content": "And what other choice do you have, we've already shown you A that we have files, B we've shown you that we can decrypt encrypted files. This already proves the fact that we can help you, and now the question for you is from a business point of view, does it make sense for us to deceive you in any form? This is a rhetorical question. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-21T20:36:53.710867Z",
+            "content": "Also we value our reputation and name",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-22T17:42:41.975202Z",
+            "content": "I understand your point, and I’m just trying to get a full understanding so I can present everything as accurate to leadership as I can. I know you’ve shown us that you have the data and can decrypt, that’s clear. But if you have any examples or data points around your reliability, that would really help support this internally.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-22T19:52:20.528165Z",
+            "content": "We are synonymous with the word reliability, otherwise you would have found negative reviews about us a long time ago, we have been in business for over 2 years and have helped over hundreds of companies to recovery their documents. You made the right choice that wrote to us and cooperate with us. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-22T19:54:41.954221Z",
+            "content": "Information about our reliability can be found in 2 places, A - google.com and B - at recovery companies that keep statistics (I strongly advise you not to spend money on them).",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-23T18:49:50.920469Z",
+            "content": "Thanks for your reply. I’ve shared your message with the team, and they’re continuing to review everything ahead of the board meeting. I’ll be back in touch once we’ve had more time to discuss things internally. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-23T19:13:20.444361Z",
+            "content": "board meeting will on Friday?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-23T19:52:49.315436Z",
+            "content": "Yes, that’s the plan. Everyone’s still preparing for it, and we’ll have a better idea of next steps once it wraps. I’ll be in touch after that",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-23T22:09:07.736932Z",
+            "content": "Okay, waiting",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-24T21:21:51.740547Z",
+            "content": "Wanted to touch base on our side. It seems we’re making progress with our internal discussions, but with tomorrow’s board meeting scheduled for the afternoon, it’s clear we won’t have a final decision until then. Given the timing, it looks like we might need a bit more time to make sure everything is aligned. Would it be possible to extend the timer until Monday? I’ll keep you updated as soon as we have more to share after the meeting, but I’m confident we can come to a resolution soon.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-24T21:25:49.467387Z",
+            "content": "timer extend until Monday",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-24T21:27:35.523236Z",
+            "content": "Thank you for extending the timer until Monday. I’ll keep you informed after we’ve had a chance to meet and review everything.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-24T21:28:23.387397Z",
+            "content": "Waiting good news tomorrow ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-24T21:38:47.506258Z",
+            "content": "Just a heads up, the timer is set to expire in the early hours of Monday morning, but as the team won't be online yet at that time, we'll need to ask for a brief extension until later in the day when we can resume discussions. I’ll update you as soon as everyone is available and we’re able to move forward.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-24T21:54:01.296898Z",
+            "content": "timer updated",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-24T21:55:09.523214Z",
+            "content": "Thank you",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-28T11:54:11.833523Z",
+            "content": "Any news?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-28T20:57:51.587979Z",
+            "content": "I understand this probably isn’t moving as fast as you were hoping and I'm sorry about that. After the board meeting, we've had to talk to our finance team, and there’s been some back-and-forth on their side, especially with the demand as high as it is. It's slowed things down more than we expected. We’re still moving forward, just at a slower pace than any of us would like. I’ll keep you updated as we work through it.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-28T21:44:17.520894Z",
+            "content": "How much time do you need?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-28T21:57:30.007367Z",
+            "content": "I understand you’re looking for a clearer timeline. Right now it’s hard to give an exact timeframe with the finance discussions still ongoing. We’re working to move things forward and I’ll keep you updated as we go.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-28T22:02:08.504524Z",
+            "content": "give us an offer from your side and maybe we can come to an agreement",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-28T22:10:37.684923Z",
+            "content": "I understand. The challenge is that we still don't have final internal approval to even discuss numbers yet, finance is still working through their review process. Once I have more direction, I’ll be able to update you.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2025-04-28T22:13:09.260156Z",
+            "content": "okay",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-04-29T21:15:36.20957Z",
+            "content": "Any news?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-05-01T18:28:17.054097Z",
+            "content": "Since you ignoring us we starting upload your data to our blog",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2025-05-01T18:28:37.561819Z",
+            "content": "no more time will be added",
+            "party": "DragonForce"
+        }
+    ]
+}

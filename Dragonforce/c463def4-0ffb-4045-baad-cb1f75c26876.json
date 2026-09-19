@@ -1,0 +1,81 @@
+{
+    "chat_id": "c463def4-0ffb-4045-baad-cb1f75c26876",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2026-02-22T15:23:14.846943Z",
+            "content": "We followed your note here. For steps 1 and 2, how do we get the list of files and how to do the test decrypt?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-22T15:28:34.730543Z",
+            "content": "Hello. Here is the list of files we have. You can upload 1–3 small files to the chat and we will perform a test decryption. These files should not contain any critically sensitive information.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-22T15:28:40.782469Z",
+            "content": "[attachment: tree.txt (49930 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-23T15:54:36.847291Z",
+            "content": "[attachment: 5svq3potzlrqmkf72ypr5soxevvfukf552v6faobeysrkkwi3mqx624g3kpn62wg2lpbgmxces7qkoxv2ixg.df_win (622709 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-23T15:54:59.118449Z",
+            "content": "[attachment: 4ivr6mxsoak35mxxzar3fdfj4y7qkuon2lqfginwc6vl6soiey7r3awgkivrks5j3vvnvkw73gsngo5wewpb6ddq2y7fmmn62p.df_win (76592 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-23T15:55:05.014469Z",
+            "content": "[attachment: 54vr7kfwzs735mxxzarfgo4gkivr7msg4ax32oxv2ixg.df_win (83330 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-23T15:55:11.848746Z",
+            "content": "Okay understood, let us look over the list and get back to you. While we review with the rest of leadership please test your tool on the files attached here.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-23T16:04:48.846853Z",
+            "content": "[attachment: Vacation Request - JS August 17-21 2020 approved.pdf (622172 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-23T16:05:03.936986Z",
+            "content": "[attachment: Larry_Personal_Medical Day Request Date_4 8 2020-Approved.pdf (76055 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-23T16:05:10.865855Z",
+            "content": "[attachment: Ray Anderson - Days Off.pdf (82793 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-23T16:07:15.74159Z",
+            "content": "Here are your files after decryption. I’m sure you’ve already checked the references. We’ve been working for a long time, and the process is fine tuned and reliable.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-24T02:48:30.378491Z",
+            "content": "This may be a fine tuned machine for you, but please understand our caution since this is the first time for us. We appreciate you sending these back and will need to meet internally to discuss before we get back to you.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-24T07:37:50.093989Z",
+            "content": "We understand your concerns. Rest assured, you won’t encounter any technical issues when decrypting the files. The encryption-decryption mechanism has been tested repeatedly, and currently there’s no way for any other company to decrypt the files we encrypted. We often hear similar promises, but they’re simply not possible. When the timer expires, we’ll permanently delete the decryption keys, making the files impossible to unlock - no matter the cost. We’re sharing this so you can make an informed decision.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-02-25T23:16:05.811134Z",
+            "content": "We're still reviewing the list you sent but should have the 3 files selected from it soon. We will let you know once we have them.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-02-25T23:19:29.339027Z",
+            "content": "We understand you. Remember that the files should be small in size, we will not return any large database in its entirety. And don't forget about the timer.",
+            "party": "DragonForce"
+        }
+    ]
+}

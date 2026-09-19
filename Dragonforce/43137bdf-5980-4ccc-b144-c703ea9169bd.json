@@ -1,0 +1,131 @@
+{
+    "chat_id": "43137bdf-5980-4ccc-b144-c703ea9169bd",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2026-03-08T22:58:32.958529Z",
+            "content": "Hello, we found your note directing us to come here. What happens next? ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-08T23:30:09.698702Z",
+            "content": "Hello. In the end, we want to get money from you. We’ve encrypted your files and also downloaded a large number of them to our own servers. We can give you a list of the files we took, along with 1‑3 small samples from that list. We can also decrypt 1‑3 small files that contain non‑critical information to demonstrate that we can recover all of your data. If you’d like, we can do all of that, or we can go straight to the payment request. You see a timer counting down the negotiation period. When it expires, if we don’t receive what we want, we will publish the stolen data publicly and delete the decryption tools, making any recovery of your data completely impossible.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-09T14:43:18.802727Z",
+            "content": "Thank you for this information, I will take it to our bosses. How much data do you have in your possession? We would like the list and will collect encrypted file samples to send to test your decryption tool. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-09T14:50:26.718898Z",
+            "content": "[attachment: tree.zip (927340 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-09T14:50:32.517973Z",
+            "content": "Here’s the list of files. We took the bulk of what you had.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-10T14:25:38.734263Z",
+            "content": "I will take this for review and to select random files from. How much data do you currently hold?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-10T14:32:21.176513Z",
+            "content": "We’ve given you the list of files we have. Your question doesn’t make sense, you can see the data volume on your own servers. If you really need a precise figure, I can tell you the exact size down to the byte.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-11T14:00:27.434849Z",
+            "content": "We appreciate the list, but it does not show the amount of data that it represents. We are currently working to collect 3 encrypted file samples and reviewing the list. We also do not currenlty know what your price is, as you said, your only goal is money. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-11T14:05:41.425065Z",
+            "content": "The files size we have is 78,964,466,780 bytes (about 73 GB). The amount we want is 3 BTC.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-12T13:18:24.531826Z",
+            "content": "Thank you, that will be taken to the bosses. Here are the files we are requesting from the listing: Advertising 2024   │   ── Golf Putting Green Signage.pdf       Newsletter   │├── April 26 [redacted] Newsletter.pdf       Articles   │ ── Press Releases 2001-02   │   │   ├── August 2001 Long Term Care Policies That Look Alike, Very Different When It's Time to Collect.doc ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-12T13:24:57.467836Z",
+            "content": "[attachment: Golf Putting Green Signage.pdf (336737 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-12T13:25:07.408769Z",
+            "content": "[attachment: April 26 [redacted] Newsletter.pdf (49151 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-12T13:25:13.021364Z",
+            "content": "[attachment: August 2001 Long Term Care Policies That Look Alike, Very Different When It's Time to Collect.doc (21504 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-12T13:25:17.656886Z",
+            "content": "Here are the files you requested. To verify that we can decrypt the files you have, just send them right here in this chat.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-13T14:34:13.331811Z",
+            "content": "We are working to collect those, but the technical team is missing a couple of members until early next week. We will have an update for you at that time. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-13T14:59:14.488027Z",
+            "content": "Don’t forget to watch the timer. Your time is limited.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-16T16:25:54.252516Z",
+            "content": "We understand your deadline and appreciate your patience. If any information is released though, it will make it harder for our leadership to continue working with you toward an agreeable resolution. We were able to collect the files over the weekend, they are located here: https://temp.sh/gynpb/Sample_files.zip",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-16T17:46:16.660635Z",
+            "content": "[attachment: NTUSER.DAT (786432 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-16T17:46:31.256108Z",
+            "content": "[attachment: Master 0322 2019.xlsx (31175 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-16T17:46:35.724111Z",
+            "content": "[attachment: Default.rdp (2240 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-16T17:46:43.228504Z",
+            "content": "We said 1-3 files, not 5. Follow the rules. Here are the three decrypted files from your archive.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-17T13:34:30.74217Z",
+            "content": "Thank you for these, they will be taken for review, and we will have an update for you soon.  ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-18T13:21:19.252613Z",
+            "content": "We’ve assessed the situation overall and concluded that you’re not interested in resolving this issue. You’re trying to keep it hidden for as long as possible. So, once you read this message, we’ll publish a blog post announcing the incident, with a countdown timer to the data release.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2026-03-18T16:15:39.403257Z",
+            "content": "We have completed validation of the data and confirmed your ability to decrypt. At this point, we are moving through the internal authorization process required before any payment can be approved.      This step involves multiple parties and cannot be expedited beyond certain requirements. We are prepared to reach an agreement with you once this process is completed.   Maintaining the current timeline is critical for us to proceed. Any early release of the information will disrupt this process and may impact our ability to finalize payment.      We expect to continue working within the agreed timeframe and will provide an update as soon as the current phase is complete. ",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2026-03-18T16:27:23.524576Z",
+            "content": "We don't make promises we can't keep. We've now published a blog post with a timer. If you're genuinely interested in solving the problem, you won't let data be published no matter what. If you were interested in maximum incident concealment and delaying consequences by other means, you didn't succeed. What to do next is up to you. Understanding the full depth of consequences for organizations in your industry from such incidents, posts like this on our blog help other companies that encounter us not try to play games.",
+            "party": "DragonForce"
+        }
+    ]
+}

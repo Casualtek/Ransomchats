@@ -1,0 +1,61 @@
+{
+    "chat_id": "61f8563d-b42b-4b79-b12c-e4d4ad39b33a",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2024-10-16T13:00:57.286753Z",
+            "content": "Hi, we found your note. Can you send the list of files to us?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-10-16T13:52:57.783213Z",
+            "content": "yes. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-10-16T14:04:00.252545Z",
+            "content": "[attachment: accuracyinternational_tree.7z (1338668 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-10-22T08:12:06.371013Z",
+            "content": "It's been a week since the file list was sent to you, and there is a week left until the timer expires and all data will be published. Will the announcement of the data leak help you negotiate faster?",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-16T16:12:48.223422Z",
+            "content": "Hello, I want try decryption.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-16T16:13:43.446398Z",
+            "content": "I previously contacted a data recovery company, but they deceived me.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-16T16:15:13.413055Z",
+            "content": "Has the decryption tool been deleted?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-16T16:17:26.662582Z",
+            "content": "After the timer expires, we remove the decryption tool",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-16T16:18:18.360108Z",
+            "content": "Is there no other way?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-12-16T16:20:11.631043Z",
+            "content": "You had time to solve the problem. You have chosen your path. Now you can download the documents you need from our website in the public domain.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-16T16:29:19.194004Z",
+            "content": "ok..",
+            "party": "Victim"
+        }
+    ]
+}
