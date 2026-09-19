@@ -1,0 +1,41 @@
+{
+    "chat_id": "ALP-001",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "party": "Victim",
+            "content": "We have verified that these documents are associated with [Redacted]. Please let us know your demands.",
+            "timestamp": ""
+        },
+        {
+            "party": "ALP-001",
+            "content": "Our demand is 100,000$",
+            "timestamp": ""
+        },
+        {
+            "party": "ALP-001",
+            "content": "[redacted] Server 3 tree.txt",
+            "timestamp": ""
+        },
+        {
+            "party": "ALP-001",
+            "content": "If u think it a big amount for corp that have 13 billion revenue\nWe are ready to post this server as samples files only",
+            "timestamp": ""
+        },
+        {
+            "party": "ALP-001",
+            "content": "So?\nWe are waiting for your response",
+            "timestamp": ""
+        },
+        {
+            "party": "Victim",
+            "content": "Please give us a moment; we are discussing this internally.",
+            "timestamp": ""
+        },
+        {
+            "party": "ALP-001",
+            "content": "Okay",
+            "timestamp": ""
+        }
+    ]
+}
