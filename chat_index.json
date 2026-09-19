@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-19T13:32:01.589437",
+  "last_updated": "2026-09-19T17:25:28.760348",
   "statistics": {
-    "total_groups": 30,
-    "total_chats": 263,
-    "total_messages": 12488
+    "total_groups": 31,
+    "total_chats": 265,
+    "total_messages": 12529
   },
   "groups": {
     "Akira": {
@@ -1702,6 +1702,26 @@
       "group_statistics": {
         "chat_count": 1,
         "message_count": 60
+      }
+    },
+    "nova": {
+      "chats": [
+        {
+          "filename": "Q1lNQSBTWVNURU1TQG5vdmE.json",
+          "chat_id": "Q1lNQSBTWVNURU1TQG5vdmE",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/nova/Q1lNQSBTWVNURU1TQG5vdmE.json",
+          "message_count": 10
+        },
+        {
+          "filename": "QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ.json",
+          "chat_id": "QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/nova/QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ.json",
+          "message_count": 31
+        }
+      ],
+      "group_statistics": {
+        "chat_count": 2,
+        "message_count": 41
       }
     },
     "orova": {
