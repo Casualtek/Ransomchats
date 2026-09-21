@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-19T17:25:28.760348",
+  "last_updated": "2026-09-21T17:07:52.617274",
   "statistics": {
     "total_groups": 31,
-    "total_chats": 265,
-    "total_messages": 12529
+    "total_chats": 276,
+    "total_messages": 12889
   },
   "groups": {
     "Akira": {
@@ -899,10 +899,46 @@
           "message_count": 29
         },
         {
+          "filename": "1e4a1771-ca8e-498c-a961-6e20180c091d.json",
+          "chat_id": "1e4a1771-ca8e-498c-a961-6e20180c091d",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/1e4a1771-ca8e-498c-a961-6e20180c091d.json",
+          "message_count": 55
+        },
+        {
           "filename": "29BBE03074FDBB8D.json",
           "chat_id": "29BBE03074FDBB8D",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/29BBE03074FDBB8D.json",
           "message_count": 10
+        },
+        {
+          "filename": "37f2506e-c73b-45df-a5d9-fcd09873cf4b.json",
+          "chat_id": "37f2506e-c73b-45df-a5d9-fcd09873cf4b",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/37f2506e-c73b-45df-a5d9-fcd09873cf4b.json",
+          "message_count": 91
+        },
+        {
+          "filename": "43137bdf-5980-4ccc-b144-c703ea9169bd.json",
+          "chat_id": "43137bdf-5980-4ccc-b144-c703ea9169bd",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/43137bdf-5980-4ccc-b144-c703ea9169bd.json",
+          "message_count": 25
+        },
+        {
+          "filename": "47862256EB69DC71.json",
+          "chat_id": "47862256EB69DC71",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/47862256EB69DC71.json",
+          "message_count": 10
+        },
+        {
+          "filename": "5d08a3c9-5764-413f-bb52-44f502c0a144.json",
+          "chat_id": "5d08a3c9-5764-413f-bb52-44f502c0a144",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/5d08a3c9-5764-413f-bb52-44f502c0a144.json",
+          "message_count": 14
+        },
+        {
+          "filename": "61f8563d-b42b-4b79-b12c-e4d4ad39b33a.json",
+          "chat_id": "61f8563d-b42b-4b79-b12c-e4d4ad39b33a",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/61f8563d-b42b-4b79-b12c-e4d4ad39b33a.json",
+          "message_count": 11
         },
         {
           "filename": "7A313D13EB6B4E58.json",
@@ -915,6 +951,12 @@
           "chat_id": "89716D29D2CEE36F",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/89716D29D2CEE36F.json",
           "message_count": 23
+        },
+        {
+          "filename": "9370c522-cc0b-4a53-8d97-5f2f7b1b99ea.json",
+          "chat_id": "9370c522-cc0b-4a53-8d97-5f2f7b1b99ea",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/9370c522-cc0b-4a53-8d97-5f2f7b1b99ea.json",
+          "message_count": 79
         },
         {
           "filename": "AB0404E049514B50.json",
@@ -959,21 +1001,45 @@
           "message_count": 14
         },
         {
+          "filename": "EBC73E7776180E1F.json",
+          "chat_id": "EBC73E7776180E1F",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/EBC73E7776180E1F.json",
+          "message_count": 23
+        },
+        {
           "filename": "FDA8141B6DD392E3.json",
           "chat_id": "FDA8141B6DD392E3",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/FDA8141B6DD392E3.json",
           "message_count": 10
         },
         {
+          "filename": "b15ffbab-08b6-41cd-bb4e-1237a8204c7b.json",
+          "chat_id": "b15ffbab-08b6-41cd-bb4e-1237a8204c7b",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/b15ffbab-08b6-41cd-bb4e-1237a8204c7b.json",
+          "message_count": 1
+        },
+        {
           "filename": "b8e14e1a-548f-4eec-bd6e-a590126e57c9.json",
           "chat_id": "b8e14e1a-548f-4eec-bd6e-a590126e57c9",
           "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/b8e14e1a-548f-4eec-bd6e-a590126e57c9.json",
           "message_count": 14
+        },
+        {
+          "filename": "c463def4-0ffb-4045-baad-cb1f75c26876.json",
+          "chat_id": "c463def4-0ffb-4045-baad-cb1f75c26876",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/c463def4-0ffb-4045-baad-cb1f75c26876.json",
+          "message_count": 15
+        },
+        {
+          "filename": "d1c44cb7-efca-44ae-8d00-0fe4f0c590bd.json",
+          "chat_id": "d1c44cb7-efca-44ae-8d00-0fe4f0c590bd",
+          "raw_url": "https://raw.githubusercontent.com/Casualtek/Ransomchats/main/Dragonforce/d1c44cb7-efca-44ae-8d00-0fe4f0c590bd.json",
+          "message_count": 36
         }
       ],
       "group_statistics": {
-        "chat_count": 14,
-        "message_count": 375
+        "chat_count": 25,
+        "message_count": 735
       }
     },
     "Hive": {
