@@ -1,0 +1,186 @@
+{
+    "chat_id": "d1c44cb7-efca-44ae-8d00-0fe4f0c590bd",
+    "from": "Ransomware.live",
+    "messages": [
+        {
+            "timestamp": "2024-11-13T14:01:37.165091Z",
+            "content": "I can't tell what the files are and I decrypted a tmp file. I can't verify the decryptor worked on a temp file",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-13T14:14:40.297382Z",
+            "content": "I figured out what kind of file it was",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-13T14:17:09.698764Z",
+            "content": "What is the amount expected to pay?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-13T14:40:04.607786Z",
+            "content": "23 BTC?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-13T14:40:05.862227Z",
+            "content": "Hello. You've been attacked by DragonForce as you can see. We've researched information about your company and decided to set a price of $4,000,000. Otherwise your data will be published in our blog.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-13T14:40:40.423563Z",
+            "content": "We are a small company, $4 million would bankrupt us",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-14T10:43:41.085841Z",
+            "content": "We don't think so. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-14T10:43:56.150011Z",
+            "content": "[attachment: list.zip (1176161 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-14T10:44:56.810606Z",
+            "content": "There's a list of what we have. You can choose 2-3 files and we'll send it as a proof.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-15T23:09:54.037625Z",
+            "content": "Also please note, that your decryption key will be automatically deleted in 11 days and 14 hours, so don't waste your time.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-16T18:40:09.655957Z",
+            "content": "Can you send these three files?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-16T18:40:12.464663Z",
+            "content": "FEB2022 | | | | JIT'd2-17-2022.pdf  +---PC fixes | | | HP Elitebook USB problems.docx  Parts put in inspection.xlsx",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-16T18:50:23.969034Z",
+            "content": "Sure.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-16T22:53:20.093131Z",
+            "content": "[attachment: finntest.zip (1102811 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-19T16:27:31.247521Z",
+            "content": "Thank You. Your note says you will decrypt some files to confirm your decryptor works. Can you decrypt these files?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T16:27:53.180291Z",
+            "content": "[attachment: kiwn3z473ppx3o4q32pn3o4tk2p6fo4skyftko4rb6p6227l3tm63zfl3krbvdo2.dragonforce_encrypted (72750 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T16:28:09.21876Z",
+            "content": "[attachment: k6mn62wxkvst6o4t3ksnko4tb6dt2o5f3wwneo563tpt22unk2dxvz73ktrl2x5752.dragonforce_encrypted (0 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T16:28:35.816055Z",
+            "content": "[attachment: k6mn62wxkvst6o4t3ksnko4tb6dt2o5f3wwneo563tpt22unk2dxvz73ktrl2x5752.dragonforce_encrypted (98838 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T16:28:55.589657Z",
+            "content": "[attachment: k6mn62wxkvst6o4t3ksnko4tb6dt2o5f3wwneo563tpt22unk2dxvz73ktrb2doncg.dragonforce_encrypted (66070 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T16:29:14.202802Z",
+            "content": "[attachment: b6sn6e5w3ks6fo533kpneo4tktpx6o5w3kux5o4pk4wtkzu63sf652uwk2rbvdo2.dragonforce_encrypted (77842 bytes)]",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T17:12:06.066056Z",
+            "content": "[attachment: testdec.zip (54331 bytes)]",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-19T19:13:26.683737Z",
+            "content": "We would like to come to an agreement with you but there is no way we will be able to come up with the large amount you are asking. Please understand that we have lost a lot of money due to your attack. What discount can you provide us so that we can come to an agreement with you and put this matter behind us?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-19T19:36:25.281237Z",
+            "content": "If you pay quickly, we can provide a 10% discount.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-21T13:58:54.071465Z",
+            "content": "We need an update.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-21T18:00:24.51357Z",
+            "content": "Finn Corporation is a small rust-belt manufacturer that has been hard hit with recent inflation and increased manufacturing costs. We were struggling financially before your attack, and losing access to our computer systems has put us into a crisis. We have very limited access to cash, and our bank has backed away from our company due to this incident. We can offer you $25,000 for your encryption tool, and hope that we can come to an agreement, so that our company can continue to stay in business.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-22T00:37:55.499815Z",
+            "content": "No way. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-22T00:44:08.352771Z",
+            "content": "We won't respond again until we see a 7-digit offer. ",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-24T20:14:00.961417Z",
+            "content": "Our company does not have the resources to make a seven digit payment. This attack has caused significant hardship to us.  Please reconsider your position. This company employs 58 people, and these jobs will be lost if we cannot recover our operations. Hardship will fall upon them, and their families and children. We do not want these innocent people to suffer, and we hope you feel the same way.  We are actively reaching out to our friends and family this weekend to try to raise additional funds. If we can get to a $125,000 payment, could we resolve this very difficult situation?",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-25T15:30:18.396299Z",
+            "content": "Stop lying, it's not that bad. We can solve it, but not for $125,000.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-25T23:13:39.128573Z",
+            "content": "We have been able to raise $187 Thousand over the weekend, and have this amount available to pay now. Please let us know if we can pay this amount for your decryption tool to put this matter behind us before the Thanksgiving holiday.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-26T03:13:01.132162Z",
+            "content": "We have added 2 more days for you. We're waiting for good offer.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-27T18:44:59.88421Z",
+            "content": "Our ability to pay is limited, and we have already raised as much as we can from our friends, family, and employees. Our collection efforts are now at $204,000, and we can pay you this now for the decryption tool. We do not see a way to get a higher number. If we cannot restore our business we will have to shut down, and we will return the funds we have raised to pay you. Surely, even from your perspective, getting this amount is better than putting us in a position where we can pay you nothing at all.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-27T19:27:12.814672Z",
+            "content": "Thanks, but no. You have around 2 days to collect money.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-11-28T18:48:52.733398Z",
+            "content": "The banks are closed for the holiday weekend in the US. If you want to work with us to make a deal, we will need more time until Wednesday next week.",
+            "party": "Victim"
+        },
+        {
+            "timestamp": "2024-11-28T19:54:24.40563Z",
+            "content": "Okey, timer was updated.",
+            "party": "DragonForce"
+        },
+        {
+            "timestamp": "2024-12-05T18:08:19.882428Z",
+            "content": "Guys, today is the last day, we will publish your blog tomorrow.  What you got after weekend?",
+            "party": "DragonForce"
+        }
+    ]
+}
